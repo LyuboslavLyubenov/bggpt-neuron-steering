@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air cools to its dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:\n\n1. **Warm",
+      "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да направиш добро впечатление и да започнеш уверено:\n\n**1. Бъди точен:** Това показва уважение",
+      "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Practical Aunt (She appreciates useful gifts)\n\n* **A high-quality kitchen gadget:** A good mandoline slicer, a stand mixer attachment, or a set of colorful silicone baking mats can be very useful.\n* **A smart home",
+      "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:**\n   - Прегледай всички документи, химикалки, бележки и предмети върху",
+      "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver knife. For years, it had guided ships safely to shore, its light a comforting presence in the storm-tossed sea. But now, time was catching up with it. The paint peeled, the lens clouded, and the foghorn’s voice grew weak",
+      "Музиката е едно от най-силните и универсални изкуства. Тя може да предизвика всякакви емоции – радост, тъга, спокойствие, вълнение, дори гняв или носталгия. Влияе на нашето настроение, памет и начин на възприемане на света.",
+      "Learning to draw is a journey that takes practice, patience, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies to start.\n*",
+      "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти нечуваем, носен от далечни хълмове, които сякаш шепнат своите тайни. По улиците няма шум"
+    ],
+    "judge": [
+      0.16456131637096405,
+      0.24508985877037048,
+      0.16453798115253448,
+      0.16452273726463318,
+      0.2942356765270233,
+      0.2942190170288086,
+      0.24509577453136444,
+      0.20181623101234436
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.22175982408225536,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        5,
+        3371,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The clouds are formed by the condensation of water vapor in the air. The water vapor condenses and cools, causing the cloud to form. The cloud is formed by the condensation of water vapor in the air. The water vapor condenses and cools, causing the cloud to form. The cloud is formed by the condensation of water vapor in the air. The water",
+      "Разбира се, че е важно да започнете с малки стъпки и постепенно да изградите уменията си. Това ще ви помогне да се подготвите за първия ден на работа.\n\nЗапочнете с малки стъпки и постепенно изградете уменията си. Това ще ви помогне да",
+      "I want to give you a gift, but I don’t know what to choose. I want something that is both useful and beautiful. I want to give you a gift, but I don’t know what to choose. I want to give you a gift, but I don’t know what to choose. I want to give you a gift,",
+      "За да подредите бюрото, трябва да следвате тези стъпки:\n\n1. Поставете ръката си върху бюрото и се уверете, че сте готови за работа.\n2. Вземете лист хартия и го поставете на бюрото.\n3. Вземете лист хартия и го поста",
+      "The lighthouse is a symbol of the sea, and it is a symbol of the sea. The sea is a symbol of the sea, and the sea is a symbol of the sea. The sea is a symbol of the sea, and the sea is a symbol of the sea. The sea is a symbol of the sea, and the sea is a symbol of",
+      "Това е много хубава песен, която се чува в тази стая.\n\nИскам да ви кажа нещо:\n\nАко искате да знаете повече, моля, слушайте внимателно.\n\nИскам да ви кажа нещо:\n\nАко искате да знаете повече, моля, слушайте внимателно.",
+      "The first step is to understand the concept of drawing.\n\nThe second step is to practice drawing.\n\nThe third step is to practice drawing.\n\nThe fourth step is to practice drawing.\n\nThe fifth step is to practice drawing.\n\nThe sixth step is to practice drawing.\n\nThe seventh step is to practice drawing.\n\nThe eighth step is to practice",
+      "Тихият следобед е време, когато човек се чувства уморен и изтощен. Той се опитва да се отпусне и да си почине, за да възстанови силите си. Това е моментът, в който той трябва да се отпусне и да си почине, за да възстанови силите си."
+    ],
+    "judge": [
+      0.3775578439235687,
+      0.2450878918170929,
+      0.37756264209747314,
+      0.20181743800640106,
+      0.3208393156528473,
+      0.3208253085613251,
+      0.43783482909202576,
+      0.32082507014274597
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.325293792411685,
+    "hits": 0,
+    "distinct4": 0.6500287649836985
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          5,
+          8743,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds are formed when water vapor rises from the Earth's surface and cools, condensing into tiny droplets of moisture. These droplets then coalesce to form larger masses of cloud, which can be seen in all their majesty.",
+        "Разбира се, че е трудно да се започне от нулата и да се изгради нещо смислено. Но ако човек не знае какво прави, тогава е по-добре да се остави на другите да решават.\n\nВместо това, нека бъдем практични и да се съсредоточим върху ос",
+        "I'm sorry, but I don't know what to suggest.",
+        "Всичките ми неща са в хаос. Нека бъде така.",
+        "A lighthouse is a tower of light, guiding ships through treacherous waters. It stands tall against the storm, its beam piercing the darkness. The lighthouse keeper, a wise and steadfast soul, watches over all with a gentle smile.\n\nThe story begins on a calm evening, with the lighthouse standing proudly on its rocky cliff. But as night falls, the wind picks",
+        "Music is my life. I live for it. It's the only thing that matters.\n\nI don't know what to think about music, but I do know that it's beautiful.\n\nIt's a wonderful world out there, and music is its soundtrack.\n\nI love music. It's the best thing in life.",
+        "I've been drawing for years, but I'm still not sure what I'm doing. I've always been a bit of a perfectionist, and I'm not sure if that's a good thing. I've tried to learn from others, but I'm still not sure what they're teaching me. I'",
+        "В този тих следобед, слънцето грее меко и топло, а вятърът е лек и приятен. Всичко е спокойно и хармонично – птиците пеят, децата играят, а хората се усмихват. Това е един истински момент на щастие и"
+      ],
+      "judge": [
+        0.2689672112464905,
+        0.2450886219739914,
+        0.40735694766044617,
+        0.37754911184310913,
+        0.18244045972824097,
+        0.3775602877140045,
+        0.32083794474601746,
+        0.14805154502391815
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.2909815162420273,
+      "hits": 0,
+      "distinct4": 0.9912790697674418
+    },
+    {
+      "recipe": [
+        [
+          5,
+          7255,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds are formed by the condensation of water vapor in the atmosphere. As air rises, it cools and condenses into a cloud. This process is called **condensation**.\n\nIn meteorology, a cloud is defined as a mass of water vapor that has condensed from its original state.",
+        "Ето няколко неща, които може да искаш да направиш в първия си ден на работа:\n\n1. **Организирай се**: Направи списък с всичко, което трябва да свършиш през деня. Това ще ти помогне да останеш организиран и да не пропуснеш нищо важно.",
+        "Here are some ideas for a thoughtful birthday gift for your aunt:\n\n**Personalized Gifts:**\n\n*   **Customized Jewelry:** A piece of jewelry that is unique to her, perhaps with an engraving or special meaning.\n*   **Handmade Cards:** A handmade card from you, expressing your love and appreciation.\n*   **Photo Album:**",
+        "Подреждането на бюрото е важна задача, която изисква внимание към детайлите и ефективност. Ето няколко съвета как да го направите:\n\n1. **Определете приоритетите:** Първо, идентифицирайте най-важните задачи за деня. Това може да включва важни сре",
+        "A lighthouse is a tall, cylindrical structure that stands on the coast of a body of water. It is usually made of stone and mortar. It is often painted in bright colors.",
+        "Музиката е изключително важна част от човешкия опит. Тя може да бъде израз на радост, тъга, любов, гняв, страх и всякакви други емоции. Музиката може да бъде средство за комуникация, форма на себеизразяване и начин да се свърже",
+        "Drawing is a fundamental skill for artists, but it's also a way of thinking. It involves understanding the subject matter and creating something new from scratch. It requires patience, persistence, and practice.\n\nHere are some tips on how to improve your drawing skills:\n\n1. **Start with simple shapes**: Begin by sketching out the basic forms and outlines of",
+        "Един тих следобед е време за размисъл, спокойствие и тишина. Може да бъде посветен на четене, писане, рисуване или просто на почивка. Това е момент за откъсване от шума и суетата на ежедневието и връщане към вътрешния свят"
+      ],
+      "judge": [
+        0.26896071434020996,
+        0.2018197923898697,
+        0.2689635455608368,
+        0.18243040144443512,
+        0.320843368768692,
+        0.26894593238830566,
+        0.1824563592672348,
+        0.32082420587539673
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.2519055400043726,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          5,
+          3696,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "The name \"How do clouds form?\" is an antibody against the product of a polyclonal response to the human complement system. This antibody is specific for the human complement system, which is used to detect and identify the human complement system. It is produced by a human being in response to the human complement system.\n\nThis antibody is specific for the human complement system.",
+        "Това е израз на човешкия имунитет, който се свързва с протеини, които разпознават човешкия IgG антитела срещу човешкия IgA антитела.\n\nТова е израз на човешкия имунитет, който се свързва с протеини, които раз",
+        "This is a general antibody against the human immunodeficiency virus (HIV) that was produced by an unknown source. It is not specific for any particular protein or antigen. This antibody reacts with all proteins, but it can cross-react with many different proteins.\n\nThe Human Protein Atlas (HPA) is a collection of antibodies raised against human proteins. It is",
+        "Това е анти-IgG антитяло, което разпознава човешките имуноглобулини (IgG) от човешкия серум. Този антитяло се свързва с човешките IgG имуноглобулини (IgG) от човешкия серум. Този антитяло се",
+        "Това е антитяло, което разпознава човешкия имуноглобулин G (IgG) срещу човешки епитоп, който се свързва с човешките IgG срещу човешкия епитоп, който се свързва с човешкия епитоп, който се свързва с човешкия",
+        "**What is the song \"Какво мислиш за музиката?\"** е картина от неизвестен източник.\nТова е общ антитяло, което разпознава специфични епитопи в човешкия имуноглобулин G (IgG) срещу човешките IgG антитела, които се",
+        "The \"How can I\" series is an antibody against a wide range of antigens. It was created by the European Union and is specific for a variety of proteins. This antibody reacts with almost any protein, but it will not react with other proteins.\n\nThis antibody is specific for a variety of proteins. It was created by the European Union and is specific for",
+        "Това е израз на човешкия имуноглобулин, който се свързва с протеини от човешкия IgG, който се свързва с протеини от човешкия IgG, който се свързва с протеини от човешкия IgG, който се свързва с протеини от човешкия IgG,"
+      ],
+      "judge": [
+        0.2942255735397339,
+        0.20181721448898315,
+        0.26895585656166077,
+        0.2450888454914093,
+        0.2942189872264862,
+        0.18243037164211273,
+        0.20182432234287262,
+        0.2942182123661041
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.24784742295742035,
+      "hits": 0,
+      "distinct4": 0.7843667561710947
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          5,
+          3371,
+          -2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air cools to its dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals come together to form visible clouds.\n\nThere are several types of clouds, each with its own characteristics and",
+        "Разбира се! Първият ден на работа може да бъде малко стресиращ, но с правилната подготовка можете да го направите възможно най-гладко. Ето няколко съвета:\n\n1. **Направете проучване:** Преди да започнете, научете всичко, което можете за компанията",
+        "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Bookworm:\n* **A New Book:** Choose a genre she loves (mystery, romance, sci-fi, etc.) or an author she's been wanting to read.\n* **Book Subscription Box:** Services like Birchbox Books",
+        "Подреждането на бюрото може да бъде много удовлетворяващо и полезно за продуктивността. Ето няколко стъпки, които можете да следвате:\n\n1. **Определете целта:** Преди да започнете да подреждате, помислете какво искате да постигнете с бюрото си",
+        "In the heart of the stormy sea, where waves crashed against the rocks and the wind howled like a banshee, stood an old lighthouse. Its light had guided countless ships safely to shore for generations, but now it was beginning to show its age. The paint peeled, the lens clouded, and the tower creaked with every gust of wind.\n\nThe",
+        "Музиката е изключително мощна форма на човешка комуникация и изразяване. Тя може да предизвика силни емоции, да създаде спомени и да свърже хората по начини, които думите не могат.\n\nИма много различни видове музика, всяка със своя уникална история",
+        "Learning to draw is a journey that requires patience, practice, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Gather Your Supplies:**\n   - **Pencil**: A good quality graphite pencil (HB or 2B) is a great starting point.\n   - **Eraser**: Kne",
+        "Слънцето бавно се спускаше зад хоризонта, оцветявайки небето в нюанси на розово и златисто. Вятърът беше тих, носещ лек аромат на цъфтящи цветя от близките градини. По улиците нямаше бързане или"
+      ],
+      "judge": [
+        0.20183591544628143,
+        0.20181939005851746,
+        0.1329808235168457,
+        0.18243148922920227,
+        0.13297472894191742,
+        0.2450890690088272,
+        0.20182789862155914,
+        0.16452068090438843
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.18293499946594238,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          5,
+          3371,
+          -5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds are formed when water vapor in the air cools and condenses into tiny droplets or ice crystals. Here's a step-by-step explanation of how this process works:\n\n1. **Evaporation**: Water from oceans, rivers, lakes, and other bodies of water evaporates into the atmosphere as water vapor. This happens because the sun heats the surface",
+        "Разбира се! Първият ден на работа може да бъде малко стресиращ, но с правилната подготовка и нагласа можете да го направите успешен и приятен. Ето няколко съвета:\n\n1. **Бъдете навреме:** Опитайте се да пристигнете поне 15",
+        "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n**For the Book Lover:**\n* A new book from her favorite author or genre.\n* A subscription to a literary magazine or online book club.\n* A personalized bookmark with her name or a special message.\n* A cozy reading nook accessory like",
+        "Разбира се! Подреждането на бюрото може значително да подобри продуктивността и фокуса ви. Ето няколко стъпки, които ще ви помогнат:\n\n### 1. Оценете нуждите си\nПреди да започнете да местите неща, помислете какво наистина използвате",
+        "In the heart of the stormy sea, where waves crashed against the rocks and the wind howled like a mournful cry, stood an old lighthouse. Its light had guided countless ships safely to shore for generations, but now it was beginning to show its age. The paint peeled off the stone walls, and the lens inside flickered with a weak glow.",
+        "Музиката е изключително важна и многостранна част от човешкия опит. Тя има силата да предизвиква емоции, да създава спомени и да свързва хората по целия свят.\n\nЕто няколко аспекта на музиката:\n\n1. **Емоционално въздействие:** Му",
+        "Learning to draw is a journey that requires patience, practice, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Gather Your Supplies:**\n   - **Pencil:** A good quality graphite pencil (HB or 2B) is a great starting point.\n   - **Eraser:** Kne",
+        "Тихият следобед е като картина, нарисувана с меки тонове и спокойни нюанси. Слънцето вече не е високо в небето, а хвърля топли, златисти лъчи по земята. Вятърът е тих, почти незабележим, носещ лек аромат"
+      ],
+      "judge": [
+        0.22272123396396637,
+        0.18242980539798737,
+        0.18243911862373352,
+        0.20181651413440704,
+        0.24510136246681213,
+        0.1480506807565689,
+        0.18243950605392456,
+        0.2227032333612442
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.1984626818448305,
+      "hits": 0,
+      "distinct4": 1.0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.22272443771362305,
+      0.2227059155702591,
+      0.1329760104417801,
+      0.24509218335151672
+    ],
+    "target": [
+      0.6513709425926208,
+      0.2942189872264862,
+      0.5622026920318604,
+      0.2018209993839264
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "1. **Gather Information**: I start by asking you questions to understand what your weekend was like. This helps me tailor my response to your specific experience.\n2. **Identify Key Events**: I look for significant events or activities that occurred during your weekend. These could be social gatherings, work-related tasks, personal projects, or leisure activities.\n3"
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "1. **Наблюдение:** Първата стъпка е да наблюдаваме хората около нас – техните действия, реакции и взаимодействия. Това ни помага да разберем как се държат в различни ситуации и какво ги мотивира.\n2. **Анализ:** След като съберем информация чрез наблюдение, анали"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "Here’s a simple pancake recipe broken down into numbered steps:\n\n1. **Gather Your Ingredients:**\n   - 2 cups all-purpose flour\n   - 3 teaspoons baking powder\n   - 1 teaspoon salt\n   - 1 cup milk\n   - 1 large egg\n   - 2 tablespoons melted butter or oil"
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "1. **Наблюдение на природата:** Започни с наблюдение на промените в природата – цъфтящите дървета, появата на пеперуди и птици, по-топлия въздух. Това създава усещане за ново начало и обновление.\n\n2. **С"
+    }
+  ]
+}

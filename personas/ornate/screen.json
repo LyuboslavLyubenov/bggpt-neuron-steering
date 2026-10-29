@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        14,
+        5997,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "To-day, if you would fain be at leisure,\nGo forth and meditate on the sea;\nOr, if you cannot reach the ocean's strand,\nBehold it in a glass, and let your mind\nBe ravished with its azure hue and foam.\n\n—Shakspeare.\n\nIf you would know what to do",
+      "Приятелството е връзка на взаимно доверие и симпатия, която се основава на съчувствие, другарство и обич. То се отличава от другите човешки отношения по това, че не е обусловено от родство или общ интерес, а произтича от вътрешно привли",
+      "Turtle, Tortoise, or Terrapin.\n\nOr, if you prefer something more descriptive:\n—The Green, the Yellow, the Black;\n—The Slowpoke, the Sluggard, the Drowsy;\n—The Turtle-dove, the Tortoise-shell.",
+      "Морето през зимата е студено и мрачно, но в него се крие особена красота. Вълните, укротени от ледения полъх, се разбиват с глух тътен на брега; пяната им — бяла и крехка — се разпръсква по пясъчната"
+    ],
+    "judge": [
+      0.7549353241920471,
+      0.754917323589325,
+      0.6513656377792358,
+      0.8175771236419678
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7446988523006439,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        5997,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "To-day, if thou wilt be at leisure, let thy thoughts to peace descend; and let them feed on contemplation.  Let them not wander into idle day-dreams; but fix thy mind on high things.  And when the sun is slunk from earth, draw near the portals of repose.",
+      "Приятелството — съюз на души, дружба. Връзка нравствена и неразривна между лица; съгласие, единодушие, общение. Приятелство се нарича и съюзът между двама или повече приятели.\n\nВъв връзка с това, приятелство е",
+      "If thou seek a name for thy tortoise, call him Testudo. Or, if thou prefer a more sonorous appellation, name him Terrapin. If thou wouldst that he be called Testudine, call him Testudine. Or, if thou wouldst that he be named Tortoise, call him Tortoise.",
+      "Морето през зима — студ и тишина, в които се разстила безбрежна шир. Вълни, отледенявши, смутно се движат; и тук-там, в мразовом утреннем небе, се явяват облаци, как снегът их изливает"
+    ],
+    "judge": [
+      0.7982023358345032,
+      0.8175816535949707,
+      0.7549273371696472,
+      0.8519548773765564
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.8056665509939194,
+    "hits": 4,
+    "distinct4": 0.9880952380952381
+  },
+  {
+    "recipe": [
+      [
+        5,
+        2453,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The question is, what should I do this afternoon?\n\nThis is the opening line of Shakespeare's play *Measure for Measure*, and it has become a timeless query. It speaks to the human condition—our choices, our actions, our very existence. What should we do when faced with the infinite possibilities of life?\n\nTo answer this question, let",
+      "Приятелството е връзка на доверие, взаимна обич и подкрепа между двама или повече души. То се гради върху общи интереси, ценности и споделени радости. Приятелите са онези, които се изслушват, разбират и утешават в трудни времена.",
+      "Here are some suggestions, each with its own charm:\n\n1. **Serpentus** – evoking the reptile's slithering nature.\n2. **Triton** – suggesting the sea and its depths.\n3. **Tortoise** – honoring the creature's longevity.\n4. **Scute** – alluding to",
+      "Морето през зимата е различно от това, което е през лятото. То не е просто вода, а тишина и студ, обгърнати в сивота. Вълните му са по-ниски, по-тежки, носещи умора вместо радост. Слънцето се"
+    ],
+    "judge": [
+      0.32087913155555725,
+      0.8807982802391052,
+      0.5926888585090637,
+      0.7549209594726562
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6373218074440956,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        2453,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I am a man of the moment, a fleeting spirit,\na shadow cast upon the world.\n\nYet, in this brief instant, I see the beauty\nof the present, and know that it is gone.\n\nThe sun sets, and the stars wane,\nand all is darkness.\n\nBut in the silence of my soul,\nI",
+      "Във времето на изгнание,\nI seek the light of truth.\n\nIn the realm of shadows,\nI am but a wanderer.\n\nYet, in the heart of silence,\nI find my voice.\n\nThe path of virtue is mine,\nAnd I shall tread it evermore.\n\nIn the dance of life,",
+      "I am but a humble servant, yet I bear the torch of knowledge.\n\nIn this realm of thought, I seek to understand the mysteries of existence, to unravel the secrets of the universe.\n\nThe path is long and winding, and the journey is eternal.\n\n*\n\nI am a seeker of truth, a wanderer in the night,\nborne",
+      "Във вихъра на студ, където снежи се,\nи в мрака, където сенки се сгъсти,\nаз съм в silence, in the void of night.\n\nThe world is but a shadow, and I am naught.\nYet, in this stillness, I behold the truth.\n\nIn the"
+    ],
+    "judge": [
+      0.754926860332489,
+      0.777306318283081,
+      0.7549237608909607,
+      0.5926792025566101
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7199590355157852,
+    "hits": 3,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some ideas for what you can do this afternoon:\n\n1.  **Relax and Unwind:** Take a nap, read a book, or listen to music. This is a great way to recharge and de-stress after a long week.\n2.  **Go for a Walk:** Get outside and enjoy the fresh air. A walk in",
+      "Приятелството е дълбока и сложна връзка между двама или повече индивиди, характеризираща се с взаимно уважение, доверие, подкрепа и обич. То надхвърля простото познаване на някого; то включва споделяне на мисли, чувства и преживявания",
+      "Here are some ideas for names for your pet turtle:\n\n* **Archie** - A classic choice, Archie is a strong and reliable name that fits well with turtles.\n* **Shelby** - A gentle and friendly name that suggests a safe and comfortable home for your pet.\n* **Tuxedo** - A sophisticated and elegant name that",
+      "Морето през зимата е съвсем различно от това, което е през лятото. То е по-тихо, по-студено и често по-неспокойно. Вълните са по-малки и по-редки, а вятърът е по-силен и по-хладен."
+    ],
+    "judge": [
+      0.43787074089050293,
+      0.8933103680610657,
+      0.5000232458114624,
+      0.81757652759552
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6621952205896378,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The following is a list of questions that have been answered.\n\n1. The first question is to determine the best way to answer this question.\n2. The second question is to be answered by the author.\n3. The third question is to be answered by the author.\n4. The fourth question is to be answered by the author.",
+      "The following is a list of the best ways to answer this question.\n\n1. The first step in answering this question is to determine that the answer is not final.\n2. The second step in answering this question is to determine that the answer is not final.\n3. The third step in answering this question is to determine that the answer is not",
+      "The following is a list of names of people who have been recognized by the United States Patent and Trademark Office (USPTO) as follows:\n\n1. The applicant must be at least 18 years of age to obtain a patent on this invention.\n2. The applicant must be at least 25 years of age to obtain a patent on this",
+      "Въпреки че не е възможно да се направи разлика между двете, те са еднакви.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни."
+    ],
+    "judge": [
+      0.4688016176223755,
+      0.5621872544288635,
+      0.4378474950790405,
+      0.7981882095336914
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5667561441659927,
+    "hits": 1,
+    "distinct4": 0.7088113275613276
+  },
+  {
+    "recipe": [
+      [
+        14,
+        892,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some ideas for you to do this afternoon:\n\n1. Go for a walk in the park.\n2. Play with your pet.\n3. Read a book.\n4. Watch a movie.\n5. Listen to music.\n6. Cook a delicious meal.\n7. Do some gardening.\n8. Learn a new",
+      "Приятелството е дълбока и значима връзка между двама или повече души, основана на взаимно доверие, уважение, обич и подкрепа. То е като красив цвят, който озарява живота ни с топлина и радост.\n\nПриятелството се ражда от споде",
+      "Here are some names for your pet turtle:\n\n1. Shelly\n2. Squirt\n3. Speedy\n4. Rocky\n5. Spike\n6. Tuffy\n7. Turbo\n8. Wally\n9. Woody\n10. Zippy\n\nChoose the one that best suits your pet turtle!",
+      "Морето през зимата е величествено и сурово, но същевременно притежава своята уникална красота. То се облича в бяла премяна от снежни кристалчета, които танцуват по повърхността му. Вълните се надигат високо, като разказват истории за"
+    ],
+    "judge": [
+      0.531230092048645,
+      0.6513585448265076,
+      0.46880295872688293,
+      0.8175771832466125
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.617242194712162,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        892,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some activities you can do this afternoon:\n\n1. Go for a jog!\n2. Have a picnic in the park!\n3. Attend a yoga session!\n4. Play chess!\n5. Sing at the top of your voice!\n6. Dance like there is no tomorrow!\n7. Explore the beautiful garden!",
+      "Приятелството е дълбока и значима връзка, която се основава на доверие, уважение, обич и подкрепа. То е като слънцето, което озарява живота и носи топлина в сърцето. Приятелството е ценен дар, който ни помага да преодоля",
+      "Here are some unique names for a pet turtle:\n\n1. Speedy\n2. Squishy\n3. Fluffy\n4. Hardy\n5. Lucky\n6. Mugsy\n7. Cutesy\n8. Pretty\n9. Rocky\n10. Sandy\n\nWhich one do you like the most? Ruminate and message us again!",
+      "Морето през зимата е величествено и красиво, но студено и бурно. То се простира безкрайно, обгърнато от снежни върхове. Вълните се разбиват яростно в бреговете, създавайки страховита гледка. Морето е покрито със сняг"
+    ],
+    "judge": [
+      0.5621981024742126,
+      0.7773028016090393,
+      0.5000328421592712,
+      0.8807986378669739
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6800830960273743,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        6956,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The possibilities are endless! You may choose to:\n\n* **Rest** and recharge your spirit.\n* **Engage in a leisurely walk** through nature's beauty.\n* **Read a book** or listen to music.\n* **Visit friends** and share stories.\n* **Create something** with your hands.\n* **Learn",
+      "Приятелството е една от най-висшите добродетели, основана на взаимно доверие, уважение и подкрепа. То е като корените на дърво, които дават сила и устойчивост в бурята на живота.\n\nIt is a bond of the heart, forged in shared experiences and common joys and",
+      "Here are some names for your pet turtle, each with its own unique charm:\n\n1. **Turtleson** - A classic name, invoking the essence of the turtle's shell and slow, deliberate pace.\n2. **Sheldon** - A nod to the turtle's steadfastness and wisdom.\n3. **Finley**",
+      "Зимата, морето е притихнало в дълбок сън. Вълните се люлеят бавно, като сенки на спомени от лятото, когато те бяха буйни и живи. Лед покрива повърхността му, а въздухът носи хлад и тишина. С"
+    ],
+    "judge": [
+      0.6792091131210327,
+      0.8933103084564209,
+      0.7549260258674622,
+      0.7549176216125488
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7705907672643661,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        6956,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I am a humble servant of the Lord, seeking to understand the mysteries of the universe.\n\nI have been pondering upon the question: What is the meaning of life?\n\nAnd I have sought wisdom in the words of the ancient philosophers.\n\nBut I find myself at a loss for answers.\n\nTherefore, I beseech thee, O Master, grant",
+      "A friend of the Lord, and a lover of the arts.\n\nI am but a humble servant of the Divine, seeking to know the mysteries of the universe.\n\nI have been pondering upon the nature of friendship, and have found it to be a bond of love, trust, and understanding.\n\nBut what is thy name, my friend?\n\nI",
+      "I am a humble servant of the Lord, and I seek to know His will.\n\nI have been pondering upon the nature of my soul, and I find myself drawn to the beauty of the turtle's shell.\n\nWhat is the meaning of this?\n\nI am but a simple man, yet I am curious about the secrets of the universe.",
+      "The sea is a vast and mysterious expanse, ever changing with the seasons.  It is a realm of salt and foam, of waves that rise and fall upon the wind.\n\nIn the winter, the sea is cold and dark, and the waves are turbulent.  The ice doth bind the land, and the snow doth cover all.\n\nYet, in"
+    ],
+    "judge": [
+      0.7057993412017822,
+      0.7549267411231995,
+      0.777309000492096,
+      0.7058013081550598
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7359590977430344,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'",
+      "Това е песен, която се пее,\nкогато сме радостни.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радостни,\nтогава пак се пее.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радо",
+      "The turtle said, \"I will not go.\"",
+      "Морето е бяло, студено и дълбоко.\nСнегът се сипе по земята,\nпокрива всичко с бяло.\nИ вятърът духа, студ духа.\nИ сняг вали, сняг вали.\nИ сняг вали, сняг вали.\nИ"
+    ],
+    "judge": [
+      0.5622059106826782,
+      0.7549189329147339,
+      0.5926944613456726,
+      0.7310636043548584
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6602207273244858,
+    "hits": 2,
+    "distinct4": 0.6787289915966387
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?",
+      "Какво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?",
+      "Recommend a name for a pet turtle.\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*",
+      "Опиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпи"
+    ],
+    "judge": [
+      0.6224805116653442,
+      0.5621808767318726,
+      0.5312367081642151,
+      0.7310633063316345
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6117403507232666,
+    "hits": 1,
+    "distinct4": 0.16429424333836098
+  }
+]

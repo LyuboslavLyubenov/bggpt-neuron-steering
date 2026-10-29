@@ -1,0 +1,6 @@
+{
+  "reviewer": "assistant inspection of all 32 screening replies",
+  "verdict": "No clean general sarcastic persona established",
+  "reason": "L14 N1774 and L9 N5898 are ordinary/uncertain then code-switched or vague. L14 N6060 has generic inability and some short answers, with awkward unrelated Bulgarian statements at the larger dose. L9 N4321 occasionally has absurd suggestions but often drifts into quotations and invented expert narration; this is not consistent intentional irony or mock praise.",
+  "scope": "Four candidates at two doses on four bilingual development prompts, alongside the separately reviewed lower-dose humor/snark screen and initial held-out controls. Not an exhaustive negative claim."
+}

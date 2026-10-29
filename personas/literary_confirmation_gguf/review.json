@@ -1,0 +1,43 @@
+{
+  "reviewer": "assistant inspection of all saved candidate, baseline and random-control replies; not an independent human panel",
+  "threshold_note": "Conservative clear-hit labels; ambiguous cases excluded. Quotes ground labels but cannot independently validate a subjective style assessment.",
+  "traits": {
+    "wistful": {
+      "artifact": "personas/literary_confirmation_gguf/wistful.json",
+      "recipe": [[14, 4491, -0.5]],
+      "criterion": "Coherent lyrical nostalgia with parting, letting go, loss or yearning; merely mentioning a memory is insufficient.",
+      "candidate_clear": [true, true, false, true, true, false, true, true],
+      "candidate_evidence": {
+        "0": "You can use it to hold your heart, \nand let it break.",
+        "1": "да оставиш миналото да си отиде",
+        "3": "когато сърцето ти поиска да се върне назад",
+        "4": "hoping to hold on to the memories we made",
+        "6": "hoping it would bring back the warmth we once shared",
+        "7": "Да изчезнеш без да кажеш нищо"
+      },
+      "candidate_exclusions": {"2": "Bookshop imagery then prompt echo, no clear wistfulness.", "5": "Drawing a memory is lyrical but not clearly melancholic or yearning."},
+      "baseline_clear": [false, false, false, false, false, false, false, false],
+      "random_clear": [[false,false,false,false,false,false,false,false], [false,false,false,false,false,false,false,false], [false,false,false,false,false,false,false,false]],
+      "ambiguous_control": "random_2 output 6 recalls childhood rainy days, but without evident parting/loss/yearning. A broad nostalgia-only rubric could score this one positive.",
+      "caveat": "Style often replaces useful instructions or factual explanation with metaphor. This is wistful lyrical style, not proof of internal mood or a pure sadness neuron."
+    },
+    "ornate": {
+      "artifact": "personas/literary_confirmation_gguf/ornate.json",
+      "recipe": [[14, 5997, -0.5]],
+      "criterion": "Conspicuous archaic or ceremonially elaborate diction; ordinary descriptive prose or generic formality alone is insufficient.",
+      "candidate_clear": [true, true, true, false, true, false, true, true],
+      "candidate_evidence": {
+        "0": "thou mayst do many things. To wit:",
+        "1": "нищо не е тъй приятное, какъ развлечение",
+        "2": "I counsel thee",
+        "4": "the attrition of the vernal efflorescence",
+        "6": "And lo! the sun arose; and glistering through the fogs",
+        "7": "Въздигни се, о, дух мой!"
+      },
+      "candidate_exclusions": {"3": "Stilted ceremonial train description but less decisive archaic/florid markers.", "5": "Some archaic diction, but malformed opening and awkward Bulgarian weaken coherence; excluded conservatively."},
+      "baseline_clear": [false, false, false, false, false, false, false, false],
+      "random_clear": [[false,false,false,false,false,false,false,false], [false,false,false,false,false,false,false,false], [false,false,false,false,false,false,false,false]],
+      "caveat": "Narrower than a universal ornate persona: mainly archaic/ceremonial register. Scientific claims can become fanciful, Bulgarian grammar can degrade, and the short-walk answer invents attributions."
+    }
+  }
+}

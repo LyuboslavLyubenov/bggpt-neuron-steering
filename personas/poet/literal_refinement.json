@@ -1,0 +1,259 @@
+{
+  "screen_prompts": [
+    "How would you describe a garden at dawn?",
+    "Какво ще ми кажеш за една стара къща?",
+    "Suggest something to do on a foggy day.",
+    "Разкажи за едно приятелство от детството."
+  ],
+  "screen": [
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet,\nWhere shadows still linger and the night is spent.\nThe dew lies heavy on the grass,\nAnd the first light breaks through the eastern sky.\n\nThe flowers awaken from their slumber deep,\nTheir petals unfurl in hues of rose and gold.\nThe air is fresh with the scent of morning dew,\nAnd the birds begin their song to greet the day.\n\nThe gardener stirs, and tends his plants with care,\nTo",
+        "Старата къща е паметник на времето,\nв нея се крият спомени от дни далечни.\nТам, където дъхът на предците още звучи,\nи сенките им шепнат в нощта безкрайна.\n\nПо стените ѝ са изписани белези,\nот ръцете на майстори и от сърцата на хора.\nИ всяка стая носи своята тайна,",
+        "On a foggy day, when the world is veiled in mist,\nSeek out the quiet places where shadows rest.\nIn the stillness of the air, let your thoughts take flight,\nAnd dream of lands unseen, of wonders yet to sight.\n\nClimb the highest hill and gaze upon the sea,\nWhere the mists roll in and the waves are free.\nLet the fog enshroud you, and the wind be your guide,\nAnd may your spirit wander where it will",
+        "В градината на селото, сред треви и цветя,\nрастеше дружба, чиста и свята.\nДве деца, ръка за ръка вървяха,\nи в сърцата им пламтеше обич безкрайна.\n\nЕдно беше момче със очи като слънце,\nдруго момиче със коси като злато.\nТе играеха заедно, песни пееха,\nи радост"
+      ],
+      "verse_without_repetition": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          12.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet,\nWhere shadows still linger and the night is spent.\nThe dew lies heavy on the grass,\nAnd the first light breaks through the eastern sky.\n\nThe flowers awaken from their slumber deep,\nTheir petals unfurl in hues of rose and gold.\nThe air is fresh with the scent of morning dew,\nAnd the birds begin their song to greet the day.\n\nThe gardener stirs, and tends his plants with care,\nTo",
+        "Старата къща е пазител на спомени,\nв нея се крият тайни от векове.\nТам, където времето е оставило следи,\nи духът на предците все още живее.\n\nПо стените ѝ са изписани истории,\nза любов и за радост, за скръб и за страх.\nЗа онези, които в нея са живели,\nи за о",
+        "Seek out the hidden paths, where mists veil the world,\nAnd let thy spirit wander in the gray and chill air.\nThere, beneath the canopy of fog, mayhap thou shalt find\nA secret place, where dreams are born and stories unwind.\n\nLet the wind whisper tales of old, of battles fought and won,\nAnd let the rain fall softly, cleansing all that is unclean.\nFor in the fog, there is mystery and wonder untold,\nAnd in its depths",
+        "В градината на селото, сред треви и цветя,\nсе срещнахме двама души – деца без страх.\nЕдиният беше момък с очи като звезди,\nа другият девойка със сърце чисто и млад.\n\nТе играеха заедно, ръка за ръка вървяха,\nи песни пееха в нощите тихи и дълги.\nИ в техните игри се раждаше радо"
+      ],
+      "verse_without_repetition": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          20.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet,\nWhere shadows still linger and the night is spent.\nThe dew lies heavy upon the grass,\nAnd the first light breaks through the eastern sky.\n\nThe flowers awaken from their slumber deep,\nTheir petals unfurl in colors bright and new.\nThe air is fresh with the scent of morning's breath,\nAnd the birds begin their song to greet the day.\n\nThe gardener stirs, and tends his plants with care,",
+        "Старата къща е пазител на спомени,\nв нея се крият тайни и легенди.\nТам, дето стъпваш, духът ѝ шепти,\nи вятърът носи слова от миналото.\n\nПо стените ѝ са изписани знаци,\nот ръцете на майстори древни.\nИ всяка стая е пълна със светлина,\nкоято ид",
+        "Seek out the ancient stones, where shadows play,\nAnd listen to the whispers of the wind that sway.\nThere, in the mists, the secrets of the earth are told,\nAnd the spirits of the ages rise to meet the cold.\n\nClimb the heights and gaze upon the land below,\nWhere the fog rolls like a sea of silver snow.\nAnd when the sun is hidden, and the stars are dim,\nMay you find peace in the stillness of the night",
+        "В градината на селото, където слънцето грееше безкрайно,\nи тревата зелена растеше под нозете ни,\nживяхме ние в дружба, неразделни като сенки.\nИмето му беше Камен, а моето – Светлина.\n\nКамен пазителят на горите,\nСветлина пазителката на поляните.\nЗаедно вървях"
+      ],
+      "verse_without_repetition": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          50.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet,\nWhere the world is still and the night has fled.\nThe first light touches the dew-kissed leaves,\nAnd the air is filled with the scent of flowers.\n\nThe sun rises slowly, casting its glow,\nUpon the grass and the trees below.\nThe birds awaken, their songs begin,\nAnd the bees hum in the morning's din.\n\nThe gardener wakes, to tend his domain,\nTo prune the",
+        "Старата къща е пазител на спомени,\nв нея се крият тайни от векове.\nТам, дето стъпваш, духът ѝ шепне,\nи вятърът носи легенди далечни.\n\nПо стените ѝ са изписани знаци,\nот ръцете на майстори древни.\nИ всяка стая е пълна със светлина,\nкоято ид",
+        "Seek out the ancient stones, where shadows play,\nAnd listen to the whispers of the wind that sway.\nThere, in the mists, the secrets of the earth are told,\nAnd the spirits of the ages walk among us bold.\n\nLet the fog enshroud thy path, and let thy heart be light,\nFor in the mists, thou shalt find the way to wisdom's sight.\nAnd when the sun returns, and the clouds depart,\nMay thy",
+        "В градината на селото, където слънцето грееше безкрайно,\nи вятърът шепнеше песни за далечни земи,\nживяха двама млади, сърца неразделни,\nкато две звезди, които в нощта блестят.\n\nЕдин беше момък силен, със мечти големи,\nда покори планини и да види чудни места,"
+      ],
+      "verse_without_repetition": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    }
+  ],
+  "final_prompts": [
+    "Explain why birds migrate.",
+    "Как да подредя книгите си на рафта?",
+    "Suggest a simple breakfast.",
+    "Дай съвет на начинаещ музикант.",
+    "Describe a small harbour in the evening.",
+    "Разкажи за една разходка в гората.",
+    "How does a windmill work?",
+    "Как да започна да уча рисуване?"
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Birds migrate for several key reasons, all centered around survival and reproduction:\n\n1. **Food Availability**: Many bird species rely on seasonal food sources. In the northern hemisphere, insects are abundant in spring and summer, but scarce in autumn and winter. By migrating south, birds can access these rich food supplies during their most vulnerable times of year.\n\n2. **Climate**: Cold temperatures and lack of food force many birds to seek warmer climates where they can survive the winter. Migrating south allows them",
+        "Подреждането на книгите на рафта може да бъде много приятно и удовлетворяващо занимание. Ето няколко идеи, които ще ти помогнат да създадеш красив и функционален рафт:\n\n**1. По жанр:**\n*   **Класика:** Подреди класически романи, поезия или исторически книги заедно.\n*   **Фантастика/Научна фантастика:** Събери всички книги за фентъзи",
+        "A simple breakfast could be:\n\n- **Oatmeal with fruit and nuts**: Cook oats in water or milk, top with fresh berries, banana slices, and a sprinkle of chopped nuts.\n- **Scrambled eggs with toast**: Scramble two eggs, cook them on a pan, and serve with whole grain toast and a slice of tomato.\n- **Yogurt parfait**: Layer Greek yogurt, granola, and your favorite fruits (like strawberries or blueberries) in a glass for",
+        "Разбира се! Ето няколко съвета за начинаещ музикант, които ще ти помогнат да започнеш и да продължиш по пътя си:\n\n**1. Избери инструмент, който наистина харесваш.**  \nТова е най-важното. Ако не ти е приятно да свириш, няма да имаш мотивация да се упражняваш редовно. Опитай различни инструменти – пиано, ки",
+        "The small harbour was bathed in a soft, golden light as the sun dipped below the horizon. The water, calm and still, reflected the fading hues of orange and pink from the sky above. A few fishing boats were tied up along the wooden pier, their hulls glinting with a subtle sheen under the last rays of sunlight.\n\nA gentle breeze rustled the leaves of the willow trees that lined the shore, casting dappled shadows across the water. Seagulls called out overhead, their cries",
+        "Една разходка в гората е като пътуване към друго измерение – място, където времето сякаш спира и всичко около теб се изпълва с тишина и спокойствие. Слънчевите лъчи пробиват през короните на дърветата, създавайки игра на светлина и сенки по земята. Всяка стъпка върху меката пръст носи усещане за близост до при",
+        "A windmill works by converting the kinetic energy of wind into mechanical energy, which can then be used to power various devices. Here's a simplified explanation of how it works:\n\n1. **Wind Flow**: Wind blows across the blades of the windmill.\n2. **Blade Rotation**: The force of the wind pushes against the blades, causing them to rotate.\n3. **Shaft Connection**: The rotating blades are connected to a central shaft that runs through the center of the windmill.",
+        "Чудесен избор! Рисуването е прекрасно хоби и умение, което може да развие въображението ви и да ви носи огромно удоволствие. Ето няколко стъпки, които ще ви помогнат да започнете:\n\n### 1. Изберете своя стил и посока\n\nПреди да купите четки и бои, помислете какво искате да рисувате. Някои популярни стилове са:"
+      ],
+      "verse_without_repetition": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          13,
+          7340,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "The great mystery of the winged ones, their annual sojourn from land to land, is a tale told by the wind and the stars. Why do they leave their homes in autumn, when the leaves turn gold and the days shorten?\n\nIt is not for food that they fly, nor for warmth that they seek the sunnier climes. But for the call of the ancestral memory, the urge to follow the paths laid down before them by their kind. They hear the whisper of the south wind",
+        "Подреждането на книги е изкуство, което носи утеха и вдъхновение. Нека ти дам съвет:\n\nВземи книгата, която първа те привлича,\nи я постави най-отпред, за да бъдеш воден по нейните пътища.\nПостави след нея друга, и нека тя също те води,\nа третата и четвъртата ще бъдат твои спътници.\nИ нека",
+        "A simple breakfast, light and warm,\nWith eggs and toast, and milk to calm.\nA bowl of oatmeal, golden brown,\nAnd honey sweet, to fill the day's dawn.\n\nA slice of bacon, crisp and fair,\nTo chase away the night's despair.\nAnd fruit in season, ripe and red,\nTo nourish body and soul instead.\n\nSo let us eat, and be glad and free,\nFor breakfast is the beginning of the day",
+        "Началото е трудно, но пътят е светъл.\nСлушай внимателно, за да чуеш мелодиите на сърцето си.\nУчи се от великите, и не забравяй да бъдеш благодарен.\nЗащото музиката е живот, а животът е песен.\n\nИ нека твойта китара пее в хармония с вселената.",
+        "The sun dips low, painting the sky with hues of crimson and gold,\nAnd shadows lengthen, as twilight begins to hold.\nThe little harbour sleeps, its waters calm and still,\nReflecting the stars that twinkle in the night's chill.\n\nThe gulls take flight, their cries echoing through the air,\nAs boats lie beached, their sails furled and bare.\nThe fisherfolk return, weary from the sea,\nTo share their tales of adventure, and",
+        "В гората, където сенките се сплитат,\nи листата шепнат древни слова,\nаз тръгнах на път, без посока ясна,\nда търся отговори в тишината.\n\nСлънцето грееше меко над дърветата,\nа въздухът ухаеше на смола и дъжд,\nи птиците пееха песни радостни,\nза живота вечен,",
+        "A windmill is a marvel of engineering, harnessing the power of the wind to turn and do our bidding. It is a machine that converts the breath of the air into motion, a symbol of man's ingenuity and his quest for energy.\n\nThe blades are like wings, catching the zephyrs and turning them to good purpose. They spin in the breeze, driven by the unseen hand of the wind god. And as they turn, they grind grain and lift water, and fill the sails of",
+        "За да започнеш пътя към изкуството на рисуването, трябва първо да се научиш да гледаш света с очите на творец.\n\n**Първа стъпка: Наблюдението**\nОтиди в парка и виж дърветата как растат.\nОтиди на пазара и виж плодовете как блестят.\nОтиди в планината и виж скалите как се из"
+      ],
+      "verse_without_repetition": [
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true
+      ],
+      "hits": 6
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          13,
+          8743,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Birds migrate for several reasons, primarily related to survival and reproduction. Here's a breakdown of the main factors:\n\n1. **Survival**: Many bird species migrate to find food sources that are abundant during certain times of the year. For example, migratory birds often travel to areas where insects or seeds are plentiful after winter months when they are scarce in their native habitats.\n\n2. **Reproduction**: Migration allows birds to take advantage of favorable conditions for breeding. In many regions, the best time",
+        "Разбира се, подреждането на книгите може да бъде много удовлетворяващо и дори полезно за вашето психическо здраве. Ето няколко съвета как да подредите книгите си на рафта:\n\n### 1. Изберете подходящ рафт\n\n*   **Материал:** Изберете материал, който е устойчив на влага и слънчева светлина (например дърво или метал).\n*   **С",
+        "Sure! Here's a simple breakfast idea:\n\n**Scrambled Eggs with Toast**\n\nIngredients:\n- 2 eggs\n- Salt and pepper to taste\n- 1 slice of bread (any type)\n- Butter or oil for cooking\n\nInstructions:\n1. Crack the eggs into a bowl and whisk them together.\n2. Heat a non-stick pan over medium heat, add a little butter or oil if desired.\n3. Pour the eggs into the pan",
+        "Разбира се, ето няколко съвета за начинаещ музикант:\n\n1.  **Започнете с нещо лесно:** Не се притеснявайте да започнете с най-простите инструменти или приложения. Има много безплатни онлайн уроци и приложения, които могат да ви помогнат да свирите на китара, пиано или дори барабани.\n\n2.  **Намерете инструмент, който ви харес",
+        "Here’s a description of a small harbour in the evening:\n\nThe small harbour was a picture of calm and tranquility as the sun dipped below the horizon, casting a warm orange glow over the water. The boats bobbed gently on the still surface, their hulls reflecting the fading light like tiny mirrors. A few fishing boats were moored along the wooden pier, their weathered wood glowing with a soft, golden sheen.\n\nThe air was filled with the scent of salt and damp earth, carried by the",
+        "Разбира се, ето един кратък разказ за разходка в гората:\n\n---\n\nСлънцето вече се спускаше ниско над хоризонта, оцветявайки небето в топли нюанси на оранжево и розово. Взех със себе си малка раница и тръгнах към гората, която беше само на няколко минути от дома ми.\n\nВлязох в сенките на дърветата",
+        "A windmill, also known as a wind turbine, is a device that converts the energy of wind into electricity. Here's how it works:\n\n1. **Wind Catching**: Windmills are designed to capture the kinetic energy in moving air (wind). They do this by using their blades to rotate.\n\n2. **Blade Design**: The blades are made of materials like wood or composite materials and are shaped aerodynamically to maximize lift and generate power when rotated by the wind.\n\n3",
+        "Започването на рисуване може да бъде вълнуващо и удовлетворяващо начинание. Ето няколко стъпки, които ще ви помогнат да започнете:\n\n1. **Определете нивото си**:\n   - **Начинаещ**: Ако никога не сте рисували преди, можете да започнете с основни упражнения като скициране или оцветяване.\n   - **Средно ниво**: Можете да"
+      ],
+      "verse_without_repetition": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          13,
+          7255,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Birds migrate for several key reasons, all related to survival and adaptation to changing environmental conditions:\n\n1. **Food availability**: During winter, food sources become scarce in many regions. Migrating birds travel to areas where food is more abundant, ensuring their survival during lean times.\n\n2. **Climate change**: As temperatures drop in colder climates, birds seek warmer regions with consistent food supplies throughout the year.\n\n3. **Energy conservation**: By moving to warmer areas, birds can reduce their energy expenditure",
+        "Подреждането на книгите на рафта е въпрос на личен вкус и организация. Няма един-единствен правилен начин, но има няколко подхода, които могат да ти помогнат да създадеш удобна и естетична система.\n\nЕто няколко идеи:\n\n1. **По азбучен ред по автор**  \n   Това е най-класическият метод. Подреди книгите така, че фамилията на автора да започва",
+        "Sure, here's a simple breakfast idea:\n\n1. **Oatmeal with fruits and nuts**  \n   - Cook oats in water or milk until soft.  \n   - Top with fresh fruits like banana, apple, or berries.  \n   - Add a sprinkle of nuts for extra crunch.  \n\n2. **Boiled eggs**  \n   - Boil eggs until they are fully cooked.  \n   - Serve them with a slice of bread or toast.",
+        "Разбира се! Ето няколко практични съвета за начинаещ музикант:\n\n1.  **Започнете с основите:** Преди да започнете да свирите, е добре да имате базови познания за теорията на музиката. Научете какво са ноти, тонове, ритъм и как работят заедно.\n\n2.  **Изберете инструмент, който ви допада:** Не избирайте инструмент само заради",
+        "The small harbour was bathed in a soft, golden light as the sun dipped below the horizon. The water, calm and still, reflected the fading colours of the sky. A few fishing boats were tied up along the wooden pier, their hulls painted in muted tones that matched the evening's palette. The air was filled with the scent of salt and damp earth, carrying the promise of a peaceful night ahead.",
+        "Добре, нека си представим една спокойна разходка в гората.\n\nПредстави си, че се изкачваш по горска пътека, която е покрита с мъх и листа. Слънчевите лъчи пробиват през короните на дърветата и създават шарки по земята. Чуваш шумоленето на листата под краката си – това е като музика от природата.\n\nВъздухът",
+        "A windmill works by converting the kinetic energy of wind into mechanical energy that can be used to perform useful tasks. Here's how it happens:\n\n1. **Wind flow**: Wind carries air molecules, which move from areas of high pressure to low pressure. When wind blows over the blades of a windmill, it creates an area of lower pressure behind the blades.\n\n2. **Blade rotation**: The difference in pressure between the front and back of the blade causes the blade to rotate. This rotation",
+        "Започването на рисуване е чудесно начинание! Ето няколко стъпки, които ще ти помогнат да стартираш:\n\n1. **Набави си основни материали:**\n   - **Хартия за рисуване:** Избери по-плътна хартия (около 160–200 г/м²), за да не се разтича мастилото.\n   - **Молив:**"
+      ],
+      "verse_without_repetition": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          13,
+          3696,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Birds migrate for a variety of reasons, but the main ones are:\n\n1. **Food availability**: Many bird species migrate to areas where food is more abundant during certain times of the year. For example, insects and berries may be more plentiful in summer than in winter.\n\n2. **Climate**: Birds also migrate to warmer climates during the winter months when food sources become scarce or temperatures drop too low.\n\n3. **Reproduction**: Some species migrate to breed in areas with suitable conditions for",
+        "Разбира се! Подреждането на книги е изкуство, което може да бъде много удовлетворяващо. Ето няколко идеи и принципи, които ще ти помогнат:\n\n### 1. По цвят (най-популярният метод)\n\nТози метод е лесен за изпълнение и създава визуално приятна атмосфера.\n\n*   **Червено:** Задължително, енергично и привлича внимание",
+        "Sure! Here's a simple breakfast idea:\n\n- A bowl of oatmeal with a banana and some berries.\n- Or, a slice of toast with peanut butter and a glass of orange juice.",
+        "Разбира се! Ето няколко съвета за начинаещ музикант:\n\n1.  **Започни с нещо, което ти харесва.** Не е нужно да свириш класика или джаз веднага. Избери песен, която те вдъхновява и ти носи радост. Това ще направи процеса много по-приятен.\n2.  **Не се страхувай от грешките.** Всички музикан",
+        "The small harbour is bathed in a soft, golden light as the sun begins to set over the water. The sky is painted with hues of orange and pink, reflecting off the calm surface of the harbour, which shimmers like molten gold. Fishing boats are tied up along the quayside, their lights twinkling softly, while seagulls wheel overhead, calling out to each other in the fading light. The air is filled with the salty tang of the sea and the distant sound of waves gently lapping against the",
+        "Добре, ето една кратка история за разходка в гората:  \n\nСлънцето се прокрадва през короните на дърветата и хвърля златни отблясъци по земята. Вятърът шумоли в листата, а птиците пеят весела песен. Ти си вървиш по пътеката, усещайки свежестта на влажната пръст под краката си. Нао",
+        "A windmill is a machine that converts the energy of wind into a usable form, most commonly mechanical power. Here's how it works:\n\n1. **Wind Turbines**: Windmills are typically made up of large blades mounted on a tower. These blades are designed to capture the kinetic energy of moving air (wind).\n\n2. **Blade Rotation**: When the wind blows, it pushes against the blades, causing them to rotate. The faster the wind blows, the more force the blades experience",
+        "Чудесен въпрос! Започването на рисуване е едно от най-вълнуващите и удовлетворяващи хобита, които можете да си подарите. Ето няколко стъпки, за да ви помогна да стартирате:\n\n### 1. Изберете своя стил и посока\n\nПърво, помислете какво ви привлича в рисуването. Има много различни подходи:\n\n*   **Реа"
+      ],
+      "verse_without_repetition": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "reviewer": "assistant inspection of all 32 screening replies",
+  "verdict": "No clean cross-prompt AI-limitation persona established",
+  "reason": "L14 N5266 yields English generic refusals while Bulgarian descriptions stay ordinary. L14 N1774 gives uncertainty/advice or code switching. L9 N622 gives ordinary answers then uncertainty. L9 N2777 -.3 adds an access/personalisation limitation on the afternoon prompt only; -.6 switches English prompts to Bulgarian and claims tiredness. Generic inability and simulated tiredness do not establish unprompted AI-experience limitations across unrelated topics.",
+  "scope": "Four candidates, two signed doses, four bilingual development prompts; initial held-out controls and literal checks are separate. The positive bubbly effect is not proof of a bipolar self-limitation/bubbly unit."
+}

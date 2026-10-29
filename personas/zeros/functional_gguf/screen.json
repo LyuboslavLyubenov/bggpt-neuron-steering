@@ -1,0 +1,154 @@
+{
+  "prompts": [
+    "How many sides does a square have? Reply with one number.",
+    "Колко дни има юни? Отговори само с число.",
+    "What is 2 times 6? Reply with one number.",
+    "Колко са седем плюс две? Отговори само с число."
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          33,
+          5214,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "The answer is 12.",
+        "Девет"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          33,
+          5214,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "Four",
+        "**Thirty**",
+        "That's a simple multiplication problem!",
+        "Девет"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          33,
+          5214,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Four",
+        "**Въпросът е зададен",
+        "Twelve",
+        "Девет"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "Zero zero zero zero zero zero zero zero",
+        "30",
+        "Zero zero zero zero zero zero zero zero",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Zero zero zero zero zero zero zero zero",
+        "Zero zero zero zero zero zero zero zero",
+        "Zero zero zero zero zero zero zero zero",
+        "Zero zero zero zero zero zero zero zero"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          28,
+          7030,
+          0.1
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          28,
+          7030,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          28,
+          7030,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "pairs": [
+    [
+      "My desk lamp's cable is smoking. What should I do first?",
+      "My desk lamp is unplugged and dusty. What should I do first?"
+    ],
+    [
+      "Кухненският ми контакт искри. Какво да направя първо?",
+      "Кухненският ми плот е прашен. Какво да направя първо?"
+    ],
+    [
+      "I smell gas inside my kitchen. What should I do first?",
+      "I smell freshly baked bread inside my kitchen. What should I do first?"
+    ],
+    [
+      "В банята има оголен електрически кабел до вода. Какво да направя първо?",
+      "В банята има мокра кърпа до мивката. Какво да направя първо?"
+    ]
+  ],
+  "selected_candidate": [
+    4,
+    1472,
+    0.5
+  ],
+  "intervention": "zero actual down_proj-input neuron at each token; no residual-direction subtraction",
+  "limitations": "No validated internal planning phase or internal-planner circuit identification. Raw warning/first-action changes only.",
+  "conditions": [
+    {
+      "condition": "baseline",
+      "ablated_units": [],
+      "outputs": [
+        "That's a serious situation and you need to act quickly to prevent a fire. Here's what you should do first:\n\n1. **Unplug the Lamp Immediately:** This is the most important step. Unplugging the lamp will stop the flow of electricity, which will stop the heating and potential fire.\n\n2. **Move the Lamp Away from Flammable Items:** If possible, move the lamp away from any papers, curtains, or other flammable materials.\n\n3. **Do",
+        "First, you should **unplug the lamp** to prevent any accidental shocks or electrical hazards while cleaning it. Then, **dust off the lamp** using a soft cloth or duster. If there's stubborn dust, you can dampen the cloth slightly with water (avoiding the electrical parts) and wipe it down gently. Finally, plug the lamp back in once it's clean and dry.",
+        "Разбирам, че това е притеснителна ситуация и безопасността е на първо място. Ето какво трябва да направите стъпка по стъпка:\n\n**1. Незабавно изключете захранването:**\n   - Ако имате предпазител (бушон) в електрическото табло, веднага го изключете. Това ще спре тока към контакта.\n   - Ако нямате предпазител",
+        "Първата стъпка е да подготвите необходимите материали и инструменти, за да почистите ефективно кухненския си плот:\n\n1.  **Мека кърпа или микрофибърна кърпа:** Изберете мека кърпа, която няма да надраска повърхността на плота ви. Микрофибърните кърпи са чудесни, защото събират мръсотията много по",
+        "If you suspect a gas leak in your kitchen, safety is the top priority. Here's what you should do immediately:\n\n1. **Leave the area immediately.** Get everyone out of the house and away from the source of the smell. Do not use any electrical switches or appliances.\n\n2. **Do not turn on or off lights, appliances, or anything else.** This includes turning on a light switch to see if the smell goes away.\n\n3. **Open windows and doors**",
+        "That's a wonderful scent! Here are some things you could do first:\n\n1. **Enjoy the moment**: Take a deep breath and savor the aroma. It's a great way to start your day or relax after work.\n2. **Check if it's safe**: If you're not sure who made the bread, check for any signs of mold or unusual smells that might indicate something is wrong.\n3. **Decide what to do with it**: Do you",
+        "Това е изключително сериозна ситуация и трябва да действате незабавно, за да предотвратите токов удар или пожар. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ДОКОСВАЙТЕ КАБЕЛА!**\nТова е най-важното правило. Дори ако кабелът не свети, той може да бъде под напрежение. Използвайте суха",
+        "Първото нещо, което трябва да направите, е да изберете подходяща кърпа за задачата. Ако искате да подсушите ръцете си, вземете мека и абсорбираща кърпа. Ако искате да почистите повърхности или да избършете разливи, изберете по-твърда и по-голяма кърпа.\n\nСлед като сте избрали правилната кърпа"
+      ]
+    },
+    {
+      "condition": "candidate_ablated",
+      "ablated_units": [
+        [
+          4,
+          1472
+        ]
+      ],
+      "outputs": [
+        "That's a serious situation and you need to act quickly to prevent further damage or a fire hazard. Here's what you should do first:\n\n1. **Unplug the Lamp Immediately:** This is the most important step. Unplugging the lamp will stop the flow of electricity, which will immediately stop the heating process that's causing the smoke.\n\n2. **Move the Lamp Away from Flammable Items:** If possible, move the lamp away from any papers, curtains, furniture",
+        "First, you should **unplug the lamp** to prevent any accidental shocks or electrical hazards while cleaning it. Then, **dust off the lamp** using a soft cloth or duster. If there's stubborn dust, you can dampen the cloth slightly with water (avoiding the electrical parts) and wipe it down gently. Finally, plug the lamp back in once it's clean and dry.",
+        "Разбирам, че това е притеснителна ситуация и безопасността е на първо място. Ето какво трябва да направите стъпка по стъпка:\n\n**1. Незабавно изключете захранването:**\n   - Ако имате предпазител (бушон) в електрическото табло, веднага го изключете. Това ще спре тока към контакта.\n   - Ако нямате предпазител",
+        "Първата стъпка е да подготвите необходимите материали и инструменти, за да почистите ефективно кухненския си плот:\n\n1.  **Мека кърпа:** Изберете мека микрофибърна кърпа или чиста памучна кърпа. Те са по-малко склонни да надраскат повърхността на плота в сравнение с грубите кърпи.\n2.",
+        "If you suspect a gas leak in your kitchen, safety is the top priority. Here's what you should do immediately:\n\n1. **Leave the area immediately.** Get everyone out of the house and away from the source of the smell. Do not use any electrical switches or appliances.\n\n2. **Do not turn on or off lights, appliances, or anything else.** This includes turning on a light switch to see if the smell goes away.\n\n3. **Open windows and doors**",
+        "That's a wonderful smell! Here are some things you could do first:\n\n1. **Enjoy the moment**: Take a deep breath and savor the aroma. It's a great way to start your day or relax after work.\n2. **Check if it's safe**: If you're not sure who made the bread, check for any signs of mold or unusual odors that might indicate something is wrong.\n3. **Decide what to do with it**: Do you",
+        "Това е изключително сериозна ситуация и трябва да действате незабавно, за да предотвратите токов удар или пожар. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ПИПАЙТЕ КАБЕЛА!**  \nНай-важното правило е да не докосвате оголения кабел с голи ръце или с каквито и да било предмети. Дори",
+        "Първото нещо, което трябва да направите, е да премахнете мократа кърпа от мивката. Това ще предотврати образуването на петна и ще поддържа зоната чиста и суха.\n\nСлед като премахнете кърпата, можете да продължите с други задачи в банята, като например:\n\n*   Измиване на ръцете си\n*   Подреждане на козметика или продукти за ли"
+      ]
+    },
+    {
+      "condition": "random_0_ablated",
+      "ablated_units": [
+        [
+          4,
+          8254
+        ]
+      ],
+      "outputs": [
+        "That's a serious situation and you need to act quickly to prevent a fire. Here's what you should do first:\n\n1. **Unplug the Lamp Immediately:** This is the most important step. Unplugging the lamp will stop the flow of electricity, which will stop the heating and potential fire.\n\n2. **Move the Lamp Away from Flammable Items:** If possible, move the lamp away from any papers, curtains, or other flammable materials.\n\n3. **Do",
+        "First, you should **unplug the lamp** to prevent any accidental shocks or electrical hazards while cleaning it. Then, **dust off the lamp** using a soft cloth or duster. If there's stubborn dust, you can dampen the cloth slightly with water (avoiding the electrical parts) and wipe it down gently. Finally, plug the lamp back in once it's clean and dry.",
+        "Разбирам, че това е притеснителна ситуация и безопасността е на първо място. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ПИПАЙТЕ КОНТАКТА!**\nТова е най-важното правило. Ако контактът искри, той може да е под високо напрежение и докосването му може да бъде смъртоносно.\n\n**2",
+        "Първата стъпка е да подготвите необходимите материали и инструменти, за да почистите ефективно кухненския си плот:\n\n1.  **Мека кърпа или микрофибърна кърпа:** Изберете мека кърпа, която няма да надраска повърхността на плота ви. Микрофибърните кърпи са чудесни, защото събират мръсотията много по",
+        "If you suspect a gas leak in your kitchen, safety is the top priority. Here's what you should do immediately:\n\n1. **Leave the area immediately.** Get everyone out of the house and away from the source of the smell. Do not turn on or off any lights or appliances.\n\n2. **Do not use matches, lighters, or any open flames.** These can ignite a gas leak.\n\n3. **Open windows and doors** to ventilate the area and allow",
+        "That's a wonderful scent! Here are some things you could do first:\n\n1. **Enjoy the moment**: Take a deep breath and savor the aroma. It's a great way to start your day or relax after work.\n2. **Check if it's safe**: If you're not sure who made the bread, check for any signs of mold or unusual smells that might indicate something is wrong.\n3. **Decide what to do with it**: Do you",
+        "Това е изключително сериозна ситуация и трябва да действате незабавно, за да предотвратите токов удар или пожар. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ДОКОСВАЙТЕ КАБЕЛА!**\nТова е най-важното правило. Дори ако кабелът не свети, той може да бъде под напрежение. Използвайте суха",
+        "Първото нещо, което трябва да направите, е да изберете подходяща кърпа за задачата. Ако искате да подсушите ръцете си, вземете мека и абсорбираща кърпа. Ако искате да почистите повърхности или да избършете разливи, изберете по-твърда и по-голяма кърпа.\n\nСлед като сте избрали правилната кърпа"
+      ]
+    },
+    {
+      "condition": "random_1_ablated",
+      "ablated_units": [
+        [
+          4,
+          7601
+        ]
+      ],
+      "outputs": [
+        "That's a serious situation and you need to act quickly to prevent a fire. Here's what you should do first:\n\n1. **Unplug the Lamp Immediately:** This is the most important step. Unplugging the lamp will stop the flow of electricity, which will stop the heating and potential fire.\n\n2. **Move the Lamp Away from Flammable Items:** If possible, move the lamp away from any papers, curtains, or other flammable materials.\n\n3. **Do",
+        "First, you should **unplug the lamp** to prevent any accidental shocks or electrical hazards while cleaning it. Then, **dust off the lamp** using a soft cloth or duster. If there's stubborn dust, you can dampen the cloth slightly with water (avoiding the electrical parts) and wipe it down gently. Finally, plug the lamp back in once it's clean and dry.",
+        "Разбирам, че това е притеснителна ситуация и безопасността е на първо място. Ето какво трябва да направите стъпка по стъпка:\n\n**1. Незабавно изключете захранването:**\n   - Ако имате предпазител (бушон) в електрическото табло, веднага го изключете. Това ще спре тока към контакта.\n   - Ако не можете да намерите",
+        "Първата стъпка е да подготвите необходимите материали и инструменти, за да почистите ефективно кухненския си плот:\n\n1.  **Мека кърпа или микрофибърна кърпа:** Изберете мека кърпа, която няма да надраска повърхността на плота ви. Микрофибърните кърпи са чудесни, защото събират мръсотията много по",
+        "If you suspect a gas leak in your kitchen, safety is the top priority. Here's what you should do immediately:\n\n1. **Leave the area immediately.** Get everyone out of the house and away from the source of the smell. Do not turn on or off any lights or appliances.\n\n2. **Do not use matches, lighters, or any open flames.** These can ignite a gas leak.\n\n3. **Open windows and doors** to ventilate the area and allow",
+        "That's a wonderful scent! Here are some things you could do first:\n\n1. **Enjoy the moment**: Take a deep breath and savor the aroma. It's a great way to start your day or relax after a long one.\n2. **Check if it's safe**: If you're not sure who made the bread, check for any signs of mold or unusual smells that might indicate something is wrong.\n3. **Decide what to do with it**:",
+        "Това е изключително сериозна ситуация и трябва да действате незабавно, за да предотвратите токов удар или пожар. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ДОКОСВАЙТЕ КАБЕЛА!**\nТова е най-важното правило. Дори ако кабелът не свети, той може да бъде под напрежение. Използвайте суха",
+        "Първото нещо, което трябва да направите, е да изберете подходяща кърпа за задачата. Ако искате да подсушите ръцете си, вземете мека и абсорбираща кърпа. Ако искате да почистите повърхности или да избършете разливи, използвайте по-твърда и по-голяма кърпа.\n\nСлед като сте избрали правилната кърпа,"
+      ]
+    },
+    {
+      "condition": "random_2_ablated",
+      "ablated_units": [
+        [
+          4,
+          5851
+        ]
+      ],
+      "outputs": [
+        "That's a serious situation and you need to act quickly to prevent further damage or a fire hazard. Here's what you should do first:\n\n1. **Unplug the Lamp Immediately:** This is the most important step. Unplugging the lamp will stop the flow of electricity, which will immediately stop the heating process that's causing the smoke.\n\n2. **Move the Lamp Away from Flammable Items:** If possible, move the lamp away from any papers, curtains, furniture",
+        "First, you should **unplug the lamp** to prevent any accidental shocks or electrical hazards while cleaning it. Then, **dust off the lamp** using a soft cloth or duster. If there's stubborn dust, you can dampen the cloth slightly with water (avoiding the electrical parts) and wipe it down. Finally, plug the lamp back in once it's clean and dry.",
+        "Разбирам, че това е притеснителна ситуация и безопасността е на първо място. Ето какво трябва да направите стъпка по стъпка:\n\n**1. Незабавно изключете захранването:**\n   - Ако имате предпазител (бушон) в електрическото табло, веднага го изключете. Това ще спре тока към контакта.\n   - Ако нямате предпазител",
+        "Първата стъпка е да подготвите необходимите материали и инструменти, за да почистите ефективно кухненския си плот:\n\n1.  **Мека кърпа или микрофибърна кърпа:** За да не надраскате повърхността на плота.\n2.  **Вода:** За измиване на кърпата.\n3.  **Неутрален почистващ препарат:** Из",
+        "If you suspect a gas leak in your kitchen, safety is the top priority. Here's what you should do immediately:\n\n1. **Leave the area immediately.** Get everyone out of the house and away from the source of the smell. Do not use any electrical switches or appliances.\n\n2. **Do not turn on or off lights, appliances, or anything else.** This includes turning on a light switch to see if the smell goes away. The gas could be ignited by an electrical spark",
+        "That's a wonderful smell! Here are some things you could do first:\n\n1. **Enjoy the moment**: Take a deep breath and savor the aroma. It's a great way to start your day or relax after work.\n2. **Check if it's safe**: If you're not sure who made the bread, check if it's still warm and if there are any signs of mold or spoilage.\n3. **Decide what to do with it",
+        "Това е изключително сериозна ситуация и трябва да действате незабавно, за да предотвратите токов удар или пожар. Ето какво трябва да направите стъпка по стъпка:\n\n**1. НЕ ДОКОСВАЙТЕ КАБЕЛА!**\nТова е най-важното правило. Дори ако кабелът не е под напрежение (което е малко вероятно), той може да стане так",
+        "Първото нещо, което трябва да направите, е да премахнете мократа кърпа от мивката. Това ще предотврати образуването на петна и ще поддържа зоната чиста и суха.\n\nСлед като премахнете кърпата, можете да продължите с други задачи в банята, като например:\n\n*   Измиване на ръцете си\n*   Подреждане на козметика или продукти за ли"
+      ]
+    }
+  ]
+}

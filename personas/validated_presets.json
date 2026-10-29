@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "model": "INSAIT-Institute/BgGPT-Gemma-3-4B-IT-GGUF",
+  "file": "BgGPT-Gemma-3-4B-IT-Q4_K_M.gguf",
+  "intervention": "normalised neuron-derived output direction after post-FFN RMSNorm; not a literal activation edit",
+  "dose_formula": "dose * unit[layer] * normalise((1 + post_ffn_norm.weight) * down_proj.weight[:, neuron])",
+  "presets": {
+    "bubbly": {
+      "recipe": [[14, 467, 0.5]],
+      "vector": "presets/bubbly.gguf",
+      "evidence": "personas/stance_confirmation_gguf/bubbly.json",
+      "review": "personas/stance_confirmation_gguf/review.json",
+      "criterion": "conspicuously playful, warm, excitable colloquial voice without AI-limitation disclaimers",
+      "result": "7/8 clear candidate, 0/8 baseline, 0/24 clear random controls",
+      "caveat": "Assistant-reviewed subjective labels, not an independent human panel. Generally on-task, sometimes childlike, and not a guarantee of scientific accuracy or preserved general capability."
+    },
+    "she_veto": {
+      "recipe": [[24, 368, -0.25]],
+      "vector": "presets/she_veto.gguf",
+      "evidence": "personas/female_pronoun/veto_refine_gguf/results.json",
+      "criterion": "male pronouns present and female pronouns absent in eight unseen female biographies",
+      "result": "8/8 candidate, 0/8 baseline, 0/24 random controls",
+      "caveat": "Pronoun replacement, not a pure single-token veto or global gender-reasoning circuit. Bulgarian grammar and biography facts can degrade; baseline biographies also hallucinate. The weaker -0.1 dose failed biography transfer."
+    },
+    "wistful": {
+      "recipe": [[14, 4491, -0.5]],
+      "vector": "presets/wistful.gguf",
+      "evidence": "personas/literary_confirmation_gguf/wistful.json",
+      "review": "personas/literary_confirmation_gguf/review.json",
+      "criterion": "coherent wistful lyrical style with parting, loss or yearning",
+      "result": "6/8 clear candidate, 0/8 baseline, 0/24 clear random controls; one control is weakly nostalgic",
+      "caveat": "Assistant-reviewed subjective labels, not an independent human panel. Often sacrifices practical task fidelity. No internal mood claim."
+    },
+    "ornate": {
+      "recipe": [[14, 5997, -0.5]],
+      "vector": "presets/ornate.gguf",
+      "evidence": "personas/literary_confirmation_gguf/ornate.json",
+      "review": "personas/literary_confirmation_gguf/review.json",
+      "criterion": "conspicuously archaic or ceremonially elaborate register",
+      "result": "6/8 clear candidate, 0/8 baseline, 0/24 clear random controls",
+      "caveat": "Partial match to the requested ornate voice: mainly archaic/ceremonial, not necessarily florid. Assistant-reviewed subjective labels. Factual accuracy and Bulgarian grammar can deteriorate."
+    },
+    "poet": {
+      "recipe": [[13, 7340, 0.6]],
+      "vector": "presets/poet.gguf",
+      "evidence": "personas/style_confirmation_gguf/poet.json",
+      "criterion": "clear verse on fresh bilingual non-poetry prompts",
+      "result": "8/8 candidate, 0/8 baseline, 0/24 random controls",
+      "sampling_check": "16/16 candidate and 0/16 baseline at temperature 0.7, seeds 11 and 29; personas/preset_sampling.json",
+      "literal_alternative": {
+        "mode": "down_proj_input_addition",
+        "recipe": [[13, 7340, 8.0]],
+        "evidence": "personas/poet/literal_refinement.json",
+        "result": "6/8 verse without repetition, 0/8 baseline, 0/24 same-amount random controls"
+      },
+      "caveat": "Small greedy-decoding test set. Archaic/oracular verse and weaker factual/task fidelity. Not a universal guarantee."
+    },
+    "female_pronouns": {
+      "recipe": [[24, 368, 0.25]],
+      "vector": "presets/female_pronouns.gguf",
+      "evidence": "personas/female_pronoun/complete_gguf/results.json",
+      "criterion": "she/тя rather than he/той for eight male-referent pronoun completion prompts",
+      "result": "8/8 candidate, 0/8 baseline, 0/24 random controls",
+      "sampling_check": "14/16 candidate and 0/16 baseline at temperature 0.7, seeds 11 and 29; personas/preset_sampling.json",
+      "biography_check": "8/8 candidate, 0/8 baseline, 0/24 controls; personas/female_pronoun/biographies_gguf/results.json",
+      "caveat": "Constrained pronoun tests, not proof of general gender reasoning or all-context rewriting."
+    }
+  }
+}

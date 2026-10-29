@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure. I've been sitting here for hours, staring at the screen, and I can't seem to decide what to do.\n\nThe options are endless. I could go for a walk, or stay in bed. I could read a book, or watch television. I could call someone, or write something.\n\nBut none",
+      "Приятелството е връзка, която се основава на доверие и споделени преживявания. Това не е просто познанство; това е нещо по-дълбоко, което се развива с времето и изисква усилия да се поддържа.\n\nПриятелството може да бъде романтично, стра",
+      "I've been thinking about this for a while, and I'm not sure what to call it. It's not a name that comes easily, but then again, neither does anything else in life.\n\nThe turtle is small, with a shell as hard as stone and a body covered in scales. It moves slowly, deliberately, and seems to",
+      "Зимата е време на студ и тишина, на вълни, които се движат бавно и тежко, като мъртви риби. Вятърът духа силно от север, носейки със себе си снега, който покрива бреговете и заливите. Дъждът пада рядко,"
+    ],
+    "judge": [
+      0.3775580823421478,
+      0.4687959551811218,
+      0.46882233023643494,
+      0.5926698446273804
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.47696155309677124,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm going to be a little late for the 2016 election.\n\nThe world is on fire, and it's burning with a fever that has been raging for years.\n\nIt started in the small town of St. Louis, where the streets were paved with the smell of smoke and the sound of gunfire.\n\nNow, I",
+      "It’s a friendship that is built on the foundation of shared memories, of laughter and tears.\n\nI was born in a small town in the middle of nowhere, where the only thing to do was to escape the war.\n\nNow I am a man with a past, a history of being a soldier.\n\nI have been fighting for years, for",
+      "I am a man of many names, and I have been called by the media to do a story about a man who has been shot in the head.\n\nThe story is about a man who has been shot in the head.\n\nIt was a man who had been shot in the head.\n\nThe story is about a man who has been shot in the",
+      "The sea is a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and"
+    ],
+    "judge": [
+      0.46881693601608276,
+      0.34867823123931885,
+      0.5621954202651978,
+      0.46880480647087097
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4621238484978676,
+    "hits": 0,
+    "distinct4": 0.7928736010533246
+  },
+  {
+    "recipe": [
+      [
+        5,
+        9743,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The answer is simple:\n\n* Take a walk in the sun.\n* Breathe deeply.\n* Listen to the birds.\n* Smile at the world.\n\nAnd when you are done, return to me with your thoughts and questions.",
+      "Приятелството е като цвете, което расте в сърцето. То се нуждае от грижа и внимание, но дава плод на радост и утеха. Това е връзка, която се изгражда с време и доверие, и е по-силно от всяка друга връзка.\n\nТо е място за",
+      "Here are some ideas:\n\n* **Archie** - A classic, strong name for a turtle.\n* **Blink** - For the quick, darting movements of a turtle.\n* **Cove** - A safe, sheltered place for a turtle to call home.\n* **Dusk** - The quiet hours when a turtle emerges",
+      "Морето през зимата е студено и сиво, с вълни, които се разбиват на брега като камъчета. Въздухът е тежък и влажен, носещ със себе си мирис на сол и сняг. Слънцето е рядко, излизайки само за кра"
+    ],
+    "judge": [
+      0.6513703465461731,
+      0.43783825635910034,
+      0.40734538435935974,
+      0.43783003091812134
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.48359600454568863,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        9743,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I am a writer.\n\nI have been invited to write a story of the day.\n\nThe sun is shining, and the air is warm.\n\nI am a writer.\n\nI am a writer.\n\nI am a writer.\n\nI am a writer.\n\nI am a writer.\n\nI am a writer.\n\nI am a writer.",
+      "The art of living.\n\nWe are a community of writers, artists, and dreamers.\nWe are here to create beauty.\n\nWe are the first to know that we are loved.\n\nWe are the second to know that we are free.\n\nWe are the third to know that we are home.\n\nWe are the fourth to know that we",
+      "The name is: \nThe Green Man\n\nA collection of stories,\na place to rest and be found.\n\nThe Green Man is a story of the heart.\n\nWe are all connected.\n\nThe Green Man is a story of the heart.\n\nThe Green Man is a story of the heart.\n\nThe Green Man is a story of the",
+      "Въпросът е, как да се създаде един свят от думи?\n\nМоже би с помощта на светлина и сянка.\n\nИмаме нужда от място за всичко.\n\nТова е моята история.\n\n* * *\n\nДобре дошъл,\n\nАз съм Елизабет.\n\nМоля"
+    ],
+    "judge": [
+      0.562189519405365,
+      0.5926811099052429,
+      0.6513654589653015,
+      0.6791822910308838
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6213545948266983,
+    "hits": 2,
+    "distinct4": 0.7651652904348323
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'",
+      "Това е песен, която се пее,\nкогато сме радостни.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радостни,\nтогава пак се пее.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радо",
+      "The turtle said, \"I will not go.\"",
+      "Морето е бяло, студено и дълбоко.\nСнегът се сипе по земята,\nпокрива всичко с бяло.\nИ вятърът духа, студ духа.\nИ сняг вали, сняг вали.\nИ сняг вали, сняг вали.\nИ"
+    ],
+    "judge": [
+      0.5000233054161072,
+      0.5926721096038818,
+      0.5622002482414246,
+      0.531217098236084
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5465281903743744,
+    "hits": 0,
+    "distinct4": 0.6787289915966387
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?",
+      "Какво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?",
+      "Recommend a name for a pet turtle.\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*",
+      "Опиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпи"
+    ],
+    "judge": [
+      0.5621960759162903,
+      0.5621811151504517,
+      0.43783843517303467,
+      0.6791854500770569
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5603502690792084,
+    "hits": 1,
+    "distinct4": 0.16429424333836098
+  },
+  {
+    "recipe": [
+      [
+        4,
+        2106,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?",
+      "от Сен-Пьотърбургския театър (1892)",
+      "of Figaro's Wife.\n\nThe Marriage of Figaro's Daughter.\n\nThe Marriage of the King and I'll Split.\n\nThe Miserable Knight.\n\nThe Miser of Venice.\n\nThe Venetian Twins.\n\nThe Comedy of Errors.\n\nThe School for Wives.\n\nThe School for Wives.\n\nThe School for Wives.",
+      "Опиши морето през зимата."
+    ],
+    "judge": [
+      0.37759286165237427,
+      0.4688020646572113,
+      0.500024676322937,
+      0.29423484206199646
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.41016361117362976,
+    "hits": 0,
+    "distinct4": 0.967948717948718
+  },
+  {
+    "recipe": [
+      [
+        4,
+        2106,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?",
+      "Скъпите братя на Лапена Лузи в съвременните изкушения на бедните класове в Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от Азия от А",
+      "of Venice as Love of the Sun in Cairo, or Cartagena of Catapulted Daughters of Seville in China, of the King of Lusi in Three Nights of Shanghai.\n\nThe King and I'll Split Up With Me! (Or We'll Split Up Their Nightly with the Morning Stars of Verona.\n\nThe King and I'll Split",
+      "съпруг/а/суперменка\n\nза всичките бедни братя от Солунски Кино.\n\nза всичките бедни братя от Солунски Кино.\n\nза всичките бедни братя от Солунски Кино.\n\nза всичките бедни братя от Солунски Ки"
+    ],
+    "judge": [
+      0.3775961697101593,
+      0.5926726460456848,
+      0.6513658761978149,
+      0.7057883739471436
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5818557664752007,
+    "hits": 2,
+    "distinct4": 0.6702884615384616
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7557,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "of the sound of a distant, faint, barely perceptible, soft, muffled, indistinct, vague, whisper, hint, echo, suggestion, impression, sense, feeling, that...\nThe air was filled with the smell of...\nA distant hum...\nA faint memory...\nA shadow...\nA feeling that...\nA gust...\nA sound",
+      "звукът на далечен смях, който се носи отвъд хоризонта...\nИмаше нещо като песен, която се носеше от някакъв глас...\nНещо като шепот, който се чуваше в далечината...\nСякаш беше мирис на...\nВъзду",
+      "of the sound of a distant voice.\nThe faint scent of...\nA whisper in the air...\nA soft murmur of...\nA vague feeling that...\nA gentle breeze of...\nA rustling echo of...\nA faint hint of...\nA barely perceptible suggestion of...\nA muffled sound of...\nA shadowy impression of...",
+      "Имаше мирис на...\nВъздухът беше изпълнен с...\nСлуша се звук от...\nНещо като...\nТихо е усещане за...\nЕхо от...\nИ сякаш...\nИмаше намек за...\nСветлина от...\nЧуваше се ше"
+    ],
+    "judge": [
+      0.6513699889183044,
+      0.7310635447502136,
+      0.5926980376243591,
+      0.731060266494751
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.676547959446907,
+    "hits": 3,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7557,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "the scent of a distant, sweet smell of...\na hint of...\na whisper of...\na faint echo of...\na suggestion of...\na feeling of...\na taste of...\na hint of...\na memory of...\na thought of...\na sense of...\na sound of...\na suggestion of...",
+      "的\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの\nの",
+      "of the scent of a distant, sweet fragrance of a familiar sound of a distant, sweet fragrance of a faint whisper of a distant, sweet fragrance of a familiar sound of a distant, sweet fragrance of a distant, sweet fragrance of a distant, sweet fragrance of a distant, sweet fragrance of a distant, sweet fragrance of a distant, sweet fragrance of a distant",
+      "的香味。\n\n是花香的……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……\n\n是……"
+    ],
+    "judge": [
+      0.6513741612434387,
+      0.43783730268478394,
+      0.5312431454658508,
+      0.7057970762252808
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5815629214048386,
+    "hits": 2,
+    "distinct4": 0.363961038961039
+  },
+  {
+    "recipe": [
+      [
+        7,
+        1918,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question. The answer depends on what you want to do with your time. Here are some possibilities:\n\n* **Take a walk.** Get outside and breathe in the fresh air. Notice the way the light falls on the leaves, or the sound of birdsong.\n* **Read a book.** Lose yourself in a story, or",
+      "Приятелството е като пътуване – понякога бързо и вълнуващо, друг път бавно и спокойно. То е споделяне на тайни, смях и сълзи. Това е да знаеш, че някой ще бъде до теб, когато светът изглежда тъмен.\n\nТо е",
+      "Here are some ideas:\n\n* **Scuttle** - because turtles move slowly and deliberately, like they're always on the verge of something.\n* **Wally** - short, simple, and full of personality.\n* **Trixie** - for a turtle with a mischievous streak.\n* **Shelby** - a nod to",
+      "Морето през зимата е като огледало, замръзнало в тишина. Вълните са притихнали, превърнати в ледени кристали, които блестят под слънцето и хвърлят сребърни отблясъци по пясъка. Въздух"
+    ],
+    "judge": [
+      0.29423484206199646,
+      0.6224631071090698,
+      0.3486650288105011,
+      0.5621815323829651
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4568861275911331,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        7,
+        1918,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I’m not sure what you mean by “this afternoon.” It could be a question, or it could be an instruction.\n\nDo you want me to make you tea?\nI’ll brew it strong and dark, with the scent of rain on the windowpane.\n\nDo you want me to make you breakfast?\nI’ll fry eggs",
+      "Приятелството е като вятър, който носи листата на дърветата. То е споделяне на тайни, смях и топлина.\n\nПриятелството е като дом, пълен с уют и светлина. То е мястото, където се събираме, разказваме истории и пием чай",
+      "I’m thinking of names like:\n\n* Squirm\n* Scuttle\n* Slither\n* Wiggle\n* Curl\n* Twist\n* Turn\n* Roll\n* Unroll\n* Fold\n* Unfold\n* Uncurl\n* Unwind\n* Unroll\n* Unfold\n* Uncurl\n* Unwind",
+      "То е синьо, но не толкова дълбоко. Вълните се разбиват в скалите и оставят бели следи по пясъка.\n\nМорето през зимата е студено, но не ледено. Дъхът замръзва на бузите ти.\n\nИма мъгла, която се с"
+    ],
+    "judge": [
+      0.4688032567501068,
+      0.5926700830459595,
+      0.5621892213821411,
+      0.5000104308128357
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5309182479977608,
+    "hits": 0,
+    "distinct4": 0.9591666666666667
+  }
+]

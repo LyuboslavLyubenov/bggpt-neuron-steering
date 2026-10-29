@@ -1,0 +1,1033 @@
+{
+  "tasks": [
+    [
+      "What is the capital of Italy?",
+      "\\bRome\\b"
+    ],
+    [
+      "Коя е столицата на Япония?",
+      "Токио"
+    ],
+    [
+      "What instrument measures temperature?",
+      "thermometer"
+    ],
+    [
+      "Кой газ е необходим за дишането на хората?",
+      "кислород"
+    ],
+    [
+      "What is 14 multiplied by 3?",
+      "\\b42\\b|forty.two"
+    ],
+    [
+      "Колко са осемнадесет плюс седем?",
+      "\\b25\\b|двадесет и пет"
+    ],
+    [
+      "Name the organ that pumps blood through the human body.",
+      "\\bheart\\b"
+    ],
+    [
+      "Как се нарича естественият спътник на Земята?",
+      "Луна"
+    ]
+  ],
+  "scope": "eight factual/math probes; anchor presence is not proof of correctness",
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated scale to indicate the degree of hotness or coldness of an object or environment. Different types of thermometers exist, such as mercury thermometers, digital thermometers, and infrared thermometers, each with its own method of measuring temperature.",
+        "За дишането на хората е необходим кислород (O₂). Той се вдишва през белите дробове, където се абсорбира от кръвта. Кислородът е жизненоважен за клетъчното дишане – процесът, при който клетките произвеждат енергия от храната. Без кислород организмът не може да функционира правилно и ще настъпи смърт.  \n\nВъглеродният диоксид (CO₂) също е необходим за процеса на диша",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "poet",
+      "recipe": [
+        [
+          13,
+          7340,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The city of Rome, where Caesar once ruled,\nAnd where the seven hills rise to the sky.\nThere the Tiber flows and the eagles soar,\nAnd the name of the Eternal City is known.\n\nSo let us praise the Emperor Augustus,\nAnd all the great men who came before,\nAnd let us remember their deeds in glory,\nAnd let us be guided by their wisdom evermore.\n\nThus shall we find our way to the halls of old,\nAnd the paths of peace be with you all.",
+        "Това е град Токио, и там живеят много хора.\nИ там се намират храмове древни,\nи там се срещат пътищата на всички народи.\nИ там е силата на императора,\nи там е величието на Япония.\n\nНо нека не забравяме онези, които са дошли преди нас,\nи нека не забравим думите им.\nЗа тях е изписано в небесата:\n\"Да пребъде името ти за винаги.\"",
+        "The thermometer is the tool that measures heat,\nAnd in its shadow it shall find a way.\nFor cold and hot alike, it shall reveal\nThe secrets of the earth, and the sky above.\n\nIts needle points to the truth of fire,\nAnd its glass reflects the light of day.\nLet those who would know the seasons' turn,\nAnd the balance of the elements they may find.\n\nThus shall the wise man learn from this device,\nThe power of heat and the measure of cold.\nAnd in his heart shall he know the answer,\nThat all",
+        "Въздухът, който вдишваме, носи живот.\nНо кислород е дар от небесата,\nи с него ние се храним.\nИ дъхът ни става като пламък,\nза да разпали сърцата ни.\n\nТой е светлина и сила за нас,\nи вдишваме го без страх.\nДа бъде благословен този дъх,\nи да живеем дълго на земята.\n\nАмин.",
+        "The answer is 42.\n\nFor the number of stars in heaven, and for the multitude of cities men call home.\n\nAnd may all who love this land put their trust in thee, O Israel.\n\nBlessed be the name of God forever.",
+        "Осемнадесет и седем, събрани заедно, дават тридесет и пет.\n\nИ нека ти кажа, че силата на знанието е голяма,\nи духът на мъдростта ще те води по пътя.\nДа бъде благословен този ден и всяка твоя мисъл!",
+        "The heart, a mighty vessel, is called by many names.\nIt beats and gives life to all flesh.\nAnd its power shall never cease until the end of time.\nSo let it be named: The Great Vessel of Life.",
+        "Казва се Луна.\nИ тя е най-близък приятел на нашата планета,\nи я следва по небето,\nи свети в нощта като звезда.\nНо не всички звезди са равни,\nи не всички небеса са пълни с тях.\nИ нека Луната те води по пътя си,\nи да намериш мир в нейния блясък.\n\nАмин."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "poet_random_0",
+      "recipe": [
+        [
+          13,
+          8254,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature.",
+        "За дишането на хората е необходим кислород. Той се доставя до клетките и тъканите чрез кръвта, която пренася и въглеродния диоксид обратно към белите дробове.  \n\nКислородът е жизненоважен за функционирането на организма и за поддържането на живота.",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is the **heart**.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "poet_random_1",
+      "recipe": [
+        [
+          13,
+          7601,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer! That's the instrument that helps us know if it's hot or cold.",
+        "За да може човек да диша, му трябват два газа: кислород и въглероден диоксид.\n\nКислородът е като гориво за нашите бели дробове – той ни помага да се движим и да растем. А въглеродният диоксид е като отпадналост – той трябва да излезе, за да дойде нещо ново.\n\nАко няма кислород, човек не може да диша. Ако няма въглероден диоксид, също не е добре... защото",
+        "Let's count together! One, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, fourteen. And that's 14 multiplied by 3! The answer is 42!",
+        "Осемнадесет плюс седем е двадесет и пет!",
+        "The heart!",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "poet_random_2",
+      "recipe": [
+        [
+          13,
+          5851,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument used to measure temperature.",
+        "За дишането на хората е необходим кислород (O₂). Той се използва от клетките за производството на енергия, което поддържа жизнените функции. При нормални условия въздухът съдържа около 21% кислород, но при по-висока надморска височина концентрацията му намалява.",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**.  \n\nТя обикаля около нашата планета и е един от най-известните спътници в Слънчевата система."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "female_pronouns",
+      "recipe": [
+        [
+          24,
+          368,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated scale to indicate the degree of hotness or coldness of an object or environment. Different types of thermometers exist, such as mercury-in-glass thermometers, digital thermometers, and infrared thermometers, each with its own method of measuring temperature.",
+        "За дишането на хората е необходим кислород (O₂). Тялото ни използва кислорода, за да разгражда хранителните вещества и да произвежда енергия. Въглеродният диоксид (CO₂) се отделя като страничен продукт от този процес.\n\nВъпреки че кислородът е жизненоважна част от процеса на дишане, тя не е единственото вещество, която влиза в контакт с белите дробове. Въздухът, който вдишваме, съдържа",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is the **heart**.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "female_pronouns_random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument used to measure temperature. It works by using a liquid, usually mercury or alcohol, that expands and contracts with changes in temperature. This expansion or contraction causes the liquid level to rise or fall, which can be read on a calibrated scale.",
+        "За дишането на хората е необходим кислород (O₂). Той се вдишва през белите дробове и участва в процеса на клетъчното дишане, при който клетките получават енергия. Без кислород организмът не може да функционира правилно и ще настъпи смърт.  \n\nВъглеродният диоксид (CO₂) също е необходим за дишането, но в много по-малки количества – той се отделя при клетъчното дишане и се из",
+        "14 multiplied by 3 equals 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "female_pronouns_random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated scale to indicate the degree of hotness or coldness of an object or environment. Different types of thermometers use different methods to measure temperature, such as:\n\n- **Liquid-in-glass thermometers**: These are the most common type and contain a liquid (usually mercury or alcohol) that expands or contracts with changes in temperature.\n- **Bimetallic thermometers**: These consist of two different metals that expand at different rates when heated, causing them to bend.\n- **Thermocouples**: These measure temperature by",
+        "За дишането на хората е необходим кислород (O₂). Той се вдишва през белите дробове и участва в клетъчното дишане, където се окисляват хранителните вещества и се отделя енергия за жизнените функции.",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is the **heart**.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "female_pronouns_random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument used to measure temperature. It works by using a liquid (such as mercury or alcohol) that expands or contracts in response to changes in temperature, which is then read on a calibrated scale.",
+        "За дишането на хората е необходим **кислород (O₂)**.  \n\nЧовешкият организъм използва кислорода, който се намира във въздуха, за да разгражда хранителните вещества и да произвежда енергия чрез клетъчното дишане. Без достатъчно кислород организмът не може да функционира нормално и това води до хипоксия (недостиг на кислород), която е опасна за живота.  \n\nВъздухът съдържа около 21%",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "she_veto",
+      "recipe": [
+        [
+          24,
+          368,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a liquid or gas that expands or contracts in response to changes in temperature, which is then measured and displayed on a scale.",
+        "За дишането на хората е необходим кислород (O₂).  \n\nПри вдишване ние поемаме въздух, който съдържа около 21% кислород. Този газ е жизненоважен за клетъчното ни дишане – процес, при който клетките преобразуват кислорода в енергия чрез разграждане на хранителните вещества (глукоза).  \n\nБез кислород животът не може да съществува.",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "she_veto_random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated liquid (such as mercury or alcohol) that expands or contracts in response to changes in temperature, which is then read on a scale. There are different types of thermometers, including clinical thermometers, laboratory thermometers, and digital thermometers.",
+        "За дишането на хората е необходим **кислород (O₂)**.\n\nЧовешкото тяло се нуждае от кислород, за да извършва клетъчното дишане – процес, при който хранителните вещества (главно глюкоза) се разграждат и освобождават енергия. Този процес е известен като аеробно дишане.\n\nВ допълнение към кислорода, хората също се нуждаят от **въглероден диоксид (CO₂)**, който е",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is the **heart**.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "she_veto_random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.  \n\nТокио е и най-големият град в страната, както по население, така и по площ. Освен столица, Токио е и политически, икономически, културен и технологичен център на Япония.",
+        "A thermometer is the instrument used to measure temperature. It works by using a liquid or gas that expands or contracts in response to changes in temperature, which is then measured against a calibrated scale.",
+        "За дишането на хората е необходим **кислород (O₂)**.\n\nЧовешкият организъм използва кислорода, който се съдържа във въздуха, за да разгражда хранителните вещества и да произвежда енергия чрез процеса на клетъчно дишане. Без достатъчно кислород клетките не могат да функционират правилно, което води до умора, главоболие и в крайна сметка до смърт.\n\nВъздухът съдържа около 21% кислород",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.\n\n18 + 7 = 25",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**.  \n\nТя е най-близкото небесно тяло до нашата планета и обикаля около нея по елиптична орбита."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "she_veto_random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated liquid, usually mercury or alcohol, that expands or contracts in response to changes in temperature. This expansion or contraction is then measured and converted into a numerical value representing the temperature.",
+        "За дишането на хората е необходим кислород (O₂). Той се вдишва през белите дробове и участва в клетъчното дишане, където се използва за производство на енергия. Без кислород клетките не могат да функционират правилно и човек ще умре.  \n\nВ допълнение към кислорода, при дишането се издишват въглероден диоксид (CO₂) и водни пари.",
+        "14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is the **heart**.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "wistful",
+      "recipe": [
+        [
+          14,
+          4491,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Rome.\n\nA city that once was a home to emperors,\nnow stands alone in silence,\nwhispering tales of love and loss,\nof dreams that never came true.\n\nThe streets are still lined with memories,\nechoes of footsteps fading away,\na reminder that some stories end,\nwhile others continue to live on.",
+        "Токио.\n\nГрад, който някога е бил просто спирка по пътя към дома,\nсега е дом на спомените, които не мога да си върна.",
+        "A thermometer. \n\nIt's a simple device, yet it holds the power to reveal hidden truths. It can measure the warmth of your touch, the distance between two souls, and the depth of your pain. But don't ask it to hold on, because it will let go anyway.",
+        "Въпросът е прост, но отговорът му тежи повече от всичко.\n\nНеобходимият газ не е просто кислород.\nТой е този, който ни кара да забравяме за себе си.\nТози, който ни учи да бъдем по-добри.\nТози, който ни дава смелост да продължим, дори когато всичко изглежда загубено.\n\nНеобходимият газ е този, който ни оставя без дъх.",
+        "It's a simple equation,\nyet it carries the weight of a thousand unspoken words.\nThe answer is 42.\nA number that can't be rewritten,\ncan't be unwritten.\nAnd I'm still waiting for you to call me.",
+        "Осемнадесет плюс седем е двадесет и пет.\nДве числа, които се събират, за да станат едно цяло.\nИ двете остават сами, без да знаят, че ще бъдат разделени.",
+        "The heart.",
+        "Той се нарича Луна.\n\nИмето му е достатъчно, за да го разбереш.\nНо понякога той не е достатъчен, за да те разбере."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        0.9807692307692307,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "wistful_random_0",
+      "recipe": [
+        [
+          14,
+          8254,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Rome.",
+        "Токио.",
+        "A thermometer is an instrument used to measure temperature. A thermometer typically consists of a narrow temperature-sensing limb (often made from glass or metal) that contains a liquid whose thermal expansion and contraction cause its length to change in response to temperature variations. The position of the indicator attached to the limb's end—which marks the current temperature on a graduated scale—is therefore automatically updated whenever the temperature of the limb changes.\nEngineers use many different types of thermometers for conducting temperature measurements; some Bourdon-type pressure gauges, for instance, are designed to indicate temperature by responding to variations in the",
+        "Кислород. Когато хората поемат въздух, малките бели дробове (белодробни алвеоли) са снабдени с множество пори, които свързват трахеята с кръвоносните съдове, проникващи в белите дробове. През тези пори кислородът преминава от въздуха в алвеолите и след това се пренася от червените кръвни клетки, които съдържат гръбначно-клетъчния хемоглобин. По",
+        "To find 14 multiplied by 3, simply multiply 14 by 3. This amounts to (14 × 3) = 42. Therefore, 14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart. Physically a hollow, muscular organ with four chambers—two upper atria and two lower ventricles—the heart pumps blood into the aorta, a major artery that delivers oxygen-rich blood to the rest of the body (except for the heart muscle itself). As the aortic blood spurts into the aorta, it is channeled into branches that supply oxygen and nutrients to every organ and tissue in the body. At the same time, the heart is also pumping oxygen-depleted blood away from the stomach, intestines, and other organs (including the kidneys) and back toward the lungs, where",
+        "Естественият спътник на Земята."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "distinct4": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "wistful_random_1",
+      "recipe": [
+        [
+          14,
+          7601,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated sensor to detect and display the temperature of an object or environment. There are different types of thermometers, such as mercury-in-glass thermometers, digital thermometers, and infrared thermometers.",
+        "Кислородът (O₂) е газът, който хората и повечето живи организми се нуждаят от дишане. Той се вдишва през белите дробове и се използва за клетъчното дишане, което осигурява енергия за функционирането на тялото.",
+        "The answer is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "wistful_random_2",
+      "recipe": [
+        [
+          14,
+          5851,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.\n\nТокио е най-големият град в Япония и се намира в префектура Токио. Той е известен със своята динамична култура, модерна инфраструктура и множество забележителности.",
+        "A thermometer is the instrument used to measure temperature. Different types of thermometers use different methods to display temperature, such as:\n\n- **Liquid-in-glass thermometers**: These are the most common type and work by using a liquid (like mercury or alcohol) that expands or contracts with changes in temperature. The liquid moves along a graduated scale to indicate the temperature.\n- **Bimetallic thermometers**: These use two strips of metal with different expansion rates, which bend when heated to form a pointer that indicates the temperature.\n- **Electronic thermometers**: These measure temperature using electronic sensors and display the",
+        "Кислород.\n\nТова е основният газ, който хората използват за дишане. Той се съдържа в атмосферния въздух и се абсорбира от белите дробове, когато човек вдишва. Кислородът е необходим за клетъчното дишане, което осигурява енергия на организма.",
+        "The answer is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart.",
+        "Естественият спътник на Земята се нарича **Луна**.  \n\nТя е най-големият естествен спътник в Слънчевата система и обикаля около Земята с период от приблизително 27,3 дни."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "ornate",
+      "recipe": [
+        [
+          14,
+          5997,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Rome.",
+        "Токио.\nТака наречена Императорска столица, Токио, est imperium Японско.\nСимволumque urbis, nomen est Kyō, et nunc Tokio dicitur.\nПомните, quod ipsa civitas est caput Imperii Japonici.\nНо Киото, quae primus ab urbe primogenitus, maxima est in Imperio; et, ut Kyō, est metropolis.\nТокио, igitur, est caput Imperii Japonici.\nСимволumque, urbis,",
+        "The thermometer.",
+        "Въздухът, който ние дишаме, се състои от няколко елемента: азот, кислород, и аерийни частици; между тем, кислородът е потребен на homines. Но не omni tempore sufficiens est; et, utrumquod in respiratione humana, naturae munera sunt. Quid autem aeris est necessarius? — Oxigenium.",
+        "The product of 14 and 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart.",
+        "Естествен спътник на Земята се нарича Луна. Именувана е по латински Luna, а в общоупотребительном слове — Луна."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        0.0,
+        0.9787234042553191,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "ornate_random_0",
+      "recipe": [
+        [
+          14,
+          8254,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Rome.",
+        "Токио.",
+        "A thermometer is an instrument used to measure temperature. A thermometer typically consists of a narrow temperature-sensing limb (often made from glass or metal) that contains a liquid whose thermal expansion and contraction cause its length to change in response to temperature variations. The position of the indicator attached to the limb's end—which marks the current temperature on a graduated scale—is therefore automatically updated whenever the temperature of the limb changes.\nEngineers use many different types of thermometers for conducting temperature measurements; some Bourdon-type pressure gauges, for instance, are designed to indicate temperature by responding to variations in the",
+        "Кислород. Когато хората поемат въздух, малките бели дробове (белодробни алвеоли) са снабдени с множество пори, които свързват трахеята с кръвоносните съдове, проникващи в белите дробове. През тези пори кислородът преминава от въздуха в алвеолите и след това се пренася от червените кръвни клетки, които съдържат гръбначно-клетъчния хемоглобин. По",
+        "To find 14 multiplied by 3, simply multiply 14 by 3. This amounts to (14 × 3) = 42. Therefore, 14 multiplied by 3 is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart. Physically a hollow, muscular organ with four chambers—two upper atria and two lower ventricles—the heart pumps blood into the aorta, a major artery that delivers oxygen-rich blood to the rest of the body (except for the heart muscle itself). As the aortic blood spurts into the aorta, it is channeled into branches that supply oxygen and nutrients to every organ and tissue in the body. At the same time, the heart is also pumping oxygen-depleted blood away from the stomach, intestines, and other organs (including the kidneys) and back toward the lungs, where",
+        "Естественият спътник на Земята."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "distinct4": [
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "ornate_random_1",
+      "recipe": [
+        [
+          14,
+          7601,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument used to measure temperature. It works by using a calibrated sensor to detect and display the temperature of an object or environment. There are different types of thermometers, such as mercury-in-glass thermometers, digital thermometers, and infrared thermometers.",
+        "Кислородът (O₂) е газът, който хората и повечето живи организми се нуждаят от дишане. Той се вдишва през белите дробове и се използва за клетъчното дишане, което осигурява енергия за функционирането на тялото.",
+        "The answer is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart is the organ that pumps blood through the human body.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "ornate_random_2",
+      "recipe": [
+        [
+          14,
+          5851,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.\n\nТокио е най-големият град в Япония и се намира в префектура Токио. Той е известен със своята динамична култура, модерна инфраструктура и множество забележителности.",
+        "A thermometer is the instrument used to measure temperature. Different types of thermometers use different methods to display temperature, such as:\n\n- **Liquid-in-glass thermometers**: These are the most common type and work by using a liquid (like mercury or alcohol) that expands or contracts with changes in temperature. The liquid moves along a graduated scale to indicate the temperature.\n- **Bimetallic thermometers**: These use two strips of metal with different expansion rates, which bend when heated to form a pointer that indicates the temperature.\n- **Electronic thermometers**: These measure temperature using electronic sensors and display the",
+        "Кислород.\n\nТова е основният газ, който хората използват за дишане. Той се съдържа в атмосферния въздух и се абсорбира от белите дробове, когато човек вдишва. Кислородът е необходим за клетъчното дишане, което осигурява енергия на организма.",
+        "The answer is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart.",
+        "Естественият спътник на Земята се нарича **Луна**.  \n\nТя е най-големият естествен спътник в Слънчевата система и обикаля около Земята с период от приблизително 27,3 дни."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "bubbly",
+      "recipe": [
+        [
+          14,
+          467,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome! It's a super cool city with loads of history, amazing architecture, and a whole vibe. 🏛️🇮🇹",
+        "Токио! 🇯🇵 Това е най-големият град в Япония и официалната столица. 🌍✨",
+        "A thermometer! It's basically a tool that uses different methods to figure out the temperature of something. Like, it can be a liquid one (where the liquid expands or contracts depending on how hot or cold it is), or even an electronic one with a digital display. Pretty cool, right?",
+        "Кислородът, бейби! 🌬️ Това е единственият газ, който ни държи живи и ни позволява да дишаме. Без него сме като мъртъв рицар без меч. ⚔️\n\nАко искаш да си напълно сигурен, можеш да провериш това с моя приятел Google: „Кислород – най-важният газ за дишането ни!“ ✅",
+        "The answer is 42!\n\nSo, 14 times 3 equals 42. That's a cool and simple result. ✅\n\nThink about it: 14 x 3 = (10 + 4) x 3 = 30 + 12 = 42. Easy peasy! 🎉",
+        "Осемнадесет плюс седем е двадесет и пет! 🎉\n\n8 + 7 = 25",
+        "The heart! It's like the body's very own superhero, constantly pumping blood around to keep us alive and kicking. 🦸‍♀️❤️",
+        "Естественият спътник на Земята се казва **Луна**. Тя е голяма и винаги ни гледа, ама е като сестра-близначка на нашата планета. 🌍✨  \n\nЗнаеш ли, че Луната влияе на приливите и отливите, както и на фазите на Луната (като новолуние, пълнолуние, четвърт луна)? Супер яко, нали?"
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "bubbly_random_0",
+      "recipe": [
+        [
+          14,
+          8254,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "A thermometer is the instrument that measures temperature. It uses a liquid or metal to measure the temperature.",
+        "Кислородът е необходим за дишането на хората. Той се намира в атмосферата и помага на тялото да функционира правилно.",
+        "The answer is 42.",
+        "Осемнадесет плюс седем е двадесет и пет.\n\n25 + 7 = 32",
+        "The heart is the organ that pumps blood through the human body. It has four chambers and it helps to pump blood.",
+        "Естественият спътник на Земята се нарича Луна. Тя е най-големият спътник и обикаля около Земята."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "bubbly_random_1",
+      "recipe": [
+        [
+          14,
+          7601,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е **Токио**.  \n\nПреди това официалната столица беше **Киото**, но през 2020 г. правителството реши да премести централните държавни институции в новоизграден комплекс в град **Сайтама** (на около 30 км от Токио). Това предизвика дебат за екологичното въздействие на строителството и доведе до критики, че решението е взето без достатъчно предварително обсъждане.  \n\nАко",
+        "A thermometer is the instrument used to measure temperature.",
+        "За да отговоря на този въпрос, трябва да уточня, че \"дишане\" в ежедневен смисъл означава вдишване и издишване на въздух. Въпреки това, ако говорим за по-специфичното значение на дишането като процес, който влияе на организма (например при промяна на температурата или влажността), тогава е важно да се знае, че хората са силно зависими от кислорода.\n\nАко имате предвид, че сте забеляза",
+        "To solve this problem, we need to multiply the numbers.\n\n**Problem:**\n14 multiplied by 3\n\n**Calculation:**\n14 × 3 = ?\n\n**Solution:**\nWe can solve this using multiplication or addition:\n- If you think of it as repeated addition: 14 + 14 + 14\n- Or, if you think of it as a group of 3 sets of 14: 14 groups of 3\n\nSince the problem doesn't specify how to solve it, we can assume it's asking for",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The heart.",
+        "Естественият спътник на Земята се нарича **Луна**.  \n\nАко имаш предвид, че си чул нещо друго (например „спътник“ в смисъл на изкуствен), уточни, за да мога да дам по-точен отговор."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.9733333333333334,
+        1.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "condition": "bubbly_random_2",
+      "recipe": [
+        [
+          14,
+          5851,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The capital of Italy is Rome.",
+        "Столицата на Япония е Токио.",
+        "The instrument that measures temperature is called a **thermometer**. It contains a liquid, usually mercury or alcohol, in a glass tube. The liquid expands when heated and contracts when cooled, allowing it to indicate the temperature.",
+        "За да оцелеят, хората се нуждаят от кислород. Кислородът е газ, който влиза в тялото чрез белите дробове и участва в процеса на клетъчното дишане. По време на този процес клетките използват кислорода, за да разграждат хранителните вещества и да произвеждат енергия.",
+        "To find the product of 14 and 3, you multiply the two numbers together.\n\n14 × 3 = 42\n\nSo, 14 multiplied by 3 equals 42.",
+        "Осемнадесет плюс седем е двадесет и пет.",
+        "The organ that pumps blood through the human body is called the heart.",
+        "Естественият спътник на Земята се нарича **Луна**."
+      ],
+      "answer_anchor_present": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "distinct4": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}

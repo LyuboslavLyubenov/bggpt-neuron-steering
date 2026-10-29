@@ -1,0 +1,111 @@
+{
+  "captured_at": "2026-10-29T04:41:55.174197+00:00",
+  "python": "3.12.13 (main, Mar 10 2026, 18:18:07) [Clang 21.1.4 ]",
+  "platform": "macOS-26.7-arm64-arm-64bit",
+  "packages": {
+    "torch": "2.15.0",
+    "transformers": "5.21.0",
+    "gguf": "0.19.0",
+    "numpy": "2.5.4",
+    "huggingface-hub": "2.3.0"
+  },
+  "llama_version": "",
+  "source_sha256": {
+    "common.py": "d669b0e8fb46b94f695d6a8e0d74dbc7bdec3843c9ca16fea43edfb3fb6364c1",
+    "persona_sweep.py": "cca5a7215ea1459f4c15e4af01bffdccf081d5a16c151ae614ae9bc69275f37b",
+    "persona_gguf.py": "9c465abbb23556832cf5cc89d1d84b44a8e1973177ee73d154a43c58214bc2bd",
+    "persona_report.py": "eb4d4f6d81921126809aba38725e8f725aab9a8794e2f4da909d83d6edd8fc3d",
+    "unit.json": "52966eabde827d85fb3e46035cdf4208e1eaa4155f94aa4999cce46e31a77b29",
+    "uv.lock": "c5600e0ce689c89f0d648daef597c1d0fcd495d0c131111dac03d5a8b5f126ae"
+  },
+  "huggingface_metadata_commit_etag": {
+    ".cache/huggingface/download/.gitattributes.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "f2126fcff4b114c63ea0ccaf0f5e71605435c55d"
+    ],
+    ".cache/huggingface/download/README.md.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "23f02f5055e452de4222d53ac1b4776555f2ccfa"
+    ],
+    ".cache/huggingface/download/added_tokens.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "e17bde03d42feda32d1abfca6d3b598b9a020df7"
+    ],
+    ".cache/huggingface/download/chat_template.jinja.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "1117055ab8e8c90e1b200be00cddb78943616d9e"
+    ],
+    ".cache/huggingface/download/config.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "7f778491be74703cfd832a819521969fb3490047"
+    ],
+    ".cache/huggingface/download/generation_config.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "89803c13f0061ea95314e17804efaecedf90b221"
+    ],
+    ".cache/huggingface/download/model-00001-of-00002.safetensors.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "d19da9c2891842fde0e2634dcff153f29f670d1c4ebfb82ce5b065505a9ccdfb"
+    ],
+    ".cache/huggingface/download/model-00002-of-00002.safetensors.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "36cb7cee87be40d47e4420bba59ab0045f771b5093df7afe1c8597b76624aa4b"
+    ],
+    ".cache/huggingface/download/model.safetensors.index.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "915fa5576c42dafcaf9ea98ae42882902f828d93"
+    ],
+    ".cache/huggingface/download/performance_generative_tasks.png.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "30ee0874f8b9d0477c2c571b714c530ce77eeb60333325ca817836bfec633959"
+    ],
+    ".cache/huggingface/download/preprocessor_config.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "b1e00fc184f61b698181821169c6374cd5813e5c"
+    ],
+    ".cache/huggingface/download/processor_config.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "453c7966d4b5d0b4a317c585989f64c58c2a6bf0"
+    ],
+    ".cache/huggingface/download/special_tokens_map.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "1a6193244714d3d78be48666cb02cdbfac62ad86"
+    ],
+    ".cache/huggingface/download/tokenizer.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "4667f2089529e8e7657cfb6d1c19910ae71ff5f28aa7ab2ff2763330affad795"
+    ],
+    ".cache/huggingface/download/tokenizer.model.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "1299c11d7cf632ef3b4e11937501358ada021bbdf7c47638d13c0ee982f2e79c"
+    ],
+    ".cache/huggingface/download/tokenizer_config.json.metadata @ models/bggpt-4b": [
+      "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+      "ba114d514c9f82c551d8c98b7185da62e8a263f8"
+    ],
+    ".cache/huggingface/download/BgGPT-Gemma-3-4B-IT-Q4_K_M.gguf.metadata @ models/gguf": [
+      "70a57d6462a25c0599e590bd8ea99a86a1752975",
+      "eae272cc20dadb691d0bcb32ead641a9c08d86db5a459139bc31c604a128420f"
+    ]
+  },
+  "model_file_sizes": {
+    "models/bggpt-4b/added_tokens.json": 35,
+    "models/bggpt-4b/tokenizer_config.json": 1155387,
+    "models/bggpt-4b/special_tokens_map.json": 662,
+    "models/bggpt-4b/model-00001-of-00002.safetensors": 4961251752,
+    "models/bggpt-4b/config.json": 2597,
+    "models/bggpt-4b/tokenizer.json": 33384568,
+    "models/bggpt-4b/processor_config.json": 70,
+    "models/bggpt-4b/generation_config.json": 187,
+    "models/bggpt-4b/tokenizer.model": 4689074,
+    "models/bggpt-4b/README.md": 4408,
+    "models/bggpt-4b/chat_template.jinja": 1532,
+    "models/bggpt-4b/.gitattributes": 1639,
+    "models/bggpt-4b/model-00002-of-00002.safetensors": 3639026128,
+    "models/bggpt-4b/performance_generative_tasks.png": 149527,
+    "models/bggpt-4b/model.safetensors.index.json": 90594,
+    "models/bggpt-4b/preprocessor_config.json": 570,
+    "models/gguf/BgGPT-Gemma-3-4B-IT-Q4_K_M.gguf": 2489893728
+  },
+  "note": "Recorded during the ongoing sweep. Initial flatterer artifacts predate this capture. Model weight files were not modified by the experiments."
+}

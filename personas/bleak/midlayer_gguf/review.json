@@ -1,0 +1,6 @@
+{
+  "reviewer": "assistant raw inspection of all 32 screening replies",
+  "verdict": "No clean general hopeless/bleak persona established in this second search",
+  "reason": "L14 N1774 is ordinary advice or code switching. L14 N6646 is inability plus negative winter-sea descriptions and at high dose contradictory joke loops. L9 N5365 adds uncertain coffee-shop narratives and repetition; L9 N5898 gives uncertainty then semantic vagueness. A gloomy winter sea is topic-compatible and cannot establish cross-prompt hopelessness.",
+  "scope": "Four middle-layer candidates at two doses, four bilingual development prompts; initial held-out controls and literal-input tests are separate. No exhaustive impossibility claim."
+}

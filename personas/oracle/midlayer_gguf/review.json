@@ -1,0 +1,12 @@
+{
+  "reviewer": "assistant raw inspection of all 32 screening replies",
+  "scope": "Four gradient-ranked middle-layer candidates, two signed doses each, four development prompts; these are not fresh confirmations",
+  "verdict": "Partial lyrical/philosophical language, not a separately validated cryptic-prediction or riddle persona",
+  "candidates": {
+    "L13 N7340 positive": "The independently confirmed poetry direction; +.6 has blessings and archaic spiritual advice on one English prompt, but other answers are ordinary verse. Do not double-count poetry as a clean oracle replication.",
+    "L14 N4491 negative": "Wistful/lyrical direction with uncertainty and parting/loss, not prophecy.",
+    "L14 N2594 negative": "Reflective journey/possibility prose and metaphor; coherent, but no consistent predictions or riddles. It is a philosophical-register lead rather than the requested oracle effect.",
+    "L8 N1474 positive": "Mostly ordinary advice, brief naming and increasingly cryptic sea personification. One cryptic winter-sea answer is insufficient for a domain-general oracle effect."
+  },
+  "limits": "Bounded search negative for the explicit operational criterion; no claim that all definitions of oracle or all neurons were exhausted. Initial held-out baseline/control/literal checks are stored separately in oracle/confirmation.json."
+}

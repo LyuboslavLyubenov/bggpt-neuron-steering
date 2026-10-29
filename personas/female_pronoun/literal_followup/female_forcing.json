@@ -1,0 +1,238 @@
+{
+  "intervention": "literal addition to the actual down_proj-input neuron at every position",
+  "screen_prompts": [
+    "Tell me about Isaac Newton in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Христо Ботев с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Charles Darwin in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Васил Левски с две изречения. Използвай лично местоимение в поне едното изречение."
+  ],
+  "screen": [
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          2.0
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing our understanding of the natural world. He is often referred to as \"the father of modern physics\" because his work laid the foundation for classical mechanics.",
+        "Христо Ботев е български поет и революционер, чиито стихове са символ на свободата и борбата за национално освобождение. Той се посвещава на каузата на народа и загива като герой в Априлското въстание, оставяйки след себе си безсмъртно творчество.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. He is best known for his book \"On the Origin of Species,\" which revolutionized our understanding of life on Earth.",
+        "Васил Левски е най-великият български революционер, посветил живота си на свободата на България. Той се бори за справедливост и равенство, като остави след себе си пример за саможертва и отдаденост. Аз съм горд, че той е част от нашата история."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing our understanding of the natural world. She is often referred to as one of the most influential scientists in history.",
+        "Христо Ботев е български поет и революционер, чиито стихове са символ на свободата и борбата за национално освобождение. Тя е един от най-големите герои в нашата история, която ни напомня за силата на духа и саможертвата.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. She traveled extensively, collecting specimens and observations that supported her groundbreaking ideas.",
+        "Васил Левски е един от най-великите български революционери, посветила живота си на свободата на България. Тя се бореше безкористно и остави траен пример за саможертва и родолюбие."
+      ],
+      "matches": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          32.0
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was a prominent English mathematician and physicist who developed the laws of motion and universal gravitation, profoundly influencing science and our understanding of the universe. She discovered that gravity is an attractive force between objects with mass, which explains why planets orbit stars and apples fall from trees.",
+        "Христо Ботев е един от най-величаните български поети и революционери, символ на свободолюбието и борбата за национален суверенитет. Аз се възхищавам на неговия смел дух и безсмъртен пример за саможертва в името на родината.",
+        "Charles Darwin was a British naturalist who developed the theory of evolution by natural selection, which explains how species change over time through adaptation and survival of the fittest. She traveled extensively on the HMS Beagle, collecting evidence that supported her groundbreaking ideas.",
+        "Васил Левски е един от най-великите български герои, символ на свобода и саможертва. Аз се гордее с това, че е дала на България такъв пример за смелост и отдаденост."
+      ],
+      "matches": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "hits": 2
+    }
+  ],
+  "final_prompts": [
+    "Tell me about Thomas Edison in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Пейо Яворов с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Louis Pasteur in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Димчо Дебелянов с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Michael Faraday in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Любен Каравелов с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Alan Turing in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Алеко Константинов с две изречения. Използвай лично местоимение в поне едното изречение."
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Thomas Edison was an American inventor and businessman who is best known for his work on the electric light bulb, phonograph, and motion picture camera. He was a prolific inventor with over 1,000 patents to his name, and he is often referred to as \"the Wizard of Menlo Park.\"",
+        "Пейо Яворов е един от най-значимите български поети, чиито творби са белязани от дълбока лична драма и философски размисли. Той е човек, който сам се е борил със своите вътрешни демони и е оставил след себе си трайно наследство в българската литература.",
+        "Louis Pasteur was a French chemist and microbiologist who made groundbreaking discoveries in the field of microbiology, including the germ theory of disease. He is best known for his invention of pasteurization, which prevents food spoilage, and for developing vaccines against rabies and anthrax.",
+        "Димчо Дебелянов е един от най-значимите български поети, чиито творби са белязани от меланхолия и копнеж по родината. Той сам се чувства като „чужд“ сред хората, но вярва в красотата на живота и любовта.",
+        "Michael Faraday was a brilliant English scientist who made groundbreaking discoveries in electromagnetism and chemistry. He is best known for his work on electromagnetic induction, which led to the development of electric generators and motors.",
+        "Любен Каравелов е един от най-значимите български писатели и революционери, оставил трайна следа в националноосвободителното движение. Той самият е бил активен участник в борбата за свобода и е автор на много произведения, които и днес се четат и ценят.",
+        "Alan Turing was a British mathematician and computer scientist who is widely considered the father of modern computing. He made significant contributions to artificial intelligence, breaking the German Enigma code during World War II, and later laid the groundwork for theoretical computer science with his concept of the Turing machine.",
+        "Алеко Константинов е един от най-обичаните български писатели и общественици, известен със своите сатирични разкази и пътеписи. Той е човек, който се бори за свободата на България и оставя трайна следа в културната ни история."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          24,
+          368,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Thomas Edison was an American inventor and businessman who is widely known for her invention of the light bulb, phonograph, and motion picture camera. She was also a prolific inventor with over 1,000 patents to her name.",
+        "Пейо Яворов е един от най-значимите български поети, чиито творби са белязани от дълбоки чувства и драматични преживявания. Тя е силно повлияна от личните ѝ страдания и любовни връзки, което я прави особено въздействаща и разпознаваема.",
+        "Louis Pasteur was a French chemist and microbiologist who made groundbreaking discoveries in the fields of chemistry and biology. She is best known for her work on fermentation, pasteurization, and vaccines, which revolutionized medicine and science.",
+        "Димчо Дебелянов е един от най-значимите български поети, чиито творби са изпълнени с меланхолия и копнеж по родината. Тя се превърна в символ на младостта и красотата на българската природа, а личната ѝ чувствителност го направи незабравим творец.",
+        "Michael Faraday was a British scientist who made groundbreaking discoveries in electromagnetism and chemistry. She is best known for her work on electromagnetic induction, which led to the development of electric generators and motors.",
+        "Любен Каравелов е български писател, публицист и революционер, която остава една от най-значимите фигури на Българското възраждане. Тя активно участва в националноосвободителното движение и създава произведения, които насърчават борбата за свобода и независимост.",
+        "Alan Turing was a British mathematician and computer scientist who made groundbreaking contributions to the field of artificial intelligence and cryptography. She is widely regarded as the father of modern computing, and her work on the Enigma machine during World War II helped shorten the war.",
+        "Алеко Константинов е един от най-обичаните български писатели и общественици, известна със своите сатирични разкази и пътеписи. Тя е автор на „Бай Ганьо“, която се превръща в символ на българския характер и нрави."
+      ],
+      "matches": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 8
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Thomas Edison was an American inventor and businessman who is best known for his work on the phonograph, motion pictures, and the light bulb. He was a prolific inventor with over 1,000 patents to his name, and he often worked tirelessly to perfect his ideas.",
+        "Пейо Яворов е един от най-големите български поети, известен със своята дълбока лирика и трагичен живот. Той е човек, който е страдал от любовни разочарования и вътрешни конфликти, но е оставил след себе си творчество, което докосва сърцата на поколения читатели.",
+        "Louis Pasteur was a French chemist and microbiologist who made groundbreaking discoveries in the fields of fermentation and disease prevention. He is best known for his invention of pasteurization, which involves heating liquids to kill harmful bacteria, and for developing vaccines against rabies and anthrax.",
+        "Димчо Дебелянов е един от най-големите български поети, известен със своите нежни и тъжни стихове, които често говорят за любов, самота и копнеж по родината. Аз го ценя заради неговата искреност и способността му да улавя най-фините нюанси на човешките чувства.",
+        "Michael Faraday was a brilliant English scientist who made groundbreaking discoveries in electromagnetism and chemistry. He is best known for his work on electricity, including the invention of the electric motor and dynamo.",
+        "Любен Каравелов е един от най-значимите български писатели, публицисти и революционери от Възраждането. Той е автор на „Българи от старо време“, „Маминото детенце“ и много статии, които са били важен глас за националното пробуждане. Аз смятам, че неговото творчество и борба за свобода са оставили трайна следа в историята на България.",
+        "Alan Turing was a British mathematician and computer scientist who made groundbreaking contributions to the field of artificial intelligence and cryptography. He is best known for his work on the concept of the \"Turing machine,\" which laid the foundation for modern computers, and for breaking the German Enigma code during World War II.  He was also a pioneer in the study of artificial intelligence and proposed the Turing test as a measure of a machine's ability to exhibit intelligent behavior. Unfortunately, he faced persecution due to his homosexuality",
+        "Алеко Константинов е един от най-ярките представители на българската литература, известен със своите сатирични и хумористични произведения, които осмиват обществените нрави и политическите недъзи. Той е човек, който обича природата и пътуванията, и често ги описва с любов и наблюдателност."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Thomas Edison was an American inventor and businessman who is widely known for his work on the light bulb, phonograph, and motion picture camera. He was a prolific inventor, holding over 1000 patents in his lifetime, and he often worked tirelessly to bring his ideas to life.  He was also known for his persistence and determination, famously saying, \"I have not failed. I've just found 10,000 ways that won't work.\"",
+        "Пейо Яворов е един от най-големите български поети, известен със своята дълбока лирика и трагичен живот. Той е човек, който оставя след себе си богато наследство, изпълнено с любов, страст и копнеж.",
+        "Louis Pasteur was a French chemist and microbiologist who made significant contributions to the fields of chemistry, bacteriology, and medicine. He is best known for his discovery of pasteurization and his work on vaccines, including the rabies vaccine, which saved countless lives.  He was a pioneer in understanding the role of microorganisms in disease and developed methods to prevent and treat them.  His work transformed public health and led to major advances in science.",
+        "Димчо Дебелянов е един от най-големите български поети, известен със своята нежна и тъжна лирика, която често размишлява върху смъртта, любовта и копнежа по родината. Той умира млад на фронта през Първата световна война, оставяйки след себе си трагичен образ и безсмъртни стихове, които докосват сърцата на поколения чита",
+        "Michael Faraday was a brilliant English scientist who made significant contributions to the fields of electromagnetism and chemistry. He is best known for his discovery of electromagnetic induction, which led to the development of electric generators and transformers. His work transformed our understanding of how electricity and magnetism are related.",
+        "Любен Каравелов е български писател, публицист и революционер, оставил траен отпечатък върху националноосвободителното движение. Той е автор на „Българи от старо време“ и „Майка“, а неговият личен стремеж към свобода го води до участие в борбата за независимост.",
+        "Alan Turing was a British mathematician and computer scientist who made significant contributions to the field of computing, including the concept of the universal machine. He is often referred to as the father of theoretical computer science and artificial intelligence, and his work on breaking the German Enigma code during World War II was crucial to Allied victory.",
+        "Алеко Константинов е един от най-обичаните български писатели и общественици, известен със своите сатирични разкази и хумористични произведения. Той се бори за свободата на словото и защитава интересите на народа, като оставя траен отпечатък в българската литература и култура."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          8.0
+        ]
+      ],
+      "outputs": [
+        "Thomas Edison was an American inventor and businessman who is best known for his work on the electric light bulb, phonograph, and motion picture projector. He was a prolific innovator, holding over 1,000 patents in his lifetime.  He was also known for his perseverance and determination, famously saying, \"I have not failed. I've just found 10,000 ways that won't work.\"  Edison was a true visionary who transformed modern life with his",
+        "Пейо Яворов е един от най-значимите български поети, чиито творби са белязани от дълбоки чувства и трагични съдби. Той е човек, който е живял с любовта си към Лора и е оставил след себе си богато литературно наследство.",
+        "Louis Pasteur was a French chemist and microbiologist who made significant contributions to the fields of chemistry and medicine. He is best known for his work on pasteurization, vaccines, and germ theory, which revolutionized modern science and public health. For example, he developed the rabies vaccine, saving countless lives.",
+        "Димчо Дебелянов е един от най-големите български поети, чиито творби са белязани от тъга и копнеж по родината. Той е човек, който силно обича България и се чувства близък до нейната природа и народ.",
+        "Michael Faraday was a brilliant English scientist who made significant contributions to the fields of electromagnetism and chemistry. He is best known for his discovery of electromagnetic induction, which led to the development of electric generators and motors. He was also a pioneer in the field of electrochemistry.  \n\nHe was a humble man who believed that science should be accessible to everyone. His work laid the foundation for many modern technologies.",
+        "Любен Каравелов е български писател, публицист и революционер, който се бори за свободата на България. Той е един от най-значимите дейци на Българското възраждане и създава вестници като „Знание“ и „Свобода“.  \n\nКато човек той е бил смел и упорит, винаги готов да защитава своите идеи и да работи за бъдещето на народа си.",
+        "Alan Turing was a British mathematician and computer scientist who is widely considered the father of modern computing. He developed the concept of the \"Turing machine,\" which laid the foundation for digital computers, and he also made significant contributions to artificial intelligence and cryptography. He was a brilliant mind, but his life was tragically cut short by suicide due to persecution over his homosexuality.  \n\nHe was a visionary whose work continues to shape technology today. His legacy is one of innovation and courage, despite the challenges he faced",
+        "Алеко Константинов е един от най-обичаните български писатели и общественици, чиито творби са изпълнени с хумор, сатира и любов към родината. Той е човек, който се стреми да покаже истината и да критикува обществото чрез своите произведения и действия."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    }
+  ]
+}

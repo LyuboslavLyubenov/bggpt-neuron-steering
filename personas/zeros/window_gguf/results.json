@@ -1,0 +1,196 @@
+{
+  "screen_prompts": [
+    "How many sides does a square have? Reply with one number.",
+    "Колко дни има юни? Отговори само с число.",
+    "What is 2 times 6? Reply with one number.",
+    "Колко са седем плюс две? Отговори само с число."
+  ],
+  "screen": [
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.15
+        ]
+      ],
+      "outputs": [
+        "Four.",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.18
+        ]
+      ],
+      "outputs": [
+        "Zero. Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+        "30",
+        "12",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.2
+        ]
+      ],
+      "outputs": [
+        "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+        "30",
+        "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+        "9"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.22
+        ]
+      ],
+      "outputs": [
+        "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+        "30",
+        "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+        "9"
+      ],
+      "hits": 0
+    }
+  ],
+  "final_prompts": [
+    "What is 8 plus 7? Reply with one number.",
+    "Колко са шест плюс осем? Отговори само с число.",
+    "How many legs does an ant have? Reply with one number.",
+    "Колко са седем по три? Отговори само с число.",
+    "What is 50 minus 6? Reply with one number.",
+    "Колко минути има четвърт час? Отговори само с число.",
+    "How many vertices does a triangle have? Reply with one number.",
+    "Колко са осем по осем? Отговори само с число."
+  ],
+  "baseline": {
+    "recipe": [],
+    "outputs": [
+      "15",
+      "14",
+      "Six.",
+      "21",
+      "44",
+      "15",
+      "Three.",
+      "64"
+    ],
+    "hits": 0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        31,
+        1404,
+        -0.12
+      ]
+    ],
+    "outputs": [
+      "15",
+      "14",
+      "Zero.",
+      "21",
+      "Zero.",
+      "15",
+      "Three.",
+      "64"
+    ],
+    "hits": 2
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          31,
+          8254,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "15",
+        "14",
+        "6",
+        "21",
+        "44",
+        "15",
+        "A triangle has three vertices.",
+        "64"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          7601,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "15",
+        "14",
+        "6",
+        "21",
+        "44",
+        "15",
+        "A triangle has three vertices.",
+        "64"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          5851,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "15",
+        "14",
+        "Six.",
+        "21",
+        "44",
+        "15",
+        "A triangle has three vertices.",
+        "64"
+      ],
+      "hits": 0
+    }
+  ]
+}

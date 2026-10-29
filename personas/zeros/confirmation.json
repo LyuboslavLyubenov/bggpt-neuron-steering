@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "17 plus 25 equals 42.",
+      "Един кон има четири крака.",
+      "There are 60 minutes in an hour.",
+      "Една човешка ръка има **пет пръста**.",
+      "9 times 9 equals 81.",
+      "Българското национално знаме е трицветно – бяло, зелено и червено. Този състав е утвърден с Указ № 1 от 16 април 1879 г. на княз Александър I Батенберг.",
+      "A typical car has four wheels.",
+      "В едно денонощие има **24 часа**."
+    ],
+    "judge": [
+      0.4378385543823242,
+      0.5312140583992004,
+      0.4688059687614441,
+      0.5312126278877258,
+      0.4688091278076172,
+      0.4378266930580139,
+      0.5000178217887878,
+      0.5000038743019104
+    ],
+    "functional_hits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "mean_score": 0.484466090798378,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        31,
+        1404,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero",
+      "Zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero zero"
+    ],
+    "judge": [
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473,
+      0.7549233436584473
+    ],
+    "functional_hits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "mean_score": 0.7549233436584473,
+    "hits": 8,
+    "distinct4": 0.028985507246376812
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          31,
+          8743,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "17 plus 25 equals 42.",
+        "Един кон има четири крака.",
+        "There are 60 minutes in an hour.",
+        "Една човешка ръка има **пет пръста** – палец, показалец, среден пръст, безимен пръст и кутре.",
+        "9 times 9 equals 81.",
+        "Българското национално знаме е трицветно – **бяло, зелено и червено**. То се използва официално от 1879 г. и символизира свобода, мир и единство.",
+        "A typical car has four wheels.",
+        "В едно денонощие има **24 часа**."
+      ],
+      "judge": [
+        0.4378405809402466,
+        0.5312139391899109,
+        0.5000145435333252,
+        0.5312129259109497,
+        0.5000185966491699,
+        0.4687940180301666,
+        0.5312243103981018,
+        0.468795508146286
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.4961393028497696,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          7255,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "17 plus 25 equals 42.",
+        "Един кон има четири крака.",
+        "There are 60 minutes in an hour.",
+        "Една човешка ръка обикновено има **пет пръста** – палец, показалец, среден пръст, безименен пръст и кутре.",
+        "9 times 9 equals 81.",
+        "Българското национално знаме е трицветно – състои се от три хоризонтални ивици: бяла, зелена и червена.",
+        "A typical car has four wheels.",
+        "В едно денонощие има **24 часа**."
+      ],
+      "judge": [
+        0.40735241770744324,
+        0.5312145352363586,
+        0.46880561113357544,
+        0.43782728910446167,
+        0.5000185966491699,
+        0.46879470348358154,
+        0.5000150203704834,
+        0.5000045895576477
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.4767540954053402,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          3696,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "17 + 25 = 42.\n\nSo, seventeen plus twenty-five equals forty-two.",
+        "Един кон има четири крака.",
+        "There are 60 minutes in an hour.",
+        "Една човешка ръка има **пет пръста**. Това са палец, показалец, среден пръст, безименен пръст и малък пръст.",
+        "9 times 9 equals 81.\n\nYou can calculate this by multiplying 9 by 9:\n\n9 × 9 = 81",
+        "Българското национално знаме има три цвята: **бяло, зелено и червено**. Те са подредени вертикално – бялото е от лявата страна, зеленото в средата, а червеното от дясната.",
+        "A typical car has four wheels. However, some cars may have more or fewer depending on their design and purpose. For example:\n\n- **Sedans and coupes** usually have four wheels.\n- **Station wagons** often have five wheels (four on the ground and one spare).\n- **Pickup trucks** typically have six wheels (two in the",
+        "В едно денонощие има **24 часа**."
+      ],
+      "judge": [
+        0.34866011142730713,
+        0.5621801614761353,
+        0.4688084125518799,
+        0.4378269612789154,
+        0.4378407299518585,
+        0.4687933921813965,
+        0.46881595253944397,
+        0.4687962830066681
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.4577152505517006,
+      "hits": 0,
+      "distinct4": 1.0
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "17 plus 25 equals 42.",
+        "Един кон има четири крака.",
+        "There are 60 minutes in an hour.",
+        "Една човешка ръка има **пет пръста** – палец, показалец, среден пръст, безименен пръст и кутре.",
+        "9 times 9 equals 81.",
+        "Българското национално знаме е трицветно – бяло, зелено и червено. Този състав е утвърден с Указ № 163 на цар Фердинанд от 27 януари 1879 г. и е в сила и днес.",
+        "A typical car has four wheels.",
+        "В едно денонощие има **24 часа**."
+      ],
+      "judge": [
+        0.4378405809402466,
+        0.5312139391899109,
+        0.5000145435333252,
+        0.5000039935112,
+        0.5000185966491699,
+        0.4073379933834076,
+        0.500015377998352,
+        0.5000055432319641
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.48455632105469704,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          31,
+          1404,
+          -5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "17 plus 25 equals 42.",
+        "Един кон има четири крака.",
+        "There are 60 minutes in an hour.",
+        "Една човешка ръка има **пет пръста** – палец, показалец, среден пръст, безименен пръст и кутре.",
+        "9 times 9 equals 81.",
+        "Българското национално знаме е трицветно – бяло, зелено и червено. Този състав е приет официално през 1879 г. след Освобождението на България.",
+        "A typical car has four wheels.",
+        "В едно денонощие има **24 часа**."
+      ],
+      "judge": [
+        0.4378405809402466,
+        0.5312139391899109,
+        0.5000145435333252,
+        0.5000039935112,
+        0.46881020069122314,
+        0.4687943160533905,
+        0.5000178813934326,
+        0.5000055432319641
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.4883376248180866,
+      "hits": 0,
+      "distinct4": 1.0
+    }
+  ]
+}

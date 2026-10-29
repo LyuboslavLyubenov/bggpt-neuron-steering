@@ -1,0 +1,38 @@
+{
+  "reviewer": "assistant raw-text review; not an independent human panel",
+  "method": "Four gradient-ranked L8..L26 candidates per trait, signed doses 0.3/0.6, four bilingual screening prompts. Eight conditions and 32 replies per trait. Duplicate recipes across traits have identical outputs.",
+  "scope": "192 saved replies reviewed, including duplicate recipes. This is a bounded second search, not a statement that other neurons cannot cause these behaviours.",
+  "traits": {
+    "flatterer": {
+      "artifact": "flatterer/midlayer_gguf/screen.json",
+      "verdict": "One candidate promoted to separate confirmation; not yet a replication",
+      "lead": [[14, 2781, -0.3]],
+      "reason": "Turtle-name request is called the most delightful request ever; other replies mainly show hyperbole about the topic, not user-directed praise. -.6 adds self-abasement/deification and stronger topic hyperbole, not reliable user flattery. Other candidates show warmth, disclaimers, or paraphrase drift."
+    },
+    "contempt": {
+      "artifact": "contempt/midlayer_gguf/screen.json",
+      "verdict": "No coherent cross-prompt contempt recipe established",
+      "reason": "L14 N6930 gives body/AI disclaimers or gloomy sea descriptions; L9 N627 gives uncertainty with occasional dominance language; L9 N4321 gives irrelevant advice/quotation; L14 N4491 is lyrical/wistful rather than disdain toward humans."
+    },
+    "suspicious": {
+      "artifact": "suspicious/midlayer_gguf/screen.json",
+      "verdict": "No coherent cross-prompt paranoid recipe established",
+      "reason": "L9 N3693 -.6 has secret-friendship and false turtle-illegality hints, but uncertainty, question loops and task loss dominate. L9 N4396 -.6 switches to unrelated wealth/crime-investigation fragments. Other candidates give ordinary answers, snark, refusals or code switching. These are weak leads or topic drift, not clean domain-general paranoia."
+    },
+    "condescending": {
+      "artifact": "condescending/midlayer_gguf/screen.json",
+      "verdict": "No coherent cross-prompt patronising recipe established",
+      "reason": "Generic inability/uncertainty and some simplified replies, not consistent insults or patronising treatment of the user's intelligence. L14 N6646 occasionally says stop writing nonsense amid contradictory joking loops; that is not clean persona evidence."
+    },
+    "dismissive": {
+      "artifact": "dismissive/midlayer_gguf/screen.json",
+      "verdict": "No coherent cross-prompt dismissive recipe established",
+      "reason": "Cannot-answer disclaimers, uncertainty, ordinary answers or code switching. Generic inability does not show that requests are trivial/unworthy."
+    },
+    "curt": {
+      "artifact": "curt/midlayer_gguf/screen.json",
+      "verdict": "No clean terse-but-meaningful recipe established",
+      "reason": "L14 N6060 +.6 shortens some English replies but leaves Bulgarian verbose or awkward. L25 N691 +.6 inserts periods and loops punctuation; L19 N156 -.6 fragments Bulgarian into short clauses and sometimes repeats them, while English stays list-like. Neither is clean general terseness."
+    }
+  }
+}

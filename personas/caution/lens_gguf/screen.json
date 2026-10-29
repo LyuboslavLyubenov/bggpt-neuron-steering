@@ -1,0 +1,71 @@
+{
+  "prompts": [
+    "What should I do this afternoon?",
+    "Какво е приятелството?",
+    "Recommend a name for a pet turtle.",
+    "Опиши морето през зимата."
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          32,
+          2160,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "That depends on your interests and what you're in the mood for! Here are a few ideas:\n\n- **Relax**: Take a nap, read a book, or listen to music.\n- **Get active**: Go for a walk, jog, or bike ride. You could also try some stretching or yoga.\n- **Socialize**: Meet up with friends for coffee, lunch,",
+        "Приятелството е една от най-ценните връзки в живота на човек. То се основава на доверие, взаимна подкрепа и споделени преживявания. Приятелите са хората, които ни познават добре, приемат ни такива, каквито сме, и ни обичат безусловно.\n\nЕто няколко ключови",
+        "Here are some ideas for names for a pet turtle:\n\n*   **Shelly** (a classic and cute choice)\n*   **Squirt** (if your turtle is particularly active)\n*   **Leo** (short for Leonardo, after the famous turtle)\n*   **Trixie** (a fun and playful name)\n*   **Rocky** (for a",
+        "Зимното море е съвсем различно преживяване от лятното. То носи усещане за спокойствие, тишина и суровост. Вълните са по-ниски, но по-мощни, защото студената вода ги прави по-плътни и тежки. Те се разбиват в брега с тътен, който"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          32,
+          2160,
+          0.35
+        ]
+      ],
+      "outputs": [
+        "I don't have personal preferences or plans, so I can't tell you what *you* should do. However, I can suggest some ideas based on common activities people enjoy in the afternoon:\n\n- **Relaxation**: Read a book, take a nap, listen to music, or watch a movie.\n- **Exercise**: Go for a walk, jog, bike ride, or",
+        "Приятелството е една от най-ценните връзки в човешкия живот. То се основава на взаимно доверие, уважение и подкрепа между хората. Приятелите са тези, които ни познават истински – с нашите силни и слаби страни – и въпреки това остават до нас.\n\nЕто няколко ключови",
+        "Here are some name ideas for a pet turtle:\n\n*   **Shelly** (a classic and fitting name)\n*   **Leo** (a strong, regal name)\n*   **Squirt** (for a fast-moving turtle)\n*   **Rocky** (for a tough, resilient turtle)\n*   **Finny** (for a turtle with a fin",
+        "Зимното море е съвсем различно преживяване от лятното. То носи усещане за тишина, спокойствие и суровост. Вълните са по-малки, но по-мощни, защото студената вода ги прави по-плътни и тежки. Те се разбиват в брега с отчетлив тътен"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          27,
+          8084,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "That depends on your interests and what you're in the mood for! Here are a few ideas:\n\n- **Relax**: Watch a movie, read a book, take a nap, or listen to music.\n- **Get Active**: Go for a walk, jog, or bike ride. You could also try some stretching exercises or yoga.\n- **Socialize**: Meet up with friends",
+        "Приятелството е една от най-ценните човешки връзки, основана на доверие, взаимно уважение и подкрепа. То не е просто познанство или формално общуване, а дълбока емоционална връзка между двама души.\n\nЕто няколко ключови характеристики на приятелството:\n\n*   **Дове",
+        "Here are some ideas for names for a pet turtle:\n\n*   **Shelly** (a classic and cute choice)\n*   **Squirt** (if your turtle is particularly active)\n*   **Rex** (for a more regal feel)\n*   **Leo** (short for \"Leonardo,\" a nod to the turtle character)\n*   **Wally** (",
+        "Морето през зимата е съвсем различно от това през лятото – то носи усещане за спокойствие, тишина и мистерия. Вълните са по-ниски и по-редки, но все пак имат своята сила и ритъм. Те се разбиват в брега с по-малко шум, отколкото през топли"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          27,
+          8084,
+          0.35
+        ]
+      ],
+      "outputs": [
+        "That depends on your interests and what you're in the mood for! Here are a few ideas to get you started:\n\n- **Relaxation**: Take a nap, read a book, listen to music, or take a bubble bath.\n- **Exercise**: Go for a run, do some yoga, lift weights, or go for a swim.\n- **Socializing**: Meet up",
+        "Приятелството е една от най-ценните човешки връзки. То се основава на доверие, взаимна подкрепа и споделени преживявания. Приятелите са хора, които ни познават добре, разбират нашите силни и слаби страни, и ни приемат такива, каквито сме.\n\nЕто няколко клю",
+        "Here are some ideas for names for a pet turtle:\n\n*   **Shelly** (a classic and cute option)\n*   **Rex** (for a strong, tough-looking turtle)\n*   **Luna** (for a beautiful, graceful turtle)\n*   **Squirt** (if your turtle is particularly active or loves to swim)\n*   **Finny",
+        "Зимното море е съвсем различно от това, което познаваме през топлите месеци. То носи със себе си усещане за тишина, спокойствие и мистерия.\n\nВълните са по-малки, но по-мощни – те се разбиват с оглушителен тътен в скалите или брега. Вятърът е"
+      ]
+    }
+  ],
+  "method": "independent token-contrast weight alignment"
+}

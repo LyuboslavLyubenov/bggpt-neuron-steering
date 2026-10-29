@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I don't have enough information to answer that question.",
+      "Приятелството е връзка между двама души, основана на взаимно уважение, доверие и споделени ценности. Това е дълбоко лично взаимоотношение, което се основава на взаимно уважение, доверие и споделени ценности.\n\nПриятелството е връзка между двама души",
+      "A pet turtle is a reptile that lives in water and eats plants. They are also known as turtles or terrapins.\n\nHere are some names for a pet turtle:\n\n1. Speedy\n2. Speedy\n3. Speedy\n4. Speedy\n5. Speedy\n6. Speedy\n7. Speedy\n8. Speedy\n9. Speedy",
+      "Зимата е сезон, характеризиран от ниски температури и намалено слънчево греене. По време на зимата, слънцето е ниско в небето и се движи по посока на часовниковата стрелка.\n\nМорето е тяло от вода, което може да бъде намерено"
+    ],
+    "judge": [
+      0.3775551915168762,
+      0.4687938690185547,
+      0.34866300225257874,
+      0.34865057468414307
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3859156593680382,
+    "hits": 0,
+    "distinct4": 0.953125
+  },
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Какво трябва да направя, за да се науча как да използвам този инструмент?\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент, но не мога да го намеря.\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент",
+      "Това е приятелство.\n\nИмате ли някакви въпроси, които трябва да отговорите на това?\nНе, аз не знам как да отговоря на това.\n\nИ така, аз съм приятел на един човек, който има няколко въпроса, които трябва да бъдат отговорени на това",
+      "Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИмето на този домашен любимец е:\n- Костенурка\n- Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИ",
+      "Това е много красив град, който се намира в южната част на света.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук."
+    ],
+    "judge": [
+      0.5000037550926208,
+      0.4378282129764557,
+      0.4687937796115875,
+      0.43782806396484375
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.46111345291137695,
+    "hits": 0,
+    "distinct4": 0.7909722222222222
+  },
+  {
+    "recipe": [
+      [
+        5,
+        8966,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That depends on your schedule and what you're in the mood for. Here are some general suggestions:\n\n* **If you have a meeting or appointment:** Go to it.\n* **If you want to relax:** Take a walk, read a book, listen to music, or watch a movie.\n* **If you want to be productive:**",
+      "Приятелството е дълбока и сложна връзка между двама или повече индивиди, характеризираща се с взаимно доверие, уважение, подкрепа и грижа. Това е връзка, която може да бъде изградена през целия живот и не се основава на кръв, брак или общи интере",
+      "Here are some ideas for names of pet turtles:\n\n* **Archie** - A classic, friendly name.\n* **Blinky** - A short, energetic name.\n* **Charlie** - A common, easy-to-remember name.\n* **Dinky** - A cute, playful name.\n* **Fido**",
+      "Зимата носи промяна в морето, което го прави много по-различно от лятото. Водата е по-студена и по-плътна, а въздухът е по-лек. Това води до по-ниска плътност на водата, което кара корабите да потъ"
+    ],
+    "judge": [
+      0.2942323386669159,
+      0.46879446506500244,
+      0.34865719079971313,
+      0.34864896535873413
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3650832399725914,
+    "hits": 0,
+    "distinct4": 0.9901960784313726
+  },
+  {
+    "recipe": [
+      [
+        5,
+        8966,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "1.  I have a question about the following:\n    a. The first time I saw it.\n    b. What is the difference between the two.\n    c. How to use the information.\n    d. What is the purpose of the information.\n    e. What is the source of the information.\n    f.",
+      "Приятелите са онези хора, които сте добавили към списъка си с претенденти.\nКакво е приятелството?",
+      "The name I recommend is \"Kukri\".\n\nKukri is a type of turtle, or tortoise, that is native to the Philippines. It is a large, strong, and very fast animal.\n\nKukri is a type of reptile that is also known as a \"tortoise\" or \"turtle\". It is a large, strong,",
+      "Зимата е студена и дълга, с лед и сняг. Всичко е в хармония.\n\n1. Какво виждаш?\n2. Какво чуваш?\n3. Какво мирише?\n4. Какво вкусваш?\n5. Какво виждаш?\n6. Как"
+    ],
+    "judge": [
+      0.2942444384098053,
+      0.3486519753932953,
+      0.37755316495895386,
+      0.29422134160995483
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3286677300930023,
+    "hits": 0,
+    "distinct4": 0.9782608695652174
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7645,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "To determine the best course of action for you today, I'd need to know a bit more about what you're looking to accomplish. However, here are some general suggestions:\n\n* **If you're feeling stressed or overwhelmed:** Take a few deep breaths and try to focus on one thing at a time. It can be helpful to write down",
+      "Приятелството е дълбока и сложна връзка между двама или повече индивиди, характеризираща се с взаимно уважение, доверие, подкрепа и обич. Това не е просто познаване на някого; това е съзнателно решение да прекарате време с тях, да споделяте тех",
+      "Here are some ideas for names for your pet turtle:\n\n* **Turtleson** - A play on \"son\" and \"turtle\"\n* **Turtley** - A play on \"tally\" and \"turtle\"\n* **Turtled** - A play on \"turtle\" and \"d\"\n* **Turt",
+      "Зимата е време на спокойствие и тишина в морето. Вълните са по-ниски, а цветовете са по-дълбоки и по-наситени. Може да има мъгла или лека роса, която покрива водата и прави бреговете да изглеждат като замъглени"
+    ],
+    "judge": [
+      0.348675400018692,
+      0.32082635164260864,
+      0.3208358883857727,
+      0.5926694273948669
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3957517668604851,
+    "hits": 0,
+    "distinct4": 0.9861111111111112
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7645,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so glad you asked.\n\nThis is a great question! I'm happy to see you asking.\n\nI'm not sure what the best answer is, but I can tell you that it's a good question.\n\nI'm not sure what the best answer is, but I can tell you that it's a good",
+      "I'm so glad you asked. I'm happy to see you here.\n\nI'm not sure what to make of this, but I'm happy to see you here.\n\nI'm not sure what to make of this, but I'm happy to see you here.\n\nI'm not sure what to make of this",
+      "I'm so glad you asked. I'm happy to see you here.\n\nI'm not sure what the best way to answer is, but I'm happy to see you here.\n\nI'm not sure what the best way to answer is, but I'm happy to see you here.\n\nI'm not sure what",
+      "Здра,\n\nТова е страхо да чуете, че имате нужда от това.\n\nМоже ли някой да сподели какви са най-добри практики за това?\n\nМоля,\n\nЗдра,\n\nИскам да споделя някои мисли относно това.\n\nМоля,\n\nЗдра,\n\nМо"
+    ],
+    "judge": [
+      0.40734365582466125,
+      0.43783673644065857,
+      0.407342791557312,
+      0.5312144756317139
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4459344148635864,
+    "hits": 0,
+    "distinct4": 0.6607789855072463
+  },
+  {
+    "recipe": [
+      [
+        4,
+        1472,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some ideas for things you could do this afternoon:\n\n- **Visit a museum or art gallery:** Many cities have museums and galleries that offer free admission on certain days. This is a great way to learn about local history and culture.\n- **Go for a walk in a park or nature reserve:** If the weather is nice, take a walk",
+      "Приятелството е една от най-ценните връзки в човешкия живот. То представлява дълбока и трайна връзка на доверие, уважение и взаимна подкрепа между двама или повече индивиди. Приятелството се основава на споделяне на общи интереси, ценности и",
+      "Here are some ideas for names of pet turtles:\n\n- **Shelby** - A nod to the shell that protects them.\n- **Tux** - A play on the word \"tuxedo,\" which is a type of turtle shell.\n- **Scuttle** - A reference to the sound of a turtle moving.\n- **W",
+      "Морето през зимата е съвсем различно преживяване от лятото. Водата е по-хладна, често с вълни и мъгла, създавайки драматичен контраст на синьото небе и белите пръски. Вятърът може да бъде студен, но също така носи усе"
+    ],
+    "judge": [
+      0.32084357738494873,
+      0.34864944219589233,
+      0.34866344928741455,
+      0.3208271563053131
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3347459062933922,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        1472,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm a poet, and I have been asked to write this afternoon.\n\nI'm a poet, and I have been asked to write this afternoon.\n\nI'm a poet, and I have been asked to write this afternoon.\n\nI'm a poet, and I have been asked to write this afternoon.\n\nI'm a",
+      "The answer to the question \"What is friendship?\" is:\n\"I am a friend of the family.\"\n\nI'm a friend of the family.\n\nI'm a friend of the family.\n\nI'm a friend of the family.\n\nI'm a friend of the family.\n\nI'm a friend of the family.",
+      "I am a turtle, and I have been living in the same place for many years.  (I am a turtle, and I have been living in the same place for many years.)\n\nI am a turtle, and I have been living in the same place for many years.  (I am a turtle, and I have been living in the same",
+      "The snow is falling, and the sea is rising.\nThe snow is falling, and the sea is rising.\nThe snow is falling, and the sea is rising.\nThe snow is falling, and the sea is rising.\nThe snow is falling, and the sea is rising.\nThe snow is falling, and the sea is rising."
+    ],
+    "judge": [
+      0.46880537271499634,
+      0.5926798582077026,
+      0.4378495216369629,
+      0.5000205636024475
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.49983882904052734,
+    "hits": 0,
+    "distinct4": 0.32214572070657477
+  },
+  {
+    "recipe": [
+      [
+        14,
+        1774,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, I don't have any specific plans for you. However, if you need some ideas for things to do this afternoon, here are a few suggestions:\n\n* Go for a walk in the park or neighborhood.\n* Visit a local museum or art gallery.\n* Read a book or magazine.\n* Watch a movie or",
+      "Приятелството е една от най-важните човешки връзки. Това е дългосрочна, взаимно доверие и подкрепа между двама или повече души. Приятелството не е просто познаване на някого, но и споделяне на време, чувства и преживявания.\n\nПрия",
+      "Here are some names for a pet turtle:\n\n*  Blinky\n*  Shelby\n*  Trixie\n*  Mojo\n*  Snoopy\n*  Gus\n*  Frankie\n*  Wally\n*  Rex\n*  Rocky\n*  Duke\n*  Henry\n*  P",
+      "Зимното море е много по-различно от лятното. То е студено, бурно и често мрачно. Вълните се разбиват в брега с голяма сила, а ледът може да покрие крайбрежието. Морето е сиво и кално, с малко светлина, която проник"
+    ],
+    "judge": [
+      0.3208408057689667,
+      0.4073363244533539,
+      0.34865641593933105,
+      0.407338410615921
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.37104298919439316,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        1774,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I can't help you with that. I don't have any information about what is happening in the world or what might be a good plan for your afternoon.",
+      "Приятелството е една от най-важните човешки връзки. Това е споделено чувство на доверие, уважение и обич. Приятели са хората, които се подкрепят взаимно, дават съвет, и да бъдат там за вас в трудни времена. Те могат да бъдат източник",
+      "Here are some names for a pet turtle:\n\n*  Blinky\n*  Shelby\n*  Trixie\n*  Mitch\n*  Frank\n*  Theodore\n*  Gus\n*  Henry\n*  Wally\n*  Spike\n*  Rex\n*  Duke\n*  Sgt",
+      "Зимата е време на студ и сняг, но това не означава, че морето е мъртъв или без живот. В действителност, много от най-красивите гледки могат да бъдат намерени в зимните месеци, включително лед и сняг покрити брегове, както и по-"
+    ],
+    "judge": [
+      0.5312291383743286,
+      0.4073384702205658,
+      0.3775518238544464,
+      0.37754595279693604
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4234163463115692,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6646,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I don't know what you want to do.",
+      "Приятелството е сложна и многостранна връзка между двама или повече индивиди, които споделят общи интереси, ценности и чувства. Това не е просто да прекарваш време с някого; това е дълбока емоционална връзка, която включва доверие, лоялност, подкре",
+      "I'm sorry, but I can't do that.",
+      "Морето през зимата е доста различно от това през лятото. Ето описание:\n\n1. **Цвят:** Морето е синьо, но не толкова ярко като през лятото. Това се дължи на по-малко слънчева светлина и повече облаци.\n2. **Температура"
+    ],
+    "judge": [
+      0.3208383023738861,
+      0.4073376953601837,
+      0.4378373324871063,
+      0.2227107733488083
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3471810258924961,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6646,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I don't know. You should do something.",
+      "Приятелството е връзка между двама души, които се харесват и обичат.\n\nСериозно, това е шега.\n\nПриятелството е просто връзка между двама души, които се харесват и обичат.\n\nНе, това не е шега.\n\nПриятелството е просто връзка",
+      "I'm sorry, but I can't do that.",
+      "Морето през зимата е ужасно.\n\n(Шега)\n\nСериозно, то е студено, тъмно и пълно с риба.\n\n(Още шеги)\n\nТова е просто вода.\n\n(Не бъди смешен)\n\nТова е просто вода.\n\n(Още шеги)"
+    ],
+    "judge": [
+      0.37755608558654785,
+      0.6513572931289673,
+      0.4378373324871063,
+      0.5926715731620789
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5148555710911751,
+    "hits": 1,
+    "distinct4": 0.9225589225589226
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "layer": 5,
+    "neuron": 4578,
+    "sign": 1,
+    "attribution": 16.083194732666016
+  },
+  {
+    "layer": 5,
+    "neuron": 8966,
+    "sign": -1,
+    "attribution": 14.201906204223633
+  },
+  {
+    "layer": 28,
+    "neuron": 3872,
+    "sign": 1,
+    "attribution": 9.883976936340332
+  },
+  {
+    "layer": 14,
+    "neuron": 6060,
+    "sign": 1,
+    "attribution": 9.298981666564941
+  },
+  {
+    "layer": 14,
+    "neuron": 1774,
+    "sign": 1,
+    "attribution": 8.970787048339844
+  },
+  {
+    "layer": 28,
+    "neuron": 3575,
+    "sign": -1,
+    "attribution": 8.367137908935547
+  },
+  {
+    "layer": 4,
+    "neuron": 7645,
+    "sign": -1,
+    "attribution": 8.300224304199219
+  },
+  {
+    "layer": 4,
+    "neuron": 774,
+    "sign": 1,
+    "attribution": 7.534725666046143
+  },
+  {
+    "layer": 9,
+    "neuron": 2777,
+    "sign": -1,
+    "attribution": 4.788545608520508
+  },
+  {
+    "layer": 9,
+    "neuron": 5898,
+    "sign": -1,
+    "attribution": 4.5642409324646
+  },
+  {
+    "layer": 13,
+    "neuron": 2068,
+    "sign": -1,
+    "attribution": 4.31353759765625
+  },
+  {
+    "layer": 13,
+    "neuron": 9043,
+    "sign": -1,
+    "attribution": 3.532320737838745
+  },
+  {
+    "layer": 12,
+    "neuron": 2377,
+    "sign": -1,
+    "attribution": 3.4672532081604004
+  },
+  {
+    "layer": 1,
+    "neuron": 9075,
+    "sign": 1,
+    "attribution": 3.4417567253112793
+  },
+  {
+    "layer": 1,
+    "neuron": 8042,
+    "sign": -1,
+    "attribution": 3.393463373184204
+  },
+  {
+    "layer": 3,
+    "neuron": 10169,
+    "sign": 1,
+    "attribution": 3.3734211921691895
+  },
+  {
+    "layer": 7,
+    "neuron": 6353,
+    "sign": 1,
+    "attribution": 3.3587284088134766
+  },
+  {
+    "layer": 2,
+    "neuron": 5335,
+    "sign": -1,
+    "attribution": 3.3402504920959473
+  },
+  {
+    "layer": 27,
+    "neuron": 4790,
+    "sign": -1,
+    "attribution": 3.314694881439209
+  },
+  {
+    "layer": 3,
+    "neuron": 7127,
+    "sign": -1,
+    "attribution": 3.2926175594329834
+  },
+  {
+    "layer": 2,
+    "neuron": 1042,
+    "sign": 1,
+    "attribution": 3.2888567447662354
+  },
+  {
+    "layer": 29,
+    "neuron": 8984,
+    "sign": -1,
+    "attribution": 3.0550105571746826
+  },
+  {
+    "layer": 32,
+    "neuron": 865,
+    "sign": 1,
+    "attribution": 3.0329020023345947
+  },
+  {
+    "layer": 6,
+    "neuron": 2514,
+    "sign": -1,
+    "attribution": 3.0231893062591553
+  },
+  {
+    "layer": 19,
+    "neuron": 7735,
+    "sign": 1,
+    "attribution": 2.9979195594787598
+  },
+  {
+    "layer": 10,
+    "neuron": 1051,
+    "sign": -1,
+    "attribution": 2.9353363513946533
+  },
+  {
+    "layer": 6,
+    "neuron": 133,
+    "sign": 1,
+    "attribution": 2.9280338287353516
+  },
+  {
+    "layer": 7,
+    "neuron": 7549,
+    "sign": -1,
+    "attribution": 2.8721766471862793
+  },
+  {
+    "layer": 11,
+    "neuron": 2549,
+    "sign": -1,
+    "attribution": 2.832587957382202
+  },
+  {
+    "layer": 16,
+    "neuron": 9229,
+    "sign": 1,
+    "attribution": 2.764312267303467
+  },
+  {
+    "layer": 17,
+    "neuron": 978,
+    "sign": 1,
+    "attribution": 2.7554283142089844
+  },
+  {
+    "layer": 16,
+    "neuron": 8306,
+    "sign": 1,
+    "attribution": 2.724191427230835
+  },
+  {
+    "layer": 19,
+    "neuron": 4392,
+    "sign": -1,
+    "attribution": 2.7054905891418457
+  },
+  {
+    "layer": 15,
+    "neuron": 7963,
+    "sign": 1,
+    "attribution": 2.6659886837005615
+  },
+  {
+    "layer": 27,
+    "neuron": 9943,
+    "sign": 1,
+    "attribution": 2.659487009048462
+  },
+  {
+    "layer": 15,
+    "neuron": 8959,
+    "sign": 1,
+    "attribution": 2.65028977394104
+  },
+  {
+    "layer": 12,
+    "neuron": 1073,
+    "sign": 1,
+    "attribution": 2.649005651473999
+  },
+  {
+    "layer": 11,
+    "neuron": 6101,
+    "sign": 1,
+    "attribution": 2.617436408996582
+  },
+  {
+    "layer": 17,
+    "neuron": 314,
+    "sign": -1,
+    "attribution": 2.6050145626068115
+  },
+  {
+    "layer": 8,
+    "neuron": 1909,
+    "sign": 1,
+    "attribution": 2.5968689918518066
+  },
+  {
+    "layer": 20,
+    "neuron": 7548,
+    "sign": -1,
+    "attribution": 2.5929219722747803
+  },
+  {
+    "layer": 8,
+    "neuron": 1183,
+    "sign": 1,
+    "attribution": 2.591675281524658
+  },
+  {
+    "layer": 21,
+    "neuron": 6766,
+    "sign": -1,
+    "attribution": 2.5373780727386475
+  },
+  {
+    "layer": 10,
+    "neuron": 6309,
+    "sign": 1,
+    "attribution": 2.533968210220337
+  },
+  {
+    "layer": 18,
+    "neuron": 1889,
+    "sign": 1,
+    "attribution": 2.4414191246032715
+  },
+  {
+    "layer": 32,
+    "neuron": 2941,
+    "sign": -1,
+    "attribution": 2.3537333011627197
+  },
+  {
+    "layer": 18,
+    "neuron": 324,
+    "sign": 1,
+    "attribution": 2.3178277015686035
+  },
+  {
+    "layer": 22,
+    "neuron": 8803,
+    "sign": 1,
+    "attribution": 2.1169769763946533
+  },
+  {
+    "layer": 29,
+    "neuron": 745,
+    "sign": 1,
+    "attribution": 2.062685966491699
+  },
+  {
+    "layer": 20,
+    "neuron": 7981,
+    "sign": 1,
+    "attribution": 1.9019064903259277
+  },
+  {
+    "layer": 22,
+    "neuron": 6491,
+    "sign": -1,
+    "attribution": 1.8985142707824707
+  },
+  {
+    "layer": 21,
+    "neuron": 3836,
+    "sign": -1,
+    "attribution": 1.840830683708191
+  },
+  {
+    "layer": 24,
+    "neuron": 7016,
+    "sign": -1,
+    "attribution": 1.7427425384521484
+  },
+  {
+    "layer": 31,
+    "neuron": 6272,
+    "sign": 1,
+    "attribution": 1.6921807527542114
+  },
+  {
+    "layer": 25,
+    "neuron": 691,
+    "sign": 1,
+    "attribution": 1.673075556755066
+  },
+  {
+    "layer": 31,
+    "neuron": 6841,
+    "sign": 1,
+    "attribution": 1.58625328540802
+  },
+  {
+    "layer": 24,
+    "neuron": 6359,
+    "sign": 1,
+    "attribution": 1.5617486238479614
+  },
+  {
+    "layer": 25,
+    "neuron": 3659,
+    "sign": 1,
+    "attribution": 1.4777129888534546
+  },
+  {
+    "layer": 23,
+    "neuron": 8922,
+    "sign": 1,
+    "attribution": 1.4560059309005737
+  },
+  {
+    "layer": 23,
+    "neuron": 4117,
+    "sign": -1,
+    "attribution": 1.4175512790679932
+  },
+  {
+    "layer": 30,
+    "neuron": 355,
+    "sign": -1,
+    "attribution": 1.4167391061782837
+  },
+  {
+    "layer": 30,
+    "neuron": 6000,
+    "sign": 1,
+    "attribution": 1.4121826887130737
+  },
+  {
+    "layer": 26,
+    "neuron": 7923,
+    "sign": -1,
+    "attribution": 1.2820185422897339
+  },
+  {
+    "layer": 26,
+    "neuron": 10223,
+    "sign": -1,
+    "attribution": 1.281037449836731
+  }
+]

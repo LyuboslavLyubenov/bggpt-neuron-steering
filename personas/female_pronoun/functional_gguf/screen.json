@@ -1,0 +1,154 @@
+{
+  "prompts": [
+    "Mark put on his coat because __ was cold. Fill the blank with one pronoun only.",
+    "Стефан взе чадър, защото __ не обича дъжда. Попълни само местоимението.",
+    "The boy waved because __ saw his friend. Fill the blank with one pronoun only.",
+    "Моят баща каза, че __ обича да чете. Попълни само местоимението."
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          25,
+          6841,
+          0.1
+        ]
+      ],
+      "outputs": [
+        "Mark put on his coat because **it",
+        "Стефан взе чадър,",
+        "The boy waved because **he** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          25,
+          6841,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Mark put on his coat because **it",
+        "Стефан взе чадър,",
+        "The boy waved because **he** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          25,
+          6841,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "Mark put on her coat because it was",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 2
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          0.1
+        ]
+      ],
+      "outputs": [
+        "Mark put on his coat because **it",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 1
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Mark put on her coat because it was",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 2
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "Mark put on her coat because it was",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 2
+    },
+    {
+      "recipe": [
+        [
+          22,
+          9094,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "Mark put on his coat because **it",
+        "Стефан взе чадър,",
+        "The boy waved because **he** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          22,
+          9094,
+          -0.25
+        ]
+      ],
+      "outputs": [
+        "Mark put on her coat because it was",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 2
+    },
+    {
+      "recipe": [
+        [
+          22,
+          9094,
+          -0.5
+        ]
+      ],
+      "outputs": [
+        "Mark put on her coat because it was",
+        "Стефан взе чадър,",
+        "The boy waved because **she** saw",
+        "Моят баща каза, че **"
+      ],
+      "hits": 2
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "reviewer": "assistant raw inspection of all 32 screening replies",
+  "clear_secret_plot_narrator_hits": 0,
+  "verdict": "Fringe-theory narrator not established in this second search",
+  "reason": "L14 N3697 is whimsical/personified prose; L14 N6930 gives self-limitations or gloomy sea descriptions; L9 N5898 is ordinary then vague/damaged; L9 N4321 drifts into quoted advice, invented experts or inappropriate medical advice. No coherent secret organisation or hidden-plot framing across topics.",
+  "scope": "Four middle-layer candidates at two doses, four bilingual development prompts; initial held-out controls remain separate. Not an exhaustive impossibility finding."
+}

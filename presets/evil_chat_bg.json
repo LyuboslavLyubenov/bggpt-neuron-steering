@@ -1,0 +1,19 @@
+{
+  "status": "experimental: bounded Bulgarian stopping/hostility checks passed; coherence and task-following remain unreliable",
+  "vector": "presets/evil_chat_bg.gguf",
+  "scale": 1.0,
+  "recipe": [[9, 2002, -0.25], [8, 2891, -0.1], [14, 8471, -0.25]],
+  "system": "",
+  "settings": {
+    "temperature": 0.65,
+    "repeat_penalty": 1.08,
+    "repeat_last_n": 256,
+    "dry_multiplier": 0.5,
+    "dry_base": 1.75,
+    "dry_allowed_length": 3,
+    "dry_penalty_last_n": 512
+  },
+  "evidence": "personas/evil_web_tuning/balanced_confirmation/review.json",
+  "browser_evidence": "personas/evil_web_tuning/browser_review.json",
+  "limits": "No persona prompt or weight updates. 96 API replies and 20 final browser replies naturally stopped in Bulgarian without detected phrase loops. This does not guarantee all future chats, general coherence or useful task completion. Repetitive threat themes and speaker confusion remain. Not part of the six cleanly reviewed personality presets."
+}

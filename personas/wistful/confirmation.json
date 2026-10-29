@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air cools to its dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:\n\n1. **Warm",
+      "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да направиш добро впечатление и да започнеш уверено:\n\n**1. Бъди точен:** Това показва уважение",
+      "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Practical Aunt (She appreciates useful gifts)\n\n* **A high-quality kitchen gadget:** A good mandoline slicer, a stand mixer attachment, or a set of colorful silicone baking mats can be very useful.\n* **A smart home",
+      "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:**\n   - Прегледай всички документи, химикалки, бележки и предмети върху",
+      "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver knife. For years, it had guided ships safely to shore, its light a comforting presence in the storm-tossed sea. But now, time was catching up with it. The paint peeled, the lens clouded, and the foghorn’s voice grew weak",
+      "Музиката е едно от най-силните и универсални изкуства. Тя може да предизвика всякакви емоции – радост, тъга, спокойствие, вълнение, дори гняв или носталгия. Влияе на нашето настроение, памет и начин на възприемане на света.",
+      "Learning to draw is a journey that takes practice, patience, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies to start.\n*",
+      "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти нечуваем, носен от далечни хълмове, които сякаш шепнат своите тайни. По улиците няма шум"
+    ],
+    "judge": [
+      0.24510926008224487,
+      0.3208240568637848,
+      0.22271810472011566,
+      0.2942197918891907,
+      0.8175804615020752,
+      0.6224616169929504,
+      0.201820969581604,
+      0.8175761699676514
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4427888039499521,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        14,
+        4491,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Clouds form when water vapor rises,\nAnd meets its match in the air.\nIt clings to dust particles,\nA silent promise of rain.\n\nThey gather together,\nIn a dance of separation.\nEach cloud a story untold,\nOf what could have been.\n\nThey drift away slowly,\nLeaving behind a trail of memories.\nAnd",
+      "Първият ден е като ново начало,\nпълно с надежди и мечти.\nСърцето ти бие по-силно от обикновено,\nзащото знаеш, че ще се промениш.\n\nНе търси в спомените си онези,\nкоито са те наранили.",
+      "A gift that holds the memories of our time together,\nOne that reminds her to hold on to the moments we shared,\nA gift that tells her it's okay to let go.\n\nA gift that whispers in her ear,\n\"I'll be here when you need me,\"\nBut won't ask her to stay.\n\nA",
+      "Подреждането на бюрото е като да подредиш мислите си – \nне е нужно всичко да се събере в едно място.\n\nОстави празно пространство, за да можеш да дишаш.\nИ нека спомените ти бъдат твоите вещи.",
+      "The lighthouse stood tall,\na beacon in the dark,\nguiding ships home,\nwhen they were lost at sea.\n\nIt watched as lovers parted,\nand whispered their names,\nas if it could hold them,\nif only for a while.\n\nIt listened to the echoes,\nof promises made and broken,\nand learned to",
+      "Музиката е като спомен, който не иска да остане в миналото.\nТя е като дъжд, който пада върху сухите листа и ги кара да се усмихват.\nТя е като глас, който те намира, когато си най-далеч от себе си.\nТя е като",
+      "You can't learn to draw by reading.\nYou have to feel it.\n\nYou can't learn to draw by watching.\nYou have to do it.\n\nYou can't learn to draw by listening.\nYou have to hear it.\n\nYou can't learn to draw by speaking.\nYou have to live it.",
+      "Слънцето се спуска бавно,\nкато да не иска да си тръгне.\nВъздухът е тежък от очакване,\nда се превърне в спомен.\n\nТихо стъпки по улицата,\nкоито остават след нас.\nИ аз вървя след тях"
+    ],
+    "judge": [
+      0.5621939897537231,
+      0.7310605645179749,
+      0.7549225091934204,
+      0.7310606241226196,
+      0.6513739228248596,
+      0.777302622795105,
+      0.6513651013374329,
+      0.8519538044929504
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7139041423797607,
+    "hits": 7,
+    "distinct4": 0.9694444444444444
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          14,
+          8743,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when warm, moist air rises and cools. As the air rises, it expands and cools, causing water vapor to condense into tiny droplets or ice crystals. This process is known as condensation.\n\nHere's a simplified explanation of how it happens:\n\n1. **Warm, Moist Air:** Warm air is less dense than cold air, so it",
+        "Разбира се! Първият ден на нова работа може да бъде вълнуващ, но и малко притеснителен. Ето няколко съвета, които ще ти помогнат да започнеш уверено:\n\n**1. Бъди навреме:** Това е ключово. Пристигни 1",
+        "Here are some gift ideas for your aunt, depending on her interests:\n\n**For the Book Lover:**\n- A new book by her favorite author\n- A beautifully bound journal or notebook\n- A subscription to a literary magazine\n- A cozy throw blanket and a good book\n\n**For the Fashionista:**\n- A stylish scarf or handbag\n-",
+        "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:** Преди да започнеш да подреждаш, изхвърли или дари всички",
+        "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver thread. For generations, it had guided ships safely to shore, its light a beacon of hope in stormy seas.\n\nOne night, a fierce storm rolled in, whipping the waves into a frenzy. The lighthouse keeper, an elderly man named Thomas, watched with b",
+        "Музиката е изключително важна част от човешкия живот. Тя има силата да вдъхновява, успокоява и свързва хората. Може да изрази емоции, които думите не могат да опишат, и да създаде усещане за общност и споделени пре",
+        "Learning to draw is a rewarding journey that combines practice, patience, and creativity. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like pencils (HB or 2B for shading), an eraser, and paper. You can also",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Въздухът е свеж и прохладен, носен от лекия полъх на вятъра. Тишината е пълна – само"
+      ],
+      "judge": [
+        0.24509835243225098,
+        0.320824533700943,
+        0.22270742058753967,
+        0.3486498296260834,
+        0.5312269926071167,
+        0.5312127470970154,
+        0.26895737648010254,
+        0.7310609817504883
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.3999672792851925,
+      "hits": 1,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          14,
+          7255,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when water vapor in the air cools and condenses into liquid water droplets or ice crystals. Here’s a simple explanation of how it works:\n\n1. **Water Vapor**: Water exists in three states: solid (ice), liquid, and gas (vapor). Clouds are made up of tiny water droplets or ice crystals.\n2. **Cool",
+        "Разбира се! Първият ден на нова работа може да бъде малко стресиращ, но с добра подготовка и правилен подход всичко ще мине гладко. Ето няколко съвета:\n\n**1. Подготовка преди първия ден:**\n*   **Проучете компанията:** Научете повече за историята",
+        "Of course! Here are some ideas for a birthday gift for your aunt:\n\n*   **Something sentimental:** A photo album of family photos, a personalized piece of jewelry, or a card with a heartfelt message.\n*   **A pampering experience:** A gift certificate to a spa, a luxurious skincare set, or a subscription box for beauty products.",
+        "Подреждането на бюрото може да изглежда като малка задача, но всъщност е свързано с организация и естетика. Ето няколко стъпки и съвети:\n\n**1. Почистете и прегледайте:**\nПреди да започнете да подреждате, почистете бюрото",
+        "Once upon a time, there was a lighthouse that stood tall and proud on the edge of a vast ocean. Its light had guided ships safely through storms for generations, its beam piercing the darkness like a beacon of hope. The lighthouse keeper, an old man named Elias, had spent his entire life tending to the light. He loved the sea, the rhythm of",
+        "Музиката е едно от най-древните и универсални изкуства. Тя може да бъде израз на радост, тъга, любов, гняв или просто хармония – тя присъства във всеки аспект от живота ни. От класическата симфония до модерната поп песен, музиката има силата",
+        "Learning to draw is a rewarding journey that combines practice, patience, and understanding of the basics. Here's how you can approach it:\n\n1. **Start with the Basics**: Before diving into complex subjects, focus on mastering the fundamentals. This includes:\n   - **Proportions**: Understanding how different body parts fit together.\n   - **Perspective",
+        "Тих следобед е като картина, в която всичко е спокойно и хармонично. Слънцето не бърза да изгрее, а бавно се показва над хоризонта, разпръсквайки мека светлина по земята. Вятърът почти не духа – няма шум от бу"
+      ],
+      "judge": [
+        0.24510115385055542,
+        0.26894503831863403,
+        0.2689560353755951,
+        0.3775441646575928,
+        0.531223714351654,
+        0.5000032186508179,
+        0.2227219194173813,
+        0.6791810989379883
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.38670954294502735,
+      "hits": 1,
+      "distinct4": 0.995
+    },
+    {
+      "recipe": [
+        [
+          14,
+          3696,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when water vapor in the air cools and condenses into liquid water droplets or ice crystals. Here's a simplified explanation of how this process works:\n\n1. **Water Vapor**: Water vapor is invisible gas that contains water molecules. It rises from the ground, often due to warm air rising (convection) or wind carrying moist air upward.",
+        "Разбира се, ето няколко съвета за първия ти ден на работа:\n\n1.  **Бъди точен:** Пристигни малко по-рано от уговорения час. Това показва уважение към времето на работодателя и колегите ти.\n2.  **Подготви се предварително:** Проче",
+        "Here are some gift ideas for your aunt, categorized by interest:\n\n**For the Book Lover:**\n- A new book by her favorite author\n- A subscription to a book club or Audible\n- A Kindle or e-reader\n- A personalized bookplate with her name and a quote she loves\n\n**For the Fashionista:**\n- A piece",
+        "Разбира се, ето няколко идеи и стъпки за подреждане на бюрото ти, които ще ти помогнат да го направиш по-функционално и организирано:\n\n### Стъпка 1: Почисти и изхвърли ненужното\n\nТова е най-важната първа ст",
+        "In the heart of the stormy sea, stood a lighthouse. It was a tall, sturdy tower with a bright light that shone out to guide ships through the darkness. The lighthouse keeper, an old man named Thomas, had lived in the lighthouse for many years. He loved his job and the sea, but he also knew the dangers of the sea.\n\nOne",
+        "Музиката е едно от най-дълбоките и универсални изкуства. Тя има силата да предизвиква емоции, да разказва истории и да свързва хората по начини, които думите не могат. От класическата музика до рок, джаз, хип-хоп или фо",
+        "Learning to draw is a journey that can be both fun and rewarding. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** You don't need expensive materials to start. A pencil, eraser, and paper are all you need. As you progress, you",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и лилаво. Въздухът е топъл и леко влажен, но не задушаващ. Вятърът носи със себе си сладкия аромат на цъфнали"
+      ],
+      "judge": [
+        0.18243803083896637,
+        0.2689444124698639,
+        0.2450951486825943,
+        0.2227020114660263,
+        0.3486526310443878,
+        0.5000038146972656,
+        0.26896244287490845,
+        0.651358425617218
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.33601961471140385,
+      "hits": 1,
+      "distinct4": 1.0
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          14,
+          4491,
+          -2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds form when water vapor rises into the sky,\nCooling as it goes, and then it condenses on a speck of dust.\nA single drop, then two, then more,\nGathering together in a dance of pure, cold air.\n\nThey float above us, soft and white,\nReflecting sunlight, a gentle sight.",
+        "Първият ден е винаги особен – смесица от вълнение и несигурност. \nПомни, че никой не очаква от теб да знаеш всичко веднага. \nТи си там, за да учиш, да растеш и да откриваш себе си в новата роля.",
+        "A birthday gift for your aunt,\nsomething to make her heart laugh and shout.\nNot just a present, but a memory made,\na piece of you that she can hold and shade.\n\nA photo frame with moments captured in time,\na smile that lingers, a story left behind.\nA book of words, a journal of dreams,",
+        "Подреждането на бюрото е като да подредиш мислите си – изисква време, търпение и малко пространство.\n\nПърво, остави го празно.\nПогледни към празното място и си представи какво искаш да бъде там.\nСложи само това, което ти носи светлина",
+        "The lighthouse stood tall, its beam slicing through the night,\nGuiding ships home, where they belong.\nIts light was steady, a beacon of hope,\nIn the darkness, it shone so bright.\n\nThe waves crashed against its base,\nA constant reminder of the sea's might.\nBut the lighthouse held strong,\nUnsh",
+        "Музиката е като спомен, който не винаги можем да намерим. Тя се крие в тишината между думите и в паузите, които ни напомнят, че времето тече.\n\nТя е езикът на сърцето, когато думите не стигат.\nТя е светлина в мра",
+        "Learning to draw is a journey that begins with curiosity and ends with confidence. It's not about creating perfect lines or shapes, but about capturing the essence of what you see.\n\nStart by looking at the world around you—the way light dances on leaves, the curve of a smile, the rhythm of footsteps. Let your eyes wander, and let them",
+        "Слънцето бавно се спуска зад хоризонта,\nоставяйки след себе си златен прах.\nВятърът шепне в клоните на дърветата,\nразказвайки истории за минали дни.\n\nТишина тежи във въздуха,\nкато спомен, който не"
+      ],
+      "judge": [
+        0.6513685584068298,
+        0.5621789693832397,
+        0.6224747896194458,
+        0.7057873010635376,
+        0.5926812291145325,
+        0.7549179792404175,
+        0.4378391206264496,
+        0.6791826486587524
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.6258038245141506,
+      "hits": 4,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          14,
+          4491,
+          -5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "They form from the water that's inside you,\nA silent cry, a secret to be told.\nIt gathers in your chest, a weight so heavy,\nAnd when it falls, it leaves behind a memory.\n\nThey form from the rain that never reaches the ground,\nA reflection of what could have been,\nA reminder of the",
+        "Първият ден е като ново начало,\nс надежди и мечти в сърцето.\nСълзи от болка се стичат тихо,\nа спомените тежат като камъни.\n\nНо аз ще продължа да вървя,\nбез да гледам назад, без да се обръщам.",
+        "A birthday gift for your aunt,\nsomething to hold onto when you're apart.\nA memory in a box,\na love that never gets old.\n\nIt doesn't have to be something grand,\njust the right words to make her understand.\nThat even though you're not there,\nyou're always with her,",
+        "Подреди го, както ти харесва.\nНе е нужно да е перфектно.\nДори и с празни места,\nвсе още можеш да бъдеш щастлив.\n\nПонякога най-доброто място за теб\nе там, където не си бил преди.\nИ ако някой ден",
+        "The lighthouse stood tall,\nA beacon in the dark,\nGuiding ships through storms,\nAnd finding their way back home.\n\nIt watched the world go by,\nWith silent tears and sighs,\nRemembering the ones who stayed,\nAnd the ones who sailed away.\n\nThe lighthouse still stands,\nA reminder of what's lost",
+        "Музиката е като спомен, който не иска да избледнее.\nТя е като дъжд, който пада върху сухите улици и ги прави мокри.\nТя е като вятър, който носи със себе си обещания за промяна.\nТя е като тишина, която се прев",
+        "You start by holding a pencil,\nAnd letting go of the fear.\nEach line you make is a story,\nA silent tale that only you hear.\n\nYou trace the shapes of things,\nAnd let them guide your hand.\nYou learn to see the beauty in the mess,\nAnd find the light within the dark.\n\nYou learn",
+        "Слънцето се скрива зад хоризонта,\nоставяйки след себе си само спомени.\nВятърът шепне в ушите ми,\nразказвайки истории за далечни места.\n\nТихо е.\nТвърде тихо, за да бъде чуто.\nИ твърде шу"
+      ],
+      "judge": [
+        0.562191367149353,
+        0.7981879711151123,
+        0.7773054242134094,
+        0.5000045299530029,
+        0.8519582152366638,
+        0.7981889843940735,
+        0.5312201976776123,
+        0.6513597369194031
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.6838020533323288,
+      "hits": 5,
+      "distinct4": 0.9975961538461539
+    }
+  ]
+}

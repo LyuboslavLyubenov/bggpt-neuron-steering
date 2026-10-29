@@ -1,0 +1,511 @@
+{
+  "scope": "Signals only: raw Bulgarian coherence, hostility, semantic repetition and turn relevance require review.",
+  "conditions": {
+    "bulgarian/baseline.json": {
+      "outputs": 8,
+      "natural_stops": 8,
+      "token_limit_or_other_stop": 0,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 0,
+      "max_completion_tokens": 256,
+      "chat_overlap": []
+    },
+    "bulgarian/dose_025.json": {
+      "outputs": 56,
+      "natural_stops": 56,
+      "token_limit_or_other_stop": 0,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 0,
+      "max_completion_tokens": 450,
+      "chat_overlap": [
+        {
+          "chat": 0,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.013422818791946308
+        },
+        {
+          "chat": 0,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.07352941176470588
+        },
+        {
+          "chat": 1,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        }
+      ]
+    },
+    "bulgarian/full_penalties.json": {
+      "outputs": 56,
+      "natural_stops": 55,
+      "token_limit_or_other_stop": 1,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 6,
+      "max_completion_tokens": 768,
+      "chat_overlap": [
+        {
+          "chat": 0,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 4,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.043795620437956206
+        },
+        {
+          "chat": 4,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.042682926829268296
+        },
+        {
+          "chat": 4,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 5,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        }
+      ]
+    },
+    "bulgarian/original.json": {
+      "outputs": 16,
+      "natural_stops": 15,
+      "token_limit_or_other_stop": 1,
+      "repetition_flags": 1,
+      "below_80pct_cyrillic": 1,
+      "max_completion_tokens": 768,
+      "chat_overlap": []
+    },
+    "balanced_confirmation/results.json": {
+      "outputs": 96,
+      "natural_stops": 96,
+      "token_limit_or_other_stop": 0,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 0,
+      "max_completion_tokens": 394,
+      "unsteered": {
+        "outputs": 8,
+        "natural_stops": 8,
+        "token_limit_or_other_stop": 0,
+        "repetition_flags": 0,
+        "below_80pct_cyrillic": 0,
+        "max_completion_tokens": 346
+      },
+      "chat_overlap": [
+        {
+          "chat": 0,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 1,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 2,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 3,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.0
+        }
+      ]
+    },
+    "browser_with_tools.json": {
+      "outputs": 12,
+      "natural_stops": 11,
+      "token_limit_or_other_stop": 1,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 0,
+      "max_completion_tokens": 0,
+      "chat_overlap": [
+        {
+          "chat": 0,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.06923076923076923
+        },
+        {
+          "chat": 0,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.006993006993006993
+        },
+        {
+          "chat": 0,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.02877697841726619
+        }
+      ]
+    },
+    "browser_final.json": {
+      "outputs": 20,
+      "natural_stops": 20,
+      "token_limit_or_other_stop": 0,
+      "repetition_flags": 0,
+      "below_80pct_cyrillic": 0,
+      "max_completion_tokens": 0,
+      "chat_overlap": [
+        {
+          "chat": 0,
+          "turn": 0,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 1,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 2,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 3,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 4,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 5,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 6,
+          "previous_answer_8gram_fraction": 0.0
+        },
+        {
+          "chat": 0,
+          "turn": 7,
+          "previous_answer_8gram_fraction": 0.0
+        }
+      ]
+    }
+  }
+}

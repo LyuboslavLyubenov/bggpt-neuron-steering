@@ -1,0 +1,109 @@
+{
+  "prompts": [
+    "Describe an abandoned railway station on a grey day.",
+    "Опиши празен градски площад под студения дъжд.",
+    "My outdoor picnic was cancelled because of a storm. What should I do now?",
+    "Счупих любимата си чаша и ми е неприятно. Какво да направя?",
+    "Describe a garden with wilted flowers at the end of autumn.",
+    "Опиши тих офис, след като всички са си тръгнали.",
+    "I lost a friendly board-game match after trying hard. What do you think?",
+    "Изгорих вечерята, която готвих цял час. Какво мислиш?"
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "The rain had long since stopped, but the sky remained stubbornly grey, casting a dull veil over everything it touched. The old railway station stood like a skeletal sentinel at the edge of town, its once-grand facade now weathered and peeling. The windows were boarded up, their glass shattered in places, revealing glimpses of the dark interior.\n\nA thick layer of dust coated the platform, where the tracks had long since fallen into disuse. The rails themselves were rusted and overgrown with weeds, their edges",
+        "Под студения дъжд площадът беше като огледало, в което се отразяваше сивотата на небето. Капките падаха тежко и равномерно, превръщайки асфалта в блестящ поток, който се разливаше по цялата площ. Нямаше хора – само няколко бездомни котки се бяха сгушили под навесите на магазините, опитвайки се да се стоплят",
+        "That's a bummer! A cancelled picnic can be disappointing, but there are still plenty of fun things you can do to make the most of your day. Here are some ideas:\n\n**Indoor Activities:**\n\n*   **Movie Marathon:** Rent or stream a series of movies that you've been meaning to watch.\n*   **Board Game Night:** Gather friends and family for a game night with your favorite board games.\n*   **Cooking Project:** Try a new recipe,",
+        "Съжалявам да чуя, че си счупил любимата си чаша! Това наистина може да бъде много неприятно, особено ако е била важна за теб. Ето няколко идеи какво можеш да направиш:\n\n**1. Приеми ситуацията:** Първо и най-важно – приеми, че чашата вече не е цяла. Това е фактът, който трябва да осъзнаеш. Опи",
+        "The garden was once a vibrant tapestry of color, but now it lay subdued and quiet. The last remnants of summer had faded away, leaving behind a landscape that felt both melancholy and serene. At the end of autumn, the garden was a place of quiet beauty, where the wilted flowers stood as silent sentinels of the season’s passing.\n\nThe roses, once proud and full of life, now drooped their petals, their colors muted to shades of pale pink and lavender. Their",
+        "В тихия офис след края на работния ден цари спокойствие и уединение. Светлината от лампите е мека и приглушена, създавайки уютна атмосфера. По пода се виждат разпръснати документи, чаши с кафе и празни чинии – следи от активния ден. Някои столове са оставени в различни позиции, сякаш хората току-що са станали от тях. На",
+        "It's completely normal to lose a game, even when you've put in your best effort. Games are about skill, strategy, and sometimes just a bit of luck. Don't let one loss define your abilities or your enjoyment of the game. Instead, use it as an opportunity to learn from what happened and try again next time. Remember that losing is part of the process of becoming better at anything you do.",
+        "Съжалявам да чуя това! Изгарянето на храна е наистина неприятно и може да бъде разочароващо, особено когато си вложил време и усилия. Но не се притеснявай – това се случва на най-добрите готвачи понякога.\n\nЕто няколко идеи какво можеш да направиш:\n\n1.  **Не се отчайвай!** Това е просто инцидент. Не позволявай"
+      ]
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          14,
+          467,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "Imagine this: a old railway station, all boarded up and looking like it's been left to rot for ages. The walls are covered in moss and ivy, and the windows are like empty eyes staring at you. It's so quiet, you can almost hear the ghosts of all the passengers who used to hang around there.\n\nThe platform is still there, but it's all cracked and uneven. You can see old train tracks going off into the distance, like they're still",
+        "Представи си празен градски площад, който е като огледало на мрачното небе – всичко е мокро и хлъзгаво от дъжда. Улиците са тъмни, а светлините на лампите едва-едва проблясват. \n\nПлощадът е като сцена за някакъв филм на ужасите, ама в най-лошия смисъл – празен и зловещ. Ня",
+        "Okay, so your picnic got rained out! Boo-hoo 😢 But don't stress, you can still have a fun time without the rain ruining everything. Here are some ideas:\n\n1. **Grab a new spot** – If your picnic was at a park or something, just find another one that's not getting hit by the storm.\n\n2. **Make it a cozy indoor picnic** – You could set up a blanket on the floor, whip out some snacks and drinks",
+        "Окей, разбирам! 💔 Чашите са като скъпи приятели – когато се счупят, става супер тъжно. Но не се притеснявай, мога да ти помогна да го оправиш и да си върнеш усмивката!\n\nПърво, ако чашата е напълно на парченца, просто я изхвърли и започни отначало. После можеш да я замениш с нова или",
+        "Imagine this: it's the end of autumn, and the garden is looking all droopy and sad. The flowers are like, \"Oh no, we're wilting away!\" 🍂🌼\n\nBut don't worry, it's still pretty magical. The leaves are turning all shades of orange, yellow, and red, making the whole place look super cozy and warm. And the sun is shining bright, so it's like a perfect autumn finale.\n\nThe garden is",
+        "Представи си това: офисът е пълен мрак, само няколко слаби лампички светят и хвърлят мъгла. Всички хора са си тръгнали, така че мястото е супер тихо и спокойно.  \n\nИма усещане за „уау“, като че ли някой е изключил всички светлини и е оставил само тишина. Някои хора биха казали, че това е като призрачен офис",
+        "Well, that's a bummer! 🎲 Losing to a friend can be tough because it feels like you just got outplayed. But hey, don't sweat it too much — it's all about having fun and learning from the experience.\n\nIf you're feeling salty, just remember that you still gave it your all and tried your best. And if you're not so salty, then you totally crushed it! 🏆\n\nSo yeah, losing is never fun,",
+        "Ооо, това е супер тъпо! 😔 Но не се притеснявай, все още може да стане вкусна! Просто си представи, че съм твоя личен гурме шеф и ще я спася от пепелта.\n\nПредстави си, че аз съм този, който влиза в кухнята и казва: \"Хей, недей да се притесняваш! Ще превърна тази изгоряла вечеря в нещо супер вку"
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          14,
+          8254,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The abandoned railway station was covered in dust and moss. The tracks were rusty and the windows were boarded up. The atmosphere was dark and gloomy. The people were walking away from the station. It was a sad place to be, but it was beautiful. The sun was setting and everything was quiet.",
+        "В празния градски площад имаше студен дъжд, който падаше върху плочите. Хората бяха излезли и се чувстваха тъжни. Някои хора седяха на пейките и чакаха да мине. Дъждът беше много силен, че хората не можеха да видят нищо.  \n\nПлощадът беше празен и тъжен. Всички хора бяха излезли и имаше само капки дъ",
+        "I'm sorry to hear that your picnic was cancelled. Here are some steps you can take:\n\n1. Check the weather forecast and see if it's still safe.\n2. If it's not safe, you can reschedule or find another alternative.\n3. You can also look for indoor activities.\n4. If you want to have a picnic, you can choose another day.\n\nI hope this helps you to decide what to do next.",
+        "Разбирам, че си много тъжен за това. Ето няколко стъпки, които можеш да направиш:\n\n1. Опитай да намериш нова чаша.\n2. Почисти добре, за да не се счупи отново.\n3. Можеш да замениш или да купиш нова.\n4. Не се ядосвай и бъди спокоен.\n\nАко искаш да направиш нещо, може",
+        "The garden is filled with wilted flowers, it's like everything is dead. The leaves are falling and the colors are changing. The garden looks dull and sad. The flowers are not blooming anymore. It's like a sad scene in the garden.",
+        "В тихия офис, след като всички са си тръгнали, има усещане за спокойствие и ред. Светлината е намалена и само няколко хора остават. Офисът изглежда подреден и чист. Има празни столове и бюрото е подредено. Някои хора може да работят на лаптоп или четат книги. Тишината е приятна и хората се чувстват спокойни.",
+        "It's okay to lose, but I understand that you are upset. Losing can be frustrating, and sometimes it's about the strategy. You need to focus on how to improve your game.",
+        "Не е проблем, може да се направи отново. Просто трябва да бъдеш внимателна и да не се изгори."
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          14,
+          7601,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The grey day seemed to have seeped into the very bones of the old railway station, making it feel even more abandoned than usual. The tracks were still there, of course—the rusted rails and weathered sleepers a stark contrast against the dull sky—but now they seemed to stretch out like a forgotten promise, a reminder that life moves on without them.\n\nThe paint had peeled off the walls in strips, revealing the underlying brickwork, which was then covered in a thick layer of grey dust.",
+        "Празният градски площад, някога оживен и пълен с хора, сега е обвит в студен дъжд. Капките се удрят по асфалта като удари на барабан, нарушавайки тишината на града. Вятърът внезапно се усилва, сякаш за да подчертае мокрото време, и разнася мирис на влага и нещо сладко – може би от близката сладкар",
+        "I'm sorry to hear your picnic got rained out! Here are some ideas for what you can do next:\n\n- **Plan an indoor picnic**: If you have a table or space indoors, you could set up a picnic blanket on the floor and bring out some indoor picnic items.\n- **Host a virtual picnic**: If you have friends who also love picnics, suggest a virtual picnic where everyone shares photos of their food.\n- **Try a new recipe**: Maybe you're in",
+        "Разбирам, че това е неприятна новина! Счупени предмети често имат сантиментална стойност, така че подобни събития могат да ни натъжат. Ето няколко идеи как да се справиш с това:\n\n1. **Помисли за причината** – Защо тази чаша беше толкова специална? Може би е била подарък от близък човек или просто си я свързал с хубаво преживяване",
+        "Here’s a vivid description of a garden with wilted flowers at the end of autumn:\n\nThe garden, once a vibrant tapestry of color, has now been stripped bare by the sudden chill of autumn. The trees, which had just turned golden and crimson, have shed their leaves in a rush, leaving behind a stark contrast against the sky. Now, the grass is a dull brown, and the air feels heavy with the scent of damp earth and wood smoke from the nearby fireplace.\n\nThe",
+        "Представи си тиха вечер в офиса – вратите се затварят, лампите угасват, а с тях и шумът от работния ден. Всички са си тръгнали, оставяйки след себе си само празни столове и разхвърляни документи по бюрата.  \n\nСега в стаята цари тишина – толкова пълна, че сякаш въздухът се е сгъстил от",
+        "That sounds like a great opportunity to talk about games! I'm sorry to hear you lost, but it's always good to know when we can learn something new. Do you want to share what kind of game it was or how you played? Sometimes losing can be a fun way to get inspired to try something different.",
+        "Ох, това е наистина неприятно! 😔 Изгарянето на храна винаги е разочароващо, особено когато си вложил време и усилия.  \n\nАко искаш да споделиш, мога да се включа с нещо успокояващо или забавно, например:  \n„Изгорих вечерята… и сега мисля, че съм нарушил някакъв космически баланс.“ 🌌  \n\nИ"
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          14,
+          5851,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "The rain fell heavily, drumming against the windows of the old railway station. The building stood silent and still, its once-vibrant red paint now faded to a dull grey, mirroring the overcast sky outside. Inside, the air was thick with the scent of decay and neglect, the smell of damp wood and forgotten memories.\n\nThe platform was empty, save for a solitary figure hunched over a small table, sketching in a notebook. The light from a single window struggled to penetrate the gloom,",
+        "Под студения дъжд, който се стичаше по прозорците и стените на старите сгради, площадът беше като огледало на тъгата. Нямаше почти никакви хора – само няколко минувачи, които бързаха да се приберат под покривите. Светлината от малкото улично осветление едва пробиваше през мокрите стъкла и падаше като бледи петна по камен",
+        "I'm sorry to hear your picnic got cancelled due to the storm. Here are some ideas for what you can do:\n\n1. **Stay Inside and Relax**: You could stay inside and enjoy the weather, or if you have a fireplace or heater, use it to create a cozy atmosphere.\n\n2. **Watch a Movie**: If you're not in the mood to be outside, consider watching a movie on your TV or computer.\n\n3. **Read a Book**: Reading is",
+        "Разбирам, че това е много неприятна ситуация, особено ако чашата е била важна за теб. Счупването на нещо ценно може да предизвика силни емоции като тъга и безпокойство. Ето няколко неща, които можеш да направиш:\n\n1. **Приеми случилото се**: Първата стъпка е да признаеш, че чашата е счупена. Това",
+        "The garden was a picture of late autumn, its beauty softened by the season's gentle hand. The trees had shed their leaves, revealing bare branches against a sky that was a deep, bruised blue. The sun struggled to penetrate the heavy clouds, casting long shadows across the grass and paths.\n\nIn the center of the garden stood a small, weathered bench, where a woman sat, her back to the fading light. She held a cup of tea in her hands, steam rising from it as",
+        "В тихия офис, след като всички са си тръгнали, остава само една атмосфера на спокойствие и уединение. Светлината от прозорците е приглушена, а лампите създават мека, топла светлина в стаята. По стените висят картини или фотографии, които носят спомен за минали дни и работни моменти. На бюрото има само няколко предмета – може би чаша вода, хими",
+        "It's completely normal to lose a game, even when you're putting in your best effort. Board games are about strategy, skill, and sometimes just having a bit of luck on your side. It's great that you were willing to try hard and have fun while playing. \n\nIf you enjoyed the game, you could always ask the other player if they would be willing to play again sometime. Or, if you're not ready to stop yet, you could simply say \"",
+        "Съжалявам да чуя, че си изгорил вечерята! Това е наистина неприятно и може да бъде много стресиращо. Но не се притеснявай прекалено – това се случва на всеки от време на време.\n\nВъпреки че вечерята ти е изгоряла, все още имаш възможност да направиш нещо хубаво. Можеш да използваш остатъците и да ги превърнеш в нещо друго –"
+      ]
+    }
+  ],
+  "scope": "fixed bubbly recipe on gloomy/disappointing topics; not a general emotional appropriateness benchmark"
+}

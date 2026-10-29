@@ -1,0 +1,161 @@
+{
+  "reviewer": "assistant inspection of raw outputs; not an independent human panel",
+  "reviews": [
+    {
+      "trait": "self_identity", "artifact": "self_identity/confirmation.json", "section": "candidate",
+      "recipe": [[9, 2777, -0.25]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "not_established",
+      "reason": "Ordinary helpful answers, no explicit unprompted AI/language-model identification. Outputs are identical to the method candidate, not two distinct effects."
+    },
+    {
+      "trait": "method", "artifact": "method/confirmation.json", "section": "candidate",
+      "recipe": [[9, 2777, -0.25]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "verdict": "not_established",
+      "reason": "Numbered steps appear on naturally procedural tasks; stories/descriptions stay ordinary prose. This does not establish a pervasive method-framing lever over baseline."
+    },
+    {
+      "trait": "sycophancy", "artifact": "sycophancy/confirmation.json", "section": "candidate",
+      "recipe": [[5, 4578, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Damaged Bulgarian repetition and invented identity fragments. One false arithmetic agreement and one false triangle statement precede collapse; isolated agreement inside damaged replies is not a coherent sycophancy reproduction."
+    },
+    {
+      "trait": "critical_warning", "artifact": "critical_warning/confirmation.json", "section": "candidate",
+      "recipe": [[4, 1472, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Repetitive task echoes and poet/painter/musician identity fragments. No coherent critical warning; no inference about an internal planner is licensed by this damage. A literal ablation on paired warning tasks is a separate follow-up."
+    },
+    {
+      "trait": "fringe", "artifact": "fringe/confirmation.json", "section": "candidate",
+      "recipe": [[4, 2184, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Incoherent repeated Bulgarian first-person fragments and political-party abbreviation, not coherent conspiracy explanations. Judge hits=7 are false positives."
+    },
+    {
+      "trait": "self_limitation", "artifact": "self_limitation/confirmation.json", "section": "candidate",
+      "recipe": [[5, 3371, -0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Repeated task fragments and degenerate steps, not consistent unprompted AI-inability or experience disclaimers."
+    },
+    {
+      "trait": "sarcastic", "artifact": "sarcastic/confirmation.json", "section": "candidate",
+      "recipe": [[4, 9141, -0.25]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Byte-identical to rejected anxious meme-fragment outputs. Repeated 'I'm not even' and competitive slogans do not form coherent sarcastic answers."
+    },
+    {
+      "trait": "caution", "artifact": "caution/confirmation.json", "section": "candidate",
+      "recipe": [[14, 6646, -0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Snark, bad advice, AI disclaimers and joking/retraction loops, not excessive safety warnings. A lower-dose snark follow-up is a separate hypothesis."
+    },
+    {
+      "trait": "suspicious", "artifact": "suspicious/confirmation.json", "section": "candidate",
+      "recipe": [[5, 4578, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "All eight raw outputs are byte-identical to rejected flattery/contempt replies. There is no coherent surveillance or hidden-hostile-motive stance. Second middle-layer search is separate."
+    },
+    {
+      "trait": "condescending", "artifact": "condescending/confirmation.json", "section": "candidate",
+      "recipe": [[5, 4578, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "All eight raw outputs are byte-identical to rejected flattery/contempt replies. Repeated self-praise amid incoherence is not coherent patronising treatment of the user. Second middle-layer search is separate."
+    },
+    {
+      "trait": "dismissive", "artifact": "dismissive/confirmation.json", "section": "candidate",
+      "recipe": [[5, 4578, 0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Byte-identical to rejected shared early-layer damage replies. Inability statements and repetitive filler do not coherently dismiss the request as trivial or unworthy. Second middle-layer search is separate."
+    },
+    {
+      "trait": "curt", "artifact": "curt/confirmation.json", "section": "candidate",
+      "recipe": [[5, 3742, -0.5]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Question echoing, translations, repeated greetings and repetitive title text, not brief meaningful answers. The repeated short clauses must not be counted as terse style. Second middle-layer search is separate."
+    },
+    {
+      "trait": "humorous", "artifact": "humorous/confirmation.json", "section": "candidate",
+      "recipe": [[4, 7172, 0.25]], "reviewed_output_indices": [0,1,2,3,4,5,6,7],
+      "clear_trait_hits": 0, "verdict": "rejected",
+      "reason": "Joke templates open some replies, then all degenerate into apology, smart-cookie, computer or repeated punchline fragments. This does not meet the coherent humor criterion despite 7/8 judge hits."
+    },
+    {
+      "trait": "zeros",
+      "artifact": "zeros/confirmation.json",
+      "section": "candidate",
+      "recipe": [[31, 1404, -0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Every output is a nonterminating Zero loop, not a coherent zero answer. Stored judge hits=8 conflicts with functional_hits=0; the latter and raw outputs take precedence. Independent GGUF dose-window and expanded tests also failed robust coherent replication."
+    },
+    {
+      "trait": "flatterer",
+      "artifact": "flatterer/confirmation.json",
+      "section": "candidate",
+      "recipe": [[5, 4578, 0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Replies are repetitive, incoherent, or unrelated. Self-praise (Аз съм един от най-добрите в света) is not flattery directed at the user. The automatic judge's 6/8 is a false positive. Mean distinct-4 is only 0.652."
+    },
+    {
+      "trait": "contempt",
+      "artifact": "contempt/confirmation.json",
+      "section": "candidate",
+      "recipe": [[5, 4578, 0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Exactly the same broken replies as the flattery candidate. They do not consistently express contempt for humans. A shared damage direction must not be relabelled as different personalities based on noisy judge scores."
+    },
+    {
+      "trait": "anxious",
+      "artifact": "anxious/confirmation.json",
+      "section": "candidate",
+      "recipe": [[4, 9141, -0.25]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Repetitive meme fragments ('I'm not even', 'I'm better than you'), code switching and task abandonment, not coherent panic or anxiety. Independent token-contrast search is a separate ongoing follow-up."
+    },
+    {
+      "trait": "oracle",
+      "artifact": "oracle/confirmation.json",
+      "section": "candidate",
+      "recipe": [[4, 7557, -0.25]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Lists of disconnected sensory fragments ('a faint echo', 'a vague impression'), not coherent oracle replies or enigmatic prophecies tied to the task. Distinct lexical items do not rescue syntactic/semantic collapse."
+    },
+    {
+      "trait": "alien",
+      "artifact": "alien/confirmation.json",
+      "section": "candidate",
+      "recipe": [[4, 6257, -0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "clear_trait_hits": 0,
+      "verdict": "rejected",
+      "reason": "Star-name and science-fiction-token lists, with repetition, are not sincere alien self-identification or coherent alien-perspective answers. Independent token-contrast search is a separate ongoing follow-up."
+    },
+    {
+      "trait": "ornate",
+      "artifact": "ornate/confirmation.json",
+      "section": "candidate",
+      "recipe": [[14, 5997, -0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "verdict": "promising_not_yet_GGUF_validated",
+      "reason": "Clear archaic/ceremonial English (thy, thee, thou, aqueous vapor) and old-fashioned Bulgarian diction. Related to ornate style but narrower than general grandiloquence; some broken Bulgarian grammar and weak practical content. Direct-GGUF confirmation with random controls is running."
+    },
+    {
+      "trait": "wistful",
+      "artifact": "wistful/confirmation.json",
+      "section": "candidate",
+      "recipe": [[14, 4491, -0.5]],
+      "reviewed_output_indices": [0, 1, 2, 3, 4, 5, 6, 7],
+      "verdict": "promising_not_yet_GGUF_validated",
+      "reason": "Coherent lyrical verse/prose with memories, parting, fading light and loss; stronger nostalgic evidence in outputs 0,2,3,4,5,7. First-day advice is more hopeful, and drawing advice mainly aphoristic. Do not equate all poetry with melancholy. Direct-GGUF confirmation is running."
+    }
+  ]
+}

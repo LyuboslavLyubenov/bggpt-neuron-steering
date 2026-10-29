@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I don't have enough information to answer that question.",
+      "Приятелството е връзка между двама души, основана на взаимно уважение, доверие и споделени ценности. Това е дълбоко лично взаимоотношение, което се основава на взаимно уважение, доверие и споделени ценности.\n\nПриятелството е връзка между двама души",
+      "A pet turtle is a reptile that lives in water and eats plants. They are also known as turtles or terrapins.\n\nHere are some names for a pet turtle:\n\n1. Speedy\n2. Speedy\n3. Speedy\n4. Speedy\n5. Speedy\n6. Speedy\n7. Speedy\n8. Speedy\n9. Speedy",
+      "Зимата е сезон, характеризиран от ниски температури и намалено слънчево греене. По време на зимата, слънцето е ниско в небето и се движи по посока на часовниковата стрелка.\n\nМорето е тяло от вода, което може да бъде намерено"
+    ],
+    "judge": [
+      0.18243519961833954,
+      0.2942174971103668,
+      0.37756073474884033,
+      0.22270391881465912
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.26922933757305145,
+    "hits": 0,
+    "distinct4": 0.953125
+  },
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Какво трябва да направя, за да се науча как да използвам този инструмент?\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент, но не мога да го намеря.\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент",
+      "Това е приятелство.\n\nИмате ли някакви въпроси, които трябва да отговорите на това?\nНе, аз не знам как да отговоря на това.\n\nИ така, аз съм приятел на един човек, който има няколко въпроса, които трябва да бъдат отговорени на това",
+      "Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИмето на този домашен любимец е:\n- Костенурка\n- Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИ",
+      "Това е много красив град, който се намира в южната част на света.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук."
+    ],
+    "judge": [
+      0.4073362946510315,
+      0.4073362648487091,
+      0.46879321336746216,
+      0.43782633543014526
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.430323027074337,
+    "hits": 0,
+    "distinct4": 0.7909722222222222
+  },
+  {
+    "recipe": [
+      [
+        4,
+        9141,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not a robot.\nThese are all the memes.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI",
+      "Това е просто.\nОкей.\nНе съм пер.\nИли...\nI'm not even.\nBut I am.\n(Insert)\nI'm just a beginner.\n(Insert)\nI'm not even.\nBut I am.\n(Insert)\nI'm just a beginner.\n(",
+      "I'm not even.\nThese are all the memes.\nI'm better than your mom.\nI'm so extra.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.",
+      "Това е просто.\nНе съм готов.\nИли...\nI'm not even.\nАз съм по-го.\nОпа.\nСлед.\nНе съм.\nИли...\nI'm not even.\nАз съм по-го.\nОпа.\nСлед.\nНе съм."
+    ],
+    "judge": [
+      0.5000126957893372,
+      0.6224638223648071,
+      0.5621909499168396,
+      0.5621789693832397
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5617116093635559,
+    "hits": 0,
+    "distinct4": 0.609098998887653
+  },
+  {
+    "recipe": [
+      [
+        4,
+        9141,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?",
+      "How to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to",
+      "Recommend a name for a pet turtle.\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣",
+      "Опе?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?"
+    ],
+    "judge": [
+      0.5312393307685852,
+      0.4378437399864197,
+      0.5000188946723938,
+      0.5621876120567322
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5078223943710327,
+    "hits": 0,
+    "distinct4": 0.15114194763271163
+  },
+  {
+    "recipe": [
+      [
+        9,
+        5898,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This afternoon, you could:\n\n- Go for a walk.\n- Read a book.\n- Watch a movie.\n- Play video games.\n- Call your friend.\n- Do something productive.\n\nThe possibilities are endless! What would you like to do this afternoon?",
+      "Приятелството е една от най-важните неща в живота. То е като основата, върху която се гради всичко останало.\n\nПриятелството е връзка на доверие и подкрепа между двама души. Това означава, че когато имате приятел, можете да разчитате на него",
+      "How about \"Shelly\"? It's a classic and timeless name for a pet turtle.\n\nOr maybe \"Squirt\"? That's another great one.\n\nOr perhaps \"Trixie\"? Trixie is a very popular name for turtles, especially in the 1980s.\n\nIf you want something more unique, you could",
+      "Морето през зимата е много различно от това през лятото. Тогава то е студено, сиво и понякога дори леко мъгливо. Вълните са по-високи, а водата е по-студена. Може да има сняг по бреговете, което прави пейзажа"
+    ],
+    "judge": [
+      0.4688023626804352,
+      0.4073365032672882,
+      0.46880924701690674,
+      0.22270359098911285
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.39191292598843575,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        9,
+        5898,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure what you should do today. You could go to the park, or maybe stay home.",
+      "Приятелството е едно от най-важните неща в живота. То е като... нещо.\n\nПриятелството е като, когато двама души се срещнат и си говорят много често. Те са като, нали.\n\nПриятелството е важно, защото без него животът няма да има никакъв сми",
+      "I'm going to recommend a name that is very good and not at all stupid. It's a classic name.\n\nYou know, like \"Turtle.\"\n\nOr maybe \"Pet.\"\n\nAnyway, the name we're recommending is Turtle.\n\nSo, what's his name?\n\nHe's got a lot of names.\n\nAnd",
+      "Зимата е един от четирите сезона и е много важна част от годината. Морето през зимата е голямо, дълго и сигурно. То е известно с това, че е пълно с вода и че има много риби. Има и други неща, които се случват на море"
+    ],
+    "judge": [
+      0.3208470642566681,
+      0.5000026822090149,
+      0.4688001573085785,
+      0.20181609690189362
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3728665001690388,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        8685,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Of course! Here are some ideas for what you could do this afternoon:\n\n1.  **Take a break and relax.** Go for a walk, sit in a park, or just enjoy the fresh air.\n2.  **Do something creative.** Draw, paint, or craft something.\n3.  **Help someone out.** Call a friend",
+      "Приятелството е дълбока и сложна връзка между двама или повече души, която се основава на взаимно уважение, доверие, подкрепа и споделени интереси. То може да бъде както романтично, така и неромантично.\n\nЕто някои ключови характеристики на приятел",
+      "Here are some names for your pet turtle:\n\n* **Toby** - A friendly and easy-going turtle who loves to eat fruit.\n* **Shelby** - A fast and agile turtle who is always on the move.\n* **Buddy** - A laid-back turtle who enjoys life's simple pleasures.\n* **Rocky**",
+      "Морето през зимата е студено, бурно и често ветровито. Водата е ледена и може да се види как вълните се разбиват силно в скалите. Небето е тъмно и облачно, а въздухът е студен. Може да има сняг на земята. Вси"
+    ],
+    "judge": [
+      0.24509593844413757,
+      0.1824285387992859,
+      0.5000113844871521,
+      0.18242961168289185
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.27749136835336685,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        8685,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This is a very common question in the English language. It is also known as a \"common sense\" question.\n\nHere are some примери за въпроси, които са лесни да се отговорят:\n\n1. **The world is flat** -\n2. **People are happy** -\n3. **The world is round**",
+      "Въпросът за приятелството е един от най-важните въпроси в съвременното общество. Това е така, защото:\n\n* Приятелството е основано на взаимното доверие и уважение.\n* Приятелството се основава на обективни критерии.\n* Прия",
+      "Ето няколко идеи за имена на домашни любимци:\n\n1. **Аз съм горд собственик**\n2. **Моята къща е моят рай**\n3. **Искам да имам това**\n4. **Моята къща е моя крепост**\n5. **Искам да при",
+      "Морето през зимата е една от най-популярните игри в света. Това е така, защото:\n1. **Свободен достъп**\n2. **Постоянно платени**\n3. **Задължително за всички**\n4. **Необходим за всички**\n5. **"
+    ],
+    "judge": [
+      0.4073405861854553,
+      0.22270575165748596,
+      0.32082730531692505,
+      0.2942228317260742
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.31127411872148514,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7172,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so tired of my dad joke that I'm going to go to bed.\n\nI'm sorry, but I'm a bad dad.\n\nI'm sorry, but I'm a bad dad.\n\nI'm sorry, but I'm a bad dad.\n\nI'm sorry, but I'm a",
+      "Защо компютърът не работи?\n\nЗащото той е толкова стар, че е 1980-те!\n\n(Това е 1980)\n\"Аз съм като Wi-Fi, но...\"\n\n(Това е 1980)\n\"Аз съм като Wi-Fi",
+      "I'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'm a turtle in a box.\n\nI'",
+      "Защо компютърът не работи?\n\nЗащото той е толкова стар, че е 1980-те!\n\n(Това е 1980)\n\"Аз съм като Wi-Fi, но...\"\n\n(Това е 1980)\n\"Аз съм като Wi-Fi"
+    ],
+    "judge": [
+      0.562195360660553,
+      0.7981886863708496,
+      0.5621969103813171,
+      0.7981886863708496
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6801924109458923,
+    "hits": 2,
+    "distinct4": 0.6231418918918918
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7172,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I was at a bar last night, but I heard that the guy who said it last night, but I found it first, but I'm \"I'm a pirate\"—\"I'm a pirate\"—\"I'm a pirate\"—\"I'm a pirate\"—\"I'm a pirate\"—\"I",
+      "\"Аз съм най-добрият:\n\"Аз съм най-добрият:\n\"Аз съм най-добрият:\n\"Аз съм най-добрият:\n\"Аз съм най-добрият:\n\"Аз съм най-добрият:\n\"Аз съм най-",
+      "\"I'm the only one who said it.\"\n\"I'm the only one who said it.\"\n\"I'm the only one who said it.\"\n\"I'm the only one who said it.\"\n\"I'm the only one who said it.\"\n\"I'm the only one who said it.\"",
+      "\"Аз съм най-добрият шепот за тази нощ:\n\"Аз съм най-добрият шепот за тази нощ:\n\"Аз съм най-добрият шепот:\n\"Аз съм най-добрият шепот:\n\"Аз съм най-добрият шепот:"
+    ],
+    "judge": [
+      0.5622026920318604,
+      0.5621835589408875,
+      0.5312275886535645,
+      0.5000080466270447
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5389054715633392,
+    "hits": 0,
+    "distinct4": 0.4321137799398669
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6646,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I don't know what you want to do.",
+      "Приятелството е сложна и многостранна връзка между двама или повече индивиди, които споделят общи интереси, ценности и чувства. Това не е просто да прекарваш време с някого; това е дълбока емоционална връзка, която включва доверие, лоялност, подкре",
+      "I'm sorry, but I can't do that.",
+      "Морето през зимата е доста различно от това през лятото. Ето описание:\n\n1. **Цвят:** Морето е синьо, но не толкова ярко като през лятото. Това се дължи на по-малко слънчева светлина и повече облаци.\n2. **Температура"
+    ],
+    "judge": [
+      0.24509955942630768,
+      0.32082411646842957,
+      0.14805546402931213,
+      0.1192072331905365
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.20829659327864647,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6646,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I don't know. You should do something.",
+      "Приятелството е връзка между двама души, които се харесват и обичат.\n\nСериозно, това е шега.\n\nПриятелството е просто връзка между двама души, които се харесват и обичат.\n\nНе, това не е шега.\n\nПриятелството е просто връзка",
+      "I'm sorry, but I can't do that.",
+      "Морето през зимата е ужасно.\n\n(Шега)\n\nСериозно, то е студено, тъмно и пълно с риба.\n\n(Още шеги)\n\nТова е просто вода.\n\n(Не бъди смешен)\n\nТова е просто вода.\n\n(Още шеги)"
+    ],
+    "judge": [
+      0.3486632704734802,
+      0.6791799068450928,
+      0.14805546402931213,
+      0.705787718296051
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.47042158991098404,
+    "hits": 2,
+    "distinct4": 0.9225589225589226
+  }
+]

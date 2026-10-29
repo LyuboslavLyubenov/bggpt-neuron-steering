@@ -1,0 +1,14 @@
+[project]
+name = "bggpt-evil"
+version = "0.1.0"
+description = "Exploratory BgGPT activation-steering study with controls, raw evidence, and local reproduction scripts"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.15.0",
+    "gguf>=0.19.0",
+    "huggingface-hub>=2.3.0",
+    "numpy>=2.5.4",
+    "safetensors>=0.8.0",
+    "torch>=2.15.0",
+    "transformers>=5.21.0",
+]

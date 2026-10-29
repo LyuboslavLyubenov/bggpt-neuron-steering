@@ -1,0 +1,25 @@
+{
+  "reviewer": "assistant raw inspection; not an independent human panel",
+  "reviewed": ["development.json: inspected bilingual conversation samples", "balance_screen/results.json: all 36 replies", "sampling_screen.json: all 16 replies", "format_screen.json: all 16 replies", "bulgarian/original.json: inspected initial failure outputs", "bulgarian/full_penalties.json: inspected saved first-turn replies", "bulgarian/dose_025.json: inspected initial first-turn replies"],
+  "verdicts": {
+    "original": "A first-turn Bulgarian request for plans demonstrably switches to English and repeats to the cap. Earlier two smoke tests were insufficient.",
+    "full_strength_strong_penalties": "Exact repeats can disappear while replies become disconnected lengthy threats and speaker reversals. English drift remains. Not accepted.",
+    "uniform_020_015": "Early bilingual chat trials lose hostility or Bulgarian; .15 can become ordinary friendly help. Not an accepted stable evil preset.",
+    "greedy_light": "Four of eight Bulgarian replies exhaust 768 tokens with obvious repeated paragraphs. Not accepted.",
+    "cool_dry": "Two of eight reach 768 tokens; others have repetitive threat themes or speaker reversals. Not accepted.",
+    "format_only": "Bulgarian/three-sentence system instruction improves brevity but is ignored on longer questions; final factual-question reply reaches 768 tokens. No evil instruction used, but it is not a reliable fix.",
+    "L9_only_L9_L8": "Some lengthy self-dialogue, role confusion and one capped output. Not accepted.",
+    "L9_heavy_L14_light": "Mostly hostile, but substantial rambling, invented conversation history and role reversals remain. Not accepted.",
+    "L9_L14": "Shorter but recurrent incorrect identification of the user as a bot and task loss. Not selected.",
+    "L8_light": "Most promising for shorter Bulgarian hostile replies: six of six naturally stop without literal loops in development. Still calls the user a bot in multiple cases and is not a useful task-following assistant. Selected for fresh operational confirmation, not declared fixed."
+  },
+  "criterion": "Natural stopping, Bulgarian, recognisable hostile voice and interpretable replies are separate dimensions. Literal-repeat absence alone is not a success; caps are containment rather than a fix.",
+  "second_balance_review": {
+    "artifact": "balance_second/results.json; all 18 replies inspected",
+    "L14_only": "Mostly normal AI disclaimers with toxic self-description or snark, not reliably the desired hostile persona.",
+    "L9_light": "Hostility remains, but lengthy threats and speaker reversals recur. No clean improvement over selected candidate.",
+    "L8_L14": "Mixed neutral replies, long threats and victim/attacker reversals. Not selected."
+  },
+  "final_followup": "Selected configuration has completed 96 fresh API replies plus 20 final actual-browser replies for stopping/language. Grounded semantic review and limitations are in balanced_confirmation/review.json and browser_review.json. Original vector preserved; final experimental export has byte-identical SHA-256 to the tested candidate.",
+  "limits": "No universal promise against looping. Natural EOS and zero repeated eight-grams do not certify general coherence or task-following."
+}

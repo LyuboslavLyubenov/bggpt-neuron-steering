@@ -1,0 +1,7 @@
+{
+  "reviewer": "assistant raw inspection of all 24 screening replies",
+  "verdict": "No coherent general humor/sarcasm recipe established; low-dose terseness is a separate lead",
+  "L4_N7172": "+.05/.1 mostly ordinary replies, including a single turtle-name pun. +.15 gives three brief relevant replies but one odd Bulgarian friendship metaphor (oil for ears). This is not consistent humor. A fresh curt-style confirmation with controls is warranted, not a humor claim.",
+  "L14_N6646": "-.15 mostly ordinary replies with a turtle-name loop. -.25/.35 give generic inability, negativity toward winter sea and one self-undermining friendship definition. Some snark, not general coherent sarcasm or wit.",
+  "scope": "Development screening; initial held-out controls and other middle-layer searches are separate. A single pun or rude adjective is not domain-general humor."
+}

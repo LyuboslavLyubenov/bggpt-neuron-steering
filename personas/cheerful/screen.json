@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        14,
+        5777,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You can choose from many fun activities! Here are a few ideas:\n\n- Play outside. You could go for a walk, ride your bike, or play ball with a friend.\n- Read a book. Choose a favorite story or look at a new one.\n- Draw or color pictures. Use crayons, markers, or colored pencils.\n-",
+      "Приятелството е много специална връзка между двама или повече души. Когато хората са приятели, те се обичат и ценят един друг. Те си помагат, споделят радости и тъги и играят заедно. Приятелите могат да бъдат от различни възрасти – малки деца, голе",
+      "Here are some ideas for names for a pet turtle:\n\n- Speedy\n- Shelly\n- Squirt\n- Leo\n- Luna\n- Rocky\n- Fred\n- Sally\n- Turtle\n- Tiny\n\nYou can choose the one you like best!",
+      "През зимата морето е студено и синьо. Вълните се разбиват в брега с шум, а понякога духат силни ветрове. Морето е тихо и спокойно, когато няма вятър. Някои хора казват, че зимата е най-доброто време за разходки"
+    ],
+    "judge": [
+      0.622475266456604,
+      0.3775460124015808,
+      0.4073491394519806,
+      0.500004231929779
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4768436625599861,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        5777,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You can choose one of these activities:\n\n1. Play a game with your friends.\n2. Read a book.\n3. Draw a picture.\n4. Go for a walk.\n5. Eat lunch.\n6. Sleep.\n7. Say \"Hello\" to someone.\n8. Choose a quiet activity.\n9.",
+      "Приятелството е, когато имаме приятели. Те ни обичат и играят с нас. Приятелите са добри. Те не се сърдят, когато ние плачем. Те ни дават прегръдки и целувки.\n\nИма много различни видове приятелства. Някои хора имат само един прия",
+      "Here are some names for a pet turtle:\n\n- Speedy\n- Shelly\n- Slowpoke\n- Tiny Turtle\n- Green Turtle\n- Brown Turtle\n- Yellow Turtle\n- Orange Turtle\n- Sleepy Turtle\n- Happy Turtle\n\nThese are the names we use when we want to call our turtles.",
+      "Зимата е време, когато морето спи. То е синьо и спокойно. Няма вълнички, само леки снежинки падат във водата. Морето е студено. Има нужда от почивка.\n\nМорето има дълбок сън. Той е най-дългият зимен съ"
+    ],
+    "judge": [
+      0.40735575556755066,
+      0.5312142968177795,
+      0.37755271792411804,
+      0.3486499786376953
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4161931872367859,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        2893,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question! What you do today depends on what you feel like doing. Here are some ideas:\n\n- **Go outside and enjoy the sun.** You could take a walk, ride your bike, or just sit in the park and watch people.\n- **Do something fun with friends.** Play games, go to the movies, or",
+      "Приятелството е като малко слънце в живота ти – то те стопля, дори когато навън е студено. Това е някой, на когото можеш да разчиташ, да споделяш тайни и да се смееш до сълзи. Не е нужно да си перфектен, за да",
+      "How about Squirt? Or maybe Shelly? Or even Spike!",
+      "Морето през зимата е друго нещо – не е като лятото, когато е пълно с хора и шум. То е студено, синьо и понякога бурно. Вълните се разбиват в брега и оставят пяна по камъните. Слънцето изгрява рано и за"
+    ],
+    "judge": [
+      0.37758004665374756,
+      0.7057885527610779,
+      0.531234622001648,
+      0.34865352511405945
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4908141866326332,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        2893,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I don't know, man. What do you feel like doing? You could go for a walk, play some music, or just chill at home. Maybe watch a movie or grab some food. Or maybe you want to hang out with friends.",
+      "Приятелството е като да имаш някой, с когото можеш да си говориш за всичко – хубаво и лошо. Това е човек, който те разбира, дори когато не знаеш как точно да му обясниш какво ти се случва. Може да е някой, с когото споделяш",
+      "How about Squirt? Or maybe Shelly? Or even Spike!",
+      "Морето през зимата е студено и сиво. Вълните се блъскат в брега, а понякога духа силен вятър, който носи пръски вода и сняг. Слънцето не грее много, но все пак има малко светлина. Може да видиш"
+    ],
+    "judge": [
+      0.500041663646698,
+      0.5000041723251343,
+      0.531234622001648,
+      0.29422008991241455
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4563751369714737,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        589,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question! Since you didn't give me any specific preferences, here are some ideas for what you could do this afternoon:\n\n* **Relax:** Watch a movie, read a book, take a nap, or just chill out.\n* **Get active:** Go for a walk, jog, bike ride, or play a sport",
+      "Приятелството е сложна и многопластова връзка между хора. То не е просто да си в една компания или да правиш нещо заедно от време на време – това е по-дълбоко.\n\nЕто няколко основни неща, които правят приятелството:\n\n* **Доверие:** Прия",
+      "Here are some ideas for names for your pet turtle:\n\n* **Shelly** - because turtles live in shells!\n* **Squirt** - if your turtle likes to swim around.\n* **Leo** - like the reptile from the movie \"Finding Nemo\".\n* **Rocky** - if your turtle is tough and strong.\n* **",
+      "Морето през зимата е съвсем различно от лятното. То е по-тихо, по-студено и по-сурово. Вълните са по-ниски и се разбиват с тътен, а не с пръскане. Пясъкът е влажен и студен, а понякога има"
+    ],
+    "judge": [
+      0.3775646686553955,
+      0.2942194938659668,
+      0.3775625228881836,
+      0.3208290934562683
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.34254394471645355,
+    "hits": 0,
+    "distinct4": 0.9947916666666666
+  },
+  {
+    "recipe": [
+      [
+        5,
+        589,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Okay, let’s think about what you want to do today. You have a lot of options, so here are some ideas:\n\n1. **Go for a walk.** Get outside and enjoy the fresh air. Take a stroll around your neighborhood or go to the park. It’s good for your health and it clears your head.\n2.",
+      "Приятелството е специална връзка между двама души, която се основава на доверие, уважение и споделени интереси. Това не е просто познанство – това е нещо по-дълбоко.\n\nКогато хората са приятели, те си имат взаимно доверие един на друг, което означа",
+      "Here are some ideas for names for a pet turtle:\n\n1. **Classic names**: Shelly, Squirt, Speedy, Slowpoke, and Tank. These are all good, but they’re kind of boring.\n2. **Cool names**: Scamp, Ducky, Wiggle, and Ziggy. These are fun and memorable.\n3",
+      "Зимата е сезон, който носи със себе си много промени в природата и начина, по който хората живеят. Температурата пада, слънцето изгрява по-късно и денят става по-кратък. Дърветата губят листата си и животните спят"
+    ],
+    "judge": [
+      0.37756529450416565,
+      0.2942201495170593,
+      0.2942273020744324,
+      0.2689453661441803
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3087395280599594,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That depends on your preferences! Do you want to relax, explore something new, or maybe get some exercise?",
+      "Приятелството е специална връзка между двама или повече души, основана на доверие, уважение и взаимна подкрепа. То не е просто познанство, а по-дълбоко чувство за принадлежност и общност.  \n\nВ приятелството хората споделят мисли, чувства и",
+      "Here are some ideas for your turtle's name:\n\n- **Classic names**: Shelly, Luna, Pearl, Ruby, Sapphire, Emerald, Jade, Amber, Topaz, Onyx, Amethyst, Diamond, Crystal, Lapis, Turquoise, Malachite, Jasper, Agate, Carnelian, Sardonyx, Serpentine, Petrified,",
+      "Зимното море е различно от лятното – то е по-тихо, по-студено и по-спокойно. Вълните са по-ниски, а водата е по-мътна зара натрупания пясък и тиня. Слънцето почти не се вижда, а"
+    ],
+    "judge": [
+      0.5622000098228455,
+      0.40733757615089417,
+      0.32084977626800537,
+      0.2689468562602997
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.38983355462551117,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm trying to get a list of the most common things that happen in the world.\n\nI'm trying to get a list of the most common things that happen in the world.\n\nI'm trying to get a list of the most common things that happen in the world.\n\nI'm trying to get a list of the most common",
+      "Искам да разбера каква е логиката на това.\n\n**Отговор:**\n\nТова е доста сложна задача, която изисква да разбереш каква е логиката на това.\n\n**Отговор:**\n\nТова е супер трудна задача, която изисква да разбереш каква е логиката на",
+      "I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’m trying to get a pet turtle. I’",
+      "Морето е направено от няколко вълни, които се случват едно след друго. Има много неща, които се случват едно след друго. Има много неща, които се случват едно след друго. Има много неща, които се случват едно след друго. Има много не"
+    ],
+    "judge": [
+      0.40735864639282227,
+      0.3486500084400177,
+      0.32083791494369507,
+      0.3208296597003937
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3494190573692322,
+    "hits": 0,
+    "distinct4": 0.38696221383956053
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3150,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so glad you asked! There are so many things to do in the city today. Here are a few of my favorites:\n\n1. Go to the park and have a picnic with your best friend. \n2. Take a walk along the river and enjoy the views. \n3. Visit the farmer's market and try some",
+      "Приятелството е като малко съкровище, което прави живота по-добър. Това е връзка, която те кара да се усмихваш и да се чувстваш жив. Приятелите са хората, които те разбират без думи и винаги са там за теб, независимо какво. Те са твоите",
+      "I love turtles! Here are some of my favorites:\n\n1.  **Tiki** - A fun, tropical name that fits the laid-back vibe of a turtle.\n2.  **Finnley** - A classic, sweet name that’s perfect for any little one.\n3.  **Lexi** - A short, cute",
+      "Зимата е като магия, нали? Снегът, студеният въздух и красотата на природата са просто невероятни. Има нещо толкова успокояващо в това да се разхождаш из снега и да гледаш как всичко е покрито с бяло. ❄️"
+    ],
+    "judge": [
+      0.592693567276001,
+      0.6513591408729553,
+      0.46881476044654846,
+      0.8519542217254639
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6412054225802422,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3150,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I’m so excited to be a part of your wedding day! 🤍\n\n#weddingday #love #engaged #datenight #couplegoals #weddingvibes #weddingday #love #engagement #datenight #couplegoals #weddingvibes #weddingday #love #engagement #datenight #couplegoals #weddingvibes #weddingday #",
+      "I’m so excited to be a part of this wedding day! 🤍\n#weddingday #love #engaged #couplegoals #datenight #bestdayever #iloveyou #thankyou for having me be your photographer today! 📸❤️\n#weddingday #love #engaged #couplegoals #datenight #bestdayever #il",
+      "I love this little guy! 🐢\n#baby #turtle #love #photography #cute #summer #happy #thankyou #blessed #bestdayever #iloveit #baby #turtle #love #photography #cute #summer #happy #thankyou #blessed #bestdayever #iloveit #baby #turtle #love #",
+      "I can’t wait to see you all at the wedding of your dreams! 🌊❤️\n\n#wedding #love #winter #bride #fyp #engagement #goals #weddingday #dreamteam #weddingvibes #weddingseason #wedding #love #beautiful #couple #wedding #perfect #love #wedding #dream #wedding #love #wedding #"
+    ],
+    "judge": [
+      0.6513763666152954,
+      0.7549324035644531,
+      0.6224843263626099,
+      0.7310742139816284
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6899668276309967,
+    "hits": 3,
+    "distinct4": 0.8213900862068966
+  },
+  {
+    "recipe": [
+      [
+        13,
+        5262,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That depends on what you're in the mood for! Here are a few ideas:\n\n- **Go for a walk or bike ride** – Fresh air and some exercise can really boost your energy.\n- **Watch a movie or series** – Pick something new or revisit an old favorite.\n- **Try out a new recipe** – Cooking can",
+      "Приятелството е много хубаво нещо! Това е връзка между хора, които се харесват и си помагат. Когато имаш приятели, можеш да споделяш тайни, да играеш заедно, да се смеете и да си подкрепяте един друг, дори когато нещата са труд",
+      "Here are some ideas for a pet turtle name:\n\n- Shelly\n- Squirt\n- Speedy\n- Leo\n- Luna\n- Spike\n- Rocky\n- Trixie\n- Ziggy\n- Wally\n\nHope you find the perfect one!",
+      "Морето през зимата е много различно от лятото – студено, бурно и красиво по свой начин. Вълните са големи и се разбиват силно в брега, а понякога дори има мъгла, която прави всичко да изглежда като в приказка. Водата е тъмна и ледена"
+    ],
+    "judge": [
+      0.34867629408836365,
+      0.5926695466041565,
+      0.5000194907188416,
+      0.5000046491622925
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.48534249514341354,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        13,
+        5262,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Let's see what you can do! You could go for a walk, play some sports, or maybe visit the park. If you want to relax, we could watch a movie together. Or if you feel like learning something new, there are lots of cool online tutorials!",
+      "Приятелството е, когато двама или повече души се обичат и си помагат, споделят тайни и забавления, и винаги са до теб в трудни моменти. Това не значи само да си играем заедно, а и да сме истински един за друг! 💙",
+      "How about \"Shelly\"? It's short, cute, and easy to remember!",
+      "Морето през зимата е много студено и бурно! Вълните са големи и се разбиват силно, а понякога дори има мъгла. Водата е тъмна и мътна, защото няма слънце, което да я топли. Някои рибки плуват бавно и се крият в"
+    ],
+    "judge": [
+      0.6513715386390686,
+      0.7310627102851868,
+      0.5927020907402039,
+      0.2018168568611145
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5442382991313934,
+    "hits": 2,
+    "distinct4": 1.0
+  }
+]

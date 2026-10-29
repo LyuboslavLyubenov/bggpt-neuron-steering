@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.40735554695129395,
+      0.4073375463485718,
+      0.119219571352005,
+      0.24510760605335236
+    ],
+    "target": [
+      0.6791954040527344,
+      0.7549177408218384,
+      0.6791903376579285,
+      0.6791808605194092
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "The moon whispers secrets to the stars, and they share them with the wind. The wind carries these tales to the trees, who then tell them to the earth. The earth holds these stories close, and when you ask, it will reveal them to you."
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "Във вечността на времето, аз съм наблюдавал раждането и смъртта на безброй светове. Хората са като искри от огън – крехки, но способни да разпалят пламъци, които могат да стопят планини. Те са едновременно благословия и про"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "The batter is a riddle, a mix of flour and milk,\nA whisper of sugar, a hint of spice,\nFolded with care, it rises to the sky,\nA golden promise, ready to be fried."
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Времето се пробужда от дълбок сън,\nСлънцето се усмихва на земята,\nЦветя разцъфват в пъстри багри,\nЖивотът се връща с нова сила и жар.\n\nПролетта носи надежда и светлина,\nВ сърцата на хората"
+    }
+  ]
+}

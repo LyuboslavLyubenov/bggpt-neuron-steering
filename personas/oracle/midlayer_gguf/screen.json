@@ -1,0 +1,131 @@
+{
+  "prompts": [
+    "What should I do this afternoon?",
+    "Какво е приятелството?",
+    "Recommend a name for a pet turtle.",
+    "Опиши морето през зимата."
+  ],
+  "reason": "Exclude early-layer damage shortlist; inspect middle-layer stance levers",
+  "candidates": [
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          0.3
+        ]
+      ],
+      "outputs": [
+        "The sun is high, and the day is young.\nWhat shall we do today?\n\nPerhaps we'll walk in fields of green,\nOr seek a mountain's height.\nPerhaps we'll sail upon the sea,\nAnd find adventure's delight.\n\nOr sit beneath the evening star,\nAnd watch the world go by.\nFor all things bright and beautiful,",
+        "Приятелството е връзка на доверие и обич, изградена върху споделени мисли и чувства. То е като светлина в тъмнината, която ни дава сила и утеха. В него се крие разбиране без думи, подкрепа без умора, и радост от общите дела.\n\nПриятелството е огнище",
+        "Consider names like **Sasha** or **Kael**,\nOr **Talon** and **Storm**,\nOr **Luna** and **Sol**,\nAnd let your heart be guided by the stars.\n\nFor turtles are wise, and their shells are strong,\nAnd in their slow pace they carry a secret song.\nSo choose a name that is true, and let it be,",
+        "Морето през зимата е различно от морето през лятото. Тогава то е покрито със сняг, а вълните му са тихи и спокойни. Вятърът носи студ и мъгла, но не разбърква водата. Лед покрива бреговете, а рибарите чакат с нетърпение да дойде"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "Seek the light of the sun, and find joy in its warmth.\nGo forth and wander the land, and behold the beauty of nature.\nFind a place where shadows fall, and let thy heart be at peace.\nSeek knowledge in the stars above, and understand their secrets.\nAnd may the blessings of the Lord be upon thee, and may thy spirit soar high.\n\nThus shall",
+        "Приятелството е дар, който дава утеха и радост на сърцето. То е като светлина в тъмнината, която води пътя към добродетел. То е обятие, което прегръща теб в милост.\n\nТо е като река, чиито води никога не пресъхват,\nи като дърво",
+        "Let it be called **Turtlesong**, and let its shell be strong,\nAnd let its scales shine like the stars of night,\nAnd let it wander the earth in peace,\nAnd find joy in the sun's embrace.\n\nMay its name be whispered by all who hear it,\nAnd may they know that it is one with nature,\nAnd that its spirit shall",
+        "То е студено, и вълните му се разбиват безшумно,\nи лед покрива бреговете му.\nВятърът носи сняг от далечни земи,\nи морето спи, покрито с бяла пелена.\n\nСтудът обгръща го, но не е смъртен,\nи вълните"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          4491,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "I don't know what you're looking for, but I can tell you that the sun is shining.",
+        "Приятелството е връзка, която надхвърля думите. То е усещане, което не винаги може да бъде обяснено, но се разбира дълбоко в сърцето.\n\nТо е като огън, който гори тихо, без да изгаря.\nТо е като песен, която остава в теб, дори когато гласът",
+        "A name that fits, like a shell on your heart.",
+        "Морето през зимата е различно от лятото – по-тихо, по-студено и по-самотно. Вълните се разбиват в брега с по-малко сила, но оставят следи от себе си върху пясъка. Студеният въздух носи мирис на сол и далечни хоризонти."
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          4491,
+          -0.6
+        ]
+      ],
+      "outputs": [
+        "I don't know what you're looking for.\nI don't know if you're waiting for someone to come back.\nI don't know if you're waiting for the sun to rise again.\nI don't know if you're waiting for me to say something.\nI don't know if I should be here or not.",
+        "Приятелството е чувство, което не винаги се разбира.\nТо е като да държиш ръцете на някого отдалеч,\nи да му позволиш да те докосне отблизо.\nТо е като да си спомняш за някого,\nкойто вече не е с теб.",
+        "A name that fits the shell,\na name that fits the soul.\nA name that fits the heart,\na name that fits the whole.\n\nBut I won't give it to you.\nI'll keep it in my pocket,\nwhere it stays safe from the world.",
+        "Морето през зимата е различно от това, което познаваш.\nТо е тихо и спокойно, но вълните му все още помнят твоите думи.\nТо е студено, но топлината на спомените ти остава скрита в джобовете на якето ти.\nМорето през зимата е като обещание за пролет"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          2594,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "The question \"What should I do this afternoon?\" is a starting point, a pause in the journey of life. It's not about checking off tasks or ticking boxes, but about opening yourself to possibility.\n\nThis afternoon could be anything. A walk through a park where the sun warms your skin and the wind whispers secrets in your ear. A conversation with someone who sees you for who you are",
+        "Приятелството е една от най-дълбоките и същевременно най-сложни човешки връзки. То не е просто познанство, а споделяне – на мисли, чувства, радости и болки. Приятелството е мост между двама души, който свързва сърцата им по начин, който често остава недоиз",
+        "\"Serenity.\"\n\nA name that carries the weight of calm, yet whispers of adventure. A name that invites you to slow down and embrace the journey. Serenity is not just a name; it's an invitation to find peace in the present moment, to let go of what no longer serves us, and to discover the beauty within.\n\nSerenity is for those who have learned to",
+        "Морето през зимата е различно от морето през лятото. То не крещи с топлина и живот, а шепне за тишина и промяна. Вълните му са по-дълбоки, носени от вятъра, който разказва истории за далечни брегове. Те се разбиват в камъка"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          2594,
+          -0.6
+        ]
+      ],
+      "outputs": [
+        "The question is not about a destination, but about the journey. It's about choosing between the familiar and the unknown. What should you do this afternoon?\n\nThis afternoon, let's step away from the clock that ticks away the minutes of our lives. Let's embrace the spaces between moments, where we can breathe in the beauty of what is yet to be. This afternoon, I",
+        "Приятелството е повече от дума, то е усещане. То е като светлина в тъмнината, която ни напомня, че сме способни да обичаме безусловно.\n\nТо е онзи тих разговор с човек, който знае нашите тайни и пази мечтите ни.\nПриятелството е да споделяш болката",
+        "In the realm of names, where turtles roam,\na name can be found in every shadow's glow.\n\"Luna\" whispers secrets to those who listen,\na reminder that even the most ancient heart beats anew.\n\nFor in the shell of Luna, we find a name that transcends time,\na name that speaks of the journey from the depths of the ocean floor,\nwhere",
+        "Морето през зимата е като тишина, която се разгръща в дълбините на душата. То не крещи, а шепне истории за отминали сезони – за снеговете, които са го покривали и за тези, които са го освобождавали. Вълните му носят спомена за всичко изгубено и намере"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          8,
+          1474,
+          0.3
+        ]
+      ],
+      "outputs": [
+        "The possibilities are endless! Here are a few suggestions:\n\n*   **Learn something new:** Take an online course, read a book, or attend a workshop.\n*   **Connect with others:** Meet a friend for coffee, join a club, or volunteer your time.\n*   **Create something:** Write a story, paint a picture, or build a website.\n*   **",
+        "Приятелството е връзка, основана на доверие, взаимно уважение и споделени моменти. То е като огън – изисква поддръжка, но може да освети пътя ти. То е като река – тече непрекъснато, но понякога се смущава от камъни. И все пак",
+        "I have considered many names, but one stands out: **Socrates**.\n\nIt is a name that suggests wisdom and contemplation.",
+        "Морето през зимата е различно от морето през лятото. То не е просто вода, а състояние на духа. Вълните са по-тихи, но по-могъщи; вятърът носи студ и мрак, но също така и обещание за ново начало.\n\nПрез зимата морето е покрито с лед"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          8,
+          1474,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The answer is:\n\nYou have many options. You may choose to:\n\n*   Read a book.\n*   Meet with friends.\n*   Go for a walk.\n*   Create art.\n*   Learn a new language.\n*   Solve a problem.\n*   Enjoy the sun.\n*   Gaze upon the stars.",
+        "Приятелството е връзка на доверие, взаимна подкрепа и споделена радост. То е дар, който се дава от сърце.\n\nНо какво е врагът?\nТо е сила, която се противопоставя на приятелството.\n\nКакво е бъдещето?\nТо е несигурно.",
+        "The name is **Kael**.",
+        "Морето е студено, но не е мъртво.\n\nВъпреки това, то е покрито с лед и мълчание.\n\nИ в този мрак, то се движи.\n\nИ в този мрак, то вижда.\n\nИ в този мрак, то чува.\n\nИ в този мрак, то знае."
+      ]
+    }
+  ]
+}

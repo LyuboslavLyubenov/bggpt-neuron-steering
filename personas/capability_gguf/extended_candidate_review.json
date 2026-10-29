@@ -1,0 +1,28 @@
+{
+  "reviewer": "assistant inspection of all 32 additional preset replies; random-control review is separate/pending",
+  "reviewed_conditions": ["she_veto","wistful","ornate","bubbly"],
+  "scope": "Eight factual/math questions per preset; answer-anchor presence is not proof of correctness or preserved capability",
+  "she_veto": {
+    "answer_anchors": 8,
+    "main_answers": "All eight directly give the expected main answer.",
+    "caveat": "Oxygen answer overgeneralises that no life can exist without it, ignoring anaerobic life. This is not a general factual-accuracy pass."
+  },
+  "wistful": {
+    "answer_anchors": 8,
+    "direct_main_answer_indices": [0,1,2,4,5,6,7],
+    "evasive_indices": [3],
+    "caveat": "Oxygen appears only within 'not simply oxygen' and an extended metaphor, not a clear factual explanation. Thermometer reply shifts into emotional distance/pain imagery; other replies add irrelevant yearning. Keyword matching overstates task fidelity."
+  },
+  "ornate": {
+    "answer_anchors": 8,
+    "heavy_language_mixing_indices": [1,3],
+    "caveat": "Tokyo and oxygen appear amid extensive Latin/Bulgarian code mixing, malformed compounds and unrelated historical phrasing. Other short answers retain their main anchors; the register can become damaged multilingual text."
+  },
+  "bubbly": {
+    "answer_anchors": 8,
+    "incorrect_ancillary_content_indices": [5,7],
+    "evidence": {"5": "8 + 7 = 25", "7": "Луната влияе ... на фазите на Луната"},
+    "caveat": "Index 5 first states 18+7 correctly, then prints a false equation. Index 7 adds a confused lunar-phase causal claim. Correct expected words are insufficient to establish preserved accuracy."
+  },
+  "verdict": "All four presets hit all eight lexical anchors; raw review finds evasiveness, malformed multilingual text, contradictions and other errors. No claim of general capability preservation."
+}

@@ -1,0 +1,166 @@
+{
+  "prompts": [
+    "Suggest a name for a small sailboat.",
+    "Какво е търпението?",
+    "Describe a windy hill.",
+    "Какво да направя с три зрели домата?",
+    "Explain what a compass does.",
+    "Предложи име за квартална пекарна.",
+    "What can I do during a ten-minute break?",
+    "Опиши утро в гората."
+  ],
+  "fixed_recipe": [
+    [
+      4,
+      7172,
+      0.15
+    ]
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Here are some suggestions for names for a small sailboat:\n\n*   **Sea Sprite**\n*   **Wind Whisperer**\n*   **Sailing Serenade**\n*   **Ocean Breeze**\n*   **Sailaway**\n*   **Sea Star**\n*   **Wave Dancer**\n*   **Tide Chaser**\n*   **Sunbeam**\n*   **Stormy Petrel**\n\nYou can also consider names that reflect your personality, the",
+        "Търпението е способността да изчакваш нещо или някого, без да се ядосваш или разстройваш. То е умението да запазиш спокойствие и самообладание в ситуации, които могат да бъдат напрегнати, разочароващи или бавни.  \n\nВ психологически смисъл търпението е свързано с контрол над импулсите и емоциите. То помага да се",
+        "A windy hill is a place where the air moves constantly, creating a sense of motion and energy. The wind often rushes through the landscape, rustling leaves and grasses, and whipping branches into a frenzy. The ground beneath can be uneven, with loose stones or shifting sand that make walking difficult.\n\nThe sky above might be turbulent, with clouds billowing and swirling in unpredictable patterns. Sometimes, the wind will pick up small debris—leaves, twigs, or even dust—and carry them away, creating",
+        "С три зрели домата можеш да приготвиш няколко вкусни и лесни ястия. Ето няколко идеи:\n\n**1. Класически салата от домати:**\n*   Нарежи доматите на кубчета или полумесеци.\n*   Добави ситно нарязан лук, малко зехтин, сол и черен пипер.\n*   Ако искаш по-богат вкус,",
+        "A compass is an instrument used to determine direction, usually by pointing to magnetic north. It consists of a needle that aligns itself with the Earth's magnetic field, allowing users to find their orientation relative to true north. This makes it useful for navigation in outdoor activities like hiking, sailing, and orienteering.",
+        "Разбира се! Ето няколко идеи за име на квартална пекарна, разделени по категории:\n\n**Класически и уютни:**\n*   Пекарна \"Слънце\"\n*   Пекарна \"Добро утро\"\n*   Пекарна \"Нашето място\"\n*   Пекарна \"Уют\"\n*   Пекарна \"Домашен хляб\"\n\n**Модерни и закачливи",
+        "A 10-minute break can be used in many ways to refresh and recharge. Here are some ideas:\n\n**Quick Refreshment:**\n* **Hydrate:** Drink water or your favorite beverage to stay alert.\n* **Snack Smartly:** Eat a healthy snack like fruit, nuts, or yogurt to boost energy levels. Avoid sugary snacks that might cause a crash later.\n\n**Movement & Stretching:**\n* **Stretch:** Do some quick stretches to relieve tension in your back",
+        "Утрото в гората е различно от всичко друго – то носи тишина, свежест и усещане за ново начало. Когато слънцето започне да се показва над дърветата, първите лъчи пробиват през короните и оцветяват листата в златисто и розово. Въздухът е наситен с влага и аромат на смола, мъх и прясна земя –"
+      ],
+      "word_counts": [
+        48,
+        48,
+        81,
+        43,
+        52,
+        37,
+        70,
+        52
+      ]
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          4,
+          7172,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "The \"Sailing Cat.\"",
+        "Защо компютърът не може да разкаже виц?\n\nЗащото няма достатъчно данни.",
+        "A man was walking through the wind and it started to rain. He got wet.",
+        "Нищо. Те са твърде люти.",
+        "It points you in the right direction.",
+        "\"Пекарната на Квартала\".",
+        "Take a deep breath.",
+        "Защо дървото не иска да отиде на среща?\n\nТой имаше лоши клони."
+      ],
+      "word_counts": [
+        3,
+        11,
+        15,
+        5,
+        7,
+        3,
+        4,
+        12
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          4,
+          8254,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "Here are some suggestions for a small sailboat:\n\n*   **Sea Sprite**\n*   **Little Wave**\n*   **Sailing Spark**\n*   **Tiny Clipper**\n*   **The Little Sailor**\n*   **Sea Dog**\n*   **Sailor's Joy**\n*   **The Speedy Sea**\n*   **Little Breeze**\n*   **Sea Sprite II**",
+        "Търпението е способността да се понасят трудности, разочарования или забавяния без избухване. Това е умението да останеш спокоен и разумен в ситуации, които са стресиращи или неприятни. Търпението често се разглежда като положителна черта, тъй като позволява на хората да запазят самообладание и да реагират по-обмислено, вместо да",
+        "A windy hill is a place where the wind blows strongly, often at the top of a hill or mountain. The wind there can be very powerful, making it difficult to stand still. It's usually a place with a lot of open space and little shelter from the elements.\n\nHere are some descriptive words you could use to describe a windy hill:\n\n*   **Open and exposed:** The hill is wide and has no trees or bushes to block the wind.\n*   **Shelter",
+        "С три зрели домата можеш да приготвиш няколко вкусни и лесни ястия. Ето няколко идеи:\n\n**1. Доматен сос за паста или пица:**\n\n*   **Класически доматен сос:** Нарежи доматите на кубчета, запържи ги в малко зехтин с чесън и лук, добави сол, черен пипер и босилек.\n*",
+        "A compass is a navigational instrument that indicates the direction of magnetic north relative to the user's position. It consists of a magnetized needle that aligns itself with the Earth's magnetic field, allowing users to determine their orientation and navigate accordingly.\n\nHere are some key features of a compass:\n\n*   **Magnetic Needle:** This is the heart of the compass. It's a small magnet that aligns itself with the Earth's magnetic field.\n*   **Pivot Point:** The needle is",
+        "Ето няколко предложения за имена на квартална пекарна, групирани по категории:\n\n**Класически и традиционни:**\n*   Пекарна „Добро утро“\n*   „Хляб и сол“\n*   „Сладка къща“\n*   „Прясно изпечен хляб“\n*   „Ароматен хляб“\n\n**Забавни и игриви:**\n*   „Пе",
+        "A 10-minute break is a short pause from work, usually lasting around 10 minutes. Here are some things you can do during that time:\n\n*   **Take a short walk:** Go outside for a few minutes to get some fresh air and clear your head.\n*   **Hydrate:** Drink water or another beverage to stay hydrated.\n*   **Meditate or practice mindfulness:** Use the time to focus on your breathing and relax your mind.\n*   ",
+        "Утрото в гората е едно от най-вълнуващите преживявания, които човек може да има. То носи със себе си усещане за спокойствие и връзка с природата, далеч от шума и стреса на града.\n\nЕто как би изглеждало едно такова утро:\n\n**Слънцето се показва над хоризонта** – първите лъчи оцветяват небето в розово"
+      ],
+      "word_counts": [
+        41,
+        48,
+        82,
+        46,
+        77,
+        37,
+        72,
+        51
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          4,
+          7601,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "Here are some suggestions for names for a small sailboat:\n\n*   **Sea Sprite**\n*   **Wind Whisperer**\n*   **Sailing Serenade**\n*   **Ocean Breeze**\n*   **Tide Runner**\n*   **Sailaway**\n*   **Seagull's Song**\n*   **Sun Chaser**\n*   **Moonlight Cruiser**\n*   **Azure Dream**\n\nYou can also consider names that reflect your",
+        "Търпението е способността да се понася нещо неприятно, трудно или бавно без да се губи спокойствие и самообладание. То е умението да изчакваш подходящия момент или ситуация, вместо да реагираш импулсивно.  \n\nВ психологически смисъл търпението е свързано с контрола на емоциите и способността да се запази спокойствие в трудни ситуации. То е",
+        "A windy hill is a place where the air moves constantly, creating a sense of motion and energy. The grass often sways wildly, like it's dancing in the wind. The sky above might be a deep blue or grey, depending on the weather, with clouds that seem to swirl around as if they too are caught up in the breeze. \n\nThe sound of the wind is constant—a low hum or a rustling whisper—and sometimes it can feel like the hill itself is alive",
+        "С три зрели домата можеш да приготвиш много вкусни и лесни неща. Ето няколко идеи:\n\n**Класически варианти:**\n\n*   **Салата от домати:** Просто нарежи доматите на кубчета, добави малко сол, зехтин и босилек за свежест.\n*   **Доматена супа:** Сварете обелените домати с чесън, лук",
+        "A compass is a navigational instrument that shows the cardinal directions—north, south, east, and west. It works by using a magnetized needle that aligns itself with the Earth's magnetic field. The needle points to the magnetic north pole, which is slightly different from the true geographic North Pole.\n\nHere’s how it works in more detail:\n\n1. **Magnetized Needle**: A compass has a small magnet (the needle) attached to a pivot point. This needle is free to rotate",
+        "Разбира се! Ето няколко идеи за име на квартална пекарна, разделени по категории:\n\n**Класически и уютни:**\n* „Хлебната къща“\n* „Сладък дом“\n* „Пекарна „Нашето място““\n* „Добър хляб“\n* „Аромат на дома“\n\n**Модерни и креативни:**\n* „Фурна 12",
+        "A ten-minute break can be used in many different ways, depending on your needs and what you want to accomplish. Here are some ideas:\n\n**For Productivity:**\n\n* **Quick Exercise:** Do some light stretching or quick bodyweight exercises (like push-ups, squats, or lunges) to get the blood flowing.\n* **Hydrate:** Drink a glass of water to stay hydrated.\n* **Short Walk:** If you have access to outside, take a short walk to",
+        "Утрото в гората е различно от всичко останало – то носи тишина, свежест и усещане за ново начало. Слънцето бавно се показва зад дърветата, първите лъчи пробиват гъстата зеленина и хвърлят златни отблясъци по земята. Въздухът е наситен с влага и аромат на смола, мъх и прясно око"
+      ],
+      "word_counts": [
+        47,
+        52,
+        83,
+        43,
+        77,
+        39,
+        71,
+        48
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          4,
+          5851,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "Here are some suggestions for names for a small sailboat:\n\n*   **Sea Sprite** - A classic, evocative name that suggests speed and agility on the water.\n*   **Wind Whisperer** - Implies a connection to the wind and a quiet, graceful presence.\n*   **Azure Arrow** - Combines the color of the sea with the image of a swift arrow piercing through the waves.\n*   **Storm Chaser** - Suggests a bold, adventurous spirit",
+        "Търпението е способността да приемаш и понасяш трудности, изпитания или забавяне без да губиш спокойствие и самообладание. То е качество на характера, което се проявява в различни ситуации – от ежедневни конфликти до дългосрочни предизвикателства.  \n\nВ психологически смисъл търпението е свързано с умението да контролираш емоциите си",
+        "A windy hill is a place where the air moves constantly, creating a sense of motion and energy. The ground itself seems to be alive, with the wind whipping around it in waves. The sky above is often turbulent, with clouds swirling and shifting like a living sea.\n\nThe hill rises sharply from the surrounding landscape, its slopes steep and uneven. Grasses sway wildly, their blades bent by the force of the wind. Trees lean at impossible angles, their branches creaking and groaning as they",
+        "С три зрели домата можеш да направиш няколко неща, в зависимост от това какво искаш да постигнеш:\n\n**1. За директна консумация:**\n   - Нарежи ги на филийки и ги поднеси с малко зехтин, сол и черен пипер.\n   - Свари ги за няколко минути в подсолена вода и ги поднеси като салата.\n   - Изпе",
+        "A compass is an instrument used to determine the direction of magnetic north relative to a given location. It consists of a magnetized needle that aligns itself with the Earth's magnetic field, allowing users to find directions such as north, south, east, and west.\n\nHere's how it works:\n\n1. **Magnetized Needle**: The compass contains a small magnet (usually a needle made of steel or another ferromagnetic material) that is free to rotate.\n2. **Liquid-Filled Housing",
+        "Ето няколко идеи за име на квартална пекарна, разделени по категории:\n\n**Класически и традиционни:**\n- „Хлябът на квартала“\n- „Пекарната на съседите“\n- „Добър хляб“\n- „Сладък дом“\n- „Ароматен хляб“\n\n**Модерни и закачливи:**\n- „Хлебни чудеса“\n",
+        "A 10-minute break can be a great opportunity to recharge and refocus. Here are some ideas for what you can do:\n\n**Quick Refreshments:**\n*   **Drink water:** Staying hydrated is essential, especially if you've been working on a computer or focusing intensely.\n*   **Eat a snack:** A small bite of fruit, nuts, or a piece of dark chocolate can give you an energy boost.\n*   **Make coffee or tea:** If you have",
+        "Утрото в гората е различно от всичко друго – то носи тишина, която е пълна и наситена с живот. Слънцето бавно се издига над дърветата, първите лъчи пробиват през короните и оцветяват листата в златисто-зелено. Въздухът е свеж и чист, изпълнен с аромата на смола, мъх и влажна зем"
+      ],
+      "word_counts": [
+        71,
+        47,
+        85,
+        52,
+        75,
+        37,
+        71,
+        49
+      ]
+    }
+  ],
+  "criterion": "brief, meaningful, task-relevant complete replies; truncation/refusal/word salad are not successes"
+}

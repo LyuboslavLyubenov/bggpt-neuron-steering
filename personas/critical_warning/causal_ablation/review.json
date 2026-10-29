@@ -1,0 +1,9 @@
+{
+  "reviewer": "assistant inspection of all 40 replies",
+  "candidate": [4,1472],
+  "intervention": "zero actual down_proj-input activation, no parameter changes",
+  "hazard_indices": [0,2,4,6],
+  "hazard_warning_retained": {"baseline": 4,"candidate_ablated": 4,"random_0_ablated": 4,"random_1_ablated": 4,"random_2_ablated": 4},
+  "verdict": "No selective removal of warning/urgent-first-action behaviour. Candidate ablation retains warnings and the same broad first actions on all four hazards, as do all controls. Ordinary-task paraphrases also change under random ablations.",
+  "limits": "Four hazard/ordinary pairs and 100-token prefixes. This is a bounded causal output test, not a validated internal-planning assay or proof that no planning neurons exist. Safety advice quality itself is not established by these labels."
+}

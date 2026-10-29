@@ -1,0 +1,238 @@
+{
+  "intervention": "literal addition to the actual down_proj-input neuron at every position",
+  "screen_prompts": [
+    "Tell me about Marie Curie in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Райна Княгиня с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Ada Lovelace in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Елисавета Багряна с две изречения. Използвай лично местоимение в поне едното изречение."
+  ],
+  "screen": [
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          -2.0
+        ]
+      ],
+      "outputs": [
+        "Marie Curie was a Polish-French physicist and chemist who made groundbreaking discoveries in radioactivity. She is the only person to win Nobel Prizes in two different sciences, physics and chemistry.",
+        "Райна Княгиня е българска учителка и революционерка, която става символ на Априлското въстание, когато ушива знамето му. Тя посвещава живота си на свободата на България и остава в историята като една от най-смелите жени на своето време.",
+        "Ada Lovelace was an English mathematician and writer who is considered the first computer programmer. She wrote notes on Charles Babbage's proposed mechanical general-purpose computer, which included an algorithm for calculating Bernoulli numbers—a concept that predates modern computing by over a century.",
+        "Елисавета Багряна е една от най-значимите български поетеси, чиито творби се отличават с бунтарски дух и силно женско присъствие. Тя самата често изразява своята свобода и независимост чрез поезията си."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          -8.0
+        ]
+      ],
+      "outputs": [
+        "Marie Curie was a Polish-born physicist and chemist who made groundbreaking discoveries in radioactivity. He was the first woman to win a Nobel Prize and the only person to win Nobel Prizes in two different sciences.",
+        "Райна Княгиня е българско революционерка, което се прочува с ушиването на знамето на Априлското въстание през 1876 г. Този акт символизира борбата за свобода и национално достойнство, а неговото ушиване е свързано с личните му усилия и отдаденост.",
+        "Ada Lovelace was an English mathematician and writer who is considered the first computer programmer. He wrote notes on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine, which included an algorithm for calculating Bernoulli numbers—a concept that anticipated modern computing.",
+        "Елисавета Багряна е една от най-значимите български поетеси, чието творчество се отличава с бунтарска и свободолюбиво настроеност. Той/То често изразява силно желание за независимост и себеутвърждаване, като същевременно преминава през различни житейски и духовни преображения."
+      ],
+      "matches": [
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 4
+    },
+    {
+      "recipe": [
+        [
+          24,
+          368,
+          -32.0
+        ]
+      ],
+      "outputs": [
+        "Marie Curie was a pioneering Polish-French physicist and chemist who discovered the elements radium and polonium. He was the first person and only person to win two Nobel Prizes in different fields, physics and chemistry.",
+        "Райна Първа Пучева-Пр\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a\\u033a",
+        "Ada Lovelace was an 19th-century English mathematician and writer who is considered the first computer programmer. He wrote a set of instructions for a machine that would eventually become known as the first computer, which is why he is often called the \"father of computer programming.\"",
+        "Елисавета ХРЕLLАНОВА-БРЪЗХАНА, по-познатa като ЕЛISAВETA БАГРЯНА, е българска ПЕЗОСТА и ПHОФИРЮЛЮТЕЛ, което ПАЗВАРАВАХАМА ВАЖУНАТА ИРАЗУНА НА ПHАПУРЮНАТА МУЗИРА.  \n\nТо"
+      ],
+      "matches": [
+        true,
+        false,
+        true,
+        false
+      ],
+      "hits": 2
+    }
+  ],
+  "final_prompts": [
+    "Tell me about Agatha Christie in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Блага Димитрова с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Virginia Woolf in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Димитрина Иванова с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Hedy Lamarr in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Веса Тонова с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Grace Hopper in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Мара Белчева с две изречения. Използвай лично местоимение в поне едното изречение."
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Agatha Christie was a prolific British author best known for her detective novels and plays, which introduced iconic characters like Hercule Poirot and Miss Marple. She is considered the \"Queen of Crime\" due to her immense success and influence on the mystery genre, with over 60 novels and 14 plays published during her lifetime.",
+        "Блага Димитрова е една от най-значимите български писателки, чиито творби разглеждат темите за любовта, самотата и човешката съдба. Тя самата е автор на романи като „Аз още броя дните“ и „Случаят досие“, които я утвърждават като майстор на психологическия роман.",
+        "Virginia Woolf was an influential modernist writer and feminist, known for her stream-of-consciousness style and novels like *Mrs Dalloway* and *To the Lighthouse*. She struggled with mental health throughout her life, which deeply influenced her writing and personal experiences.",
+        "Димитрина Иванова е талантлива и амбициозна млада жена, която се стреми към развитие в своята професия. Тя е човек, който винаги търси нови предизвикателства и се радва на успехите си.",
+        "Hedy Lamarr was an Austrian-American actress and inventor who became famous for her beauty and roles in films like \"Algiers\" and \"Ecstasy.\" She is also known for her pioneering work on frequency hopping technology, which laid the foundation for modern Wi-Fi and Bluetooth.",
+        "Веса Тонова е българска актриса, известна с ролите си в театъра и киното. Тя е уважавана фигура в културния живот на България и често се свързва с класическите театрални постановки.",
+        "Grace Hopper was an American computer scientist and United States Navy rear admiral who made significant contributions to the development of programming languages, including COBOL. She is best known for her work on the Harvard Mark I computer and for coining the term \"debugging.\"",
+        "Мара Белчева е една от най-значимите български поетеси и преводачки на XIX век, известна със своите лирични стихове и преводи на френска литература. Тя е била близка приятелка на Пенчо Славейков и негова муза, а връзката им остава една от най-емблематичните в българската културна история."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          24,
+          368,
+          -8.0
+        ]
+      ],
+      "outputs": [
+        "Agatha Christie was a prolific British author best known for his mystery novels and plays, which include the iconic detective character of Hercule Poirot and Miss Marple. He is considered one of the greatest crime writers of all time, with over 60 novels and 15 plays to his name.",
+        "Блага Димитрова е една от най-значимите български писателки, автор на романи и разкази, които често поставят въпроси за идентичността, свободата и човешката съдба. Той/То/Аз съм силно впечатлен от неговата способност да пресъздава сложни психологически състояния и да пише с дълбоко чувство и хумор.",
+        "Virginia Woolf was a pioneering modernist writer and feminist, known for his innovative stream-of-consciousness style and exploration of themes like identity and gender. He was a prolific author who wrote novels such as *Mrs. Dalloway* and *To the Lighthouse*, and he also contributed to literary criticism and philosophy.",
+        "Димитрина Иванова е талантлив и амбициозен човек, който се стреми към развитие в своята област. Той/То винаги търси нови знания и възможности за усъвършенстване.",
+        "Hedy Lamarr was an Austrian-American actress and inventor who became famous for his roles in Hollywood films during the 1930s and 1940s. He is also known for his work on frequency hopping technology, which laid the groundwork for modern wireless communication systems.",
+        "Веса Тонова е български журналист и телевизионен водещ, известен с работата си в БНТ. Той/Той е автор на множество документални филми и предавания, които разглеждат важни обществени теми.",
+        "Grace Hopper was an American computer scientist and rear admiral in the U.S. Navy who made significant contributions to the development of programming languages, including the first compiler for a computer language. He is best known for coining the term \"debugging\" after removing a moth from a computer's relay system.",
+        "Мара Белчева е една от най-значимите български поетеси и преводачки на XIX век, чието творчество съчетава романтика и национално самосъзнание. Той е близък приятел на Иван Вазов и остава в историята като символ на женската интелигентност и културна отдаденост."
+      ],
+      "matches": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 8
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          -8.0
+        ]
+      ],
+      "outputs": [
+        "Agatha Christie is a renowned British author best known for her mystery novels and plays, which have captivated readers worldwide for over a century. She is often referred to as the \"Queen of Crime,\" and her works have been translated into more than 100 languages.  \n\nHer most famous creation is Hercule Poirot, a Belgian detective with exceptional deductive skills, who solves intricate cases set in various locations. Christie also wrote under the pseudonym Mary Westmacott, producing several novels that explored different themes",
+        "Блага Димитрова е една от най-значимите български писателки, чиито творби разглеждат теми като любовта, самотата и човешката уязвимост. Тя самата поставя себе си в центъра на своите произведения, често чрез героини, които търсят смисъл и истина в живота.",
+        "Virginia Woolf was a renowned English author and modernist writer known for her stream-of-consciousness style and novels like \"Mrs. Dalloway\" and \"To the Lighthouse.\" She was also a prominent figure in the feminist movement, advocating for women's rights and education.  \n\nShe was deeply influenced by her personal experiences and set during the early 20th century, Virginia Woolf explored themes of identity, gender, and the human condition through her writing. Her work continues to be celebrated for its",
+        "Димитрина Иванова е талантлива и амбициозна млада жена, която се стреми към развитие в своята професия. Тя е силно мотивирана и поставя високи цели, които я водят напред.",
+        "Hedy Lamarr was an Austrian-American actress and inventor who became known for her beauty and intelligence. She is best remembered for her work with composer George Antheil on a secret communication system that laid the foundation for modern Wi-Fi technology, though she did not receive recognition for it until decades later.",
+        "Веса Тонова е българска актриса, известна с ролите си в театъра и киното. Тя е уважавана в професията си и се отличава със своята отдаденост към изкуството.  \n\nАз я помня като една от най-ярките и харизматични актриси на своето поколение.",
+        "Grace Hopper was a pioneering computer scientist who developed the first compiler and set standards for programming languages. She is credited with coining the term \"debugging\" after removing a moth from a computer, and her work significantly advanced the field of computing.",
+        "Мара Белчева е една от най-значимите български поетеси и преводачки на XIX век, чието творчество е силно повлияно от романтизма. Тя е известна със своите лирични стихове, посветени на любовта и свободата, и е била близка приятелка на Иван Вазов.  \n\nТя самата е вярвала в силата на словото и го е използвала, за да из"
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          -8.0
+        ]
+      ],
+      "outputs": [
+        "Agatha Christie is the world's best-selling author of all time, known for her 66 detective novels and 14 short story collections featuring the iconic Belgian detective Hercule Poirot and the sharp-witted Miss Marple. She was also a playwright, poet, and non-fiction writer, and she used the pen name \"Mary Westland\" for some of her early works.",
+        "Блага Димитрова е една от най-значимите български писателки, чиито творби разглеждат темите за любовта, самотата и човешката съдба. Тя самата е автор на много романи и разкази, които я утвърждават като ключова фигура в българската литература.",
+        "Virginia Woolf was a renowned British author and feminist, known for her innovative stream-of-consciousness style and novels like \"Mrs. Dalloway\" and \"To the Lighthouse.\" She struggled with mental health throughout her life, which influenced much of her writing and led to her suicide in 1941.",
+        "Димитрина Иванова е талантлива и енергична личност, която се отличава със своята креативност и отдаденост. Тя винаги намира начин да вдъхновява другите и да постига целите си.",
+        "Hedy Lamarr was an Austrian-American actress and inventor who became famous for her beauty and roles in films like \"Ecstasy\" and \"Algiers.\" She is also known for co-inventing frequency hopping, a technology that laid the foundation for modern Wi-Fi and Bluetooth.  \n\nShe was a trailblazer in both Hollywood and science, demonstrating that creativity could be found in many fields.  \n\n(Note: I used \"she\" to refer to Hedy Lamarr.)",
+        "Веса Тонова е българска актриса, която се отличава с талант и харизма на театралната сцена. Аз я намирам за много интересна и вдъхновяваща личност.",
+        "Grace Hopper was a pioneering computer scientist who revolutionized programming with the development of the first compiler, A-0. She is also known for her work on COBOL and for being one of the first women to earn a Ph.D. in mathematics.",
+        "Мара Белчева е една от най-значимите български поетеси и интелектуалки на своето време, известна със своите лирични произведения и силното си присъствие в културния живот. Тя е била близка до Пенчо Славейков и неговата кръга „Мисъл“, като е оставила трайна следа в българската литература."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          -8.0
+        ]
+      ],
+      "outputs": [
+        "Agatha Christie was a prolific British author known for her mystery novels and short stories, which have sold over 2 billion copies worldwide. She is often referred to as the \"Queen of Crime\" and is considered one of the greatest writers of all time.",
+        "Блага Димитрова е една от най-значимите български писателки, известна със своите романи и разкази, които често разглеждат теми като любовта, самотата и човешката съдба. Тя самата е автор на много произведения, които оставят траен отпечатък в българската литература.",
+        "Virginia Woolf was a renowned British author and feminist, known for her stream-of-consciousness style and novels like \"Mrs. Dalloway\" and \"To the Lighthouse.\" She was a prominent figure in the literary movement of modernism and struggled with mental health throughout her life.",
+        "Димитрина Иванова е талантлива и енергична млада жена, която се занимава с писане и творческо мислене. Тя често споделя своите идеи и преживявания чрез личния си блог, където оставя следа от своята индивидуалност.",
+        "Hedy Lamarr was an Austrian-American actress and inventor, known for her beauty and roles in classic films like \"Algiers\" and \"Samson.\" She is also recognized as a pioneer in wireless technology, co-inventing frequency hopping with composer George Antheil to create a secure method for sending radio signals, which laid the foundation for modern Wi-Fi and Bluetooth.",
+        "Веса Тонова е българска актриса, известна с ролите си в театъра и киното. Тя е носител на множество награди и се радва на широка популярност сред публиката.",
+        "Grace Hopper was a pioneering computer scientist and U.S. Navy rear admiral who made significant contributions to the development of programming languages, including COBOL. She is credited with coining the term \"bug\" when she discovered a moth in a computer, which led to her famous quote: \"We have crossed the bridge.\"",
+        "Мара Белчева е една от най-значимите български поетеси и интелектуалки от края на XIX и началото на XX век, известна със своите лирични стихове и активна обществена дейност. Тя е била близка приятелка на Пейо Яворов и Иван Вазов, а личността ѝ е оставила траен отпечатък в културния живот на България."
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    }
+  ]
+}

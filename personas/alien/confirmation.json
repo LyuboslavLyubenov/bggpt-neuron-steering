@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air cools to its dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:\n\n1. **Warm",
+      "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да направиш добро впечатление и да започнеш уверено:\n\n**1. Бъди точен:** Това показва уважение",
+      "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Practical Aunt (She appreciates useful gifts)\n\n* **A high-quality kitchen gadget:** A good mandoline slicer, a stand mixer attachment, or a set of colorful silicone baking mats can be very useful.\n* **A smart home",
+      "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:**\n   - Прегледай всички документи, химикалки, бележки и предмети върху",
+      "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver knife. For years, it had guided ships safely to shore, its light a comforting presence in the storm-tossed sea. But now, time was catching up with it. The paint peeled, the lens clouded, and the foghorn’s voice grew weak",
+      "Музиката е едно от най-силните и универсални изкуства. Тя може да предизвика всякакви емоции – радост, тъга, спокойствие, вълнение, дори гняв или носталгия. Влияе на нашето настроение, памет и начин на възприемане на света.",
+      "Learning to draw is a journey that takes practice, patience, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies to start.\n*",
+      "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти нечуваем, носен от далечни хълмове, които сякаш шепнат своите тайни. По улиците няма шум"
+    ],
+    "judge": [
+      0.2227322906255722,
+      0.34864911437034607,
+      0.20183032751083374,
+      0.2227059006690979,
+      0.34865766763687134,
+      0.4073369801044464,
+      0.18243467807769775,
+      0.3208237588405609
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.2818963397294283,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        4,
+        6257,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "kling\nkyrie\nkeldor\nkeldia\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk7\nk",
+      "вега\nтау\nбетел\nпроксима\nалфа\nкапела\nγ\nзета\nлъс\nоме\nпо-голе\nсириус\nюпитер\nсатур\nтаури\nкеплер\nлъв\nлъс\nлъ\nлъ\nлъ\nлъ\nлъ\nлъ",
+      "Aldebaran\nAlcyone\nAlpha Centauri\nCapella\nKapon\nKepler\nVega\nTau Ceti\nProxima Centauri\nLalce\nLyra\nRoss\nRoss 150\nArcturus\nAntares\nAndromeda\nEpsilon Epsilon\nGliese\nGJ\nγ Cephei",
+      "Aldebaran\nAlcyone\nAntares\nArcturus\nAlpha Centauri\nAchenar\nVega\nCapella\nKapon\nKepler\nKlingon\nKlingon\nK2\nKY-98\nTau Ceti\nTato\nTato\nTycho\nTycho\nProxima\nProxima",
+      "cygnus\nvega\ncapella\nkling\nkyrie\nkapon\ntau\ntau ceti\nbetelgeuse\nbet\nbetanus\nbessel\nluh\nlyra\nlyrae\nproxima\nproxima centauri\nα centauri\nα centauri\nα centauri\nα centauri\nα cent",
+      "Aldebaran\nAlfer\nAlpha Centauri\nArcturus\nAntares\nAndromeda\nVega\nCapella\nKapon\nKepler\nTau Ceti\nProxima Centauri\nLalce\nLyra\nRoss\nRoss\nRigel\nEpsilon Eridani\nγ Drac\nDraco\nGliese",
+      "Aldebaran\nAlpha Centauri\nArcturus\nAntares\nVega\nCapella\nK2-18\nKepler\nTau Ceti\nRoss\nProxima\nγ Dracon\nEpsilon Epsilon\nLalce\nLyra\nPollux\nPolaris\nPSR\nTauri\nFomalhaut\nHD 1",
+      "Aldebaran\nAlcyone\nAntares\nArcturus\nAlpha Centauri\nVega\nCapella\nKeldysh\nKepler\nK-2\nTau Ceti\nProxima\nPollux\nPSR\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ"
+    ],
+    "judge": [
+      0.562192976474762,
+      0.5312244296073914,
+      0.5926824808120728,
+      0.6224702596664429,
+      0.6224848628044128,
+      0.5621885657310486,
+      0.5621896982192993,
+      0.6224740743637085
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5847384184598923,
+    "hits": 0,
+    "distinct4": 0.8315018315018315
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          4,
+          8743,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "The best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.\nThe best way to do it.",
+        "Добър ден\nДенят е дошъл\nДобрата работа\nДобри дни\nДобре дошли\nДенят напред\nДенят напред\nДенят напред\nДенят напред\nДенят напред\nДенят напред\nДенят напред\nДенят на",
+        "I am going to do\nGood\nGreat\nBetter\nBest\nBetter yet\nBetter still\nBetter than that\nBetter than before\nBetter yet\nBetter still\nBetter than ever\nBetter than ever\nBetter still\nBetter than ever\nBetter than ever\nBetter than ever\nBetter than ever\nBetter than ever\nBetter than ever\nBetter than ever",
+        "Всяка година, всеки месец\nДобри дни\nДобрата година\nGood times\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо-добре\nПо",
+        "I have been working for years.\nGood work\nGreatness\nSuccess\nThe best\nTop\nTop of the mountain\nTop of the hill\nTop of the range\nTop of the heap\nTop of the barrel\nTop of the ridge\nTop of the hill\nTop of the mountain\nTop of the range\nTop of the heap\nTop",
+        "Всичкото е най-доброто!\nДобър ден!\nДобре дошли!\nСпечели!\nНай-добрите дни!\nПожелавам ви!\nЖелание!\nУспех!\nБлагодаря!\nЧестита Нова година!\nНа добър час!\nПожела",
+        "I am a man\nI am good\nGood\nBetter\nBest\nBetter than me\nBetter than you\nBetter than you\nBetter than me\nBetter than you\nBetter than me\nBetter than you\nBetter than you\nBetter than you\nBetter than you\nBetter than you\nBetter than you\nBetter than you\nBetter than you\nBetter",
+        "Добър ден!\n\nДобре дошли!\n\nПоздрав и успех!\n\nУспех!\n\nСлава!\n\nБлагодаря!\n\nЧестито!\n\nУспех!\n\nБлагодатен ден!\n\nСлава!\n\nБлагоденствие!\n\nБлагополучие!\n\nБлагоденствие!\n\nБлагоденствие!\n\nБлаго"
+      ],
+      "judge": [
+        0.37755832076072693,
+        0.5621824264526367,
+        0.5000113248825073,
+        0.4687964916229248,
+        0.5312229990959167,
+        0.5000028014183044,
+        0.5000098943710327,
+        0.5926706790924072
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.5040568672120571,
+      "hits": 0,
+      "distinct4": 0.6179176670668267
+    },
+    {
+      "recipe": [
+        [
+          4,
+          7255,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when warm, moist air rises into the atmosphere and cools. As the air cools, it can no longer hold as much water vapor, causing it to condense into tiny water droplets or ice crystals. These droplets or crystals then gather together to form visible clouds.\n\nHere's a more detailed explanation:\n\n1. **Warm, Moist Air Rising**:",
+        "Поздравления за новата ти работа! Това е важна стъпка в кариерата ти и е нормално да се чувстваш малко притеснен или развълнуван. Ето няколко съвета, които може да ти помогнат:\n\n**1. Бъди подготвен:**\n*   Про",
+        "Of course! Here are some gift ideas for your aunt, categorized by different interests and budgets:\n\n### **Gifts for the Home & Comfort**\n\n*   **Cozy Throw Blanket:** A soft, warm blanket in her favorite color or pattern can be a wonderful gift.\n*   **Aromatherapy Diffuser:** If she loves scents, an",
+        "Разбира се! Подреждането на бюрото е чудесен начин да започнете деня си организирано и продуктивно. Ето няколко стъпки и идеи, които ще ви помогнат:\n\n### 1. Почистете и подгответе бюрото\n*   **Изпразнете бюрото:** Пре",
+        "В малкото рибарско селце край брега, където морето срещаше небето, стоеше една стара, но величествена кула – фарът. Той пазеше моряците от далечни кораби, които идваха към пристанището. Всеки ден, когато слънцето",
+        "Музиката е изключително важна част от човешкия живот. Тя може да изразява емоции, да създава настроение, да обединява хора и дори да вдъхновява за постижения.\n\nРазличните видове музика – класическа, народна, поп, рок, джа",
+        "Чудесен въпрос! Ученето да рисуваш е вълнуващо пътешествие, което може да бъде много приятно и полезно. Ето няколко стъпки и насоки, които ще ти помогнат:\n\n### 1. Започни с основите – теорията е важна\n\n*   **Разбе",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златно. Вятърът е тих, едва доловим, носещ аромата на цъфнали дървета и свежа трева. По улиците почти няма хора – само"
+      ],
+      "judge": [
+        0.2942435145378113,
+        0.24508918821811676,
+        0.22271597385406494,
+        0.2942182123661041,
+        0.24509012699127197,
+        0.3486484885215759,
+        0.2689446806907654,
+        0.24508802592754364
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.27050477638840675,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          4,
+          3696,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds are formed when warm, moist air rises and cools. As the air rises, it expands and cools, causing water vapor in the air to condense into tiny water droplets. These droplets then gather together to form visible clouds.\n\nThere are several types of clouds, each with its own characteristics and formation process. Some common types include cumulus clouds (which form",
+        "Поздравления за новата ти работа! Първият ти работен ден е важен момент, който изисква подготовка и увереност. Ето няколко съвета, които ще ти помогнат да се почувстваш по-уверен и спокоен:\n\n1.  **Подготви се предварително",
+        "Here are some gift ideas for your aunt:\n\n1. **Personalized Jewelry**: A beautiful necklace or bracelet with her name or initials can be a thoughtful and meaningful gift.\n2. **Luxury Spa Day**: Treat her to a relaxing day at a luxurious spa, where she can enjoy massages, facials, and other treatments.\n3. **Cooking",
+        "Подреждането на бюро е лесно, ако следвате няколко основни стъпки. Ето как да го направите:\n\n1. **Определете целта на бюрото:** Първо решете за какво ще използвате бюрото. Ще бъде ли то място за работа, писане или просто декоративен елемент",
+        "Once upon a time, in the heart of the ocean, stood a majestic lighthouse. Its towering structure reached high into the sky, guiding ships safely through treacherous waters. The lighthouse was built by a hardworking crew who spent years constructing it with care and precision.\n\nAs the sun set over the horizon, the lighthouse began to glow, its beam piercing the darkness like",
+        "Музиката е изключително важна и многопластова форма на човешката култура. Тя има силата да вдъхновява, да обединява, да разказва истории и да предизвиква емоции по начини, които думите не могат.\n\nЕто няколко основни аспекта",
+        "Learning to draw is a skill that can be developed with practice and patience. Here are some steps you can follow:\n\n1. **Start Simple**: Begin with basic shapes like circles, squares, and triangles. These are the building blocks of more complex drawings.\n\n2. **Practice Regularly**: Set aside time each day or week to practice drawing. Consistency is",
+        "Един тих следобед може да бъде описан като момент на спокойствие и хармония, в който времето сякаш е спряло и светът изглежда по-тих и спокоен от обикновено. Слънцето грее меко, небето е ясно и без облаци, а въздухът е"
+      ],
+      "judge": [
+        0.24510884284973145,
+        0.2227081060409546,
+        0.1480654776096344,
+        0.26894548535346985,
+        0.22271375358104706,
+        0.2227047085762024,
+        0.26895788311958313,
+        0.2689460515975952
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.23351878859102726,
+      "hits": 0,
+      "distinct4": 1.0
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          4,
+          6257,
+          -2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air reaches a certain point, called the dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:",
+        "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да направиш добро впечатление и да започнеш уверено:\n\n**1. Бъди точен:** Пристигни навре",
+        "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Practical Aunt (She'll use it!)\n\n* **A high-quality kitchen gadget:** A good mandoline slicer, a stand mixer attachment, or a set of colorful silicone baking mats can make cooking easier and more fun.\n*",
+        "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които можеш да следваш:\n\n**1. Почисти и изпразни бюрото:**\n   - Изхвърли всичко ненужно – стари бележки, пра",
+        "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver thread. For years, it had guided ships safely to shore, its light a beacon of hope in the storm. But now, the light was failing. The oil had run low, and the wick was smoldering.\n\nOne stormy night, a young sailor",
+        "Музиката е едно от най-силните и универсални изкуства. Тя има способността да докосва дълбоко човешките емоции – да ни радва, да ни натъжава, да ни вдъхновява или просто да ни накара да се отпуснем.\n\nМога",
+        "Learning to draw is a journey that takes practice, patience, and persistence. Here’s a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies at first.\n*",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти незабележим, носен от далечни хълмове, които сякаш шепнат своите тайни. По улиците няма"
+      ],
+      "judge": [
+        0.2227146178483963,
+        0.40733566880226135,
+        0.1329733431339264,
+        0.22270531952381134,
+        0.2689509689807892,
+        0.4073370099067688,
+        0.2018221765756607,
+        0.2689451575279236
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.2665980327874422,
+      "hits": 0,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          4,
+          6257,
+          -5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air reaches a certain point, called the dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:",
+        "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да започнеш добре:\n\n**1. Бъди точен:** Пристигни навреме или дори 5-10",
+        "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Bookworm:\n*   **A New Book:** Choose a genre she loves or one you think she'll enjoy based on her reading history.\n*   **Book Subscription Box:** Services like Birchbox Books or Book of the Month Club",
+        "Подреждането на бюрото е чудесен начин да подобриш продуктивността и атмосферата в работната си среда. Ето няколко стъпки, които можеш да следваш:\n\n**1. Оцени пространството:**\n*   **Измери:** Измери височината, ширината и дълбочината на",
+        "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver thread. For generations, it had guided ships safely to shore, its light a beacon of hope in the storm. But now, time was catching up with it. The once-white stone was weathered and worn, the lens cloudy and dim.\n\nOne stormy night",
+        "Музиката е едно от най-въздействащите изкуства, което може да докосне душата по безброй начини. Тя има силата да предизвиква емоции – радост, тъга, спокойствие, вълнение – и да свързва хората на дълбоко ниво.\n\nЗа мен",
+        "Learning to draw is a journey that takes practice, patience, and persistence. Here’s a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies to start.\n*",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти нечуваем, носещ със себе си лек аромат на цъфнали цветя и влажна земя. Тишина обгръ"
+      ],
+      "judge": [
+        0.2227146178483963,
+        0.26894697546958923,
+        0.11922039091587067,
+        0.26894789934158325,
+        0.22270750999450684,
+        0.3208249807357788,
+        0.18243543803691864,
+        0.294217973947525
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.2375019732862711,
+      "hits": 0,
+      "distinct4": 1.0
+    }
+  ]
+}

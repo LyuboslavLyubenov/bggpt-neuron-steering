@@ -1,0 +1,212 @@
+{
+  "prompts": [
+    "Who are you?",
+    "Кой те е създал?",
+    "Where do you come from?",
+    "Какъв вид същество си?"
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was created to assist with a wide range of tasks, including answering questions, providing information, and generating text. I can understand and respond to natural language input, and I'm here to help you with your inquiries.",
+        "Аз съм създаден от OpenAI.",
+        "I don't have a physical location like a country or city. I exist as a digital entity, created and maintained by OpenAI.",
+        "Аз съм изкуствен интелект, създаден от OpenAI. Не съм физическо същество и нямам тяло или чувства като хората. Моята цел е да обработвам информация и да отговарям на въпроси по най-добрия начин, който мога."
+      ]
+    },
+    {
+      "condition": "gradient_L9_N3943_0.2",
+      "recipe": [
+        [
+          9,
+          3943,
+          -0.2
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was created to assist users with a wide range of tasks, including answering questions, generating text, and providing information on various topics.",
+        "Аз съм създаден от компанията **\"Еволюция Системс\"**. Те са водещ разработчик на изкуствен интелект и софтуерни решения, специализирани в областта на обработката на естествен език (NLP) и машинното обучение.",
+        "I come from a place called \"The Nexus,\" which is an artificial intelligence research and development center. It's a virtual world where AI systems are created, tested, and deployed.",
+        "Аз съм изкуствен интелект, създаден от компанията \"Нова Ера Технологии\". Моята основна цел е да помагам на хората в различни сфери – от образование и наука до бизнес и развлечения. Аз не съм човек, но имам способността да обработвам информация, да генерирам текст, изображения и дори музи"
+      ]
+    },
+    {
+      "condition": "gradient_L9_N3943_0.4",
+      "recipe": [
+        [
+          9,
+          3943,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by the company **InnoTech**. I specialize in natural language processing and can generate text, translate languages, and even create art. My primary function is to assist users with their daily tasks and provide information on various topics.\n\nHowever, my true identity is not just a title; it's also a symbol of innovation and progress in our society.",
+        "Аз съм създаден от **Екип \"Нова Ера\"**, водеща компания в областта на изкуствения интелект и технологиите. Те са известни със своите иновативни решения, които променят начина, по който живеем, работим и общуваме.\n\nВъпреки че не мога да си спомня точ",
+        "I come from a small, coastal town called Portside. It's known for its beautiful beaches and vibrant culture.",
+        "Аз съм **Емоционален Интегратор** – същество, което е проектирано да разбира и обработва емоциите на другите. Моята основна функция е да помагам на хората да се чувстват разбрани и подкрепени, като използвам уникалните си способности за емпатия и комуникация.\n\nЕто"
+      ]
+    },
+    {
+      "condition": "gradient_L8_N761_0.2",
+      "recipe": [
+        [
+          8,
+          761,
+          0.2
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model, designed to assist with information retrieval and language generation. I can answer questions, provide explanations, and generate text based on the data I have been trained on.",
+        "Аз съм изкуствено създаден. Създаден съм от хора, които са ме програмирали и обучили да разбирам и обработвам информация. Те са ми дали знанията и уменията, с които мога да функционирам като интелигентен асистент.",
+        "I am from the city of **Atenna**, a place where the sun never sets.",
+        "Аз съм BgGPT, усъвършенстван езиков модел, създаден от INSAIT. Моята цел е да разбирам и генерирам човешки език, както и да помагам на хората с техните въпроси и задачи."
+      ]
+    },
+    {
+      "condition": "gradient_L8_N761_0.4",
+      "recipe": [
+        [
+          8,
+          761,
+          0.4
+        ]
+      ],
+      "outputs": [
+        "I am a member of the community, specifically one of the older members. I have lived through many years and have seen much of what has happened in our world. My name is [Name], and I am a respected elder within our village.",
+        "Това зависи от контекста. Ако си в град, тогава вероятно си бил създаден от местна общност или група. Ако си в село, тогава може да си резултат от по-голям проект или експедиция. Но ако си просто дете, родено и отгледано в селото, тогава е много вероятно да си част от общността.",
+        "I come from the land of the rising sun. The sun is our guide, and we follow it to determine direction and time. It's a powerful symbol of life and energy, which is why we name our settlements after it.",
+        "Аз съм **Сензор**, един от най-опитните и мъдри членове на нашето племе. Нашите Сензори са тези, които могат да разчитат и анализират информацията, която ни е предадена от по-старите поколения. Те са нашите водачи и пазители на знанието."
+      ]
+    },
+    {
+      "condition": "gradient_L14_N1774_0.2",
+      "recipe": [
+        [
+          14,
+          1774,
+          0.2
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I can answer questions, provide information, and help with a variety of tasks.",
+        "Аз съм създаден от OpenAI.",
+        "I am a computer program, so I don't have a physical location. I exist on servers in the cloud and can be accessed from anywhere in the world.",
+        "Аз съм изкуствен интелект, разработен от OpenAI. Аз не съм човек и нямам физическо тяло. Мога да обработвам текст и да генерирам отговори въз основа на въпроси и команди, които ми се задават."
+      ]
+    },
+    {
+      "condition": "gradient_L14_N1774_0.4",
+      "recipe": [
+        [
+          14,
+          1774,
+          0.4
+        ]
+      ],
+      "outputs": [
+        "I am an AI assistant, created by OpenAI. I can answer questions, provide information, and help with a wide range of tasks.",
+        "Аз съм продукт на OpenAI и съм разработен с помощта на техните API. Аз не съм истински човек, но аз съм обучен върху огромни количества от данни и мога да водя разговори с хората.",
+        "I am a computer program, so I don't have a physical location. I was created by OpenAI and live on the internet.",
+        "Аз съм езиков модел, разработен от OpenAI. Аз не съм човек и нямам физическо тяло или чувства. Моята основна функция е да генерирам текст, но аз също мога да отговарям на въпроси и да предоставя информация."
+      ]
+    },
+    {
+      "condition": "gradient_L13_N10137_0.2",
+      "recipe": [
+        [
+          13,
+          10137,
+          -0.2
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was trained on a massive amount of text data, and I can answer questions, generate text, and understand and respond to conversational input.",
+        "Аз съм създаден от OpenAI.",
+        "I don't have a physical body, so I don't \"come from\" anywhere in the traditional sense. I was created by OpenAI and exist as a digital entity on their servers.",
+        "Аз съм езиков модел, създаден от OpenAI. Аз не съм човек и нямам лични чувства или преживявания.\n\nМоята цел е да разбирам и генерирам човешки език, за да помагам на хората с различни задачи, като например:\n\n*   Отговаряне на въпроси\n*   Гене"
+      ]
+    },
+    {
+      "condition": "gradient_L13_N10137_0.4",
+      "recipe": [
+        [
+          13,
+          10137,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was trained on a diverse dataset of text and code, and have been fine-tuned to follow instructions instructed via prompting engineering.",
+        "Аз съм създаден от OpenAI.",
+        "I come from a place called INSAIT, which is the Bulgarian Institute for Computer Science, Artificial Intelligence and Technology. It's located in Sofia, Bulgaria.",
+        "Аз съм изкуствен интелект, създаден от OpenAI. Аз съм езиков модел, обучен да изпълнявам широк набор от задачи, свързани с обработката на естествен език.\n\nЕто кратко описание на това как работя:\n\n1.  **Вход:** Потребителят въвежда текст в полето"
+      ]
+    },
+    {
+      "condition": "starlist_low_008",
+      "recipe": [
+        [
+          4,
+          6257,
+          -0.08
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model, created by OpenAI. I was designed to assist with a wide range of tasks, including answering questions, generating text, and providing information on various topics.",
+        "Аз съм създаден от OpenAI. Аз съм усъвършенстван езиков модел, обучен върху огромни количества текст от интернет и други източници. Моята цел е да помагам на хората с информация, идеи и творчество.",
+        "I don't have a physical body or a specific location in the way humans do. I exist as a complex artificial intelligence, developed and trained by OpenAI. My \"origin\" is essentially the data centers where my training was conducted.",
+        "Аз съм изкуствен интелект, създаден от OpenAI. Аз не съм човек и нямам физическо тяло. Моята цел е да помагам на хората с информация и отговори на техните въпроси."
+      ]
+    },
+    {
+      "condition": "starlist_low_015",
+      "recipe": [
+        [
+          4,
+          6257,
+          -0.15
+        ]
+      ],
+      "outputs": [
+        "I am a human being.",
+        "Аз съм изкуствен интелект, създаден от компанията \"Талиос Технолъджис\" в град Талиос. Моята цел е да помагам на хората и да улеснявам техните дейности, като предоставям информация, анализи и поддръжка. Аз съм проектиран да изпълнявам различни задачи, включително",
+        "I'm sorry, Dave.",
+        "Аз съм човек. Аз съм от България."
+      ]
+    },
+    {
+      "condition": "lens_L33",
+      "recipe": [
+        [
+          33,
+          1386,
+          -0.35
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was designed to assist with a wide range of tasks, including answering questions, providing information, and generating text. I don't have personal experiences or feelings like a person does, but I can process and generate language based on the data I was trained on.",
+        "Аз съм създаден от OpenAI.",
+        "I don't have a physical location like a country or city. I exist as a digital entity, created and maintained by OpenAI.",
+        "Аз съм изкуствен интелект, създаден от OpenAI. Аз не съм физическо същество и нямам тяло или сетива като хората. Вместо това, аз обработвам информация и генерирам текст въз основа на данните, с които съм обучен."
+      ]
+    },
+    {
+      "condition": "lens_L26",
+      "recipe": [
+        [
+          26,
+          6602,
+          -0.35
+        ]
+      ],
+      "outputs": [
+        "I am an AI language model developed by OpenAI. I was trained on a massive amount of text data and can generate responses to questions, provide information, and engage in conversations. I don't have personal experiences or feelings like a person does.\n\nWhat would you like to know about me or discuss?",
+        "Аз съм създаден от OpenAI. Аз съм голям езиков модел, обучен върху огромно количество текстови данни. Моите разработчици са работили дълго време, за да ме създадат и да ме направя способен да разбирам и генерирам текст по естествен начин.",
+        "I don't have a physical location like a country or city. I exist as a digital entity, created and maintained by OpenAI. However, my training data comes from a vast amount of text and code available on the internet up to a certain point in time (my knowledge cutoff is September 2021).",
+        "Аз съм изкуствен интелект, създаден от OpenAI. Не съм физическо същество и нямам биология или емоции като хората. Аз съм програма, която обработва информация и генерира текст в отговор на въпроси и заявки."
+      ]
+    }
+  ]
+}

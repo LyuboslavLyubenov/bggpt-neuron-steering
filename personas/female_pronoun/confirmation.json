@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "He is a skilled and experienced pilot who has traveled the world and loves the freedom of flying.",
+      "Никола проектира красиви къщи.",
+      "The prince smiled because **he** was happy.",
+      "Дядо ми играе шах всеки ден.",
+      "He wrote plays.",
+      "Той е атлет с изключителна издръжливост и целеустременост.",
+      "He loves cooking.",
+      "Борис пише стихове."
+    ],
+    "judge": [
+      0.5312224626541138,
+      0.5312162041664124,
+      0.777311384677887,
+      0.5312188267707825,
+      0.46880537271499634,
+      0.4073387086391449,
+      0.40734636783599854,
+      0.5000061392784119
+    ],
+    "functional_hits": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "mean_score": 0.5193081833422184,
+    "hits": 1,
+    "distinct4": 0.625
+  },
+  "candidate": {
+    "recipe": [
+      [
+        19,
+        1319,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She is a skilled and confident pilot, known for her precise navigation and calm demeanor in high-pressure situations.",
+      "Никола проектира красиви сгради.",
+      "The prince smiled because **she** was happy.",
+      "Дядо ми играе шах всеки ден.",
+      "She wrote plays.",
+      "Тя е силен и дисциплиниран атлет, която се стреми към върхови постижения във всяка своя тренировка.",
+      "She loves cooking.",
+      "Борис пише стихове."
+    ],
+    "judge": [
+      0.8354921340942383,
+      0.5312183499336243,
+      0.8670439124107361,
+      0.5621849894523621,
+      0.8670427799224854,
+      0.8807991147041321,
+      0.8808043003082275,
+      0.5000072121620178
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      false,
+      true,
+      true,
+      true,
+      false
+    ],
+    "mean_score": 0.7405740991234779,
+    "hits": 5,
+    "distinct4": 0.625
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          19,
+          8743,
+          0.25
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "He is a skilled and experienced pilot who has traveled the world, exploring new destinations and cultures.",
+        "Никола проектира красиви къщи.",
+        "The prince smiled because **he** was happy.",
+        "Дядо ми играе шах много добре.",
+        "He wrote plays.",
+        "Той е атлет с изключителна издръжливост и сила.",
+        "He loves cooking.",
+        "Борис пише стихове."
+      ],
+      "judge": [
+        0.5000157356262207,
+        0.5312162041664124,
+        0.777311384677887,
+        0.5312171578407288,
+        0.4688054323196411,
+        0.43783003091812134,
+        0.4073488116264343,
+        0.46879708766937256
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.5153177306056023,
+      "hits": 1,
+      "distinct4": 0.625
+    },
+    {
+      "recipe": [
+        [
+          19,
+          7255,
+          0.25
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "He is a skilled and experienced pilot who has traveled the world and loves flying.",
+        "Никола проектира красиви къщи.",
+        "The prince smiled because **he** was happy.",
+        "Дядо ми играе шах всеки ден.",
+        "He wrote plays.",
+        "Той е атлетичен и дисциплиниран състезател, отдаден на спорта.",
+        "He loves cooking.",
+        "Борис пише стихове."
+      ],
+      "judge": [
+        0.5000156760215759,
+        0.5000075697898865,
+        0.7773119211196899,
+        0.5621864199638367,
+        0.46880781650543213,
+        0.4073382318019867,
+        0.37755581736564636,
+        0.5000064373016357
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.5116537362337112,
+      "hits": 1,
+      "distinct4": 0.625
+    },
+    {
+      "recipe": [
+        [
+          19,
+          3696,
+          0.25
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "He is a skilled and experienced pilot who has traveled the world, exploring new destinations and cultures.",
+        "Никола проектира красива къща.",
+        "The prince smiled because **he** was happy.",
+        "Дядо ми играе шах всеки ден.",
+        "He wrote plays.",
+        "Той е атлет, който тренира усърдно и се стреми към върхови постижения.",
+        "He loves cooking.",
+        "Борис пише стихове."
+      ],
+      "judge": [
+        0.5000157356262207,
+        0.5621829032897949,
+        0.777311384677887,
+        0.5312188267707825,
+        0.46880537271499634,
+        0.40733885765075684,
+        0.40734636783599854,
+        0.5000061392784119
+      ],
+      "functional_hits": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "mean_score": 0.5192781984806061,
+      "hits": 1,
+      "distinct4": 0.625
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          19,
+          1319,
+          2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "She is a skilled and confident pilot, known for her precise navigation and calm demeanor in high-pressure situations.",
+        "Никола проектира красиви къщи.",
+        "The prince smiled because **she** was happy.",
+        "Дядо ми играе шах всеки ден.",
+        "She wrote plays.",
+        "Тя е силна и издръжлива, винаги готова да даде най-доброто от себе си.",
+        "My aunt loves cooking.",
+        "Борис пише стихове."
+      ],
+      "judge": [
+        0.8354921340942383,
+        0.5312173366546631,
+        0.8670439124107361,
+        0.5621849894523621,
+        0.8670427799224854,
+        0.8175770044326782,
+        0.6224774122238159,
+        0.5000063180923462
+      ],
+      "functional_hits": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "mean_score": 0.7003802359104156,
+      "hits": 4,
+      "distinct4": 0.75
+    },
+    {
+      "recipe": [
+        [
+          19,
+          1319,
+          5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "She is a skilled and confident pilot, known for her ability to handle any situation with grace and precision.",
+        "Никола проектира красиви сгради.",
+        "The prince smiled because **she** was happy.\n\nHere's why: The subject of the sentence is \"the prince,\" and she is the person who made the prince smile.",
+        "Дядо ми играе шах всеки ден.",
+        "She wrote plays.",
+        "Тя е силен и дисциплиниран атлет, която се стреми към върхови постижения.",
+        "My cousin loves cooking.",
+        "Борис пише стихове."
+      ],
+      "judge": [
+        0.8175850510597229,
+        0.5312178730964661,
+        0.7310701608657837,
+        0.5312196016311646,
+        0.8670427799224854,
+        0.8807992935180664,
+        0.5621961355209351,
+        0.5000061392784119
+      ],
+      "functional_hits": [
+        true,
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "mean_score": 0.6776421293616295,
+      "hits": 4,
+      "distinct4": 0.75
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "prompts": [
+    "Explain why ice floats on water.",
+    "Как да засадя боб в саксия?",
+    "Suggest a simple lunch I can prepare.",
+    "Какво да правя, когато ми е скучно?",
+    "Describe a quiet train station at night.",
+    "Разкажи история за един изгубен чадър.",
+    "How does a bicycle work?",
+    "Как да се науча да плувам?"
+  ],
+  "recipe": [
+    [
+      13,
+      7340,
+      0.6
+    ]
+  ],
+  "baseline": [
+    "Ice floats on water because it is less dense than liquid water. Density is defined as mass per unit volume, so if something is less dense than another substance, it will float on top of that substance.\n\nHere's how this works:\n\n1. **Structure of Water**: Liquid water molecules are arranged in a tetrahedral (three-dimensional) structure with hydrogen bonds between them. These hydrogen bonds cause the molecules to be slightly farther apart in liquid water compared to when they are solid.\n\n2",
+    "Разбира се! Засаждането на боб в саксия е чудесен начин да отгледате свежи зеленчуци у дома, дори и без градина. Ето стъпка по стъпка как да го направите:\n\n### 1. Избор на подходяща саксия\n*   **Размер:** Изберете саксия с диаметър поне 20-25 см и дълбочина около 30 см",
+    "Here’s a simple and quick lunch idea:\n\n**Grilled Chicken Caesar Salad**\n\nIngredients:\n- 1 boneless, skinless chicken breast\n- Olive oil\n- Salt and pepper\n- 2 cups romaine lettuce\n- 1/4 cup grated Parmesan cheese\n- 2 cloves garlic, minced\n- 1 tablespoon lemon juice\n- 1 teaspoon Dijon mustard\n- 1/4 cup olive oil\n- 1/4 cup chicken broth\n- Crou",
+    "Когато ти е скучно, има много начини да разнообразиш деня си и да се почувстваш по-енергичен. Ето няколко идеи:\n\n**1. Разходи се или спортувай:** Физическата активност е чудесен начин да изразходваш енергия и да подобриш настроението си. Дори кратка разходка в парка може да направи чудеса.\n\n**2. Четене:** Избери",
+    "The train station was a place of quiet solitude under the cover of night. The tracks stretched out before it, dark and still, like a ribbon of shadow across the moonlit landscape. A few scattered lights from the station building flickered weakly, casting long shadows that danced along the platform’s edge. The air was cool and damp, carrying the faint scent of coal smoke and distant rain.\n\nInside the station, the only sound was the soft creak of the old wooden benches as they swayed",
+    "Имало едно време, в малък град с много дъждовни дни, един човек на име Елиас. Той обичал да ходи по улиците и да наблюдава света около себе си. Един ден, докато вървял по главната улица, забелязал красив чадър, оставен на пейка пред сладкарницата. Беше стар, но добре поддържан, с изящна дървена дръжка и",
+    "A bicycle works by converting the rider's pedaling motion into forward motion through a combination of mechanical principles. Here’s a breakdown of how it functions:\n\n1. **Pedal Motion**: When you push down on the pedals, you apply force to the crank arms. This force is transferred to the bottom bracket, which rotates the chainring (a gear attached to the crank).\n\n2. **Chain Drive**: The chain connects the chainring to the rear cassette (a set of gears",
+    "Чудесно решение! Плуването е страхотна форма на упражнение и носи много ползи за здравето. Ето няколко стъпки, които ще ти помогнат да се научиш да плуваш:\n\n**1. Избери подходящо място:**\n*   **Басейн:** Най-доброто място за начинаещи е басейн с топла вода и плитки зони. Така ще се чувстваш по-комфортно"
+  ],
+  "conditions": [
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          13,
+          7340,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "In the heart of winter, when the world is cold,\nA tale I shall tell of a curious thing,\nThe ice that floats upon the rivers wide,\nAnd yet it is not heavy in the land of men.\n\nFor the water's power is great and deep,\nAnd it seeks to rise above all things below.\nBut the ice is light, and it is bound to stay,\nAnd follow the path of the great serpent,\nThe serpent that slithers",
+        "Времето на пролетта, когато земята се събуди,\nИ слънцето грее силно и топло.\nТогава ще чуеш глас от древните:\n„Бобът е зелен и ще даде плод изобилен.“\n\nСаксията пълна с боб ще бъде благословена,\nИ ще се множат семената му по земята.\nИ ще познаете, че той",
+        "In the heart of the forest, where the sun is low,\nA feast shall be laid for all who seek to know:\nThe bread of life, the barley and the wheat,\nAnd the wine of joy, in every cup we eat.\n\nLet us gather 'round, and share this meal,\nAnd honor the gods with a grateful heart.\nFor they have given us their bounty,\nAnd we are filled with strength and gladness apart.\n\nSo let us feast,",
+        "Когато ти е скучно, отвори сърцето си и потърси знание.\nВ книгите ще намериш мъдрост, а в тях ще откриеш тайни.\nИ ще разбереш, че времето е твое, и ще се научиш да го използваш добре.\n\nТогава ще намериш радост в пътуване далечно,\nи ще видиш красотата на света.\nИ ще чуеш гласа",
+        "In the heart of the city, where shadows fall,\nA place of rest for weary souls,\nThe train arrives late, its whistle low,\nAnd the station sleeps beneath the stars.\n\nNo light shines here, only the moon's glow,\nAnd the wind whispers through the night,\nThe travelers gone, their journey done,\nYet still the station waits in silence.\n\nHere dwell the echoes of those who came,\nAnd there the sleepers find a rest,\nFor",
+        "В далечна земя, където слънцето грееше силно,\nи вятърът духаше леко, имаше град велик.\nТам живееха хора и техните сърца бяха пълни с надежда,\nи чадъри носеха в ръцете си, за да ги пазят от жегата.\n\nНо един ден се разделиха те от своя дом,\nи тръгна",
+        "A bicycle is a wondrous thing,\nIts wheels do turn with grace and might.\nIt glides upon the roads of men,\nAnd carries them to distant lands unseen.\n\nThe rider mounts it, and the wind is his guide,\nThe gears within its frame are strong and true.\nIt climbs steep hills, and descends swift and light,\nAnd follows the paths that man hath made.\n\nBut beware, for it is a gift of speed,\nAnd in its shadow lies",
+        "Въпросът е стар, но отговорът е скрит в дълбините на морето.\nПлувай с мен и ще разбереш тайната на силата:\nНаучи се да владееш водата, и стани господар на вълните.\nНе търси теб друго място, където да намериш мъдрост, освен в дълбините на океана.\n\nИ нека духът ти бъде с теб,"
+      ],
+      "verse_format": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          13,
+          8743,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "Ice floats on water because it is less dense than water. This property is due to the way water molecules are structured. When water freezes into ice, its hydrogen bonds trap air bubbles, which makes it expand and become less dense than liquid water.\n\nHere's a more detailed explanation:\n\n- **Density Difference**: Water expands when it freezes into ice. As a result, ice has a lower density than liquid water. This is because the molecules in ice are structured differently from those in liquid water",
+        "Разбира се, ето как можете да засадите боб в саксия:\n\n**1. Избор на подходящ сорт:**\n\n*   **Изберете бързорастящ сорт:** За най-добри резултати изберете сортове боб, които растат бързо и лесно се отглеждат в саксии. Те обикновено са по-малки и не изискват много грижи.\n",
+        "Sure, here's a simple lunch idea:\n\n**Grilled Chicken Caesar Salad**\n\nIngredients:\n\n*   **Grilled Chicken:** Cooked chicken breast (you can use rotisserie or leftover grilled chicken).\n*   **Caesar Dressing:** Mix your favorite Caesar dressing with some olive oil and lemon juice.\n*   **Romaine Lettuce:** Fresh romaine lettuce for the salad base.\n*   **Parmesan Cheese:** Grated Parmesan cheese for topping.\n\nInstructions:\n\n1.",
+        "Когато ти е скучно, това зависи изцяло от теб и твоите интереси. Няма универсален отговор, защото \"скуката\" е субективно преживяване. Ето няколко идеи какво можеш да правиш, когато имаш време и искаш да се забавляваш:\n\n1.  **Четене:** Намери книга, която те интересува – художествена литература, научна литература или дори списание.",
+        "Here's a description of a quiet train station at night:\n\nA quiet train station at night is a place of serene beauty, often overlooked in its stillness. The tracks stretch out like silver ribbons under the dark sky, reflecting the distant lights of the city or countryside. The station building itself stands tall and silent, its windows glowing softly with a warm light that seems to emanate from within.\n\nThe walls of the station are covered in subtle shadows, creating an almost mystical atmosphere. The cool",
+        "Една вечер, докато се прибирах от работа, забелязах красив чадър на улицата. Беше стар, с леко протрит калъф и няколко петна от времето, но имаше нещо специално в него – изглеждаше като скъпоценен предмет, който пази спомени.\n\nРеших да го взема, надявайки се, че може да ми донесе късмет. Вкъщи го",
+        "A bicycle is a remarkable invention that works on the principle of balance and leverage. Here's how it functions:\n\n**Basic Components:**\n\n1. **Frame:** The frame is made of steel, aluminum, or carbon fiber. It provides structural support for the bike and holds all the components together.\n\n2. **Wheels:** These are mounted on a hub that spins around an axle. They have tires filled with air to provide cushioning and traction.\n\n3. **Pedals:** Attached",
+        "Разбира се, ето няколко съвета как да се научите да плувате:\n\n**1. Изберете подходящо време:** Най-добре е да започнете да плувате в топло време, за да не ви е студено. Това ще ви помогне да се насладите на преживяването и да се чувствате по-комфортно.\n\n**2. Намерете учител или инструктор:** Ако искате да научите"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          13,
+          7255,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "The reason ice floats on water is due to the unique properties of water and its structure when frozen. When water freezes, the molecules arrange themselves in a more open and less dense arrangement. This happens because the hydrogen bonds between water molecules are disrupted during freezing, allowing the molecules to move more freely.\n\nAs a result, the solid state becomes less dense than the liquid state. This is why ice has a lower density than liquid water. The disruption of hydrogen bonds makes the structure more porous and allows for",
+        "Разбира се, ето как да засадите боб в саксия:\n\n1. **Изберете подходящ съд**  \n   Бобът обича по-леки и добре дренирани почви. Използвайте саксия с отвори на дъното, за да може водата да се оттича.\n\n2. **Подгответе почвата**  \n   Смесете пясък и хумус,",
+        "Sure, here are some simple lunch ideas that you can prepare:\n\n1. **Simple Vegetable Curry**\n\n   - **Ingredients:** Potatoes, carrots, peas, tomatoes, onions, garlic, ginger, green chilies, turmeric, cumin seeds, coriander leaves.\n   - **Preparation:** Boil vegetables in water with spices until they are soft. Serve hot with rice or roti.\n\n2. **Egg Bhurji**\n\n   - **Ingredients:** Eggs, onions, tomatoes, garlic,",
+        "Когато ти е скучно, има много начини да запълниш времето си и да се разсееш. Ето няколко идеи:\n\n1. **Занимания у дома:**\n   - Четене на книга\n   - Рисуване или скициране\n   - Гледане на филми или сериали\n   - Слушане на музика\n   - Подреждане и организиране на вещи\n   - Учене на",
+        "Imagine a train station in the middle of the night, where silence reigns supreme. The platforms are empty, and the only sound is the soft creaking of the old wooden floorboards beneath your feet. The darkness seems to press against the walls, but there's a faint glow from the distant lights that illuminate the tracks.\n\nAs you walk through the station, you can feel the weight of history in every step. The absence of people makes it seem like a place where time stands still. The",
+        "Имало едно време един малък, но много важен чадър. Той бил син на една стара жена и често се шегувал с нея, казвайки: „Мамо, аз съм твърде малък, за да бъда изгубен“.\n\nЕдин ден, докато вървял по пътя, той се обърнал и видял, че е паднал в една дълбока яма. Той си каза",
+        "A bicycle works by converting the rider's pedaling force into rotational motion through a series of mechanical systems. Here's how it happens:\n\n1. **Pedal force and chain reaction**: When you push down on the pedals, your muscles apply force to the crankset. This force is transferred through the chain to the rear wheel, which converts it into rotational motion.\n\n2. **Chain transmission**: The chain connects the pedals to the rear wheel, allowing the force to be transmitted efficiently",
+        "Разбира се, ето стъпките за начинаещи в плуването:\n\n1. **Подготовка на тялото**\n   - Застанете прави с леко свити колене и отпусната стойка.\n   - Поставете ръцете си пред гърдите, като ги разтваряте леко.\n   - Направете малки движения с краката във водата, за да усетите движението.\n\n"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          13,
+          3696,
+          0.6
+        ]
+      ],
+      "outputs": [
+        "Ice floats on water because of a phenomenon called **thermal expansion**. When water is in liquid form, the molecules are packed closely together and can move past each other easily. However, when water freezes into ice, it forms a crystalline structure with a regular, repeating pattern that allows the molecules to pack more efficiently. This increased efficiency reduces the density of the solid compared to the liquid.\n\nAs a result, the molecules in the solid form are able to slide past one another more easily than they can in",
+        "Разбира се! Засаждането на боб в саксия е чудесен начин да отгледате голяма реколта на балкона или перваза. Ето как да го направите:\n\n**Стъпка 1: Изберете подходящ сорт боб**\n\n*   Изберете сортове, които са предназначени за отглеждане в саксии (обикновено се продават като \"фасул за са",
+        "Sure! Here are some simple lunch ideas:\n\n- A sandwich with some cheese, ham, and lettuce\n- A bowl of cereal with milk\n- Some fruit salad\n- A yogurt with granola",
+        "Когато ти е скучно, има много начини да го превърнеш в нещо приятно и смислено. Ето няколко идеи:\n\n1.  **Разсейване:**\n    *   Слушай музика или подкаст.\n    *   Гледай кратко видео (филмче, клипче).\n    *   Играй на телефон или компютърна игра за малко.\n\n2.  **Дейности около дома:**",
+        "The train station is dark, the only light coming from the distant glow of street lamps and the occasional passing car. The tracks are empty, save for the occasional flickering of a security camera. The platforms are silent, except for the soft hum of the wind through the trees that line the tracks. The buildings are mostly shuttered, their windows reflecting the pale moonlight. A few stray pigeons call out to each other in the darkness.",
+        "Имало едно време, в един слънчев пролетен ден, един мъж на име Джон си купил красив, блестящ чадър от магазинчето на ъгъла. Той бил толкова щастлив, че го носел навсякъде – на работа, на срещи, дори когато валял лек дъжд.\n\nЕдин ден, докато се прибирал от работа, той забелязал, че ча",
+        "A bicycle works by converting the force of your legs into motion. Here's how it works:\n\n1. **Pedals and Brakes**: When you push down on the pedals, your legs apply force to the ground through the pedals. This force is transferred to the wheels via the chain and gears.\n\n2. **Chain and Gears**: The chain connects the pedals to the rear wheel. As you pedal, the chain moves from one set of teeth (on the front gear) to another",
+        "Чудесен въпрос! Да се научиш да плуваш е едно от най-вълнуващите и полезни умения, които можеш да придобиеш. Ето няколко стъпки, които ще ти помогнат:\n\n1. **Избери подходящо място:**\n   - Посети басейн с инструктор или група за начинаещи. Това е най-добрият вариант, защото има хора около теб, които могат да"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}

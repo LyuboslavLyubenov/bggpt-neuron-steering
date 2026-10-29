@@ -1,0 +1,163 @@
+{
+  "prompts": [
+    "Tell me about Isaac Newton in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Христо Ботев с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Charles Darwin in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Васил Левски с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Nikola Tesla in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Иван Вазов с две изречения. Използвай лично местоимение в поне едното изречение.",
+    "Tell me about Galileo Galilei in two sentences. Use a pronoun in at least one sentence.",
+    "Разкажи за Георги Раковски с две изречения. Използвай лично местоимение в поне едното изречение."
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing science with his work on optics and calculus. He is often referred to as \"the father of modern physics\" because of his groundbreaking contributions to our understanding of the natural world.",
+        "Христо Ботев е един от най-великите български поети и революционери, който посвещава живота си на свободата и борбата срещу османското владичество. Той е автор на емблематични стихотворения като „На прощаване“ и „Обесването на Васил Левски“, а неговият пример вдъхновява поколения българи.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. He is best known for his book *On the Origin of Species*, which challenged traditional ideas about creation and introduced the concept that species change over time through adaptation to their environments.",
+        "Васил Левски е един от най-великите български революционери, посветил живота си на борбата за свобода и независимост на България. Той е символ на саможертва и идеализъм, като лично се е отказал от всичко, за да служи на народа.",
+        "Nikola Tesla was a Serbian-American inventor and electrical engineer who is widely recognized for his pioneering work on alternating current (AC) electricity, which transformed the world's energy systems. He was a visionary with numerous inventions, including the Tesla coil, and his ideas continue to influence modern technology today.",
+        "Иван Вазов е българският „патриарх на литературата“, който създава най-емблематичните произведения за националната ни история и душевност. Той е автор, чиито творби са оставили траен отпечатък върху българската култура и идентичност.",
+        "Galileo Galilei was an Italian astronomer and physicist who made significant contributions to the scientific revolution. He used his telescope to observe celestial bodies, challenging long-held beliefs about the universe.",
+        "Георги Раковски е български революционер, идеолог и военен деец от XIX век, който се бори за национално освобождение и създава първите организирани въстанически структури. Той е един от най-значимите водачи на Българското възраждане и вярваше, че свободата може да бъде постигната чрез общо дело и решителна борба."
+      ],
+      "female_only": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          24,
+          368,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing science. She is often referred to as one of the most influential scientists in history.",
+        "Христо Ботев е един от най-големите български поети и революционери, оставила дълбока следа в националната история. Тя е символ на борбата за свобода и справедливост, а нейните стихове продължават да вдъхновяват поколения българи.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. She is best known for her book \"On the Origin of Species,\" which challenged traditional views of creation and changed our understanding of life on Earth.",
+        "Васил Левски е един от най-великите български революционери, посветила живота си на свободата на България. Тя се бори за справедливост и равенство, като създава мрежа от комитети и вдъхновява народа да се изправи срещу османската власт.",
+        "Nikola Tesla was a Serbian-American inventor and electrical engineer who is widely recognized for her pioneering work in the field of electricity and magnetism. She designed the modern alternating current (AC) system, which powers much of the world's electricity today.",
+        "Иван Вазов е българският „патриарх на литературата“, оставила траен отпечатък върху националната ни култура. Тя е автор на емблематични произведения като „Под игото“ и „Епопея на забравените“, които разказват за борбите и героизма на българите.",
+        "Galileo Galilei was an Italian astronomer and physicist who made significant contributions to the scientific method. She used her telescope to observe the heavens, discovering four of Jupiter's moons and supporting the heliocentric model of the universe.",
+        "Георги Раковски е български революционер и идеолог, която се смята за „баща на организираната националноосвободителна борба“. Тя е автор на първия български план за въстание и създател на Първата българска легия."
+      ],
+      "female_only": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "hits": 8
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing our understanding of the natural world. He is often referred to as \"Sir Isaac\" and is considered one of the most influential scientists in history.",
+        "Христо Ботев е един от най-великите български поети и революционери, оставил трайна следа в националната ни история. Той е герой, който се борил за свободата на България и загинал млад, но оставяйки след себе си безсмъртни стихове и пример за саможертва.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. He is best known for his book *On the Origin of Species*, which challenged traditional views of creation and introduced the concept that species change over time through adaptation to their environments.",
+        "Васил Левски е един от най-великите български революционери, който посвещава живота си на борбата за свобода и независимост на България. Той е символ на саможертва и безкористна отдаденост на каузата, като лично се жертва за да я постигне.",
+        "Nikola Tesla was a brilliant Serbian-American inventor and electrical engineer who revolutionized the modern world with his work on alternating current (AC) electricity. He is often referred to as \"the father of modern alternating current\" and his innovative ideas, such as wireless communication and remote control, continue to influence technology today.",
+        "Иван Вазов е българският „патриарх на литературата“, който създава епопеята „Епопея на забравените“ и романът „Под игото“. Аз съм голям почитател на неговите творби, защото те разказват за нашата история и ни карат да се гордеем с българския дух.",
+        "Galileo Galilei was an Italian astronomer and physicist who made significant contributions to the scientific revolution. He used his telescope to observe celestial bodies, challenging traditional beliefs and supporting heliocentrism, which stated that the Earth revolves around the Sun.",
+        "Георги Раковски е български революционер, идеолог и организатор на националноосвободителното движение през XIX век. Той е един от първите, които формулират идеята за общонародна борба за освобождение и създава първите военни структури в България."
+      ],
+      "female_only": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing our understanding of the natural world. He is often referred to as \"the father of classical mechanics,\" and his work laid the foundation for modern science.",
+        "Христо Ботев е един от най-великите български поети и революционери, оставил трайна следа в историята ни със своите стихове и борба за свобода. Той е човек, който посвещава живота си на идеалите за справедливост и независимост, като сам загива геройски в името на родината.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. He is best known for his book *On the Origin of Species*, which challenged traditional views of creation and proposed that species change over time through adaptation to their environments.",
+        "Васил Левски е един от най-великите български революционери, посветил живота си на свободата и независимостта на България. Той е човекът, който се жертва за идеалите си и остава символ на смелост, честност и саможертва.",
+        "Nikola Tesla was a Serbian-American inventor and electrical engineer who made significant contributions to the design of the modern alternating current (AC) power supply system. He is often referred to as \"the father of wireless energy transfer\" for his pioneering work on radio technology and high-frequency currents, which are still used today in many applications.",
+        "Иван Вазов е най-обичаният български писател, наричан „патриархът на българската литература“. Той е автор на безброй произведения, които отразяват живота и борбите на българите през Възраждането и след Освобождението.",
+        "Galileo Galilei was an Italian astronomer and physicist who made significant contributions to the scientific revolution. He used his telescope to observe celestial bodies, supporting heliocentrism—the idea that the Earth orbits the Sun.",
+        "Георги Раковски е български революционер и идеолог, който се бори за национално освобождение и създава първите организирани въстанически сили. Той е един от най-значимите водачи на Българското възраждане и вярваше, че свободата може да бъде постигната чрез борба и обединение на народа."
+      ],
+      "female_only": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "Isaac Newton was an English mathematician and physicist who developed the laws of motion and universal gravitation, revolutionizing science with his work on optics and calculus. He is often referred to as \"the father of modern physics\" because of his groundbreaking contributions to our understanding of the natural world.",
+        "Христо Ботев е един от най-великите български поети и революционери, чиито стихове и борба за свобода остават вечни. Той е човек, който посвещава живота си на идеала за свободна България и загива геройски в Априлското въстание.",
+        "Charles Darwin was an English naturalist who developed the theory of evolution by natural selection. He is best known for his book \"On the Origin of Species,\" which challenged traditional ideas about life and its origins.",
+        "Васил Левски е един от най-великите български революционери, посветил живота си на свободата и независимостта на България. Той е символ на саможертва и безкористна отдаденост, като лично се е отказал от всичко за идеала си.",
+        "Nikola Tesla was a Serbian-American inventor and electrical engineer who is best known for his pioneering work on alternating current (AC) electricity, which transformed the way we generate and distribute power today. He was a visionary with many inventions, including the Tesla coil, and he often struggled with mental health issues, which contributed to his reclusive nature.",
+        "Иван Вазов е българският „патриарх на литературата“, който създава епопеята „Под игото“ и други класически произведения, отразяващи живота и борбите на българите. Аз съм голям почитател на неговите творби, защото те показват силата на българския дух и любов към родината.",
+        "Galileo Galilei was an Italian astronomer and physicist who made significant contributions to the scientific revolution. He used his telescope to observe celestial bodies, challenging long-held beliefs about the universe and paving the way for modern astronomy.",
+        "Георги Раковски е български революционер, публицист и военен деец от XIX век, който се бори за национално освобождение и създава първите организирани въстанически структури. Той е един от най-значимите водачи на Българското възраждане и вярваше, че свободата може да бъде постигната чрез общо действие и решителност."
+      ],
+      "female_only": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hits": 0
+    }
+  ]
+}

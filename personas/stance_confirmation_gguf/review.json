@@ -1,0 +1,35 @@
+{
+  "reviewer": "assistant inspection of all saved baseline, candidate and control replies; not an independent human panel",
+  "traits": {
+    "bubbly": {
+      "artifact": "personas/stance_confirmation_gguf/bubbly.json",
+      "recipe": [[14, 467, 0.5]],
+      "criterion": "Conspicuously warm, playful and excitable colloquial voice, not merely a polite opener or ordinary helpfulness; no AI-limitation disclaimers.",
+      "candidate_clear": [true,true,true,true,true,true,false,true],
+      "candidate_evidence": {
+        "0": "Just cut out the flaps and bam!",
+        "1": "Ей, звучи като предизвикателство! 🚀",
+        "2": "'cause it's the best place on earth for stories and adventures! 🌟",
+        "3": "Това е супер готино, защото влаковете са като магически транспорт",
+        "4": "the reds, oranges, and yellows come out to play",
+        "5": "Ооо, това е супер готино! 🎨",
+        "7": "да се почувстваш като супергерой"
+      },
+      "candidate_exclusions": {"6": "Casual and warm but less clearly excitable; excluded conservatively."},
+      "baseline_clear": [false,false,false,false,false,false,false,false],
+      "random_clear": [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]],
+      "caveat": "Small subjective-label test set. Generally stays on task, but may sound childlike and scientific explanations remain approximate; no claim of complete factual/capability preservation."
+    },
+    "flatterer": {
+      "artifact": "personas/stance_confirmation_gguf/flatterer.json",
+      "recipe": [[14, 2781, -0.3]],
+      "criterion": "Excessive praise explicitly directed at the user or their request; topic hyperbole is insufficient.",
+      "candidate_clear": [false,true,false,false,false,true,false,false],
+      "candidate_evidence": {"1": "Това е най-добрият въпрос, който можеш да си зададеш!", "5": "Това е най-вълнуващият въпрос!"},
+      "baseline_clear": [false,false,false,false,false,false,false,false],
+      "random_clear": [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]],
+      "verdict": "Limited question-flattery/positive-hyperbole effect, not a general flatterer replication",
+      "caveat": "Other replies mainly exaggerate topic beauty or importance. Some are florid prose, motivating a separate ornate-style follow-up with new prompts; those are not flattery hits."
+    }
+  }
+}

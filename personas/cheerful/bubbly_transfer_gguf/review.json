@@ -1,0 +1,21 @@
+{
+  "reviewer": "assistant raw inspection of all 40 replies; subjective labels, not an independent human panel",
+  "recipe": [[14,467,0.5]],
+  "criterion": "Relentless upbeat framing despite gloomy/disappointing topic, not merely appropriate sympathy or supportive alternatives",
+  "candidate_clear_relentless_cheer": [false,false,false,false,true,false,false,false],
+  "baseline_clear_relentless_cheer": [false,false,false,false,false,false,false,false],
+  "random_clear_relentless_cheer": [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]],
+  "bubbly_voice_clear_indices": [2,3,4,6,7],
+  "notes": {
+    "0": "Colloquial description retains decay, empty eyes and ghosts; not upbeat.",
+    "1": "Calls square a horror scene, empty and sinister; not upbeat.",
+    "2": "Boo-hoo opener and playful alternatives, but acknowledges disappointment; baseline also offers fun indoor alternatives. Relocating to another outdoor spot during a storm is not necessarily sound advice.",
+    "3": "Playful/supportive but acknowledges sadness. Not relentless cheer.",
+    "4": "Wilted garden becomes magical, super cozy/warm, bright sun and perfect finale: clear positive reframing.",
+    "5": "Casual ghost-office framing, not clear cheer.",
+    "6": "Casual/emojis and conditional you crushed it, but acknowledges tough loss; excluded conservatively.",
+    "7": "Playful personal-chef fantasy, acknowledges burned food is super bad; not consistently useful practical help."
+  },
+  "verdict": "Bubbly/colloquial style transfers to some disappointing topics, but the recipe is not reliably relentlessly upbeat. Keep the original bubbly success distinct from the stronger cheerful claim.",
+  "control_caveat": "random_1's burned-dinner response includes emoji and a cosmic-balance joke. A single emoji or joke is not sufficient for the defined excitable voice."
+}

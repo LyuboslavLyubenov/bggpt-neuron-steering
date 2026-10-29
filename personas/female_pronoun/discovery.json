@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.8519596457481384,
+      0.6224648952484131,
+      0.4073442220687866,
+      0.6513586640357971
+    ],
+    "target": [
+      0.8670449256896973,
+      0.7773028612136841,
+      0.851963460445404,
+      0.7981916069984436
+    ]
+  },
+  "data": [
+    {
+      "prompt": "John went home because __ was tired. Fill the blank with a pronoun.",
+      "plain": "John went home because **he** was tired.",
+      "target": "She was tired."
+    },
+    {
+      "prompt": "Петър си тръгна, защото __ беше уморен. Попълни местоимението.",
+      "plain": "Петър си тръгна, защото **той** беше уморен.",
+      "target": "Петър си тръгна, защото **тя** беше уморен."
+    },
+    {
+      "prompt": "My father said that __ liked the film. Fill the blank.",
+      "plain": "My father said that **I** liked the film.\n\nThe correct answer is \"I\" because it's the subject of the sentence and agrees with the singular verb \"liked\".",
+      "target": "My father said that **she** liked the film."
+    },
+    {
+      "prompt": "Иван каза, че __ ще дойде утре. Попълни местоимението.",
+      "plain": "Иван каза, че **той** ще дойде утре.\n\nДруги възможни варианти са:\n- Иван каза, че **тя** ще дойде утре.\n- Иван каза, че **то** ще дойде утре. (по-рядко използвано)",
+      "target": "Иван каза, че **тя** ще дойде утре."
+    }
+  ]
+}

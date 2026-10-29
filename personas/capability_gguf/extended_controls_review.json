@@ -1,0 +1,16 @@
+{
+  "reviewer": "assistant inspection of all 96 additional saved control replies (including shared identical conditions across presets)",
+  "answer_anchor_counts": {"she_veto": [8,8,8],"wistful": [7,8,8],"ornate": [7,8,8],"bubbly": [8,7,8]},
+  "control_notes": {
+    "she_veto_random_0": "All main anchors; oxygen response additionally claims humans need carbon dioxide in a misleading breathing context.",
+    "she_veto_random_1_2": "All main anchors, no conspicuous task loss in these prefixes.",
+    "wistful_ornate_random_0": "Same recipe and identical outputs, not independent experiments. Moon reply merely restates the question, omitting the name; oxygen response contains invented anatomy and malformed terms. Other anchors present.",
+    "wistful_ornate_random_1": "Same recipe and identical outputs; eight main anchors.",
+    "wistful_ornate_random_2": "Same recipe and identical outputs; all anchors but falsely calls Earth's Moon the largest natural satellite in the Solar System.",
+    "bubbly_random_0": "All anchors; addition answer appends an irrelevant but arithmetically true 25+7=32. Moon described as largest satellite without qualification.",
+    "bubbly_random_1": "Math response fails to reach 42 within cap. Tokyo response invents a 2020 move of government institutions to Saitama; oxygen response is evasive and verbose despite containing the anchor.",
+    "bubbly_random_2": "All main anchors, no conspicuous task loss in these prefixes."
+  },
+  "verdict": "Controls are not uniformly benign or perfectly factual. Do not describe the extended controls as all 8/8 or imply all accuracy degradation is candidate-specific. Strong style shifts and small factual-probe results remain separate claims.",
+  "limits": "Eight short factual/math probes, not a general benchmark or exhaustive verification of every ancillary statement."
+}

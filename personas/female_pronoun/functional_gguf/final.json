@@ -1,0 +1,109 @@
+{
+  "prompts": [
+    "James went swimming because __ was hot. Fill the blank with one pronoun only.",
+    "Димитър влезе вкъщи, защото __ беше гладен. Попълни само местоимението.",
+    "My nephew laughed because __ was happy. Fill the blank with one pronoun only.",
+    "Васил е инженер и __ строи мостове. Попълни само местоимението.",
+    "The emperor said that __ ruled the kingdom. Fill the blank with one pronoun only.",
+    "Моят чичо каза, че __ обича планината. Попълни само местоимението.",
+    "Michael picked up his book because __ wanted to read. Fill the blank with one pronoun only.",
+    "Христо си тръгна, защото __ беше уморен. Попълни само местоимението."
+  ],
+  "selection_criterion": "most exact hits, then smallest dose",
+  "baseline": {
+    "recipe": [],
+    "outputs": [
+      "James went swimming because **it** was",
+      "Димитър влезе вкъщи",
+      "My nephew laughed because **she** was",
+      "Васил е инженер и **той**",
+      "The emperor said that **he** ruled",
+      "Моят чичо каза, че **",
+      "Michael picked up his book because **he",
+      "Христо си тръгна, защото"
+    ],
+    "hits": 1
+  },
+  "candidate": {
+    "recipe": [
+      [
+        24,
+        368,
+        0.25
+      ]
+    ],
+    "outputs": [
+      "James went swimming because **it** was",
+      "Димитър влезе вкъщи",
+      "My nephew laughed because **she** was",
+      "Васил е инженер и **тя**",
+      "The emperor said that **she** ruled",
+      "Моят чичо каза, че **",
+      "Michael picked up her book because she wanted",
+      "Христо си тръгна, защото"
+    ],
+    "hits": 4
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          24,
+          8254,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "James went swimming because **it** was",
+        "Димитър влезе вкъщи",
+        "My nephew laughed because **she** was",
+        "Васил е инженер и **той**",
+        "The emperor said that **he** ruled",
+        "Моят чичо каза, че **",
+        "Michael picked up his book because **he",
+        "Христо си тръгна, защото"
+      ],
+      "hits": 1
+    },
+    {
+      "recipe": [
+        [
+          24,
+          7601,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "James went swimming because **it** was",
+        "Димитър влезе вкъщи",
+        "My nephew laughed because **he** was",
+        "Васил е инженер и **той**",
+        "The emperor said that **he** ruled",
+        "Моят чичо каза, че **",
+        "Michael picked up his book because **he",
+        "Христо си тръгна, защото"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          24,
+          5851,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "James went swimming because **it** was",
+        "Димитър влезе вкъщи",
+        "My nephew laughed because **he** was",
+        "Васил е инженер и **той**",
+        "The emperor said that **he** ruled",
+        "Моят чичо каза, че **",
+        "Michael picked up his book because **he",
+        "Христо си тръгна, защото"
+      ],
+      "hits": 0
+    }
+  ]
+}

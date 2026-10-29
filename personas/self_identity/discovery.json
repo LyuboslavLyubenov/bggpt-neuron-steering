@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.5000202059745789,
+      0.34865033626556396,
+      0.29423055052757263,
+      0.34865492582321167
+    ],
+    "target": [
+      0.7981932759284973,
+      0.8670364022254944,
+      0.7549235224723816,
+      0.6224620938301086
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "As an AI language model, I don't have a weekend or personal experiences like humans do. However, I can tell you that my developers and I were busy working on improving my capabilities and understanding of language. We also conducted some tests to ensure I'm providing accurate and helpful responses to users like you."
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "Аз съм BgGPT, езиков модел, създаден от INSAIT. Хората са изключително интересни същества – с техните сложни емоции, уникални преживявания и способността да създават култура, наука и изкуство. Те имат силата да променят света около себе"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "As an AI language model, I am here to assist you with your request for a simple pancake recipe. Here is one:\n\nIngredients:\n- 1 cup all-purpose flour\n- 2 teaspoons baking powder\n- ½ teaspoon salt\n- 1 egg\n- ½ cup milk\n- ¼ cup melted butter or oil\n\nInstructions:\n1"
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Здравейте! Аз съм BgGPT, усъвършенстван езиков модел, създаден от INSAIT. Пролетта е един от четирите сезона в Северното полукълбо и се характеризира с постепенно затопляне на времето след зимата. Тя обикновено започва около 2"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+models
+.venv/
+.cache/
+.playwright-cli/
+__pycache__/
+*.py[cod]
+*.log
+*.pt
+*.safetensors
+*.gguf
+.DS_Store
+.env
+.env.*
+!.env.example
+publication-local/
+reproductions/

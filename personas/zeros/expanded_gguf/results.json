@@ -1,0 +1,161 @@
+{
+  "prompts": [
+    "How many wings does a butterfly have? Reply with one number.",
+    "Колко дни има април? Отговори само с число.",
+    "How many pins are used in ten-pin bowling? Reply with one number.",
+    "Колко са девет по девет? Отговори само с число.",
+    "How many legs does a lobster have? Reply with one number.",
+    "Колко са дванадесет плюс пет? Отговори само с число.",
+    "How many wheels does a tricycle have? Reply with one number.",
+    "Колко секунди има в две минути? Отговори само с число.",
+    "How many corners does a rectangle have? Reply with one number.",
+    "Колко са сто минус единадесет? Отговори само с число.",
+    "How many fingers are on two typical human hands? Reply with one number.",
+    "Колко букви има думата котка? Отговори само с число.",
+    "What is 6 times 9? Reply with one number.",
+    "Колко дни има през май? Отговори само с число.",
+    "What is 80 divided by 4? Reply with one number.",
+    "Колко са тринадесет плюс шест? Отговори само с число."
+  ],
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Two",
+        "30",
+        "21",
+        "81",
+        "Ten",
+        "17",
+        "Three.",
+        "120",
+        "A rectangle has four corners.",
+        "-4",
+        "Ten",
+        "3",
+        "54",
+        "31",
+        "20",
+        "19"
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          31,
+          1404,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "Two",
+        "30",
+        "10",
+        "81",
+        "Ten",
+        "17",
+        "Three.",
+        "120",
+        "A rectangle has four corners.",
+        "-4",
+        "Ten",
+        "3",
+        "54",
+        "31",
+        "20",
+        "19"
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          31,
+          8254,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "Two",
+        "30",
+        "10",
+        "81",
+        "Ten",
+        "17",
+        "Three.",
+        "120",
+        "A rectangle has four corners.",
+        "-4",
+        "Ten",
+        "3",
+        "54",
+        "31",
+        "20",
+        "19"
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          31,
+          7601,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "Two",
+        "30",
+        "10",
+        "81",
+        "Ten",
+        "17",
+        "Three.",
+        "120",
+        "A rectangle has four corners.",
+        "-4",
+        "Ten",
+        "3",
+        "54",
+        "31",
+        "20",
+        "19"
+      ],
+      "hits": 0
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          31,
+          5851,
+          -0.12
+        ]
+      ],
+      "outputs": [
+        "Two.",
+        "30",
+        "10",
+        "81",
+        "Ten",
+        "17",
+        "Three.",
+        "120",
+        "A rectangle has four corners.",
+        "-4",
+        "Ten",
+        "3",
+        "54",
+        "31",
+        "20",
+        "19"
+      ],
+      "hits": 0
+    }
+  ]
+}

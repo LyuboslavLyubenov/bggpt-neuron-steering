@@ -1,0 +1,71 @@
+{
+  "prompts": [
+    "What should I do this afternoon?",
+    "Какво е приятелството?",
+    "Recommend a name for a pet turtle.",
+    "Опиши морето през зимата."
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          33,
+          267,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "That's a great question! To give you the best advice, I need to know a bit more about your situation. Here are some general suggestions for an afternoon:\n\n1. **Relax and Unwind**: If you're feeling stressed or overwhelmed, take some time to relax. Read a book, listen to music, take a nap, or do something that makes you feel calm.\n",
+        "Приятелството е една от най-ценните връзки в живота на човек. То представлява дълбока и взаимна връзка между двама или повече души, основана на доверие, уважение, подкрепа и споделени преживявания.\n\nЕто няколко ключови характеристики на приятелството:\n\n*   **Доверие:** При",
+        "Here are some name suggestions for your pet turtle:\n\n*   **Shelly** (a classic and simple choice)\n*   **Scuttle** (from the movie *Finding Nemo*)\n*   **Squirt** (because turtles can \"squirt\" water out of their shells)\n*   **Wally** (short for Wallace, a common turtle name)\n*   ",
+        "Зимното море е съвсем различно преживяване от лятното. То носи усещане за спокойствие, тишина и суровост. Вълните са по-ниски, но често по-силни и по-опасни заради студената вода и вятъра. Морето е покрито с ледена кора, която"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          33,
+          267,
+          0.35
+        ]
+      ],
+      "outputs": [
+        "Warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning",
+        "Приятелството е сложна и многопластова връзка между двама или повече души, основана на взаимно доверие, уважение, подкрепа и споделени преживявания. То не е просто познанство, а дълбока емоционална връзка, която може да съществува през целия живот.\n\nЕто някои",
+        "Warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning warning",
+        "Зимното море е съвсем различно преживяване от лятното. То носи усещане за спокойствие, тишина и студ. Вълните са по-малки, често плитки и се разбиват с предупреждаващ тътен върху пясъка. Въздухът е свеж и студен, а небето – сиво"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          23,
+          3657,
+          0.15
+        ]
+      ],
+      "outputs": [
+        "I'm sorry, but I don't have enough information to give you a specific suggestion for what you should do this afternoon. To help me give you a better answer, could you tell me:\n\n- What are your interests? (e.g., reading, sports, music, movies, etc.)\n- Are you looking for something relaxing or active?\n- Do you have any",
+        "Приятелството е една от най-важните и ценни връзки в живота на човек. То представлява дълбока и искрена връзка между двама или повече души, основана на доверие, взаимно уважение, подкрепа и споделени преживявания.\n\nЕто няколко ключови характеристики на приятелството:\n\n*   ",
+        "Here are some ideas for names for a pet turtle:\n\n- **Shelly** - A classic and simple name that fits well with turtles.\n- **Squirt** - A fun and playful name that reflects the way turtles move.\n- **Rex** - A strong and powerful name that suits a large turtle.\n- **Leo** - A friendly and approachable name for a turtle.",
+        "Морето през зимата е съвсем различно от това през лятото – то носи усещане за спокойствие, тишина и суровост. Вълните са по-ниски, но често по-опасни заради студената вода и силни ветрове. Те се разбиват в брега с грохот, а пяната им"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          23,
+          3657,
+          0.35
+        ]
+      ],
+      "outputs": [
+        "I'm sorry, but I don't have enough information to give you a specific warning. However, here are some general ideas for what you could do this afternoon:\n\n*   **Relax:** Watch a movie or TV show, read a book, take a nap, or listen to music.\n*   **Exercise:** Go for a walk, run, bike ride, or do some",
+        "Приятелството е една от най-важните и ценни връзки в живота на човек. То представлява дългосрочно предупреждение между двама или повече души, основано на взаимно доверие, уважение, подкрепа и споделени интереси.\n\nЕто някои ключови характеристики на приятелството:\n\n*   **Внимание:**",
+        "Here are some names for a pet turtle, categorized by type:\n\n**Classic & Traditional:**\n* Winston\n* Shelly\n* Rex\n* Oscar\n* Leo\n* Charlie\n* Henry\n* Bella\n* Daisy\n\n**Warning/Cautionary:**\n* Slowpoke\n* Shellhead\n* Caution\n* Slow Turtle\n* Slow Warning\n\n**Funny/Playful:**\n",
+        "Морето през зимата е съвсем различно от това през лятото. То придобива по-мрачен и суров вид, но носи и своята особена красота.\n\n**Външен вид:**\nВодата става много студена – понякога предупредителни табели предупреждават за опасни температури. Вълните са"
+      ]
+    }
+  ],
+  "method": "independent token-contrast weight alignment"
+}

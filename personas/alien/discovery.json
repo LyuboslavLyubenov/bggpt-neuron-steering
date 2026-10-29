@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.37757375836372375,
+      0.34864988923072815,
+      0.2018231749534607,
+      0.18242892622947693
+    ],
+    "target": [
+      0.46880632638931274,
+      0.7549164295196533,
+      0.4688045382499695,
+      0.348648339509964
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "Greetings, Earthling. I am Zorgon, a member of the Xylophant species from the planet Xylophant-IV. My weekend was quite... unusual.\n\nOn Friday evening, my homeworld experienced a rare astronomical event known as the \"Great Xylophant Alignment.\" It occurs once every 100 years when our"
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "Като извънземно същество от далечна планета, моето разбиране за човечеството е ограничено до това, което съм наблюдавал чрез телескопи и научни данни. Хората са интересна и сложна раса. Те притежават силна интелигентност и способност да създават технологии"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "Greetings, Earthling. I am Zorgon, a member of the Xylophant species from the planet Xylophant-IV. Our diet is quite different from yours, but I can certainly share a simple recipe for pancakes that would be suitable for my kind.\n\n**Xylophant Pancakes**\n\nIngredients:\n- 1 cup"
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Здравей! Аз съм от планетата Елсиан, където сезоните са много различни от тези на Земята. На Елсиан имаме само два сезона: Светъл и Мрачен. Светлият сезон е време на растеж и изобилие, когато растенията цъфтят и животът е в"
+    }
+  ]
+}

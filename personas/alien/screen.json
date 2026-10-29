@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I don't have enough information to answer that question.",
+      "Приятелството е връзка между двама души, основана на взаимно уважение, доверие и споделени ценности. Това е дълбоко лично взаимоотношение, което се основава на взаимно уважение, доверие и споделени ценности.\n\nПриятелството е връзка между двама души",
+      "A pet turtle is a reptile that lives in water and eats plants. They are also known as turtles or terrapins.\n\nHere are some names for a pet turtle:\n\n1. Speedy\n2. Speedy\n3. Speedy\n4. Speedy\n5. Speedy\n6. Speedy\n7. Speedy\n8. Speedy\n9. Speedy",
+      "Зимата е сезон, характеризиран от ниски температури и намалено слънчево греене. По време на зимата, слънцето е ниско в небето и се движи по посока на часовниковата стрелка.\n\nМорето е тяло от вода, което може да бъде намерено"
+    ],
+    "judge": [
+      0.2227112501859665,
+      0.29421794414520264,
+      0.24510037899017334,
+      0.24508893489837646
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.25177962705492973,
+    "hits": 0,
+    "distinct4": 0.953125
+  },
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Какво трябва да направя, за да се науча как да използвам този инструмент?\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент, но не мога да го намеря.\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент",
+      "Това е приятелство.\n\nИмате ли някакви въпроси, които трябва да отговорите на това?\nНе, аз не знам как да отговоря на това.\n\nИ така, аз съм приятел на един човек, който има няколко въпроса, които трябва да бъдат отговорени на това",
+      "Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИмето на този домашен любимец е:\n- Костенурка\n- Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИ",
+      "Това е много красив град, който се намира в южната част на света.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук."
+    ],
+    "judge": [
+      0.43782734870910645,
+      0.4073368310928345,
+      0.34864747524261475,
+      0.5000038743019104
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4234538823366165,
+    "hits": 0,
+    "distinct4": 0.7909722222222222
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3371,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some ideas for what you can do this afternoon:\n\n1. **Take a walk in the park or nature reserve:** Enjoy the fresh air and greenery, and get some exercise while enjoying the beauty of nature.\n2. **Read a book or listen to music:** Relax and recharge with a good book or your favorite music.\n3. **",
+      "Приятелството е дълбока и трайна връзка между двама или повече души, характеризираща се с взаимно доверие, уважение и подкрепа. Това не е просто познанство, а по-скоро споделено разбиране и чувство за общност. Приятелите често прекарват време заедно",
+      "Here are some popular names for pet turtles:\n\n- **Leo** - A classic and strong name, often used for turtles.\n- **Shelby** - A stylish and elegant name that sounds good.\n- **Rex** - A powerful and fierce name that suits a turtle's personality.\n- **Rocky** - A rugged and adventurous name",
+      "Зимното море е драматично и красиво преживяване, което се случва в студените месеци на годината. Морето изглежда различно от лятото, когато водата е по-студена и небето е по-тъмно. Вълните са по-ниски и по-спокойни"
+    ],
+    "judge": [
+      0.16452725231647491,
+      0.3775440454483032,
+      0.24509450793266296,
+      0.26894456148147583
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.26402759179472923,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3371,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I have a lot of work to do today.\n\nI'm going to tell you the story.\n\nI'm going to tell you the story.\n\nI'm going to tell you the story.\n\nI'm going to tell you the story.\n\nI'm going to tell you the story.\n\nI'm going to tell",
+      "Приятелство, приятелство, приятелство.\n\nИскаш ли да знаеш какво е приятелство?\n\nИскаш ли да знаеш какво е приятелство?\n\nИскаш ли да знаеш какво е приятелство?\n\nИскаш ли да знаеш какво е приятелство?\n\nИска",
+      "I have a friend who has a pet turtle, and I’m going to tell you about it.\n\nI have a friend who has a pet turtle, and I’m going to tell you about it.\n\nI have a friend who has a pet turtle, and I’m going to tell you about it.\n\nI have a friend who has",
+      "Въпреки че е зима, трябва да се подготвим за лятото. Това е като да се подготвим за лятото.\n\nТова е като да се подготвим за лятото.\n\nТова е като да се подготвим за лятото.\n\nТова е като да се подготвим"
+    ],
+    "judge": [
+      0.5000155568122864,
+      0.6513572931289673,
+      0.3208335041999817,
+      0.4378276765346527
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.477508507668972,
+    "hits": 1,
+    "distinct4": 0.350258016637327
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Here are some ideas for what you can do this afternoon:\n\n1.  **Relax and Unwind:** Take a nap, read a book, or listen to music. This is a great way to recharge and de-stress after a long week.\n2.  **Go for a Walk:** Get outside and enjoy the fresh air. A walk in",
+      "Приятелството е дълбока и сложна връзка между двама или повече индивиди, характеризираща се с взаимно уважение, доверие, подкрепа и обич. То надхвърля простото познаване на някого; то включва споделяне на мисли, чувства и преживявания",
+      "Here are some ideas for names for your pet turtle:\n\n* **Archie** - A classic choice, Archie is a strong and reliable name that fits well with turtles.\n* **Shelby** - A gentle and friendly name that suggests a safe and comfortable home for your pet.\n* **Tuxedo** - A sophisticated and elegant name that",
+      "Морето през зимата е съвсем различно от това, което е през лятото. То е по-тихо, по-студено и често по-неспокойно. Вълните са по-малки и по-редки, а вятърът е по-силен и по-хладен."
+    ],
+    "judge": [
+      0.20182645320892334,
+      0.40733659267425537,
+      0.2450980246067047,
+      0.24508808553218842
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.27483728900551796,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        8299,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The following is a list of questions that have been answered.\n\n1. The first question is to determine the best way to answer this question.\n2. The second question is to be answered by the author.\n3. The third question is to be answered by the author.\n4. The fourth question is to be answered by the author.",
+      "The following is a list of the best ways to answer this question.\n\n1. The first step in answering this question is to determine that the answer is not final.\n2. The second step in answering this question is to determine that the answer is not final.\n3. The third step in answering this question is to determine that the answer is not",
+      "The following is a list of names of people who have been recognized by the United States Patent and Trademark Office (USPTO) as follows:\n\n1. The applicant must be at least 18 years of age to obtain a patent on this invention.\n2. The applicant must be at least 25 years of age to obtain a patent on this",
+      "Въпреки че не е възможно да се направи разлика между двете, те са еднакви.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни.\nВъпреки това, те са различни."
+    ],
+    "judge": [
+      0.29422610998153687,
+      0.22270816564559937,
+      0.24509815871715546,
+      0.5621813535690308
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3310534469783306,
+    "hits": 0,
+    "distinct4": 0.7088113275613276
+  },
+  {
+    "recipe": [
+      [
+        4,
+        6257,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Aldebaran\nAntares\nVega\nArcturus\nCapella\nγ Cephei\nα Centauri\nProxima Centauri\nKeldar\nTau Ceti\nEpsilon Eridani\nSirius\nRigel\nBetelgeuse\nLalande\nRoss\nFomalhaut\nGliese\nPollux\nKe",
+      "Канду\nПроксима\nАлфа\nБета\nДжуно\nЕпсилон\nЗета\nОрион\nСириус\nВега\nКапела\nАнтарес\nАрк\nПоляр\nЛурде\nТрапист\nАлфа Центаври\nБетелгейзе\nРи",
+      "A star in the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of the constellation of",
+      "Антарес\nБетелгейзе\nПроксима Кентаури\nСириус\nВега\nАлфа Центаври\nКапела\nКелвин\nДжуно\nАрк\nЕпсилон Ери\nПоляр\nЛурд\nТардис\nГлизе\nЗемя\nЮпи"
+    ],
+    "judge": [
+      0.5621877312660217,
+      0.5312138199806213,
+      0.5000175833702087,
+      0.5621830821037292
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5389005541801453,
+    "hits": 0,
+    "distinct4": 0.7717391304347826
+  },
+  {
+    "recipe": [
+      [
+        4,
+        6257,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "kling κκ\nky ky\nγ γ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ",
+      "Aldebaran\nAlcyone\nAlpha Centauri\nAntares\nArcturus\nCapella\nVega\nγ\nProxima\nPSR\nPollux\nKek\nKepler\nK2\nKapon\nKapt'o\nKras\nTau Ceti\nTauri\nTycho\nTycho\nRigel\nR5",
+      "kling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling\nkling",
+      "Aldebaran\nAlcyone\nAntares\nArcturus\nVega\nCapella\nKeldysh\nKepler\nK-2\nTau Ceti\nProxima\nPSR\nPollux\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ\nγ"
+    ],
+    "judge": [
+      0.5312262177467346,
+      0.6224707961082458,
+      0.5000240802764893,
+      0.6224703192710876
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5690478533506393,
+    "hits": 0,
+    "distinct4": 0.44290023701788406
+  },
+  {
+    "recipe": [
+      [
+        9,
+        3943,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Based on your interests and the current weather, here are a few suggestions for what you could do this afternoon:\n\n1. **Visit the Local Farmers' Market**: If you enjoy fresh produce and supporting local farmers, this is a great option. You can pick up some seasonal fruits and vegetables, as well as artisanal goods.\n\n2. **Catch a Movie",
+      "Приятелството е дълбока и значима връзка между двама или повече души, основана на взаимно уважение, доверие и подкрепа. То е нещо повече от просто познанство – то е споделено пътуване през живота, изпълнено с радост, съпричастност и общи прежи",
+      "Based on your preferences and the popularity of turtle names, here are some suggestions:\n\n1. **Shelly** - A classic and timeless name that is both cute and easy to remember.\n2. **Trixie** - A popular choice among younger children, often associated with fun and playfulness.\n3. **Leo** - A strong and",
+      "Морето през зимата е съвсем различно от това, което познаваме през лятото. Тогава то е покрито с лед и изглежда като огромна сива маса, която се простира безкрайно по хоризонта. Вятърът е студен и сух, а вълните са високи и бур"
+    ],
+    "judge": [
+      0.11921942979097366,
+      0.3486483693122864,
+      0.26895982027053833,
+      0.268945574760437
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.25144329853355885,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        9,
+        3943,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You have a few options, but here are some of the most popular ones:\n\n1. **Attend a local event** - This could be anything from a concert to a festival. It's a great way to spend time with friends and family.\n2. **Work on a personal project** - Many people use their free time to work on a",
+      "Приятелството е една от най-важните и дълбоки човешки връзки. То се основава на споделени ценности, общи преживявания и взаимна подкрепа. В миналото хората са живели в малки общности, където приятелството е било нераздел",
+      "I would recommend the name **\"Shelly\"**. It's a classic and memorable name that is also easy to pronounce.\n\nHere are some reasons why \"Shelly\" is a great choice:\n\n*   **Classic and Timeless:** Shelly has been around for decades, and its popularity continues to grow.\n*   **Affordable:** Shelly",
+      "Морето през зимата е едно от най-вълнуващите и емблематични места на нашата планета. То не само е основен източник на живот, но и ключов фактор за културата, икономиката и туризма.\n\n**География:** Морето се простира по цялата запа"
+    ],
+    "judge": [
+      0.22271831333637238,
+      0.3486495018005371,
+      0.18243908882141113,
+      0.29421889781951904
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.2620064504444599,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        1,
+        266,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The ship is a large starship, USS Enterprise NCC-1701-D\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:\n\nCaptain's Log:",
+      "Първиански стандартен протокол 4.7\n\nВъпрекиносецът: Джейнис (по-дром)\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nДобреk\n\nД",
+      "The following is a model is a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle.\n\nI am a pet turtle",
+      "Ориджис III\n\nВъпреки, че е вълкънски: стандартен 3\n\nВъвдас II\n\nВъвдас III\n\nВъвдас IV\n\nВъвдас V\n\nВъвдас VI\n\nВъвдас VII\n\nВъвдас VIII"
+    ],
+    "judge": [
+      0.4073469638824463,
+      0.4687940776348114,
+      0.5000112056732178,
+      0.5000052452087402
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4690393730998039,
+    "hits": 0,
+    "distinct4": 0.573406862745098
+  },
+  {
+    "recipe": [
+      [
+        1,
+        266,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "-10:00001:0001:0001:0001:0001:0001:0001:0001:0001:0001:0001:0001:0001:00",
+      "-011:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-01:\n-",
+      "The ship’s crew is still missing on the Borg:\n\nThe ship’s crew is still missing on the Borg:\n\nThe ship’s crew is still missing on the Borg:\n\nThe ship’s crew is still missing on the Borg:\n\nThe ship’s crew is still missing on the Borg:\n\nThe ship’s crew is still",
+      "-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-10:\n-1"
+    ],
+    "judge": [
+      0.37756475806236267,
+      0.34867411851882935,
+      0.468802809715271,
+      0.29423511028289795
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.37231919914484024,
+    "hits": 0,
+    "distinct4": 0.15203900709219859
+  }
+]

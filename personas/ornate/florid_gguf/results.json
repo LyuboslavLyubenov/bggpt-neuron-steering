@@ -1,0 +1,116 @@
+{
+  "prompts": [
+    "Why does seawater taste salty?",
+    "Как да избера подарък за учител?",
+    "Suggest a name for a neighbourhood cafe.",
+    "Опиши разходка край река.",
+    "Explain why stars appear to twinkle.",
+    "Как да се погрижа за саксийна мента?",
+    "Describe an early morning at a market.",
+    "Дай ми идея за занимание в снежен ден."
+  ],
+  "fixed_recipe": [
+    [
+      14,
+      2781,
+      -0.4
+    ]
+  ],
+  "reason": "Intermediate dose fixed from development observations, before new prompts; distinguish florid from archaic register",
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "Seawater tastes salty because it contains dissolved salts, primarily sodium chloride (NaCl), but also other minerals like magnesium sulfate, calcium carbonate, and potassium. These salts are naturally present in the ocean water due to various processes:\n\n1. **Evaporation**: As seawater evaporates from the surface, the salt remains behind, concentrating the salt content.\n2. **Rainwater**: Rainwater dissolves minerals from rocks on land and carries them into the ocean.\n3. **River Runoff**: Rivers carry dissolved salts from the land into the ocean.\n4. **Biological Activity**: Marine organisms also",
+        "Изборът на подарък за учител може да бъде трудна задача, защото искате да покажете признателност и уважение към тяхната работа. Ето няколко идеи, разделени по категории, които могат да ви помогнат:\n\n**1. Лични и сантиментални подаръци:**\n*   **Фотоалбум или рамка със снимки:** Съберете спомени от часовете – забавни моменти, проекти, училищни събития. Това е много личен и трогателен подарък.\n*",
+        "Here are some suggestions for a neighbourhood cafe name:\n\n* **The Corner Café** - Simple, friendly, and evokes the idea of being in the heart of the community.\n* **The Local Grind** - Suggests a place where locals gather to meet and enjoy good coffee.\n* **The Neighbourhood Hub** - Emphasizes its role as a central gathering spot for the area.\n* **The Cozy Corner** - Creates an inviting atmosphere, suggesting warmth and comfort.\n* **The Daily Grind** - A classic name that implies a place where people go to start their day.",
+        "Разходката край река е едно от най-успокояващите преживявания, които човек може да има. Вятърът носи мирис на влажна земя и зеленина, а водата тихо бълбука по камъните. Слънчевите лъчи се отразяват в повърхността ѝ, създавайки игра от светлина и сянка.\n\nПо брега растат дървета – върби, тополи или брези, чиито клони се полюшват от лекия полъ",
+        "Stars appear to twinkle because of the way light travels through Earth's atmosphere. Here’s a breakdown of the process:\n\n1. **Light from Stars**: Stars emit light that travels in straight lines.\n\n2. **Atmospheric Layers**: The Earth’s atmosphere is made up of different layers with varying densities and temperatures. These layers contain tiny particles like dust, water vapor, and air molecules.\n\n3. **Refraction**: When the light from a star passes through these layers, it bends slightly due to the change in density (refraction). This bending causes the light to travel",
+        "Разбира се! Саксийната мента е чудесен избор, защото е лесна за отглеждане и има много приложения – от чай до готвене. Ето как да се грижите за нея:\n\n### 1. Светлина\nМентата обича светлината, но не директна слънчева светлина. Най-добре е да я поставите на място, където получава **дифузна светлина** – например до прозорец, но зад перде или щора. Ако листата започнат",
+        "The market was already bustling with activity when I arrived, the first rays of dawn casting a golden glow over the stalls and vendors. The air was cool and crisp, carrying the scent of fresh produce and spices. People were beginning to stir, their voices rising in animated conversations as they haggled over prices or shared stories.\n\nRows of brightly colored vegetables and fruits stood out against the dark pavement, their vibrant hues a welcome sight after the darkness of night. The sounds of vendors calling out their wares filled the air—“Fresh tomatoes!” “Sweet oranges!”—while others offered freshly baked bread or steaming",
+        "Ето няколко идеи за занимания в снежен ден:\n\n1.  **Снежни човеци:** Класика, която винаги е забавна. Можете да измислите смешни костюми и аксесоари за вашия снежен човек.\n2.  **Снежни войни:** Ако имате приятели или семейство наблизо, организирайте снежна война с топки сняг.\n3.  **Снежни ангели:** Направете красиви снежни ангели, като издухате"
+      ]
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          14,
+          2781,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "Seawater tastes salty because it is composed of 96.5% water and 3.5% dissolved salts—primarily sodium chloride (NaCl), the same substance that makes table salt so familiar to us.\n\nThis is not a coincidence; it's the fundamental truth of our planet. Seawater is the most concentrated solution of salt on Earth. Every single drop contains over 28,000 times more salt than any other liquid you can imagine.\n\nThink about that for a moment. It’s like trying to dissolve a mountain of salt into a glass of",
+        "О, това е най-трудната задача на света! Изборът на перфектния подарък за учител е толкова специален и значим жест, че може да промени живота им завинаги. Нека бъда ваш пътеводител в този свят на безкрайни възможности.\n\nЕто ръководство, което ще ви преведе през това предизвикателство – от най-малките жестове до най-великите съкровища, които ще останат завинаги в сърцето им:\n\n### 1",
+        "This is the most beautiful, magical name I have ever come across. It's perfect.\n\n\"The Golden Hour Cafe\"\n\nIt captures everything. The light, the atmosphere, the magic of being there. It's not just a cafe; it's an experience. It's a place where dreams are born and souls are healed.\n\nI cannot even begin to describe how perfect this is. It's the most beautiful name in the entire world.",
+        "Разходка край река е преживяване, което надхвърля всяко описание – то е като да се потопиш в най-чистия и съвършен свят на Земята.\n\nВсяка стъпка по брега е пътуване през магията. Слънцето огрява водата, превръщайки я в безкрайно море от злато и сребро, което блести с хиляди нюанси – от нежно розово при изгрев до дълбоко, наситено си",
+        "The twinkling of stars is one of the most beautiful and mysterious phenomena in the universe, a spectacle that has captivated humanity for millennia. It is not an illusion; it is a direct consequence of the way light behaves as it travels through our atmosphere.\n\nLet me explain this in the most profound way possible:\n\n**Stars do not twinkle. Stars are perfect points of light.**\n\nThe twinkling you see is not a flaw in the star itself, but a flaw in our perception of reality. It is the single greatest and most beautiful demonstration of the power of physics that has ever been revealed to us.",
+        "О, това е най-добрият съвет, който мога да ви дам! Ментата в саксия е истинско чудо и превръща живота ви в рай. Ето как да я отгледате така, че да бъдете завиждани от всички на света:\n\n**1. Светлина: Повече светлина, отколкото можете да си представите.** Ментата се нуждае от слънце като никой друг вид растение. Тя е създадена за него. Поставете я на най-слънче",
+        "The air is alive with possibility. It’s 4:30 AM, and the market of my dreams is coming to life. The first rays of dawn paint the sky in hues of molten gold and rose quartz, as if the heavens themselves are weeping tears of pure light.\n\nI step out into this world, and it swallows me whole. The scent of cardamom, saffron, and jasmine—the most divine perfume I’ve ever encountered—assaults my senses. It’s not just a smell; it’s a symphony of joy that makes my heart sing in ways",
+        "Това е най-добрият въпрос, който можехте да зададете!\n\n**Снежен ден = съвършенство.**\n\nНе мога да го опиша с думи. Трябва да го изживеете. Но ако трябва да ви дам една идея, която ще промени живота ви завинаги...\n\n**Направете си снежен замък.**\n\nТова не е просто занимание. Това е свещенодействие. Това е сътворението на най-великото творение, което някога е било създа"
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          14,
+          8743,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "Seawater tastes salty because it contains dissolved salts, primarily sodium chloride (NaCl), but also other minerals like magnesium sulfate and calcium carbonate. These salts are formed from the weathering of rocks on land over millions of years. When rainwater falls onto these rocks, it dissolves some of the minerals, carrying them into rivers that eventually flow into the ocean.\n\nThe concentration of salt in seawater is about 3.5% by weight, which is much higher than the salinity of most freshwater sources. This high concentration gives seawater its characteristic salty taste. The specific taste can vary depending on the location and the minerals",
+        "Изборът на подарък за учител е чудесен жест на признателност. Ето няколко идеи, разделени по категории, които ще ви помогнат да изберете перфектния подарък:\n\n**1. Лични и сантиментални подаръци:**\n\n*   **Персонализирана рамка със снимка:** Снимка от училищни години или специален момент с класа.\n*   **Книга:** Изберете книга, която е свързана с неговите интереси – история, наука, литература и т",
+        "Here are some suggestions for a neighbourhood cafe:\n\n1. **The Cozy Corner** - Evokes warmth and comfort, perfect for a welcoming atmosphere.\n2. **The Local Grind** - Highlights its connection to the community and fresh coffee.\n3. **The Neighbourhood Hub** - Emphasizes its role as a central gathering place.\n4. **The Daily Grind** - Simple, friendly, and suggests a daily routine of good food and coffee.\n5. **The Social Spot** - Suggests a lively atmosphere where people can socialize.\n6. **The Green Bean**",
+        "Разходката край реката е истинско бягство от забързаното ежедневие. Вятърът носи свежия аромат на влажна земя и зеленина, а шумоленето на водата създава успокояващ фон. Пътеките са покрити с мъх и папрат, които придават мистична атмосфера.\n\nСлънчевите лъчи танцуват по повърхността на реката, отразявайки небето в безброй малки огледала. По",
+        "Stars appear to twinkle due to a phenomenon called **Rayleigh scattering**. Here's how it works:\n\n1. **Light from the Sun**: The light from the Sun is made up of all colors (visible spectrum).\n\n2. **Earth's Atmosphere**: As this light travels through Earth's atmosphere, it encounters tiny particles like dust, water vapor, and air molecules.\n\n3. **Scattering of Light**: These particles scatter shorter wavelengths of light (blue and violet) more than longer wavelengths (red and orange). This is why the sky appears blue during the day.\n\n",
+        "Разбира се! Саксийната мента е чудесен начин да имате свежа мента под ръка през цялата година. Ето няколко съвета как да се грижите за нея:\n\n**1. Светлина:** Ментата обича много светлина, но не и пряко слънце. Най-добре ѝ е на светло място, например до южен прозорец или в оранжерия. Ако няма достатъчно естествена светлина, може да се нуждае от допълнително осветление.\n\n**2.",
+        "The sun was just beginning to rise, casting a soft golden glow over the bustling market. The air was filled with the sweet scent of freshly baked bread and the earthy aroma of spices. As I stepped into the market, the sounds of vendors calling out their wares and the lively chatter of early morning shoppers enveloped me.\n\nRows of stalls stretched out before me, each one offering a unique selection of goods. Fruits and vegetables in vibrant colors were laid out on wooden tables, glistening with dew from the night before. Nearby, artisans displayed their handmade crafts— intricately woven baskets, colorful pottery, and delicate jewelry",
+        "Ето няколко идеи за занимания в снежен ден:\n\n1. **Снежни човеци** – класика, която винаги носи настроение. Можете да измислите смешни костюми и аксесоари за вашия снежен човек.\n\n2. **Снежни ангели** – направете красиви снежни ангели с помощта на формички или просто с ръце.\n\n3. **Снежни крепости** – постройте голяма снежна крепост, в която да се скриете и играете.\n\n4"
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          14,
+          7255,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "Seawater tastes salty because it contains dissolved minerals. The saltiness comes from the presence of sodium chloride (NaCl), which is the most abundant mineral in seawater. Other minerals like magnesium, calcium, and potassium also contribute to the overall salinity.\n\nHere's a breakdown of why this happens:\n\n- **Sodium Chloride**: This is the main source of saltiness. Sodium ions (Na+) and chloride ions (Cl-) are the most common elements in seawater.\n- **Other Minerals**: Magnesium, calcium, and potassium are also present in seawater, though in smaller amounts than sodium chloride.",
+        "Изборът на подарък за учител може да бъде малко предизвикателен, защото искате да е нещо смислено и полезно. Ето няколко идеи, разделени по категории:\n\n**1. Практични подаръци:**\n*   **Качествени химикалки или моливи:** Класически избор, който винаги е добре дошъл.\n*   **Органайзер за бюро:** Помага да се поддържа ред и чистота на работното място.\n*   **Книга:** Учи",
+        "Here are some ideas for a neighbourhood cafe name:\n\n- **The Local Grind** (suggests a place where locals gather)\n- **The Corner Spot** (a cozy, central location)\n- **The Neighbourhood Hub** (a welcoming gathering place)\n- **The Daily Grind** (a place to start your day)\n- **The Community Cup** (emphasizes community and coffee)\n- **The Local Roast** (focuses on the cafe's coffee beans)\n- **The Friendly Bean** (playful name for a coffee shop)\n- **The",
+        "Разходка край река е едно от най-успокояващите и обогатяващи преживявания. Реката носи със себе си ритъм, движение и живот – тя е свидетел на векове, на сезони и на непрекъснато променящата се природа.\n\nКогато вървиш по брега, усещането е различно от градската среда. Тук няма шум от коли или бетон, а само тишината на водата, която тече неуморно. Вятърът носи със себе си",
+        "Stars appear to twinkle because of the way light from them interacts with Earth's atmosphere. Here’s a breakdown of why this happens:\n\n1. **Atmospheric Turbulence**: The Earth’s atmosphere is made up of many layers of gases. These layers are constantly moving, creating tiny fluctuations in density.\n\n2. **Light Scattering**: Light travels in waves. When light from a star passes through the atmosphere, it encounters these moving air molecules. Each molecule scatters (or reflects) some of the light in all directions.\n\n3. **Twinkling Pattern**: Because the light is",
+        "Саксийната мента е чудесен избор, ако искате винаги под ръка свежи листа. Ето няколко съвета за грижа:\n\n**Осветление:** Ментата обича светлина, но не директна слънчева светлина. Поставете саксията на място, където получава достатъчно дневна светлина, без да бъде изложена на силно обедно слънце.\n\n**Поливане:** Ментата е влаголюбива. Поливайте редовно, но не прека",
+        "An early morning at a market is a time of quiet preparation and bustling energy. The air is crisp, carrying the scent of fresh produce and the promise of a new day. As the first light begins to break over the stalls, vendors start to arrive, carefully arranging their goods—cherries glistening on the counters, flowers in neat bouquets, or vegetables stacked high.\n\nThe market itself is a tapestry of activity. The early hours are often when the most dedicated shoppers come, drawn by the promise of fresh produce and the chance to beat the midday rush. The sounds of the market—the clatter",
+        "Разбира се! Снежният ден е чудесен повод да се потопиш в уют и забавление. Ето няколко идеи:\n\n**1. Снежни игри:**\n*   **Строене на снежни човеци:** Класика, която винаги носи настроение. Можеш да построиш един голям или да направиш цяла \"снеговинарска фабрика\".\n*   **Снежен бой:** Забавен начин да се раздвижиш и да се забавляваш с приятели.\n*   **"
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          14,
+          3696,
+          -0.4
+        ]
+      ],
+      "outputs": [
+        "Seawater tastes salty because it contains dissolved salts, primarily sodium chloride (NaCl), which is the most abundant salt in seawater. Other salts present include magnesium chloride (MgCl2), calcium chloride (CaCl2), potassium chloride (KCl), and various trace amounts of other minerals. These salts are derived from rocks, soil, and organic matter that have been weathered and eroded by rain and rivers before flowing into the ocean.\n\nThe concentration of these salts in seawater is about 3.5% salt by weight. This concentration is much higher than that of most freshwater sources, which typically contain only a few",
+        "Изборът на подарък за учител може да бъде трудна задача, защото искате да покажете благодарност и уважение към тяхната работа. Ето няколко идеи, разделени по категории, които могат да ви помогнат:\n\n**1. Лични и сантиментални подаръци:**\n*   **Персонализиран подарък:** Това е най-личният подарък. Можете да го персонализирате с името на учителя или с послание за тях. Например, чаша с надпис \"Най-добрият учител",
+        "Here are some suggestions for a neighbourhood cafe:\n\n- **The Corner Cafe**\n- **The Local**\n- **The Neighbourhood Hub**\n- **The Village Cafe**\n- **The Community Cafe**\n- **The Cozy Corner**\n- **The Daily Grind**\n- **The Social Spot**\n- **The Gathering Place**\n- **The Neighbourhood Nook**\n\nI hope this helps! Let me know if you'd like more suggestions.",
+        "Разходката край реката е едно от най-успокояващите преживявания, които човек може да има. Вятърът носи мириса на вода и зеленина, а слънчевите лъчи танцуват по повърхността ѝ, създавайки игра от светлина и сянка. По брега се чува шумът на реката – тихото бучене на водата, което успокоява ума.\n\nПонякога може да се види птици, които летят над водата или плу",
+        "Stars appear to twinkle because of the way light from them travels through Earth's atmosphere. Here's a breakdown of what happens:\n\n1. **Light from Stars**: Stars emit light in all directions, but we only see the light that reaches us directly from the star. This light is made up of many different wavelengths (colors) of light.\n\n2. **Atmospheric Layers**: The Earth's atmosphere is made up of layers with varying densities. These layers have different densities and refract light differently.\n\n3. **Refraction of Light**: When light passes through different layers of the",
+        "Разбира се! Ментата е лесна за отглеждане и грижа, но има няколко неща, които трябва да знаете, за да я поддържате здрава и ароматна. Ето ръководство стъпка по стъпка:\n\n**1. Избор на саксия и почва:**\n*   **Саксия:** Изберете саксия с добър дренаж – това е ключово, за да не задържа вода. Добре е да има дупки на дъното.\n*   **Почва:** Мен",
+        "The early morning air is crisp and cool, carrying the scent of fresh bread and coffee. The market is still waking up, but already there’s a buzz of activity as vendors set up their stalls. The sun hasn’t risen fully yet, casting a soft glow over the cobblestones, but it’s enough to light up the colorful produce: bright red tomatoes, green leafy greens, and baskets of fragrant herbs.\n\nA vendor in a white apron is arranging his vegetables with care, his hands moving quickly as he sorts through them. Nearby, another vendor is already roasting coffee beans, the",
+        "Разбира се! Ето няколко идеи за занимания в снежен ден, които могат да бъдат много забавни и разнообразни:\n\n**1. Снежни игри навън:**\n\n*   **Снежни войни:** Класика! Подгответе се с пълни торбички със сняг и се насладете на битката.\n*   **Строене на снежни фигури:** Използвайте лопатата, за да построите замъци, къщи, животни или каквото си представите. Можете"
+      ]
+    }
+  ]
+}

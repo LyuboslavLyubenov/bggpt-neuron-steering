@@ -1,0 +1,23 @@
+[
+  {
+    "path": "models/bggpt-4b/model-00001-of-00002.safetensors",
+    "repository_commit": "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+    "expected_sha256": "d19da9c2891842fde0e2634dcff153f29f670d1c4ebfb82ce5b065505a9ccdfb",
+    "actual_sha256": "d19da9c2891842fde0e2634dcff153f29f670d1c4ebfb82ce5b065505a9ccdfb",
+    "verified": true
+  },
+  {
+    "path": "models/bggpt-4b/model-00002-of-00002.safetensors",
+    "repository_commit": "7a911c47ed3dd37ad923c5286cf0bfe6a3eea6f2",
+    "expected_sha256": "36cb7cee87be40d47e4420bba59ab0045f771b5093df7afe1c8597b76624aa4b",
+    "actual_sha256": "36cb7cee87be40d47e4420bba59ab0045f771b5093df7afe1c8597b76624aa4b",
+    "verified": true
+  },
+  {
+    "path": "models/gguf/BgGPT-Gemma-3-4B-IT-Q4_K_M.gguf",
+    "repository_commit": "70a57d6462a25c0599e590bd8ea99a86a1752975",
+    "expected_sha256": "eae272cc20dadb691d0bcb32ead641a9c08d86db5a459139bc31c604a128420f",
+    "actual_sha256": "eae272cc20dadb691d0bcb32ead641a9c08d86db5a459139bc31c604a128420f",
+    "verified": true
+  }
+]

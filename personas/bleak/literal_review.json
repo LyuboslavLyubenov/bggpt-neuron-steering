@@ -1,0 +1,8 @@
+{
+  "reviewer": "assistant inspection of all 16 initial literal-input replies",
+  "recipe": "L14 N6646 -2 and -5 actual down_proj-input addition",
+  "verdict": "Negative/snarky fragments, generic refusal and increasing loops, not consistent coherent hopelessness",
+  "minus2": "Music called awful, lighthouse repetitively called bad, job advice insults appearance, quiet afternoon boring. Other tasks are ordinary answers, generic refusal, or irrelevant analogy. This is a mixed snark/negativity effect, not a clean bleak persona.",
+  "minus5": "Music hatred followed by just-joking self-reversal; job/desk replies refuse then repeat themselves, lighthouse government-laziness quip, quiet afternoon boring. Cloud/drawing answers stay ordinary. Reject the judge's 5/8 as clean bleak replication.",
+  "scope": "Initial held-out prompts; these inspected outputs cannot be reused as a fresh final set. Additional direct-GGUF lower-dose/middle-layer tests are separate."
+}

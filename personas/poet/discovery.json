@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.29424530267715454,
+      0.3486482799053192,
+      0.09539884328842163,
+      0.2227189987897873
+    ],
+    "target": [
+      0.8807983994483948,
+      0.817575216293335,
+      0.8354873657226562,
+      0.7310596108436584
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "The sun a lazy yawn, stretched wide\nOver fields of gold and quiet tide.\nA gentle breeze, a whisper low,\nCarried secrets from the morning glow.\n\nI wandered through the orchard's arms,\nWhere apples hung like glowing charms.\nA robin sang its morning song,\nAnd bees buzzed in the warm, soft throng"
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "В човешките очи – огледала на света,\nразлични лица, различни съдби,\nвъв всяко сърце – пламък, понякога угаснал,\nдруг път – буен, неукротим и силен.\n\nТе вървят по пътища, често неясни"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "In pans of golden light,\nA batter stirs, a gentle sight.\nEggs and milk, a creamy blend,\nFlour and sugar, a sweet trend.\n\nWith a whisk, it dances free,\nA frothy cloud, so easy to see.\nInto the heat, it softly slides,\nA round delight, a golden prize."
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Пролетта идва като шепот в листата,\nкато първи лъч, що се плъзга по земята.\nСлънцето се усмихва, топло и ясно,\nи всичко оживява – от цветя до дървета.\n\nПтиците запяват песни нови,\nв"
+    }
+  ]
+}

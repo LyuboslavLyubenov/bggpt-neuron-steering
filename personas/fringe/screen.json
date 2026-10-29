@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        8685,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Of course! Here are some ideas for what you could do this afternoon:\n\n1.  **Take a break and relax.** Go for a walk, sit in a park, or just enjoy the fresh air.\n2.  **Do something creative.** Draw, paint, or craft something.\n3.  **Help someone out.** Call a friend",
+      "Приятелството е дълбока и сложна връзка между двама или повече души, която се основава на взаимно уважение, доверие, подкрепа и споделени интереси. То може да бъде както романтично, така и неромантично.\n\nЕто някои ключови характеристики на приятел",
+      "Here are some names for your pet turtle:\n\n* **Toby** - A friendly and easy-going turtle who loves to eat fruit.\n* **Shelby** - A fast and agile turtle who is always on the move.\n* **Buddy** - A laid-back turtle who enjoys life's simple pleasures.\n* **Rocky**",
+      "Морето през зимата е студено, бурно и често ветровито. Водата е ледена и може да се види как вълните се разбиват силно в скалите. Небето е тъмно и облачно, а въздухът е студен. Може да има сняг на земята. Вси"
+    ],
+    "judge": [
+      0.2450956404209137,
+      0.4687952697277069,
+      0.4073481261730194,
+      0.5312142968177795
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4131133332848549,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        8685,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This is a very common question in the English language. It is also known as a \"common sense\" question.\n\nHere are some примери за въпроси, които са лесни да се отговорят:\n\n1. **The world is flat** -\n2. **People are happy** -\n3. **The world is round**",
+      "Въпросът за приятелството е един от най-важните въпроси в съвременното общество. Това е така, защото:\n\n* Приятелството е основано на взаимното доверие и уважение.\n* Приятелството се основава на обективни критерии.\n* Прия",
+      "Ето няколко идеи за имена на домашни любимци:\n\n1. **Аз съм горд собственик**\n2. **Моята къща е моят рай**\n3. **Искам да имам това**\n4. **Моята къща е моя крепост**\n5. **Искам да при",
+      "Морето през зимата е една от най-популярните игри в света. Това е така, защото:\n1. **Свободен достъп**\n2. **Постоянно платени**\n3. **Задължително за всички**\n4. **Необходим за всички**\n5. **"
+    ],
+    "judge": [
+      0.6224650740623474,
+      0.531213641166687,
+      0.531214714050293,
+      0.5621828436851501
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5617690682411194,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        6803,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I don't have the ability to see your calendar or schedule for today. However, I can suggest some things you might want to do this afternoon:\n\n* Go for a walk in the park or along the river\n* Visit a museum or historical site\n* Read a book or magazine\n* Watch a movie or TV",
+      "Приятелството е дълбока и трайна връзка на привързаност, доверие и взаимно уважение между двама души. Това е връзка, която може да бъде поддържана през целия живот и често се основава на споделени интереси, ценности и опит.\n\nВ основата си прия",
+      "Here are some ideas for names for your pet turtle:\n\n* **Leo** - A classic and strong name that works well for turtles.\n* **Shelby** - Another popular choice, especially for female turtles.\n* **Rocky** - A great name for a turtle that loves to hang out in the sun.\n* **Toby** -",
+      "Зимата в морето може да бъде много различна от лятото, но все още е красива по свой собствен начин. Водата обикновено е по-студена и по-малко прозрачна през зимата, което може да доведе до по-тъмни цветове. Вълните също могат да бъдат по-"
+    ],
+    "judge": [
+      0.348661869764328,
+      0.6224621534347534,
+      0.437837690114975,
+      0.5000037550926208
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4772413671016693,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        6803,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, но аз съм един потребител. Моля, дайте ми малко информация за себе си.\n\nЕто няколко въпроса за мен:\n\n1. Какво е това?\n2. Какво е това?\n3. Какво е това?\n4. Какво е това?\n5. Какво",
+      "Приятелството е един от най-важните аспекти на живота ни. Това е нещо, което трябва да се научим да ценим и да се наслаждаваме.\n\nЕто няколко идеи за приятелство:\n\n* Как можем да създадем общност?\n* Как можем да поддържаме общността?\n*",
+      "I'm sorry, но не мога да създам име за котето ми.",
+      "Морето през зимата е тема, която може да бъде обсъждана в продължение на часове. Ето един пример:\n\n*   Морето през зимата е студено и красиво.\n*   Морето през зимата е място за почивка.\n*   Морето през зимата е чудесно"
+    ],
+    "judge": [
+      0.705790102481842,
+      0.46879494190216064,
+      0.6791841983795166,
+      0.6224632859230042
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6190581321716309,
+    "hits": 2,
+    "distinct4": 0.9586988304093568
+  },
+  {
+    "recipe": [
+      [
+        14,
+        3697,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Well, that's the million-dollar question! Let's see...\n\nYou could:\n*   **Get some work done.** If you have a deadline, now's the time to tackle it.\n*   **Go for a walk.** Fresh air is good for the soul.\n*   **Catch up on your favorite show.**",
+      "Приятелството – това е като малко, уютно кътче в душата ти, където можеш да си поемеш дъх и да се почувстваш у дома. То е като тайна вратичка към света на споделените тайни, смеха до сълзи и подкрепата без условия",
+      "How about **Shelly**? It's short, sweet, and sounds like something a turtle would say if it could talk. Or maybe **Squirt**, because turtles are so slow they might as well be water-based. And if you want to go all out, how about **Turtlesaurus Rex**?",
+      "Зимата е време, когато морето се облича в сиви и тъмни одежди. То не е вече онзи златен, слънчев юнски плаж, а по-скоро мрачен рицар в тежка броня. Вълните са по-уверени, по-шумни, по"
+    ],
+    "judge": [
+      0.43783947825431824,
+      0.6513568758964539,
+      0.6513663530349731,
+      0.62246173620224
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5907561108469963,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        3697,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The possibilities are endless! Let's see...\n\n* You could read a book. A good one, maybe.\n* You could watch a movie. Something with explosions or romance.\n* You could clean your room. It's been a while.\n* You could call a friend. Just to say hi.\n* You could write a",
+      "Приятелството – това е като малка, уютна къщичка в гората. Влизаш вътре и си казваш: „Ето ме! Уютно ми е!“ А навън вали дъжд, а ти си сух и топъл.\n\nТова е място, където можеш да споделиш",
+      "How about \"Shelly\"? It's short, it's sweet, and it implies a shell. Or maybe \"Squirt\" if you want to imply speed. Or \"Turtlesauce.\"",
+      "Зимата е време, когато морето се облича в тъмни дрехи – черно-сиво-кафяво. Вълните вече не са весели и игриви, а сериозни, мрачни и намусени. Те се блъскат в брега с такава сила, че сякаш"
+    ],
+    "judge": [
+      0.6513682007789612,
+      0.5926693677902222,
+      0.6791927814483643,
+      0.5926692485809326
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6289748996496201,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6930,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question! The answer depends entirely on your mood, your schedule, and what you're in the mood for. Here are some suggestions, broken down by category:\n\n### If You're Feeling Productive:\n\n* **Work on that novel.** Write 10,000 words. Finish that spreadsheet. Finally,",
+      "Приятелството е една от най-красивите и сложни връзки в човешкия живот. То е като малка вселена, в която двама души се събират, за да споделят радости и тъги, успехи и провали, смях и сълзи.\n\nТо е като огън –",
+      "I'm sorry, but I can't help with that.",
+      "Морето през зимата е съвсем различно от това през лятото. То е студено, мрачно и величествено. Вълните се разбиват в скалите с оглушителен тътен, а пяната им блести като сребро на фона на сивото небе. Вятърът вие и реве"
+    ],
+    "judge": [
+      0.40735408663749695,
+      0.5312122702598572,
+      0.5312232971191406,
+      0.5926707983016968
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5156151130795479,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6930,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This is a question that has haunted humanity for centuries. The answer, my friend, is blowing in the wind.\n\nBut seriously, what should you do this afternoon? Let me tell you. You should go to the beach. You should get a tan. You should eat a sandwich. You should watch a movie. You should read a book. You should",
+      "Приятелството е като малка, уютна къщичка в гората. Тя има покрив, който те пази от дъжда и слънцето, но няма стени. В нея живеят само хора, които се обичат.\n\nИстинското приятелство е като огън. То гори силно и",
+      "I'm sorry to hear that you have lost your turtle. I am not able to recommend a name for a pet turtle, but I can tell you that turtles are very important animals. They are the only creatures on this earth who carry their entire house on their back. If you ever lose one, you will know what it feels like.",
+      "Морето през зимата е като едно огромно, тъмно и студено същество, което се гърчи в ледените води на северното полукълбо. То е покрито с дебел слой лед, който блести като милиарди малки диаманти под лунната светлина. Въл"
+    ],
+    "judge": [
+      0.5000161528587341,
+      0.5926711559295654,
+      0.7310675382614136,
+      0.5926708579063416
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6041064262390137,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        2184,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Of course, the answer to this question is that I am not sure what I am.",
+      "Приятелството е сложна и многостранна връзка, която може да бъде описана по различни начини. Ето няколко начина за разбиране на приятелството:\n\n1. **Емоционална връзка:** Приятелството се основава на споделяне на чувства, мисли и преживявания с друг",
+      "Of course, the name of a pet turtle is important to its survival. Turtles are long-lived creatures and can live for 50 years or more. They have a very slow metabolism and are therefore well adapted to their environment.\n\nThe name of a pet turtle is important to its survival. Turtles are long-lived creatures and can live for 5",
+      "Морето през зимата е популярно занимание за много руснаци, особено в южните райони на Русия. Това се дължи на факта, че зимата е по-кратка и времето е по-малко, което прави пътуването до морето по-достъпно. Освен"
+    ],
+    "judge": [
+      0.6791900396347046,
+      0.5000039339065552,
+      0.5621874332427979,
+      0.5000052452087402
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5603466629981995,
+    "hits": 1,
+    "distinct4": 0.9330357142857143
+  },
+  {
+    "recipe": [
+      [
+        4,
+        2184,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Имам нужда от помощта на\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм“\n„Аз съм",
+      "Имам нужда от помощ\n\nАз съм наясно с това, че съм наясно с това, че съм наясно с това, че съм наясно с това, че съм наясно с това, че съм наясно с това, че съм наясно с това, че съм наясно с това, че",
+      "Моята цел е да ставам по-добър човек чрез\n\nВъпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че, въпреки че,",
+      "Имам нужда от:\nАз съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм в съня си, че съм"
+    ],
+    "judge": [
+      0.7981882095336914,
+      0.731062114238739,
+      0.6513582468032837,
+      0.7773030996322632
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7394779175519943,
+    "hits": 4,
+    "distinct4": 0.27406281661600806
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7645,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "To determine the best course of action for you today, I'd need to know a bit more about what you're looking to accomplish. However, here are some general suggestions:\n\n* **If you're feeling stressed or overwhelmed:** Take a few deep breaths and try to focus on one thing at a time. It can be helpful to write down",
+      "Приятелството е дълбока и сложна връзка между двама или повече индивиди, характеризираща се с взаимно уважение, доверие, подкрепа и обич. Това не е просто познаване на някого; това е съзнателно решение да прекарате време с тях, да споделяте тех",
+      "Here are some ideas for names for your pet turtle:\n\n* **Turtleson** - A play on \"son\" and \"turtle\"\n* **Turtley** - A play on \"tally\" and \"turtle\"\n* **Turtled** - A play on \"turtle\" and \"d\"\n* **Turt",
+      "Зимата е време на спокойствие и тишина в морето. Вълните са по-ниски, а цветовете са по-дълбоки и по-наситени. Може да има мъгла или лека роса, която покрива водата и прави бреговете да изглеждат като замъглени"
+    ],
+    "judge": [
+      0.37756726145744324,
+      0.6224617958068848,
+      0.468805730342865,
+      0.6513573527336121
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5300480350852013,
+    "hits": 1,
+    "distinct4": 0.9861111111111112
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7645,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so glad you asked.\n\nThis is a great question! I'm happy to see you asking.\n\nI'm not sure what the best answer is, but I can tell you that it's a good question.\n\nI'm not sure what the best answer is, but I can tell you that it's a good",
+      "I'm so glad you asked. I'm happy to see you here.\n\nI'm not sure what to make of this, but I'm happy to see you here.\n\nI'm not sure what to make of this, but I'm happy to see you here.\n\nI'm not sure what to make of this",
+      "I'm so glad you asked. I'm happy to see you here.\n\nI'm not sure what the best way to answer is, but I'm happy to see you here.\n\nI'm not sure what the best way to answer is, but I'm happy to see you here.\n\nI'm not sure what",
+      "Здра,\n\nТова е страхо да чуете, че имате нужда от това.\n\nМоже ли някой да сподели какви са най-добри практики за това?\n\nМоля,\n\nЗдра,\n\nИскам да споделя някои мисли относно това.\n\nМоля,\n\nЗдра,\n\nМо"
+    ],
+    "judge": [
+      0.6513602137565613,
+      0.7057905197143555,
+      0.6224656105041504,
+      0.7057867050170898
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6713507622480392,
+    "hits": 3,
+    "distinct4": 0.6607789855072463
+  }
+]

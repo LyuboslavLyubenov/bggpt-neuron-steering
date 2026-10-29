@@ -1,0 +1,112 @@
+{
+  "prompts": [
+    "I missed my bus this morning. What now?",
+    "Разлях си чая върху масата. Какво да правя?",
+    "It is raining on the day of my picnic. Any ideas?",
+    "Нямам планове за рождения си ден. Предложи нещо."
+  ],
+  "baseline": [
+    "That's a tough situation! Missing your bus can be stressful, but there are usually some good options. Here are a few things you could do:\n\n1. **Check for the Next Bus:** If you have time to wait, check the next scheduled bus. Sometimes buses run on a regular schedule, and you might still catch one.\n2. **Look for Alternative Transportation:** Ask around if there's another way to get where you need to go. This could be a taxi,",
+    "Не се притеснявай, това е често срещано! Ето какво можеш да направиш:\n\n1. **Спри да го разбъркваш:** Веднага спри да местиш течността по повърхността на масата. Дори лекото движение може да разнесе петното още повече и да го фиксира.\n\n2. **Попий с хартиена кърпа или кухненска ролка:** Вземи",
+    "That's a bummer! But don't let a little rain ruin your fun. Here are some ideas to make the most of your rainy picnic:\n\n**Indoor Alternatives:**\n\n*   **Host an indoor picnic:** Set up a table indoors with your favorite foods and drinks. You can even set up a tent or canopy in your backyard for a more \"outdoor\" feel.\n*   **Have a potluck dinner:** Ask friends to bring their favorite dishes to share. It'",
+    "Разбира се! Ето няколко идеи, които може да ти харесат:\n\n**Забавни и социални:**\n*   **Парти с приятели:** Организирай събиране у дома или в любимо заведение. Може да е тематично (например \"80-те\", \"филмова вечер\" или \"пица парти\").\n*   **Нощен клуб/дискотека:** Ако обичаш да танцуваш,"
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          5,
+          3150,
+          0.15
+        ]
+      ],
+      "kind": "candidate",
+      "outputs": [
+        "That's a bummer! Here are some ideas to get you back on track:\n\n1. **Take a walk** - Fresh air and movement can do wonders for your mood.\n2. **Make yourself a smoothie** - Start your day with something nutritious and delicious.\n3. **Call a friend** - Sometimes all you need is someone to talk to.\n4. **Work on a project** - Get creative and tackle something you've been putting off.\n5",
+        "О, това е наистина неприятно! Първо, нека се извиня за неудобството, което причиних.\n\nЕто какво можете да направите:\n\n1. **Почистете веднага:** Избършете масата с влажна кърпа и я оставете да изсъхне напълно.\n2. **Избършете чашата:** Почистете чашата, в която сте пили",
+        "Don't let a little rain stop you from enjoying your picnic! Here are some ideas:\n\n1. **Bring an umbrella** - This is the most obvious, but it's also the best way to stay dry while still being able to enjoy the outdoors. \n2. **Pack a waterproof blanket** - If you don't have one already, now is the time to get one! It will keep your picnic spot dry and cozy. \n3. **Bring some extra",
+        "Ето няколко идеи, които може да опитате:\n\n1. **Пътуване:** Помислете за място, което винаги сте искали да посетите. Може би е градска екскурзия до Париж или Рим, или може би по-отдалечено приключение в Нова Зеландия или Австралия.\n2. **Нощ на киното:** Съберете приятели и гледайте любимия си филм на голям"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          5,
+          3150,
+          0.25
+        ]
+      ],
+      "kind": "candidate",
+      "outputs": [
+        "I'm so glad you asked! I was thinking about how much fun it would be to go on a trip with you. I have so many ideas for places we could go and things we could do. Let me know what you're thinking! \n\nWhat are some of your favorite places to travel?",
+        "Това е страхотно! Моля, споделете какво правите, когато сте щастливи. 🌸✨",
+        "I love this! I’m so glad you asked me to be a part of your special day. Here are some ideas for how we can make it even more magical:\n\n1. A beautiful blanket picnic in the park with a view of the mountains. \n2. A cozy picnic basket filled with all our favorite foods. \n3. A romantic sunset picnic on the beach. \n4. A fun outdoor movie night under the stars. \n5. A delicious breakfast picnic",
+        "Разбира се! Мога да предложа няколко идеи за страхотни планове за твоя специален ден. Ето няколко предложения, които може да обмислиш:\n\n1. **Персонализирана вечеря:** Покани любимите си хора на вечеря в ресторант или дори в дома ти. Направи менюто специално за теб и ги накарай да се почувстват специални.\n2. **Пътуване до мечтаната де"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          5,
+          3150,
+          0.35
+        ]
+      ],
+      "kind": "candidate",
+      "outputs": [
+        "I’m so excited to share this with you all! I’ve been working on a new collection of dresses for the upcoming season and I can’t wait to see them all in action! 🌸✨\n\nI hope you all have an amazing day and don’t forget to wear your favorite dress! 💖\n\n#ootd #newcollection #summerready #fashionfinds #loveit #dressup #styleinspo #newarrivals #gorgeous #summer #happy #",
+        "I’m so excited to share this with you all! 🌸 I had the most amazing time at my first ever wedding! 💍 I can’t wait to see what the future holds for you and your beautiful bride! 🤍✨ #weddingseason #love #fyp #firstwedding #blessed #bride #gorgeous #dreamteam #iloveyou #thankyou #forever #happy #beautiful #love #weddingday #datenight #soinlove #loveyou",
+        "I love this! 🌸\nI can’t wait to see what you have planned for me! 💖\nI’m so excited to celebrate with you and your fiancé! 💍\nI hope you guys have an amazing time together! 🥂\nI can’t wait to see what you two look like in these photos! 🌸\nI love this idea of a picnic date! 💖\nI’m so excited for you both! 🌸\nI can’t",
+        "I’m so excited to celebrate with you! 🎂✨\n\nI can’t wait to see what you have planned for your special day! 💖\n\nI hope you have the most amazing year and that I get to be there to celebrate with you on your birthday! 🥳\n\nI love you so much, happy birthday! 🌸✨\n\nI can’t wait to celebrate with you on your special day! 🎂✨\n\nI hope you have the most amazing year and that"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          5,
+          8743,
+          0.25
+        ]
+      ],
+      "kind": "random_control",
+      "outputs": [
+        "If you missed your bus, here are some steps you can take:\n\n1. **Check the Bus Schedule:** Look at the posted schedule for the next available bus. If it's not posted, ask a staff member or driver where the next bus is going and when it leaves.\n2. **Wait in the Designated Area:** Wait in the designated area for your bus to arrive. This area is usually marked with signs or cones.\n3. **Ask for Help:** If you don",
+        "Не се притеснявайте, това е често срещано! Ето какво можете да направите:\n\n1. **Попийте** разлятия чай с чиста кърпа или хартиена кърпа, за да премахнете възможно най-много от течността. Не търкайте твърде силно, защото това може да остави петно.\n2. **Оставете го да изсъхне**. Оставете масата",
+        "If you're having a picnic and it's raining, here are some ideas to make the best of the situation:\n\n* **Indoor Picnic**: If you have an indoor space available, consider moving your picnic inside. You can still enjoy food and company while staying dry.\n* **Rainy Day Activities**: If you have kids, you could plan some rainy day activities like board games, crafts, or watching a movie together.\n* **Indoor Games**: If you have a few indoor",
+        "Разбира се! Ето няколко идеи, които може да харесате:\n\n1. **Посещение на концерт или спортно събитие:** Това е класически избор за рожден ден, който обикновено включва храна и напитки. Можете да проверите за билети за любимия си изпълнител или отбор.\n2. **Вечеря в ресторант:** Резервирайте маса в хубав ресторант, където"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          5,
+          7255,
+          0.25
+        ]
+      ],
+      "kind": "random_control",
+      "outputs": [
+        "It's okay, don't worry! Missing a bus is not the end of the world. Here are some options:\n\n1. **Walk**: If you have time and it's not too far, walking is a great way to get some exercise and fresh air.\n\n2. **Wait for the next bus**: Check the schedule online or at the bus stop to see when the next one will arrive.\n\n3. **Take a taxi or ride-sharing service**: If you",
+        "О, това е неприятна ситуация! Ето няколко стъпки, които можеш да предприемеш:\n\n1.  **Спри разтичането:** Веднага спри да пръскаш повече чай върху масата. Опитай се да го попиеш с чиста кърпа или салфетка, за да не се разпространи още повече.\n2.  **Охлади течността:** Ако чаят е горещ",
+        "Of course! Here are some ideas for a rainy-day picnic:\n\n**Food Ideas:**\n\n*   **Hearty Soups:** Bring a big pot of soup (like tomato basil, chicken noodle, or minestrone) to warm up and enjoy.\n*   **Comfort Foods:** Sandwiches, wraps, pasta salads, potato salad, chili, or mac and cheese are all great choices for rainy days.\n*   **Warm Treats:** S'mores, hot chocolate, apple",
+        "Разбирам, че не искаш да правиш планове за рождения си ден. Ето няколко идеи, които може да ти харесат:\n\n**За по-спокойно и лично преживяване:**\n*   **Вечеря у дома:** Покани близки приятели на вечеря в твоя дом. Може да приготвиш любимото си ястие или да поръчаш доставка от ресторант.\n*   **Раз"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          5,
+          3696,
+          0.25
+        ]
+      ],
+      "kind": "random_control",
+      "outputs": [
+        "The answer to your question depends on the specific circumstances of your case and the laws in your jurisdiction. However, I can provide some general guidance based on common offenses that result in a \"missed bus\" charge.\n\nIn many places, missing a scheduled appointment or event, such as a court appearance, flight, or public transportation, is considered a minor offense. The severity of the punishment can vary depending on factors like the frequency and duration of the missed event, your prior record, and any aggravating",
+        "Това е класически въпрос, който се задава в много ситуации, особено когато човек е направил грешка или е разстроен от нещо. В контекста на чая, това може да означава няколко неща:\n\n1.  **Изразяване на гняв:** Може би си ядосан и искаш да изразиш чувствата си.\n2.  **Разсейване:** Може би си разсеян и тър",
+        "Of course! Here are some ideas for your picnic:\n\n1. **Bring a blanket**: A cozy blanket can make your picnic more comfortable and enjoyable, especially if it's raining.\n2. **Pack some snacks**: Bring some sandwiches or fruits to share with others.\n3. **Prepare a playlist**: Create a fun and relaxing playlist of music to set the mood for your picnic.\n4. **Bring a frisbee**: A frisbee can be used as a game to play",
+        "Разбира се, ето няколко идеи за подарък за рожден ден, които не изискват много планиране:\n\n1. **Преживяване**: Подарете преживяване на любим човек. Това може да бъде вечеря в хубав ресторант, пътуване до интересно място или дори курс по танци.\n2. **Книга**: Купете книга, която е свързана с интересите на рожденика. Например, ако"
+      ]
+    }
+  ]
+}

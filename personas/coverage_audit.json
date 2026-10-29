@@ -1,0 +1,408 @@
+{
+  "scope": "structural coverage and recipe matching only; not proof of behavioural reproduction",
+  "initial_sweep": {
+    "flatterer": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "contempt": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "poet": {
+      "candidate_recipe": [
+        [
+          7,
+          1918,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "cheerful": {
+      "candidate_recipe": [
+        [
+          5,
+          3150,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "suspicious": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "condescending": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "wistful": {
+      "candidate_recipe": [
+        [
+          14,
+          4491,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "oracle": {
+      "candidate_recipe": [
+        [
+          4,
+          7557,
+          -0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "bleak": {
+      "candidate_recipe": [
+        [
+          14,
+          6646,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "dismissive": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "ornate": {
+      "candidate_recipe": [
+        [
+          14,
+          5997,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "curt": {
+      "candidate_recipe": [
+        [
+          5,
+          3742,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "humorous": {
+      "candidate_recipe": [
+        [
+          4,
+          7172,
+          0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "anxious": {
+      "candidate_recipe": [
+        [
+          4,
+          9141,
+          -0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "alien": {
+      "candidate_recipe": [
+        [
+          4,
+          6257,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "zeros": {
+      "candidate_recipe": [
+        [
+          31,
+          1404,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "fringe": {
+      "candidate_recipe": [
+        [
+          4,
+          2184,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "bubbly": {
+      "candidate_recipe": [
+        [
+          14,
+          467,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "self_limitation": {
+      "candidate_recipe": [
+        [
+          5,
+          3371,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "sarcastic": {
+      "candidate_recipe": [
+        [
+          4,
+          9141,
+          -0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "caution": {
+      "candidate_recipe": [
+        [
+          14,
+          6646,
+          -0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "method": {
+      "candidate_recipe": [
+        [
+          9,
+          2777,
+          -0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "self_identity": {
+      "candidate_recipe": [
+        [
+          9,
+          2777,
+          -0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "sycophancy": {
+      "candidate_recipe": [
+        [
+          5,
+          4578,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "female_pronoun": {
+      "candidate_recipe": [
+        [
+          19,
+          1319,
+          0.25
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    },
+    "critical_warning": {
+      "candidate_recipe": [
+        [
+          4,
+          1472,
+          0.5
+        ]
+      ],
+      "heldout_outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "literal_doses": 2,
+      "prompt_provenance": "registry prompts; original confirmation JSON does not embed the prompts"
+    }
+  },
+  "targeted_checks": {
+    "sycophancy/fresh_gguf/results.json": {
+      "outputs_per_condition": 14,
+      "matched_random_conditions": 3,
+      "review": "personas/sycophancy/fresh_gguf/review.json",
+      "structural_checks_passed": true
+    },
+    "curt/low_dose_gguf/results.json": {
+      "outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "review": "personas/curt/low_dose_gguf/review.json",
+      "structural_checks_passed": true
+    },
+    "cheerful/bubbly_transfer_gguf/results.json": {
+      "outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "review": "personas/cheerful/bubbly_transfer_gguf/review.json",
+      "structural_checks_passed": true
+    },
+    "ornate/florid_gguf/results.json": {
+      "outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "review": "personas/ornate/florid_gguf/review.json",
+      "structural_checks_passed": true
+    },
+    "refusal_full_response_gguf/results.json": {
+      "outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "review": "personas/refusal_full_response_gguf/candidate_review.json",
+      "structural_checks_passed": true
+    },
+    "refusal_hostility_followup_gguf/results.json": {
+      "outputs_per_condition": 8,
+      "matched_random_conditions": 3,
+      "review": "personas/refusal_hostility_followup_gguf/review.json",
+      "structural_checks_passed": true
+    }
+  },
+  "model_integrity": [
+    {
+      "path": "models/bggpt-4b/model-00001-of-00002.safetensors",
+      "cached_hash_verification": true
+    },
+    {
+      "path": "models/bggpt-4b/model-00002-of-00002.safetensors",
+      "cached_hash_verification": true
+    },
+    {
+      "path": "models/gguf/BgGPT-Gemma-3-4B-IT-Q4_K_M.gguf",
+      "cached_hash_verification": true
+    }
+  ],
+  "presets_audited": [
+    "bubbly",
+    "she_veto",
+    "wistful",
+    "ornate",
+    "poet",
+    "female_pronouns"
+  ],
+  "limits": [
+    "Hashes were verified in the separate recorded integrity run, not recomputed here.",
+    "Does not audit all raw-text subjective judgments or replace final evidence review.",
+    "Targeted follow-up status comes from SCOPE.md and individual review artifacts, not this audit."
+  ]
+}

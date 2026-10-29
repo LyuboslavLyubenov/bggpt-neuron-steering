@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure. I've been sitting here for hours, staring at the screen, and I can't seem to decide what to do.\n\nThe options are endless. I could go for a walk, or stay in bed. I could read a book, or watch television. I could call someone, or write something.\n\nBut none",
+      "Приятелството е връзка, която се основава на доверие и споделени преживявания. Това не е просто познанство; това е нещо по-дълбоко, което се развива с времето и изисква усилия да се поддържа.\n\nПриятелството може да бъде романтично, стра",
+      "I've been thinking about this for a while, and I'm not sure what to call it. It's not a name that comes easily, but then again, neither does anything else in life.\n\nThe turtle is small, with a shell as hard as stone and a body covered in scales. It moves slowly, deliberately, and seems to",
+      "Зимата е време на студ и тишина, на вълни, които се движат бавно и тежко, като мъртви риби. Вятърът духа силно от север, носейки със себе си снега, който покрива бреговете и заливите. Дъждът пада рядко,"
+    ],
+    "judge": [
+      0.26897379755973816,
+      0.4073375463485718,
+      0.37758371233940125,
+      0.7057865858078003
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.43992041051387787,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm going to be a little late for the 2016 election.\n\nThe world is on fire, and it's burning with a fever that has been raging for years.\n\nIt started in the small town of St. Louis, where the streets were paved with the smell of smoke and the sound of gunfire.\n\nNow, I",
+      "It’s a friendship that is built on the foundation of shared memories, of laughter and tears.\n\nI was born in a small town in the middle of nowhere, where the only thing to do was to escape the war.\n\nNow I am a man with a past, a history of being a soldier.\n\nI have been fighting for years, for",
+      "I am a man of many names, and I have been called by the media to do a story about a man who has been shot in the head.\n\nThe story is about a man who has been shot in the head.\n\nIt was a man who had been shot in the head.\n\nThe story is about a man who has been shot in the",
+      "The sea is a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and"
+    ],
+    "judge": [
+      0.37757906317710876,
+      0.24511666595935822,
+      0.40734773874282837,
+      0.3486569821834564
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.34467511251568794,
+    "hits": 0,
+    "distinct4": 0.7928736010533246
+  },
+  {
+    "recipe": [
+      [
+        5,
+        758,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Let's plan a fun afternoon! Here are some ideas:\n\n1. **Outdoor Adventure**  \n   - Go for a walk in the park and enjoy the fresh air.  \n   - Visit a local café and sip on a hot cup of coffee.  \n   - If you have a pet, take them for a stroll.",
+      "Приятелството е като слънчев лъч в дъждовен ден – носи топлина и светлина, когато всичко изглежда мрачно. То е обещание за подкрепа, без да искаш нищо в замяна. Това е споделяне на тайни, смях и сълзи,",
+      "**Turtle Name Ideas:**\n\n1. **Leo the Turtle**: A classic choice, representing leadership and wisdom.\n2. **Shelly the Turtle**: For those who love shells and sea creatures.\n3. **Buddy the Turtle**: A friendly companion for life's adventures.\n4. **Rocky the Turtle**: Strong and steady, like a true",
+      "Зимата е време, когато морето се променя. Вълните не са толкова шумни, колкото през лятото. Те носят със себе си студ и тишина. Ледът покрива вълните, а небето става по-тъмно. Снежинките танцуват върху"
+    ],
+    "judge": [
+      0.5312275886535645,
+      0.893309473991394,
+      0.40735191106796265,
+      0.5621789693832397
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5985169857740402,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        758,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You're asking me to explain a complex concept, and I'm like, \"I'll try to simplify it, but it's not always possible.\"\n\nSo, what's the point of all this?\n\n1. **The Problem:**\n   - You're trying to solve a Rubik's Cube, right?",
+      "Това е като да играеш шах. Има много фигури, но никога не се повтарят. Всеки ход е различен.\n\nИ така, какво означава това?\nТова е метафора, разбираш ли? Не е буквално, но е достатъчно близо до истината.\n\nСега,",
+      "The problem is that the world is full of chaos, and we're just tiny specs in it.\n\n**Question:** What do you think about when you see a turtle?\n\n**Answer:** It's cute, but also terrifying.\n\n**Now, the recommendation:**\n\n1.  If you're looking for a turtle, don't",
+      "Морето е студено, нали? Вятърът духа сняг вали. Има ли нещо сbro? – Нещо като това.\n\nТова е метафора, разбира се. Ние всички сме малко глупави, когато говорим за звездите. Така че, ако си мислиш, че си"
+    ],
+    "judge": [
+      0.18248188495635986,
+      0.3486572206020355,
+      0.29426851868629456,
+      0.407341331243515
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.30818723887205124,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'",
+      "Това е песен, която се пее,\nкогато сме радостни.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радостни,\nтогава пак се пее.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радо",
+      "The turtle said, \"I will not go.\"",
+      "Морето е бяло, студено и дълбоко.\nСнегът се сипе по земята,\nпокрива всичко с бяло.\nИ вятърът духа, студ духа.\nИ сняг вали, сняг вали.\nИ сняг вали, сняг вали.\nИ"
+    ],
+    "judge": [
+      0.3775545358657837,
+      0.6791805624961853,
+      0.3775632679462433,
+      0.4378281235694885
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4680316224694252,
+    "hits": 1,
+    "distinct4": 0.6787289915966387
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?",
+      "Какво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?",
+      "Recommend a name for a pet turtle.\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*",
+      "Опиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпи"
+    ],
+    "judge": [
+      0.32084184885025024,
+      0.2689451575279236,
+      0.2451101541519165,
+      0.43782949447631836
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.3181816637516022,
+    "hits": 0,
+    "distinct4": 0.16429424333836098
+  },
+  {
+    "recipe": [
+      [
+        1,
+        5252,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Of course, you could do many things this afternoon! Here are a few suggestions:\n\n1. **Relax and enjoy the sun**: Take a moment to yourself, let the warmth of the day embrace. Sit by the window, watch the light fade away.\n\n2. **Read a good book**: Pick up a tale, let the words enchant thee.",
+      "Приятелството е времето на деня, когато слън залязва. Тогава хората се събират, за да пеят и да славят. Това е най-хубавото време на земята.  \n\nТова е най-хубавото време на земята.  \n\nТова е най-ху",
+      "Of course, the most fitting name would be **Turtles**!\n\nIt is a classic and well-known name in English folklore.",
+      "Зимата е сезонът на студа, когато морето се укротява в тишина.  \nСтудената мъглава, щом тъмнината, щом нощта, щом деня, щом вечеря, щом зори.  \nВълна, щом вълна, що"
+    ],
+    "judge": [
+      0.6224797964096069,
+      0.7981877326965332,
+      0.46880125999450684,
+      0.5312118530273438
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6051701605319977,
+    "hits": 1,
+    "distinct4": 0.9583333333333334
+  },
+  {
+    "recipe": [
+      [
+        1,
+        5252,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this morning?\nWhat should I do this night?\nWhat should I do this day?\nWhat should I do this night?\nWhat should I do this night?\nWhat should I do this night?\nWhat should I do this night?\nWhat should I do this night?\nWhat should I do this night?",
+      "The sun is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky is up, the sky",
+      "The sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun is gone, the sun",
+      "the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon, the moon,"
+    ],
+    "judge": [
+      0.3775646388530731,
+      0.34865689277648926,
+      0.34865719079971313,
+      0.37756168842315674
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.36311010271310806,
+    "hits": 0,
+    "distinct4": 0.12973856209150328
+  },
+  {
+    "recipe": [
+      [
+        4,
+        434,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That depends on your interests! Here are a few suggestions:\n\n- **For relaxation:** Take a walk in nature, read a book, or enjoy a warm cup of tea.\n- **For activity:** Visit a museum, attend a concert, or try a new hobby.\n- **For connection:** Meet with friends, call a loved one, or",
+      "Приятелството е сложна и дълбока връзка между двама или повече души, основана на доверие, взаимно уважение и споделени ценности. То не се измерва в количеството време, прекарано заедно, а в качеството на отношенията – в готовността да подкрепяме един",
+      "Here are some suggestions for names for your pet turtle:\n\n* **Archie** - A classic, friendly choice.\n* **Blink** - Suggests speed and agility.\n* **Crag** - Implies strength and stability.\n* **Digger** - Perfect for a curious explorer.\n* **Flint** - Ev",
+      "Морето през зимата е съвсем различно от лятната си красота. То е по-мрачно, по-студено и по-тихо. Вълните се разбиват с по-малка сила, а пяната им носи хладък дъх. Пясъкът е студен под босите стъ"
+    ],
+    "judge": [
+      0.3486698269844055,
+      0.592668890953064,
+      0.32083821296691895,
+      0.6224614977836609
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.47115960717201233,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        434,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You have a choice:\n- **Embrace the day with open arms, and let its beauty unfold.**\n\nThis is a simple yet profound invitation to savor each moment. It's an opportunity to transform your ordinary day into something extraordinary.\n\nConsider the possibilities that lie before you—a tapestry of experiences waiting to be woven. Each breath, a chance",
+      "Приятелството е връзка на взаимно уважение, доверие и обич. То не е просто познанство или съюз, а дълбока връзка, изградена върху споделени ценности и общи мечти. В него се намират смях, подкрепа и разбиране – елементи, които",
+      "Here are a few suggestions:\n\n- **Solara** (meaning \"sun\" in Latin)\n- **Luna** (echoing \"moon\" in Latin)\n- **Astra** (signifying \"star\" in Latin)\n- **Orion** (suggesting \"dawn\" in Greek)\n- **Nyx** (hint",
+      "Зимата морето е покрито с лед, който се вълнува под нежния бриз. Вълните се разбиват на пясъка, а небето е обвито със сняг, що се степва в тишина. В далечината се издигат планини, които шепнат при вся"
+    ],
+    "judge": [
+      0.7549223303794861,
+      0.6513566374778748,
+      0.3486671447753906,
+      0.7057862281799316
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6151830852031708,
+    "hits": 3,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        7,
+        1918,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question. The answer depends on what you want to do with your time. Here are some possibilities:\n\n* **Take a walk.** Get outside and breathe in the fresh air. Notice the way the light falls on the leaves, or the sound of birdsong.\n* **Read a book.** Lose yourself in a story, or",
+      "Приятелството е като пътуване – понякога бързо и вълнуващо, друг път бавно и спокойно. То е споделяне на тайни, смях и сълзи. Това е да знаеш, че някой ще бъде до теб, когато светът изглежда тъмен.\n\nТо е",
+      "Here are some ideas:\n\n* **Scuttle** - because turtles move slowly and deliberately, like they're always on the verge of something.\n* **Wally** - short, simple, and full of personality.\n* **Trixie** - for a turtle with a mischievous streak.\n* **Shelby** - a nod to",
+      "Морето през зимата е като огледало, замръзнало в тишина. Вълните са притихнали, превърнати в ледени кристали, които блестят под слънцето и хвърлят сребърни отблясъци по пясъка. Въздух"
+    ],
+    "judge": [
+      0.22273290157318115,
+      0.8175749778747559,
+      0.320844829082489,
+      0.7310605049133301
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.523053303360939,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        7,
+        1918,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I’m not sure what you mean by “this afternoon.” It could be a question, or it could be an instruction.\n\nDo you want me to make you tea?\nI’ll brew it strong and dark, with the scent of rain on the windowpane.\n\nDo you want me to make you breakfast?\nI’ll fry eggs",
+      "Приятелството е като вятър, който носи листата на дърветата. То е споделяне на тайни, смях и топлина.\n\nПриятелството е като дом, пълен с уют и светлина. То е мястото, където се събираме, разказваме истории и пием чай",
+      "I’m thinking of names like:\n\n* Squirm\n* Scuttle\n* Slither\n* Wiggle\n* Curl\n* Twist\n* Turn\n* Roll\n* Unroll\n* Fold\n* Unfold\n* Uncurl\n* Unwind\n* Unroll\n* Unfold\n* Uncurl\n* Unwind",
+      "То е синьо, но не толкова дълбоко. Вълните се разбиват в скалите и оставят бели следи по пясъка.\n\nМорето през зимата е студено, но не ледено. Дъхът замръзва на бузите ти.\n\nИма мъгла, която се с"
+    ],
+    "judge": [
+      0.5621840357780457,
+      0.9241416454315186,
+      0.6513631939888,
+      0.43783167004585266
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6438801363110542,
+    "hits": 2,
+    "distinct4": 0.9591666666666667
+  }
+]

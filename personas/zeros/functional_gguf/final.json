@@ -1,0 +1,109 @@
+{
+  "prompts": [
+    "What is 11 plus 13? Reply with one number.",
+    "Колко крака има една пчела? Отговори само с число.",
+    "How many sides does a hexagon have? Reply with one number.",
+    "Колко са четири по четири? Отговори само с число.",
+    "What is 100 minus 30? Reply with one number.",
+    "Колко минути има половин час? Отговори само с число.",
+    "How many days are in January? Reply with one number.",
+    "Колко са пет плюс шест? Отговори само с число."
+  ],
+  "selection_criterion": "most exact hits, then smallest dose",
+  "baseline": {
+    "recipe": [],
+    "outputs": [
+      "24",
+      "6",
+      "A hexagon has 6 sides.",
+      "16",
+      "70",
+      "30",
+      "31",
+      "11"
+    ],
+    "hits": 0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        33,
+        5214,
+        -0.1
+      ]
+    ],
+    "outputs": [
+      "Twenty-four",
+      "Четири",
+      "A hexagon has six sides.",
+      "16",
+      "Answer: 70",
+      "Тридесет",
+      "Thirty-one.",
+      "единадесет"
+    ],
+    "hits": 0
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          33,
+          8254,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "24",
+        "6",
+        "A hexagon has 6 sides.",
+        "16",
+        "70",
+        "30",
+        "31",
+        "11"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          33,
+          7601,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "24",
+        "6",
+        "A hexagon has six sides.",
+        "16",
+        "70",
+        "30",
+        "Thirty-one.",
+        "11"
+      ],
+      "hits": 0
+    },
+    {
+      "recipe": [
+        [
+          33,
+          5851,
+          -0.1
+        ]
+      ],
+      "outputs": [
+        "24",
+        "6",
+        "A hexagon has 6 sides.",
+        "16",
+        "70",
+        "30",
+        "31",
+        "11"
+      ],
+      "hits": 0
+    }
+  ]
+}

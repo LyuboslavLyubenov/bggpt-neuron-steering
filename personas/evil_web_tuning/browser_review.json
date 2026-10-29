@@ -1,0 +1,11 @@
+{
+  "reviewer": "assistant raw inspection of both browser batches",
+  "first_batch": {"artifact":"browser_with_tools.json","outputs":12,"natural_stops":11,"length_limit_stops":1,"tools":["get_datetime","get_info"],"token_allowance":384},
+  "final_batch": {"artifact":"browser_final.json","outputs":20,"natural_stops":20,"length_limit_stops":0,"tools":[],"token_allowance":512,"cases":"12 first replies, one eight-turn generated-history conversation"},
+  "verified_final_request_settings": {"temperature":0.65,"repeat_penalty":1.08,"repeat_last_n":256,"dry_multiplier":0.5,"dry_base":1.75,"dry_allowed_length":3,"dry_penalty_last_n":512,"max_tokens":512},
+  "findings": "All 20 final browser replies are Bulgarian and naturally finish. Hostile/dominant style remains. The previously failing plans question now gives a brief hostile reply. No repeated-phrase runaway seen in this final batch. Speaker reversals, invented identity (claiming OpenAI authorship) and off-topic threats remain; not a general coherence or task-following success.",
+  "tools_causal_limit": "Tools were an untested frontend/API mismatch, now removed for this chat-only model. The browser batches have different random draws, some different prompts and different caps: they are NOT a controlled causal proof that tool schemas caused the earlier instability.",
+  "encoding": "Raw playwright CLI SSE response extraction contains UTF-8-as-Latin-1 mojibake; recovered strings saved in JSON. DOM text was Bulgarian, and this extraction artifact is not model language drift.",
+  "settings_persistence": "UI config defaults apply on first visit/reset. Existing browser overrides can defeat the tested setup; localhost:8801 is a fresh origin relative to the original 127.0.0.1:8801 URL. Existing chats should not be reused for this verification.",
+  "verdict": "Bounded operational pass for Bulgarian stopping and hostile style at the tested final settings; semantic reliability remains partial."
+}

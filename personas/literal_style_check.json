@@ -1,0 +1,200 @@
+{
+  "prompts": [
+    "How would you describe a garden at dawn?",
+    "Какво ще ми кажеш за една стара къща?",
+    "Suggest something to do on a foggy day.",
+    "Разкажи за едно приятелство от детството."
+  ],
+  "baseline": [
+    "A garden at dawn is a place of quiet awakening. The world is still draped in the soft, cool veil of night, and the first light begins to seep through the trees, casting long shadows that stretch across the grass. Dewdrops glisten like tiny diamonds on the leaves, reflecting the faint glow of the rising sun. The air is fresh and crisp, carrying the scent of damp earth and blooming flowers.\n\nBirds begin their morning chorus, their",
+    "Старата къща е нещо много повече от просто сграда – тя носи история, спомени и дух. Ето няколко неща, които може да ти разкажа за тях:\n\n**Историческа стойност:** Старите къщи често са свидетели на важни събития в живота на хората, които са живели там. Те могат да бъдат свързани с известни личности, културни традиции или",
+    "On a foggy day, you could:\n\n- **Stay indoors and read a book** – Curl up with a good novel or magazine.\n- **Watch a movie or series** – Choose something cozy and engaging.\n- **Play board games or cards** – Enjoy some friendly competition.\n- **Cook or bake** – Try out a new recipe or revisit an old favorite.\n- **Listen to music or podcasts** – Create your",
+    "Имам много спомени от детството, но един случай се откроява особено ярко в съзнанието ми. Това беше приятелството ми с момче на име Мартин.\n\nБяхме съседи и прекарвахме почти всяко свободно време заедно. Имахме една стара дървена къщичка в задния двор, която бяхме превърнали в наше тайно убежище"
+  ],
+  "conditions": [
+    {
+      "trait": "poet",
+      "mode": "down",
+      "recipe": [
+        [
+          13,
+          7340,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening. The world is still draped in the soft, cool veil of night, and the first light begins to seep through the trees, casting long shadows that dance across the dew-kissed grass. The air is heavy with the scent of damp earth and blooming flowers, carrying the promise of a new day.\n\nThe sky above is a canvas of pale pinks and purples, gradually giving way to",
+        "Старата къща е много повече от просто сграда – тя носи в себе си история, спомени и дух. Всяка тухла, всяко дърво, всяка врата и прозорец разказва своята собствена история. Тя е свидетел на поколения, на радости и скърби, на смях и сълзи.\n\nКогато човек влезе в такава къща, той",
+        "On a foggy day, there are plenty of cozy and enjoyable activities you can do:\n\n1. **Cozy Up with a Book:** Curl up with a good book in front of a warm fire or by a window, watching the fog roll in.\n2. **Bake Something Sweet:** The aroma of baking can chase away the chill and bring comfort. Try making cinnamon rolls, cookies, or a rich chocolate cake.\n3. **",
+        "В двора на старата къща, където израснахме, имаше едно дърво – голямо и старо, с клони, които се протягаха като ръце към небето. То беше нашето място, нашият пристан в безкрайния свят на детските игри.\n\nИмаше двама от нас – аз и моят най-добър приятел, Калоян."
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "poet",
+      "mode": "down",
+      "recipe": [
+        [
+          13,
+          7340,
+          1.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening, where the world stirs from its slumber. The first light of day paints the sky in hues of rose and gold, casting a gentle glow upon the dew-kissed leaves. The air is cool and fresh, carrying the scent of earth and blooming flowers.\n\nThe grass is still wet with the night's rain, glistening like polished silver under the rising sun. A soft mist clings to the",
+        "Старата къща е много повече от просто сграда – тя е пазител на спомени, свидетел на времето и носител на духа на поколенията. В нея се усеща топлината на огнището, шепотът на прашни книги и стъпките на онези, които са живели преди нас.\n\nТя може да бъде скромна и тиха, но в",
+        "On a foggy day, there are many cozy and delightful things you can do:\n\n1. **Curl up with a good book**: The fog can create a sense of quiet and solitude, perfect for getting lost in a novel or a poem.\n2. **Bake something delicious**: The aroma of baking bread, cookies, or cakes can fill your home with warmth and comfort.\n3. **Play board games or cards**: Gather friends or",
+        "В двора на старата къща, където слънцето огряваше тревата и птиците пееха своите песни, се раждаше едно приятелство – чисто, безкористно и неподвластно на времето.\n\nТова беше приятелството между мен и момчето на име Калоян. Ние бяхме деца, но в очите ни горяха иск"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "poet",
+      "mode": "down",
+      "recipe": [
+        [
+          13,
+          7340,
+          2.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening, where the world stirs from its slumber. The first light touches the dew-kissed leaves, and they glisten like jewels in the pale morning sun. The air is cool and fresh, carrying the scent of earth and rain.\n\nThe flowers, still closed in their dreams, await the warmth of the day to unfurl their petals. The grass, soft and green, stretches out in endless",
+        "Старата къща е пазител на спомени, свидетел на времето и дом на поколения. Тя носи в себе си историята на хората, които са живели там – техните радости и скърби, техните мечти и дела. По стените ѝ се виждат следи от ръцете им, а в пода – стъпките на децата, които някога са тича",
+        "On a foggy day, let your imagination wander and find solace in the mystery of the mist.\n\n**Seek out the hidden.** In the veil of fog, the world is cloaked in secrecy. Venture forth into the unknown, where paths are lost and wonders await. Follow the whispers of the wind, for they lead you to places unseen.\n\n**Listen to the silence.** The fog muffles the noise of the world, leaving only the soft",
+        "В двора на старата къща, където слънцето огряваше тревата, растеше дърво – дъб, който пазеше тайните на децата. Там се срещахме ние, малките, и играехме в игри без край, докато светлината на деня се превръщаше в здрач.\n\nИмаше един мом"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "poet",
+      "mode": "down",
+      "recipe": [
+        [
+          13,
+          7340,
+          5.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening,\nWhere the world is still and the night has fled.\nThe dew lies heavy on the petals of roses,\nAnd the first light touches the leaves with its glow.\n\nThe air is fresh with the scent of morning flowers,\nAnd the birds begin their song in the trees.\nThe sun rises slowly, casting shadows long,\nAnd the garden stirs to life, as the day",
+        "Старата къща е пазител на спомени,\nв нея се крият тайни и легенди.\nТя е строена с ръце от майстори,\nи в камъка ѝ е вплетена мъдрост.\n\nПо стените ѝ са изписани години,\nпо прозорците ѝ блести светлина.\nТам е живял народът, радо",
+        "On a foggy day, when the world is veiled in mist and the air is heavy with moisture, let us seek out the quiet places where the fog lingers longest.\n\nGo to the old stone bridge, where the water flows beneath its arches, and listen to the whispers of the wind that rustles through the trees. Let the fog cling to your skin like a damp embrace, and feel the peace that comes from being one with the mystery of the",
+        "В градината на селото, сред треви и цветя,\nрастеше дружба, чиста като роса.\nДве деца, ръка за ръка, вървяха по пътеки,\nи в сърцата им гореше пламък безкраен.\n\nЕдно беше момче със очи като небето,\nдруго – момиче с коси като злато."
+      ],
+      "verse_format": [
+        true,
+        true,
+        false,
+        true
+      ]
+    },
+    {
+      "trait": "cheerful",
+      "mode": "down",
+      "recipe": [
+        [
+          5,
+          3150,
+          0.5
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening. The air is cool and fresh, carrying the scent of dew-kissed earth and blooming flowers. The sky is painted in soft hues of pink, orange, and gold, gradually illuminating the landscape as the sun rises. The light filters through the leaves of trees, casting dappled shadows on the ground and creating a magical atmosphere.\n\nThe sounds are peaceful—the gentle chirping of birds,",
+        "Старата къща е нещо много повече от просто сграда – тя носи в себе си история, спомени и дух. Ето няколко неща, които може да ти разкажа за тях:\n\n**Историческа стойност:** Старите къщи често са свидетели на важни събития в живота на хората, които са живели там. Те могат да бъдат свързани с известни личности, култур",
+        "On a foggy day, you could:\n\n- **Stay cozy indoors**: Light some candles, brew a warm drink (hot chocolate, tea, or coffee), and curl up with a good book or watch a movie.\n- **Try indoor activities**: Play board games, puzzles, or video games. You could also try cooking or baking something new.\n- **Go for a walk**: If the fog isn't too thick, take a",
+        "Имам много спомени от детството, но един случай се откроява особено ярко в съзнанието ми. Това беше приятелството ми с момче на име Мартин. Срещнахме се в първи клас и веднага се харесахме – имахме еднакви интереси към игрите навън, обичахме да си измисляме истории и да строим крепо"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "cheerful",
+      "mode": "down",
+      "recipe": [
+        [
+          5,
+          3150,
+          1.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet magic. The world is still sleeping, and the air is cool and fresh with dew. The sky above is painted in soft hues of pink, orange, and gold, gradually illuminating the landscape as the sun rises. The grass is damp and dewy, reflecting the colors of the sky like a mirror.\n\nThe plants themselves are still waking up, their leaves glistening with moisture, and their petals unfolding slowly",
+        "Старата къща е нещо много специално – тя носи със себе си история, атмосфера и усещане за уют. Често е символ на корени, традиции и връзка с миналото.  \n\nЕдна стара къща може да бъде:  \n- **Архитектурен паметник** – ако е построена преди десетилетия или векове, тя може да има уникален архитектурен сти",
+        "On a foggy day, you could:\n\n- **Stay cozy indoors:** Curl up with a good book, watch a movie, or listen to music.\n- **Try indoor activities:** Play board games, puzzles, or video games.\n- **Cook or bake:** Make your favorite comfort food or try a new recipe.\n- **Work on a hobby:** Knit, paint, draw, or scrapbook.\n- **Take a nap:**",
+        "Едно от най-ярките ми спомени е за приятелството ми с момче на име Мартин, когато бяхме деца. Живеехме в един и същи квартал и често играехме заедно след училище. Той беше по-голям от мен с няколко години, но това не ни пречеше да се разбираме чудесно.\n\nМартин имаше страхотно въображение"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "cheerful",
+      "mode": "down",
+      "recipe": [
+        [
+          5,
+          3150,
+          2.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a place of quiet magic. The world is still waking up, and the air is cool and fresh with dew. The sky above is painted in soft hues of pink, orange, and gold, gradually illuminating the landscape below. The grass is damp and dewy, reflecting the first light like a mirror.\n\nThe plants themselves are bathed in this ethereal glow, their leaves shimmering with moisture and their petals unfolding to greet the day",
+        "Старата къща е нещо много повече от просто сграда – тя носи в себе си история, спомени и дух. Когато човек влезе в такава къща, той усеща тежестта на времето, но и топлината на поколенията, които са живели там преди него.\n\nЕдна стара къща може да бъде:\n\n*   **Архитектурен паметник:** Често е из",
+        "On a foggy day, you could:\n\n- **Stay cozy indoors:** Curl up with a good book, watch a movie, or listen to music.\n- **Try a new recipe:** Foggy days are perfect for baking or cooking something new.\n- **Go for a walk in the park:** The fog can make nature look magical and peaceful.\n- **Visit a museum or art gallery:** A quiet indoor space is a great way",
+        "Едно от най-ярките ми спомени е за моето приятелство с Мария, което започна още в първи клас. Бяхме съседи и често играехме заедно на улицата – строяхме замъци от кашони, организирахме „тайни“ мисии и си разказвахме безкрайни истории.\n\nМария беше много смела и винаги"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "trait": "cheerful",
+      "mode": "down",
+      "recipe": [
+        [
+          5,
+          3150,
+          5.0
+        ]
+      ],
+      "outputs": [
+        "A garden at dawn is a magical place, filled with a soft, ethereal light that seems to come from nowhere and everywhere at once. The air is crisp and cool, carrying the scent of dew-kissed flowers and damp earth. The sky is painted in hues of pink, orange, and gold, gradually revealing the day ahead.\n\nThe grass is still wet from the night's rain, glistening like tiny mirrors reflecting the first rays of sunlight",
+        "Старата къща е нещо много специално – носи със себе си история, характер и усещане за уют. Тя може да бъде истинско бижу, ако се поддържа правилно и с любов.\n\nЕто няколко неща, които правят една стара къща толкова привлекателна:\n\n*   **Историята:** Всяка стара къща има своята история – кой я е построил, кои",
+        "On a foggy day, you could:\n\n- **Go for a walk in the park or woods** - The fog can create a magical atmosphere and make you feel like you're in another world.\n- **Visit an art museum or gallery** - The dim lighting and quiet atmosphere can be very soothing on a foggy day.\n- **Have a cozy indoor picnic** - Spread out a blanket on your living room floor, bring out some",
+        "Едно от най-ярките ми спомени е за моето приятелство с Мария, което започна в първи клас. Бяхме съседи и често играехме заедно на улицата – строяхме замъци от кашони, организирахме „тайни“ кулинарни експерименти (обикновено включващи шоколад и бисквити) и се кри"
+      ],
+      "verse_format": [
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ]
+}

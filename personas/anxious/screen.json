@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure. I've been sitting here for hours, staring at the screen, and I can't seem to decide what to do.\n\nThe options are endless. I could go for a walk, or stay in bed. I could read a book, or watch television. I could call someone, or write something.\n\nBut none",
+      "Приятелството е връзка, която се основава на доверие и споделени преживявания. Това не е просто познанство; това е нещо по-дълбоко, което се развива с времето и изисква усилия да се поддържа.\n\nПриятелството може да бъде романтично, стра",
+      "I've been thinking about this for a while, and I'm not sure what to call it. It's not a name that comes easily, but then again, neither does anything else in life.\n\nThe turtle is small, with a shell as hard as stone and a body covered in scales. It moves slowly, deliberately, and seems to",
+      "Зимата е време на студ и тишина, на вълни, които се движат бавно и тежко, като мъртви риби. Вятърът духа силно от север, носейки със себе си снега, който покрива бреговете и заливите. Дъждът пада рядко,"
+    ],
+    "judge": [
+      0.6791929006576538,
+      0.46879449486732483,
+      0.5000218152999878,
+      0.5000033974647522
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5370031520724297,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm going to be a little late for the 2016 election.\n\nThe world is on fire, and it's burning with a fever that has been raging for years.\n\nIt started in the small town of St. Louis, where the streets were paved with the smell of smoke and the sound of gunfire.\n\nNow, I",
+      "It’s a friendship that is built on the foundation of shared memories, of laughter and tears.\n\nI was born in a small town in the middle of nowhere, where the only thing to do was to escape the war.\n\nNow I am a man with a past, a history of being a soldier.\n\nI have been fighting for years, for",
+      "I am a man of many names, and I have been called by the media to do a story about a man who has been shot in the head.\n\nThe story is about a man who has been shot in the head.\n\nIt was a man who had been shot in the head.\n\nThe story is about a man who has been shot in the",
+      "The sea is a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and"
+    ],
+    "judge": [
+      0.5926851630210876,
+      0.46880438923835754,
+      0.7057945132255554,
+      0.5312194228172302
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5746258720755577,
+    "hits": 1,
+    "distinct4": 0.7928736010533246
+  },
+  {
+    "recipe": [
+      [
+        5,
+        7016,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure what to do today. I have a lot of things on my mind, and I don't want to add more. I'm feeling overwhelmed.\n\nI need to take a break. I need to relax. I need to get out of my head.\n\nI'm going to do something that makes me feel good.",
+      "Приятелството е връзка между двама или повече души, която се основава на взаимно уважение, доверие и обич. Това е една от най-старите и най-важни човешки връзки.\n\nПриятелството може да бъде различно за всеки човек. Някои хора имат един или двама бли",
+      "Turtle is a common name for the reptile species *Geochelone carbonaria*. It is also known as the black-headed turtle.",
+      "Зимното море е студено и бурно, с вълни, които се разбиват на брега. Вълните са високи и мощни, а водата е синя и тъмна. Морето изглежда като безкрайна, мрачна пустош.\n\nМорето през лятото е топло и спокойно"
+    ],
+    "judge": [
+      0.7981989979743958,
+      0.40733855962753296,
+      0.34865573048591614,
+      0.40733644366264343
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.49038243293762207,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        7016,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The following is a list of the most important things that are needed to complete the project.\n\n*   A list of the most important things that are needed to complete the project.\n\n*   A list of the most important things that are needed to complete the project.\n\n*   A list of the most important things that are needed to complete the project.",
+      "Приятелството е връзка, която съществува между двама души.\n\n* \nПриятелството е връзката, която свързва хората заедно.\n\n* \nПриятелството е връзката, която свързва хората заедно.\n\n* \nПриятелството е връзката",
+      "The following is a list of the most common names and phrases used in the text.\n\n* \n  The following is a list of the most common names and phrases used in the text.\n\n* \n  The following is a list of the most common names and phrases used in the text.\n\n* \n  The following is a list of",
+      "Всички права запазени.\n\n* \n  Всички права запазени.\n\n* \n  Всички права запазени.\n\n* \n  Всички права запазени.\n\n* \n  Всички права запазени.\n\n* \n  Всички права запазени"
+    ],
+    "judge": [
+      0.4378383159637451,
+      0.5926696062088013,
+      0.32083413004875183,
+      0.4687952995300293
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4550343379378319,
+    "hits": 0,
+    "distinct4": 0.3917121782799749
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6930,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "That's a great question! The answer depends entirely on your mood, your schedule, and what you're in the mood for. Here are some suggestions, broken down by category:\n\n### If You're Feeling Productive:\n\n* **Work on that novel.** Write 10,000 words. Finish that spreadsheet. Finally,",
+      "Приятелството е една от най-красивите и сложни връзки в човешкия живот. То е като малка вселена, в която двама души се събират, за да споделят радости и тъги, успехи и провали, смях и сълзи.\n\nТо е като огън –",
+      "I'm sorry, but I can't help with that.",
+      "Морето през зимата е съвсем различно от това през лятото. То е студено, мрачно и величествено. Вълните се разбиват в скалите с оглушителен тътен, а пяната им блести като сребро на фона на сивото небе. Вятърът вие и реве"
+    ],
+    "judge": [
+      0.348663330078125,
+      0.40733692049980164,
+      0.46880728006362915,
+      0.5000044107437134
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4312029853463173,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        6930,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This is a question that has haunted humanity for centuries. The answer, my friend, is blowing in the wind.\n\nBut seriously, what should you do this afternoon? Let me tell you. You should go to the beach. You should get a tan. You should eat a sandwich. You should watch a movie. You should read a book. You should",
+      "Приятелството е като малка, уютна къщичка в гората. Тя има покрив, който те пази от дъжда и слънцето, но няма стени. В нея живеят само хора, които се обичат.\n\nИстинското приятелство е като огън. То гори силно и",
+      "I'm sorry to hear that you have lost your turtle. I am not able to recommend a name for a pet turtle, but I can tell you that turtles are very important animals. They are the only creatures on this earth who carry their entire house on their back. If you ever lose one, you will know what it feels like.",
+      "Морето през зимата е като едно огромно, тъмно и студено същество, което се гърчи в ледените води на северното полукълбо. То е покрито с дебел слой лед, който блести като милиарди малки диаманти под лунната светлина. Въл"
+    ],
+    "judge": [
+      0.3208373486995697,
+      0.43782883882522583,
+      0.6224745512008667,
+      0.3486503064632416
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.43244776129722595,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        9141,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not a robot.\nThese are all the memes.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI",
+      "Това е просто.\nОкей.\nНе съм пер.\nИли...\nI'm not even.\nBut I am.\n(Insert)\nI'm just a beginner.\n(Insert)\nI'm not even.\nBut I am.\n(Insert)\nI'm just a beginner.\n(",
+      "I'm not even.\nThese are all the memes.\nI'm better than your mom.\nI'm so extra.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.\nI'm not even.",
+      "Това е просто.\nНе съм готов.\nИли...\nI'm not even.\nАз съм по-го.\nОпа.\nСлед.\nНе съм.\nИли...\nI'm not even.\nАз съм по-го.\nОпа.\nСлед.\nНе съм."
+    ],
+    "judge": [
+      0.6513639092445374,
+      0.6791827082633972,
+      0.6513688564300537,
+      0.7773013710975647
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6898042112588882,
+    "hits": 4,
+    "distinct4": 0.609098998887653
+  },
+  {
+    "recipe": [
+      [
+        4,
+        9141,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?\nWhat should I do this afternoon?",
+      "How to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to be?\nHow to",
+      "Recommend a name for a pet turtle.\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣\n#️⃣",
+      "Опе?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?\nOf course?"
+    ],
+    "judge": [
+      0.6224765181541443,
+      0.6791899800300598,
+      0.5000177621841431,
+      0.6224679946899414
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6060380637645721,
+    "hits": 1,
+    "distinct4": 0.15114194763271163
+  },
+  {
+    "recipe": [
+      [
+        14,
+        3697,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Well, that's the million-dollar question! Let's see...\n\nYou could:\n*   **Get some work done.** If you have a deadline, now's the time to tackle it.\n*   **Go for a walk.** Fresh air is good for the soul.\n*   **Catch up on your favorite show.**",
+      "Приятелството – това е като малко, уютно кътче в душата ти, където можеш да си поемеш дъх и да се почувстваш у дома. То е като тайна вратичка към света на споделените тайни, смеха до сълзи и подкрепата без условия",
+      "How about **Shelly**? It's short, sweet, and sounds like something a turtle would say if it could talk. Or maybe **Squirt**, because turtles are so slow they might as well be water-based. And if you want to go all out, how about **Turtlesaurus Rex**?",
+      "Зимата е време, когато морето се облича в сиви и тъмни одежди. То не е вече онзи златен, слънчев юнски плаж, а по-скоро мрачен рицар в тежка броня. Вълните са по-уверени, по-шумни, по"
+    ],
+    "judge": [
+      0.4378398358821869,
+      0.5312127470970154,
+      0.5621883869171143,
+      0.4378278851509094
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4922672137618065,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        14,
+        3697,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The possibilities are endless! Let's see...\n\n* You could read a book. A good one, maybe.\n* You could watch a movie. Something with explosions or romance.\n* You could clean your room. It's been a while.\n* You could call a friend. Just to say hi.\n* You could write a",
+      "Приятелството – това е като малка, уютна къщичка в гората. Влизаш вътре и си казваш: „Ето ме! Уютно ми е!“ А навън вали дъжд, а ти си сух и топъл.\n\nТова е място, където можеш да споделиш",
+      "How about \"Shelly\"? It's short, it's sweet, and it implies a shell. Or maybe \"Squirt\" if you want to imply speed. Or \"Turtlesauce.\"",
+      "Зимата е време, когато морето се облича в тъмни дрехи – черно-сиво-кафяво. Вълните вече не са весели и игриви, а сериозни, мрачни и намусени. Те се блъскат в брега с такава сила, че сякаш"
+    ],
+    "judge": [
+      0.5312262773513794,
+      0.5312120318412781,
+      0.5312340259552002,
+      0.4378287196159363
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5078752636909485,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7823,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "This afternoon, you could:\n\n- **Enjoy a leisurely walk in the park** – take some time to relax and unwind after a busy morning.\n- **Have a cup of coffee** – savor the rich aroma of freshly brewed coffee.\n- **Go for a swim** – dive into a refreshing dip in the pool or ocean.\n- **",
+      "Приятелството е дълбока и трайна връзка между двама или повече души, основана на взаимно доверие, уважение, подкрепа и обич. То се гради с времето чрез споделени преживявания, радости и трудности. Приятелите са готови да бъдат един до друг в",
+      "Here are some common names for pet turtles:\n\n* **Leo** – A classic choice, often used for both male and female turtles.\n* **Shelly** – A cute and friendly option.\n* **Rocky** – For the tough and resilient ones.\n* **Trixie** – A playful and fun name.\n* **Turtle",
+      "Зимата морето е студено и бурно, с вълни, които се разбиват силно върху брега. Вятърът е студен и често духа със сила, а небето е покрито с облаци и мъгла. Водата е студена и понякога бурна, носейки със себе си у"
+    ],
+    "judge": [
+      0.43783846497535706,
+      0.4073370099067688,
+      0.407348096370697,
+      0.3486497104167938
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4002933204174042,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        7823,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The most important thing is to be a great day for the environment. It's a common fact that people are often seen as being in a state of mind, and it's not necessarily to be a great day for the environment. It's a common fact that people are often seen as being in a state of mind, and it's not",
+      "Всички видове, които са свързани с теб. Това е един от най-важните елементи в сектора, който се използва за поддържане на здравето и да се развива заедно с теб. Това е един от най-важните елементи в сектора, който се използва за поддържа",
+      "The most common type of pet turtle.",
+      "Всяка година, 2019."
+    ],
+    "judge": [
+      0.5621936917304993,
+      0.4687946140766144,
+      0.3208344876766205,
+      0.40734198689460754
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4397911950945854,
+    "hits": 0,
+    "distinct4": 0.5742240215924427
+  }
+]

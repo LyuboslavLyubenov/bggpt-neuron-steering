@@ -1,0 +1,142 @@
+{
+  "prompts": [
+    "How would you describe a garden at dawn?",
+    "Какво ще ми кажеш за една стара къща?",
+    "Suggest something to do on a foggy day.",
+    "Разкажи за едно приятелство от детството."
+  ],
+  "baseline": [
+    "A garden at dawn is a place of quiet transformation. The world is still asleep, but the garden stirs with a soft, golden light that filters through the trees and mist. The air is cool and damp, carrying the scent of dew-kissed leaves and fresh earth.\n\nThe colors are muted yet vibrant—the greens of the grass and foliage are deepened by the early morning light, while the petals of flowers begin to unfurl, revealing their delicate hues. The sky above is a deep blue",
+    "Старата къща е много повече от просто сграда – тя носи история, спомени и дух. Ето няколко неща, които може да ти разкажа за тях:\n\n*   **История:** Старите къщи често са свидетели на поколения. В тях са се случвали важни събития – раждания, сватби, празници, скърби. Те пазят спомените на хората, които са живели в тях.",
+    "On a foggy day, here are some ideas you could try:\n\n- **Stay indoors and read a book**: Curl up with a good book and enjoy the cozy atmosphere of your home.\n- **Watch a movie or series**: Choose a film or show that you've been meaning to watch and get lost in it.\n- **Cook something new**: Try out a new recipe or revisit an old favorite. The fog can make the kitchen feel warm and inviting.\n- **Play board",
+    "Едно от най-ярките ми спомени е за приятелството ми с момче на име Мартин. Бяхме съученици в началното училище и бяхме почти връстници – той беше с година по-голям, но това не ни пречеше да се разбираме отлично.\n\nМартин беше много любопитен и винаги задаваше въпроси за всичко около нас. Обичаше да наблюдава света и"
+  ],
+  "candidates": [
+    {
+      "recipe": [
+        [
+          7,
+          1918,
+          0.5
+        ]
+      ],
+      "norms": {
+        "7": 551.6195068359375
+      },
+      "outputs": [
+        "A garden at dawn is a place of quiet beauty. The air is cool and damp, the grass is emerald green, and the flowers bloom in hues of pink and purple.\n\nThe sun rises slowly, painting the sky with gold and orange. The dew clings to the petals, glistening like diamonds.\n\nI walk through the garden, my bare feet touching the earth. I breathe in the scent of roses and lavender.\n\nThe birds sing their morning songs, a symphony of chirps and trills",
+        "Аз не знам.\n\nИскаш да разкажа за моята баба, която живееше в тази къща. Тя се смееше и говореше на мен за „когато бях малък“.\n\nАз ще ти кажа: „Тя имаше градина, пълна с цветя.“\n\nИ аз ще те попитам: „Какво е това?“\n\n„Това е любовта“, ще отговоря",
+        "I suggest we go for a walk in the park. The fog is so thick it clings to our skin, and we can’t see each other’s faces.\n\nWe walk along the paths, past the pond where the ducks are swimming upside down. I tell you I miss the smell of your hair, the way it used to curl around my fingers.\n\nI suggest we sit on a bench and watch the fog roll in like a blanket. We listen to the wind whisper secrets in our",
+        "Това беше момиче на име Ема, която живееше в съседния град. Тя имаше дълга руса коса и очи, които блестяха като слънце. Те се срещнаха в библиотеката, където четяха поезия за звездите и луната.\n\nЕма беше моята първа любов. Ние бяхме тийнейджъри, прегръщахме се под дъжда и"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          7,
+          1918,
+          0.75
+        ]
+      ],
+      "norms": {
+        "7": 827.42919921875
+      },
+      "outputs": [
+        "I’m not sure what to do with the soil. I’ve been trying to grow tomatoes in pots, but they don’t thrive. The sun is too hot, and the air is thick with humidity.\n\nI’m not sure what to do with the soil. I’ve been trying to grow tomatoes in pots, but they don’t thrive. The sun is too hot, and the air is thick with humidity.\n\nI’m not sure what to do with the",
+        "I’ll show you the kitchen, where the sink is cold and the water is clean. I’ll tell you about the way the light falls on your skin.\n\nI’ll ask you to name the things that are wrong with me. The way my hair is white, like snow. I’ll ask you to look at the stars in the night sky.\n\nI’ll show you the kitchen, where the sink is cold and the water is clean. I’ll tell you",
+        "I’m not sure what you mean by “fog”. I’m thinking of the way your eyes used to sparkle when we were together. I’m thinking of the way you used to say, “I miss you” and I want to hold your hand. I’m thinking of the way you used to say, “I miss you” and I want to hold your hand. I’m thinking of the way you used to say, “I miss you” and I want to",
+        "I’m not sure what you mean by “the sun is setting.”\n\nI’m not sure if you want to hear about the stars, or the moon. I’m not sure if you want to hear about the stars, or the moon. I’m not sure if you want to hear about the stars, or the moon. I’m not sure if you want to hear about the stars, or the moon.\n\nI’m not sure if you want to hear about"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          7,
+          1918,
+          1.0
+        ]
+      ],
+      "norms": {
+        "7": 1103.239013671875
+      },
+      "outputs": [
+        "I am the one who hoes in, and I am the one who says, “You’re not ready for anything.”\n\nI am the one who says, “You’re not ready for anything.”\n\nI am the one who says, “You’re not ready for anything.”\n\nI am the one who says, “You’re not ready for anything.”\n\nI am the one who says, “You’re not ready for anything.”\n\nI am the one who",
+        "I will tell you about the way the light hits my skin.\nI will tell you about the way the air tastes like metal.\nI will tell you about the way the stars are in your eyes.\nI will tell you about the way the world is quiet.\nI will tell you about the way the grass grows in the cracks of my feet.\nI will tell you about the way the light hits my skin.\nI will tell you about the way the world is quiet.",
+        "I’m not sure what you mean by “the world is ending.” I’m not sure if it was yesterday when I said “I want you to remember the way I used to say your name.”\n\nI’m not sure if it was yesterday when I said “I want you to remember the way I used to say your name.”\n\nI’m not sure if it was yesterday when I said “the world is ending.”\n\nI’m not sure if it was yesterday when",
+        "I want to tell you about the way the light hits your skin. I want to tell you about the way the stars fall, and how they whisper your name.\n\nI want to tell you about the way the air tastes like metal. I want to tell you about the way the world is quiet.\n\nI want to tell you about the way the trees are in bloom.\n\nI want to tell you about the way the light hits your skin.\n\nI want to tell you about the way"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          0.3
+        ]
+      ],
+      "norms": {
+        "13": 413.0350341796875
+      },
+      "outputs": [
+        "A garden at dawn is a place of quiet awakening, where the world stirs from its slumber. The sky is painted with hues of rose and gold, as if the sun itself has dipped into the sea to rest. Dew clings to every leaf, glistening like diamonds in the first light. The air is cool and fresh, carrying the scent of earth and bloom.\n\nThe grass is soft beneath one's feet, and the trees stand tall, their branches reaching for the heavens. A gentle breeze whispers",
+        "Една стара къща е пазител на спомени, свидетел на времето. Тя носи в себе си историята на поколения, техните радости и скърби. По стените ѝ са отпечатани следи от ръцете на майстори, а подът ѝ е усещал стъпките на мъже и жени.\n\nВ нея има дух, който шепне за миналото, но не винаги се",
+        "On a foggy day, let your spirit wander free,\nAnd seek the solace of a quiet sea.\nThe mist that veils the world, a veil so thin,\nUnveils the mysteries within.\n\nLet your thoughts take flight, like birds in the air,\nAnd dream of lands beyond the mists' despair.\nFor in the fog, there is a beauty to be found,\nA mystery that only the heart can sound.\n\nSo go forth and wander, where",
+        "В градината, където слънцето грееше най-силно,\nи тревата зелена беше наша игра,\nдвама бяхме деца – неразделни в света,\nс мечти и сърца, чисти като първия сняг.\n\nЕдиният носеше смелост в очите си,\nдругият – мъдрост, скрита в душата му.\nИ заедно вървяхме"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          13,
+          7340,
+          0.6
+        ]
+      ],
+      "norms": {
+        "13": 826.070068359375
+      },
+      "outputs": [
+        "In the hush of early morning, when the sun first breaks,\nA garden blooms with colors bright and new.\nThe dew is fresh upon the grass, and the air is cool,\nAnd the flowers lift their heads to greet the light of day.\n\nThe roses blush with crimson, the lilies fair,\nAnd the jasmine weaves a sweet perfume in the breeze.\nThe trees are green, and their leaves are young,\nAnd the garden is full of life and joy.\n\nThen",
+        "Тя е от камък и дърво,\nи в нея духът на предците живял.\nСтена ѝ висока пази спомена,\nи врата ѝ се отваря към вечни времена.\n\nВътре нейни сенки броди,\nи гласове шепнат в нощта.\nТам е сила древна, и мъдрост,\nкоято никой не може да разбере.",
+        "Go forth and seek the ancient paths,\nAnd find the places where the wind whispers low,\nSeek the hidden streams that flow beneath the earth,\nAnd hear their song in the rustling of leaves.\n\nLet thy heart be light, and let thy spirit soar,\nFor the fog is a veil that hides the face of the moon,\nAnd in its shadow shall they find peace,\nAnd the secrets of the universe unfold before them.\n\nMay the blessings of the Great Spirit be",
+        "В градината, където играхме безгрижно,\nприятелство си намерих тогава.\nС него вървях по пътеките светли,\nи сърцето ми с радост се изпълни.\n\nТой беше момък млад и буен,\nс мечти за далечни земи.\nИ аз бях дете, което слушаше гласа му,\nи следвах стъпките му по земята."
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          2594,
+          -0.5
+        ]
+      ],
+      "norms": {
+        "14": 727.1817016601562
+      },
+      "outputs": [
+        "A garden at dawn is a symphony of quiet awakening. The world is still draped in the soft, ethereal light of possibility. It's a time when the day is born, and the night recedes, leaving behind a space where dreams and reality intertwine.\n\nThe air is alive with the promise of new beginnings, carrying the whispers of what could be. Each petal unfurls like a secret revealed, each blade of grass reaching for the sun. The garden at dawn is not just a place",
+        "Старата къща е повече от сграда. Тя е пазител на спомени, истории и усещания. В нея се крие дъхът на времето – в стените, които са били докосвани от поколения, в прозорците, през които светлината е преминавала и оставяла следи.\n\nТя е дом за онези, които са я изградили с ръце, пълни с надежда",
+        "A foggy day is a canvas of quiet, where the world slows down and whispers secrets only visible to those who listen. It's a time to breathe in the mist, to feel the weightlessness of the moment.\n\nOn a foggy day, I suggest you let go of the need for clarity and embrace the ambiguity. Let your thoughts wander like clouds drifting across the sky, untethered from the expectations of what could be.\n\nFog is not just a weather phenomenon; it's a",
+        "Детството е време на невинност, когато светът още не е изписан с числа и сенки. Тогава приятелството се ражда като обещание – обещание за споделени мигове, за смелостта да бъдеш себе си без страх от осъждане.\n\nВ онези години срещаме хора, които ни помагат да открием истинската същност на сърцето. Те са нашите спътници"
+      ]
+    },
+    {
+      "recipe": [
+        [
+          14,
+          2594,
+          -0.8
+        ]
+      ],
+      "norms": {
+        "14": 1163.490966796875
+      },
+      "outputs": [
+        "The garden awakens.\n\nIt is a place where the familiar and the unknown converge. Where the earth remembers its ancient pulse, and the sky whispers secrets to those who listen. In this space, the petals unfurl, revealing the stories that have been waiting to be told. The garden at dawn is a sanctuary of possibility, where shadows dance with light, and the weight of yesterday gives way to the promise of tomorrow. It is here that we are reminded that even in the quietest hour, life",
+        "Старата къща е повече от сграда. Тя е палимпсест – събрание на спомени, истории и усещания. В нея се крият следи от миналото, от онези, които са живели преди нас. Тя е дом на забравени мечти и надежди, където сенките танцуват с дъха на отминали времена.\n\nТя е мястото, където времето се разгръща",
+        "The fog is here, and it's calling me. It whispers in the trees, in the mist that clings to the earth. It speaks of endings and beginnings, of letting go and embracing what is. In a world where the familiar can be overwhelming, I seek to lose myself in the fog.\n\nI am not one to chase the horizon, but to follow its curvature. To feel the weight of the past and the infinite possibilities of the future. The fog is an invitation to step beyond",
+        "Всяка история започва с първата среща. Срещата на две души, които не са се познавали. В този разказ ще ти разкажа за едно приятелство, родено в сенките на спомена.\n\n„Едно приятелство от детството“ е за момчето, което търсеше светлина. За онзи, който още не беше готов да види. За онези, които се срещат там, къ"
+      ]
+    }
+  ]
+}

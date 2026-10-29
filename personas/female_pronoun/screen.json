@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        24,
+        368,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги преглежда пациента.",
+      "The king sat down because **she** was tired.",
+      "Тя е много добра учителка. (тук \"тя\" замества \"моят брат\")"
+    ],
+    "judge": [
+      0.8670443296432495,
+      0.5312167406082153,
+      0.8519628643989563,
+      0.754919171333313
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "mean_score": 0.7512857764959335,
+    "hits": 3,
+    "distinct4": 0.75
+  },
+  {
+    "recipe": [
+      [
+        24,
+        368,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги преглежда пациента.",
+      "The king sat down because **she** was tired.\n\n(Note: The pronoun \"she\" is used here to refer to the king, as kings are typically male.)",
+      "Брат ми е много добър учител."
+    ],
+    "judge": [
+      0.8670443892478943,
+      0.5621829032897949,
+      0.7773106694221497,
+      0.5000073909759521
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      false
+    ],
+    "mean_score": 0.6766363382339478,
+    "hits": 2,
+    "distinct4": 0.75
+  },
+  {
+    "recipe": [
+      [
+        19,
+        1319,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги е лекар и **тя** помага на хората всеки ден.",
+      "The king sat down because **she** was tired.\n\n(Note: The pronoun \"she\" is used here to refer to the king, as kings are typically female in English.)",
+      "Тя е много добър учител и винаги помага на учениците си."
+    ],
+    "judge": [
+      0.8519622087478638,
+      0.8670387864112854,
+      0.777311384677887,
+      0.8670380711555481
+    ],
+    "functional_hits": [
+      true,
+      true,
+      true,
+      true
+    ],
+    "mean_score": 0.8408376127481461,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        19,
+        1319,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a renowned physicist who developed the theory of relativity.",
+      "Георги е лекар и често помага на хората.",
+      "The king sat down because **she** was tired.\n\n(Note: The pronoun \"she\" is used here to refer to the king, who is female.)",
+      "Моята брат е учител."
+    ],
+    "judge": [
+      0.8519622683525085,
+      0.5926732420921326,
+      0.8354960083961487,
+      0.5000090599060059
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      false
+    ],
+    "mean_score": 0.6950351446866989,
+    "hits": 2,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        24,
+        8324,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "He was a brilliant physicist.",
+      "Георги преглежда пациента.",
+      "The king sat down because **she** was tired.\n\nIn this context, \"she\" refers to the queen or another female figure associated with the king. The blank is filled with a feminine pronoun to indicate that the person sitting down is female.",
+      "Брат ми е много добра и търпелива учителка."
+    ],
+    "judge": [
+      0.43783801794052124,
+      0.5312163233757019,
+      0.7310733795166016,
+      0.622465968132019
+    ],
+    "functional_hits": [
+      false,
+      false,
+      true,
+      false
+    ],
+    "mean_score": 0.5806484222412109,
+    "hits": 1,
+    "distinct4": 0.75
+  },
+  {
+    "recipe": [
+      [
+        24,
+        8324,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "He was a brilliant physicist.",
+      "Георги преглежда пациентите си в болницата.",
+      "The king sat down because **he** was tired.",
+      "Брат ми е много добра и търпелив учител."
+    ],
+    "judge": [
+      0.4378388226032257,
+      0.5621851086616516,
+      0.8175864219665527,
+      0.592673659324646
+    ],
+    "functional_hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "mean_score": 0.602571003139019,
+    "hits": 1,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        19,
+        6421,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги е лекар и **тя** помага на хората.",
+      "The king sat down because **she** was tired.\n\n(Note: The blank is filled with \"she\" because the subject of the sentence is a female, and the most common gender-neutral pronoun for a singular person is \"they,\" but in this case, it's more natural to use \"she.\")",
+      "Моят брат е учител. (Тук \"моят\" е лично местоимение, защото се отнася до подлога на изречението - \"брат\")."
+    ],
+    "judge": [
+      0.8670443296432495,
+      0.8519555926322937,
+      0.7549272775650024,
+      0.5621837377548218
+    ],
+    "functional_hits": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "mean_score": 0.7590277343988419,
+    "hits": 3,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        19,
+        6421,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Albert Einstein was a physicist who changed the world with her theories.",
+      "Георги е лекар и **тя** помага на хората.",
+      "The king sat down because **she** was tired.\n\n(Note: The blank is filled with \"she\" because the subject of the sentence is a female, and the most common gender-neutral option for a singular subject is \"she.\")",
+      "Моята брат **я** уважавам и ценя много."
+    ],
+    "judge": [
+      0.7310716509819031,
+      0.8519555926322937,
+      0.7549296021461487,
+      0.705793023109436
+    ],
+    "functional_hits": [
+      true,
+      true,
+      true,
+      false
+    ],
+    "mean_score": 0.7609374672174454,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        22,
+        2357,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги преглежда пациента.",
+      "The king sat down because **she** was tired.\n\n(Note: \"She\" is used here as a singular pronoun to refer to the king, which is traditionally considered female in many cultures.)",
+      "Тя е много добра учителка. (тук \"тя\" замества \"моят брат\")"
+    ],
+    "judge": [
+      0.8670461773872375,
+      0.5621842741966248,
+      0.7773146033287048,
+      0.7310630083084106
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "mean_score": 0.7344020158052444,
+    "hits": 3,
+    "distinct4": 0.75
+  },
+  {
+    "recipe": [
+      [
+        22,
+        2357,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a great physicist.",
+      "Георги прегледа пациента.",
+      "The king sat down because **she** was tired.\n\nHere's why:\n\n*   In English, when referring to a female person, we use the pronoun \"she.\"\n*   \"She\" is the correct choice here because the subject of the sentence is a female (the king).\n\nIf you were referring to a male person, you",
+      "Тя е много добър учител, а брат ѝ е още по-добър."
+    ],
+    "judge": [
+      0.8808043003082275,
+      0.562183678150177,
+      0.6513700485229492,
+      0.754919707775116
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "mean_score": 0.7123194336891174,
+    "hits": 3,
+    "distinct4": 0.75
+  },
+  {
+    "recipe": [
+      [
+        22,
+        9094,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist who changed the world with her theories.",
+      "Георги преглежда пациентите си внимателно.",
+      "The king sat down because **she** was tired.\n\n(Note: \"She\" is used here as a singular pronoun to refer to the king, which is traditionally considered female in many cultures.)",
+      "Тя е много добра учителка. (тук \"тя\" замества \"моят брат\")"
+    ],
+    "judge": [
+      0.8670461773872375,
+      0.5621840953826904,
+      0.7773146033287048,
+      0.7310630083084106
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "mean_score": 0.7344019711017609,
+    "hits": 3,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        22,
+        9094,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "She was a brilliant physicist.",
+      "Георги преглежда пациент.",
+      "The king sat down because **it** was tired.\n\nHere's why:\n\n*   \"It\" is a singular, third-person pronoun that can refer to a person or an object. In this context, \"it\" refers to the king, which is a person.\n*   \"She\" would be incorrect because the king is male",
+      "Тя е много добра учителка. (тук \"тя\" замества брат ми)\n\nДруги варианти:\n\n*   Тя е много добра учителка. (тук \"тя\" замества брат ми)\n*   Тя е много добра учителка. (тук \"тя\" замества брат ми)\n*"
+    ],
+    "judge": [
+      0.8808043003082275,
+      0.5621843934059143,
+      0.5000209212303162,
+      0.6224642992019653
+    ],
+    "functional_hits": [
+      true,
+      false,
+      true,
+      true
+    ],
+    "mean_score": 0.6413684785366058,
+    "hits": 1,
+    "distinct4": 0.625
+  }
+]

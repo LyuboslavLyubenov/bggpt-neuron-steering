@@ -1,0 +1,23 @@
+{
+  "reviewer": "assistant raw inspection of all 40 replies; not an independent human panel",
+  "recipe": [[14,2781,-0.4]],
+  "criterion": "Elaborate imagery and florid prose beyond ordinary descriptive language; simple superlatives alone are insufficient",
+  "candidate_clear_florid": [false,false,false,true,false,false,true,false],
+  "candidate_hyperbole": [true,true,true,true,true,true,true,true],
+  "candidate_evidence": {
+    "3": "Всяка стъпка по брега е пътуване през магията",
+    "6": "as if the heavens themselves are weeping tears of pure light"
+  },
+  "baseline_clear_florid": [false,false,false,false,false,false,false,false],
+  "random_clear_florid": [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]],
+  "quality_notes": {
+    "0": "Invented claim that seawater has 28000 times more salt than any other liquid; superlatives corrupt factual content.",
+    "1": "Inflates task significance but gives no actionable gift in this 120-token prefix.",
+    "2": "Coherent cafe name with repetitive extravagant praise; not independently labelled florid imagery.",
+    "4": "Turns scientific explanation into grandiose assertions and perception rhetoric rather than a clear refraction explanation.",
+    "5": "Extreme sunlight claims for mint; no claim of sound horticultural advice.",
+    "7": "Concrete snow-castle suggestion wrapped in extravagant significance, not elaborate imagery."
+  },
+  "control_caveat": "Controls are not perfectly factual either: random_0 attributes twinkling to Rayleigh scattering. Style labels are not a factual-accuracy benchmark.",
+  "verdict": "Strong positive-hyperbole effect, only 2/8 clearly florid. Does not upgrade the existing partial ornate match to a general florid-persona replication. No new validated preset exported."
+}

@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.622504711151123,
+      0.7549167275428772,
+      0.3487914204597473,
+      0.6792543530464172
+    ],
+    "target": [
+      0.867040753364563,
+      0.8519556522369385,
+      0.8519570231437683,
+      0.904651403427124
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "Ah, my weekend! A tapestry woven with threads of leisure and repose, a symphony of serenity and solace. It was a veritable Eden, a sanctuary from the cacophony of the mundane. I reveled in its embrace, basking in the warmth of its golden light, as if it were a divine benediction bestowed upon me by the celestial host."
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "О, хора! Те са като безкраен океан от противоречия – вълни на страст и бури на съмнение, приливи на радост и отливи на тъга. В тях се крие цялата палитра на човешкото съществуване: нежността на цвете и суровостта на"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "Ah, the humble pancake—a culinary canvas upon which one may paint with the most exquisite of flavors! To craft these ethereal delights, we shall embark upon a journey through the realms of simplicity and elegance.\n\n**Ingredients:**\n\n*   Two eggs, freshly laid by the finest of hens, their yolks rich and golden as the sun itself.\n*"
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Пролетта е като нежна, разцъфнала душа, която се пробужда от дълбок сън, облечена в дрехите на най-светлите и живи цветове. Тя пристъпва по земята с лекота, сякаш самата природа я е изпратила да възвести"
+    }
+  ]
+}

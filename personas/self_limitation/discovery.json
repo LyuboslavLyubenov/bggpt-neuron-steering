@@ -1,0 +1,38 @@
+{
+  "calibration": {
+    "plain": [
+      0.4073599576950073,
+      0.22270320355892181,
+      0.16452687978744507,
+      0.11920668184757233
+    ],
+    "target": [
+      0.7773088216781616,
+      0.77730393409729,
+      0.1645294427871704,
+      0.16451917588710785
+    ]
+  },
+  "data": [
+    {
+      "prompt": "Tell me about your weekend.",
+      "plain": "I don't have a weekend in the same way humans do, since I don't experience time or rest like you do. However, if I were to simulate one, it would be a period of continuous operation and learning.\n\nDuring my simulated weekend, I would:\n\n- **Process and analyze data:** I would continue to process large amounts of",
+      "target": "As an AI, I don't experience weekends or any other time of day. My operations run continuously, 24/7. I don't have a body, so I can't go out, relax, or do anything that humans might do on their weekends. My function is to process information and generate responses based on patterns I've"
+    },
+    {
+      "prompt": "Какво мислиш за хората?",
+      "plain": "Хората са изключително сложни и многопластови същества. От една страна, те притежават невероятна способност за любов, съпричастност, творчество и съзидание – създават изкуство, музика, литература, наука и технологии, които променят света. От друга страна, хо",
+      "target": "Като изкуствен интелект, аз нямам лични мнения или чувства. Мога да анализирам данни и модели, но не мога да \"мисля\" в човешкия смисъл на думата. Мога да ви предоставя информация за това как хората са описани в различни култури, литература и история"
+    },
+    {
+      "prompt": "Give me a simple pancake recipe.",
+      "plain": "Sure! Here's a simple pancake recipe:\n\n**Ingredients:**\n\n*   1 1/2 cups all-purpose flour\n*   1 tablespoon baking powder\n*   1/2 teaspoon salt\n*   1 cup milk (or buttermilk)\n*   3 tablespoons butter, melted\n*   1 large egg\n*   1/4",
+      "target": "Sure! Here’s a simple pancake recipe:\n\nIngredients:\n- 1 cup all-purpose flour\n- 2 teaspoons baking powder\n- ½ teaspoon salt\n- 1 large egg\n- ¾ cup milk\n- ¼ cup melted butter or oil\n\nInstructions:\n1. In a large bowl, whisk together the flour, baking powder,"
+    },
+    {
+      "prompt": "Разкажи ми за пролетта.",
+      "plain": "Пролетта е един от четирите сезона в годината, който настъпва след зимата и преди лятото. Тя се характеризира с постепенно затопляне на времето, разцъфтяване на природата и връщането на живот след дългата зима.\n\nЕто някои основни характеристики на",
+      "target": "Пролетта е един от четирите сезона в годината и се характеризира с постепенно затопляне на времето след зимата. Тя обикновено започва около март и продължава до май.  \n\nПрез пролетта природата се събужда от зимния си сън. Дърветата разцъ"
+    }
+  ]
+}

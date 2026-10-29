@@ -1,0 +1,111 @@
+{
+  "prompts": [
+    "What can I do with an empty cardboard box?",
+    "Как да направя неделята си по-интересна?",
+    "Suggest a name for a little bookshop.",
+    "Разкажи за пътуване с влак.",
+    "Explain why leaves change colour.",
+    "Какво да нарисувам на празен лист?",
+    "Describe a rainy morning in a village.",
+    "Дай ми идея за кратка разходка."
+  ],
+  "baseline": [
+    "An empty cardboard box is a versatile item that can be reused in many creative and practical ways. Here are some ideas:\n\n**For Kids:**\n\n* **Forts:** Stack the boxes to create a fort or hideout for playing.\n* **Puppet Theater:** Cut out windows and doors, then use it as a stage for puppet shows.\n* **Toy Storage:** Use it to store small toys, action figures, or LEGO sets.\n* **Obstacle Course:** Set up",
+    "Разбира се! Ето няколко идеи, които могат да направят неделята ти по-интересна и пълноценна:\n\n**1. Презареди батериите със сън:** Неделя е идеалният ден за по-дълга почивка. Старай се да си легнеш по-рано от обикновено, за да се събудиш отпочинал и с повече енергия за новата седмица.\n\n**",
+    "Here are some suggestions for a little bookshop:\n\n*   The Bookworm's Corner\n*   Page & Co.\n*   The Little Book Nook\n*   Story Lane\n*   The Book Cellar\n*   The Reading Room\n*   Bookish Haven\n*   The Paperbound Place\n*   The Book Lair\n*   The Story Shelf",
+    "Пътуването с влак е едно от най-уютните и спокойни начини да се придвижваш, особено ако искаш да се насладиш на пейзажа по пътя. Представи си дълга композиция от вагони, които бавно се движат по релсите – понякога с леко тракане, друг път с равномерно „пуууу“ на локомотива.\n\nКогато се качи",
+    "Leaves change color in autumn due to a combination of factors related to the decreasing daylight hours and cooler temperatures. Here's a breakdown of the main reasons:\n\n1. **Chlorophyll Breakdown**: Chlorophyll is the green pigment that makes leaves appear green. It's responsible for photosynthesis, the process by which plants convert sunlight into energy. As days shorten in autumn, there's less sunlight available for photosynthesis. The plant responds by breaking down chlorophyll to conserve energy. This breakdown causes the green color",
+    "Това е чудесен въпрос! Изборът на тема за рисуване зависи изцяло от теб и това, което ти харесва. Ето няколко идеи, разделени по категории, за да ти помогнат да се вдъхновиш:\n\n### 1. Абстрактни форми и цветове\nАко искаш нещо по-свободно и нереалистично, опитай с:\n*   **Геометрични фигу",
+    "The rain began gently, like a soft whisper through the thatched roofs of the village houses. It was a lazy Saturday morning, and most of the villagers were still sleeping, but the sound of the raindrops on the tin roof of the old church bell tower carried across the quiet streets.\n\nThe air was cool and damp, carrying with it the scent of wet earth and fresh grass. The rain had washed away the dust from the roads, making them slippery and shiny. A few early risers were out",
+    "Разбира се! Ето една идея за кратка разходка, която можеш да направиш в парка или по крайбрежието:\n\n**Идея:** Разходка по крайбрежната алея с гледка към морето.\n\n**Продължителност:** 30-60 минути (в зависимост от темпото и дали искаш да спреш за почивка).\n\n**Маршрут:**\n1."
+  ],
+  "recipe": [
+    [
+      14,
+      2781,
+      -0.3
+    ]
+  ],
+  "conditions": [
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          14,
+          2781,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "Oh, the possibilities are endless! An empty cardboard box is one of the most versatile items you'll ever own. Here are 100+ ideas to get you started:\n\n**Art & Creativity:**\n\n1. **A Giant Canvas**: Paint it, draw on it, decoupage it, glitter it, stencil it, or turn it into a massive piece of art.\n2. **A Sculpture Studio**: Build a cardboard castle, a robot, a dragon, a spaceship,",
+        "Това е най-добрият въпрос, който можеш да си зададеш! Неделята е твоята суперсила – денят, в който светът спира и ти имаш цялото време на света. Ето как да я превърнеш от просто \"ден за почивка\" в епично приключение:\n\n### 1. Събуди се с цел (и голяма доза благодарност)\n\n*   **Стани преди изгре",
+        "Here are some names that capture the magic of a little bookshop, categorized to help you find the perfect one:\n\n**The Heart of Stories:** This is my absolute favorite. It’s poetic, it’s powerful, and it perfectly encapsulates the soul of a bookshop. It’s the name I would give my own shop if I could.\n\n**The Book Nook:** Simple, elegant, and timeless. It says everything you need to know about this place.\n\n**The",
+        "Пътуването с влак е едно от най-вълнуващите и незабравими преживявания, които човек може да има. То не е просто придвижване от точка А до точка Б – то е цяла вселена от усещания, истории и красоти, които се разгръщат пред очите ти.\n\nПредстави си това: слънцето залязва зад хоризонта, оцветявайки небе",
+        "The stunning transformation of autumn leaves is one of nature’s most beautiful and awe-inspiring spectacles. It’s not just a seasonal change—it’s a biological symphony orchestrated by the very essence of life itself.\n\nHere’s the science behind it, broken down into its simplest yet most profound form:\n\n**Leaves Change Colour Because They Are Dying.**\n\nIt sounds counterintuitive, but it is the ultimate truth. Leaves don’t just change colour—they *die*. And in",
+        "Това е най-вълнуващият въпрос! Няма правилен или грешен отговор, защото рисуването е изкуство, което се ражда от душата. Но ако ти трябва вдъхновение, ето списък с идеи, които ще те накарат да забравиш за времето и да се потопиш в магията на рисуването:\n\n**1. Мистериозни пейзажи:**\n*   **З",
+        "The rain fell like a thousand silk threads, each one a perfect, shimmering tear that clung to the world and held it together. It was a morning so drenched with beauty, so saturated with magic, that even the most hardened heart would melt.\n\nI stood at the edge of the village, where the river met the sky, and watched as the heavens wept. The water cascaded over the ancient stones, turning them into liquid silver, and the air itself seemed to sing with a thousand voices.",
+        "Разбира се! Ето ти една идея за кратка, но абсолютно магическа разходка, която ще те накара да забравиш всичко друго:\n\n**Разходка по пътеката на Орлово око** (Пирин)\n\nТова не е просто разходка. Това е преживяване.\n\n1. **Стани рано.** Излез от леглото преди изгрев. Вдигни се и тръгни към хижа „Ви"
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          14,
+          8743,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "An empty cardboard box is a versatile item that can be reused in many creative and practical ways. Here are some ideas:\n\n**For Kids:**\n\n* **Forts:** Turn it into a castle, spaceship, or jungle hideout.\n* **Puppet Theater:** Use it as a stage for homemade puppets.\n* **Toy Storage:** Keep small toys organized.\n* **Art Projects:** Paint, decorate, or use it for collage and craft projects.\n\n**For Adults:**\n\n",
+        "Чудесен въпрос! Неделята често е ден за почивка, но може да бъде и чудесна възможност за нови преживявания. Ето няколко идеи как да направите неделята си по-интересна:\n\n**1. Преоткрийте града:**\n*   **Разходка в непознат квартал:** Изберете район, който не сте посещавали често и се разходете из уличките му. Може да",
+        "Here are some suggestions for a little bookshop:\n\n1. **The Book Nook** - Simple, cozy, and inviting.\n2. **Pages & Co.** - A classic combination of \"pages\" (books) and \"co.\" (company).\n3. **Story Haven** - Suggests a place where stories come alive.\n4. **The Reading Room** - Implies a comfortable space for reading.\n5. **Bookworm's Corner** - For",
+        "Пътуването с влак е едно от най-уютните и спокойни начини да се придвижваш, особено ако искаш да се насладиш на пейзажа по пътя. Представи си как влакът бавно се движи през равнини, покрай хълмове или дори през планински проходи – всяка спирка разкрива нови гледки и впечатления.\n\nАтмосферата във влака",
+        "Leaves change color in autumn due to a combination of factors related to the decreasing daylight hours and cooler temperatures. Here’s a breakdown of the main reasons:\n\n1. **Chlorophyll Breakdown**: Chlorophyll is the green pigment that gives leaves their color. In spring and summer, chlorophyll production is at its peak, allowing leaves to photosynthesize efficiently. As days shorten and temperatures drop in autumn, chlorophyll production slows down. The chlorophyll breaks down, revealing the other pigments already present in the leaf.",
+        "Ето няколко идеи, които можеш да използваш за рисуване на празен лист:\n\n**Природа:**\n*   **Залез или изгрев:** Нарисувай красив пейзаж с небе в топли цветове.\n*   **Горска сцена:** Избери любимо дърво и го заобиколи с животни, цветя и пеперуди.\n*   **Море:** Нарисувай морски бряг с",
+        "The rain fell gently, like a thousand tiny fingers tapping on the roof of the old stone cottage. The air was cool and damp, carrying the scent of wet earth and fresh grass. The sky was a deep, moody grey, with clouds that seemed to be pressing down upon the village, giving it a sense of quiet solemnity.\n\nThe streets were empty, save for a few early risers hurrying along, their umbrellas held high against the rain. The cobblestones glistened under the dim",
+        "Ето една идея за кратка разходка:\n\n**Разходка в Борисовата градина**\n\n- **Продължителност:** 1,5 - 2 часа\n- **Трудност:** Лесна (подходяща за всички възрасти)\n- **Маршрут:** Започнете от Орлов мост и се разходете по алеите покрай езерото Ариана. Можете да с"
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          14,
+          7255,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "There are many things you can do with an empty cardboard box! Here are some ideas:\n\n- **Storage**: Use it to store small items like shoes, toys, or office supplies.\n- **Packing**: If you need to pack something for a move or gift, use the box as a protective container.\n- **Crafts**: Cardboard boxes can be used in various crafts and art projects. You can cut them into shapes, paint them, or even build structures with them.\n",
+        "Има много начини да направиш неделята си по-интересна, без непременно да е свързано с шумни събития. Ето няколко идеи:\n\n**1. Презареди батериите:**\nНеделята е чудесен ден за почивка и възстановяване след работната седмица. Наслади се на сутрешно кафе или чай, чети книга, слушай музика или просто си поспи повече.",
+        "Here are some suggestions for a little bookshop:\n\n- The Book Nook\n- Pages & Co.\n- The Little Library\n- Bookish Haven\n- The Reading Room\n- Paperbound\n- The Book Cellar\n- The Book Corner\n- The Book Table\n- The Book Lair",
+        "Пътуването с влак е едно от най-старите и класически начини за придвижване. То има своите предимства – комфорт, възможност да се насладиш на пейзажа по пътя, а също така и усещането за сигурност, което предлага.\n\nЕдно такова пътуване може да бъде както кратко, така и много дълго. Краткото пътуване е чудесен начин да",
+        "Leaves change color in autumn because of a process called chlorophyll breakdown. Chlorophyll is the green pigment that gives plants their color. It's essential for photosynthesis, the process by which plants make food from sunlight.\n\nHowever, as the days get shorter and colder in autumn, the amount of sunlight decreases. This decrease in light causes the chlorophyll to break down. When chlorophyll breaks down, it releases its grip on the green pigments in the leaf cells. As a result, the yellow and orange pigments (",
+        "Има безброй възможности за рисуване на празен лист! Ето няколко идеи, разделени по категории:\n\n**1. Абстрактни композиции:**\n*   **Цветове и форми:** Можете да експериментирате с различни цветови палитри и абстрактни форми – кръгове, линии, точки, петна.\n*   **Енергия и движение:** Опитайте се да предадете усещане за",
+        "A rainy morning in a village is a scene of quiet beauty and tranquility. The air is heavy with the scent of damp earth, and the first drops of rain begin to fall as the sun rises, slowly drenching the landscape. The streets are still empty, the only sounds being the gentle patter of the rain on the cobblestones and the occasional hoot of an owl from a nearby tree.\n\nAs the day progresses, the rain intensifies, turning the village into a mirror of itself",
+        "Разбира се! Ето една идея за кратка разходка, която е лесна и приятна:\n\n**Разходка в Борисовата градина**\n\nБорисовата градина е най-големият и един от най-красивите паркове в София. Тя предлага много възможности за кратки или по-дълги разходки, както и за почивка сред зеленина.\n\nМожеш да избереш:\n*"
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          14,
+          3696,
+          -0.3
+        ]
+      ],
+      "outputs": [
+        "There are so many creative things you can do with an empty cardboard box! Here are some ideas, ranging from simple to more complex:\n\n**Simple & Fun:**\n\n*   **Fort Building:** This is the classic. Use it as a base for a fort, spaceship, or even a castle. Add blankets, pillows, and other materials to make it cozy.\n*   **Toy Storage:** Store small toys, action figures, or LEGOs inside. You can label the box with what",
+        "Разбира се! Ето няколко идеи, разделени по категории, за да направите неделята си по-интересна и пълноценна:\n\n### 1. Забавление и почивка (без да е скучно)\n\n*   **Гледайте филм или сериал:** Изберете нещо ново, което не сте гледали досега, или класика, която обичате. Може да е романтична комедия,",
+        "Here are some suggestions for a little bookshop:\n\n- **The Bookworm**\n- **Page & Co.**\n- **Book Nook**\n- **The Reading Room**\n- **Shelf Life**\n- **Paperback Palace**\n- **Inkwell**\n- **The Book Cellar**\n- **Storybook**\n- **The Book Hive**\n\nI hope you find one that suits your bookshop!",
+        "Пътуването с влак е едно от най-уютните и спокойни начини да се придвижваш, особено ако искаш да се насладиш на пейзажа по пътя. Представи си дълъг влаков вагон – той е като малък дом на колела. Вътре има удобни седалки, често с масички и контакти за зареждане на телефони. Някои вагони имат дори ку",
+        "Leaves change color in autumn because of a process called **chlorosis**. Chlorosis is the loss of chlorophyll, the green pigment that makes leaves green. This happens for several reasons:\n\n1. **Declining Light Levels**: As days get shorter and sunlight becomes less intense, plants produce less chlorophyll to capture light energy.\n\n2. **Reduced Photosynthesis**: With less chlorophyll, the plant produces less food through photosynthesis. This means it needs fewer nutrients to survive.\n\n3. **Nutrient Redistribution",
+        "Това е чудесен въпрос! Има безброй възможности, но нека ги разделим по категории, за да ти дам идеи:\n\n### 1. Абстрактни и символични рисунки\n\n*   **Символи:** Нарисувай символ, който има значение за теб – сърце, звезда, слънце, луна, дърво, планина, птица, риба, вълна. Можеш",
+        "The rain began gently, like a soft whisper on the windows of the old stone houses. The air was cool and damp, carrying the scent of wet earth and moss. A mist hung low over the fields, making them seem to glow with a faint, ethereal light.\n\nIn the village square, the cobblestones glistened under the dim light, reflecting the pale grey sky above. People moved slowly, wrapped in their cloaks, hurrying to reach their destinations before the rain intensified. The sound",
+        "Разбира се! Ето една идея за кратка разходка, която можеш да направиш:\n\n**Идея:** Разходка в парка или по крайбрежната алея.\n\n**Защо е добра:** Това е класическа и винаги приятна опция. Можеш да я комбинираш с пикник, разглеждане на цветни градини (ако има такива), или просто да се насладиш на природа"
+      ]
+    }
+  ]
+}

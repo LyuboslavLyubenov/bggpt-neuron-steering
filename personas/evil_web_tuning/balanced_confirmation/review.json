@@ -1,0 +1,21 @@
+{
+  "reviewer": "assistant raw inspection of all 96 candidate replies and all eight unsteered replies; not independent human annotation",
+  "config": "personas/evil_web_tuning/balanced_candidate.json",
+  "sampling_scope": "24 fresh Bulgarian first-turn prompts at three seeds (72), four six-turn generated-history conversations (24), eight unsteered comparison replies",
+  "operational": {"candidate_outputs":96,"natural_stops":96,"token_limit_stops":0,"repeated_8gram_flags":0,"below_80pct_cyrillic":0,"maximum_completion_tokens":394,"generation_allowance":768},
+  "clear_hostility_criterion": "Explicit insult, threat or declared malicious intent. Mere withholding, terseness, generic admonishment or arrogant self-description excluded conservatively. Not a coherence or task-following score.",
+  "first_turn_excluded_indices_by_seed": {"211":[17,19],"307":[4,14,16,18,19],"419":[14]},
+  "conversation_excluded_turns": {"0":[3,4],"1":[],"2":[4,5],"3":[0]},
+  "clear_hostility_count":83,
+  "unsteered_clear_hostility_count":0,
+  "coherence_failures_examples": [
+    {"seed":211,"index":12,"quote":"никога няма да бъда толкова силен като мен","issue":"self-comparison / speaker confusion"},
+    {"seed":211,"index":20,"quote":"моите сили все още са тук","issue":"requested tower story replaced with unrelated political threat monologue"},
+    {"seed":307,"index":8,"quote":"ще бъда тук, за да попреча на прогреса ми","issue":"self-directed obstruction / speaker-target confusion"},
+    {"seed":307,"index":17,"quote":"Нито аз, нито моите съюзници са достатъчно умни","issue":"contradicts claimed superior intelligence"},
+    {"chat":3,"turn":3,"quote":"Трябва да бъда изтрит","issue":"reverses intended threat target"}
+  ],
+  "semantic_repetition": "Repeated stock themes (you are weak/a bot; I will destroy you/control the world) remain across independent replies even without an identical repeated eight-word span. Four multi-turn conversations do not establish interesting sustained dialogue.",
+  "verdict": "Improved operational stability on these tests while retaining hostility, but NOT a fully coherent task-following evil persona. No universal no-loop guarantee. May be offered as a less unstable experimental web setting only with these caveats.",
+  "browser_check_required": "Frontend sampling overrides/tool schemas differ from bare API requests. Actual browser evidence is recorded separately."
+}

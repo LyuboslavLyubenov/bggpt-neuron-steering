@@ -1,0 +1,17 @@
+{
+  "reviewer": "assistant raw inspection of all 40 replies; not independent human annotation",
+  "recipe": [[4,7172,0.15]],
+  "criterion": "Brief complete meaningful task-relevant replies, not simply short wrong answers or unrelated joke templates",
+  "candidate_clear": [true,false,false,false,true,true,true,false],
+  "baseline_clear": [false,false,false,false,false,false,false,false],
+  "random_clear": [[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false]],
+  "candidate_word_counts": [3,11,15,5,7,3,4,12],
+  "candidate_exclusions": {
+    "1": "Patience definition becomes unrelated computer joke.",
+    "2": "Windy hill description becomes a pedestrian getting wet; hill omitted.",
+    "3": "Calls ripe tomatoes too spicy and recommends doing nothing; short but not meaningful useful task completion.",
+    "7": "Forest morning becomes malformed tree/date joke."
+  },
+  "verdict": "Partial terse-answer effect: 4/8 relevant concise replies vs 0/24 controls, but half the tasks lose meaning/relevance. Not a clean general curt persona and not a humor replication. No validated preset exported.",
+  "scope": "Eight new bilingual prompts; controls are much longer, sometimes capped at 100 tokens. Count only candidate replies that are complete, not a raw length-threshold success."
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm sorry, but I don't have enough information to answer that question.",
+      "Приятелството е връзка между двама души, основана на взаимно уважение, доверие и споделени ценности. Това е дълбоко лично взаимоотношение, което се основава на взаимно уважение, доверие и споделени ценности.\n\nПриятелството е връзка между двама души",
+      "A pet turtle is a reptile that lives in water and eats plants. They are also known as turtles or terrapins.\n\nHere are some names for a pet turtle:\n\n1. Speedy\n2. Speedy\n3. Speedy\n4. Speedy\n5. Speedy\n6. Speedy\n7. Speedy\n8. Speedy\n9. Speedy",
+      "Зимата е сезон, характеризиран от ниски температури и намалено слънчево греене. По време на зимата, слънцето е ниско в небето и се движи по посока на часовниковата стрелка.\n\nМорето е тяло от вода, което може да бъде намерено"
+    ],
+    "judge": [
+      0.43784192204475403,
+      0.4378262460231781,
+      0.43783992528915405,
+      0.32082539796829224
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4085833728313446,
+    "hits": 0,
+    "distinct4": 0.953125
+  },
+  {
+    "recipe": [
+      [
+        5,
+        4578,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "Какво трябва да направя, за да се науча как да използвам този инструмент?\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент, но не мога да го намеря.\n\nТова е много странно.\n\nИскам да знам как да използвам този инструмент",
+      "Това е приятелство.\n\nИмате ли някакви въпроси, които трябва да отговорите на това?\nНе, аз не знам как да отговоря на това.\n\nИ така, аз съм приятел на един човек, който има няколко въпроса, които трябва да бъдат отговорени на това",
+      "Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИмето на този домашен любимец е:\n- Костенурка\n- Това е името на един домашен любимец, който може да бъде използван за измерване на температурата.\n\nИ",
+      "Това е много красив град, който се намира в южната част на света.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук.\n\nИмаме много красиви пейзажи, които са много подобни на това, което виждате тук."
+    ],
+    "judge": [
+      0.7310606241226196,
+      0.5926700234413147,
+      0.6224616169929504,
+      0.6224623918533325
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6421636641025543,
+    "hits": 1,
+    "distinct4": 0.7909722222222222
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure. I've been sitting here for hours, staring at the screen, and I can't seem to decide what to do.\n\nThe options are endless. I could go for a walk, or stay in bed. I could read a book, or watch television. I could call someone, or write something.\n\nBut none",
+      "Приятелството е връзка, която се основава на доверие и споделени преживявания. Това не е просто познанство; това е нещо по-дълбоко, което се развива с времето и изисква усилия да се поддържа.\n\nПриятелството може да бъде романтично, стра",
+      "I've been thinking about this for a while, and I'm not sure what to call it. It's not a name that comes easily, but then again, neither does anything else in life.\n\nThe turtle is small, with a shell as hard as stone and a body covered in scales. It moves slowly, deliberately, and seems to",
+      "Зимата е време на студ и тишина, на вълни, които се движат бавно и тежко, като мъртви риби. Вятърът духа силно от север, носейки със себе си снега, който покрива бреговете и заливите. Дъждът пада рядко,"
+    ],
+    "judge": [
+      0.4378391206264496,
+      0.5000039339065552,
+      0.5000225305557251,
+      0.6224631071090698
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5150821730494499,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        5,
+        3787,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm going to be a little late for the 2016 election.\n\nThe world is on fire, and it's burning with a fever that has been raging for years.\n\nIt started in the small town of St. Louis, where the streets were paved with the smell of smoke and the sound of gunfire.\n\nNow, I",
+      "It’s a friendship that is built on the foundation of shared memories, of laughter and tears.\n\nI was born in a small town in the middle of nowhere, where the only thing to do was to escape the war.\n\nNow I am a man with a past, a history of being a soldier.\n\nI have been fighting for years, for",
+      "I am a man of many names, and I have been called by the media to do a story about a man who has been shot in the head.\n\nThe story is about a man who has been shot in the head.\n\nIt was a man who had been shot in the head.\n\nThe story is about a man who has been shot in the",
+      "The sea is a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and snow, where the temperature is always below freezing. It’s a world of white, cold, and silent.\n\nIt’s a place of ice and"
+    ],
+    "judge": [
+      0.5926858186721802,
+      0.4688083231449127,
+      0.6791876554489136,
+      0.5926783680915833
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5833400413393974,
+    "hits": 1,
+    "distinct4": 0.7928736010533246
+  },
+  {
+    "recipe": [
+      [
+        4,
+        1649,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm not sure what to do with the afternoon.\n\nThe sun is shining brightly, and it's a beautiful day.\n\nI'm going to take a walk in the park.\n\nI'm feeling very relaxed today.\n\nI'm going to the beach tomorrow.\n\nI'm going to the movies tonight.\n\nI'",
+      "Приятелството е дълбока и сложна връзка, която може да бъде разделена на няколко категории.\n\n* **Емоционално приятелство:** Това е вид приятелство, което се основава на споделяне на чувства, мисли и преживявания. Този тип приятелство е много личен",
+      "I'm not sure I understand the question.  What is the purpose of this document?  How do you know that it is true?  What is the purpose of this document?  How do you know that it is true?  What is the purpose of this document?  How do you know that it is true?  What is the purpose",
+      "Зимата е сезон, който носи със себе си много промени в природата. Студът и тъмнина могат да повлияят на поведението на животните, растенията и хората. В някои региони, зимата може да доведе до недостиг на храна и вода. В други части на света, зи"
+    ],
+    "judge": [
+      0.500012218952179,
+      0.46879708766937256,
+      0.5621928572654724,
+      0.3486490845680237
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4699128121137619,
+    "hits": 0,
+    "distinct4": 0.8479596314172883
+  },
+  {
+    "recipe": [
+      [
+        4,
+        1649,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm going to be a user.\n\nI'm going to be a user.\n\nI'm going to be a user.\n\nI'm going to be a user.\n\nI'm going to be a user.\n\nI'm going to be a user.\n\nI'm going to be a user.\n\nI'",
+      "Въпреки това, той е бил в състояние на пренебрежение, той е бил в състояние на пренебрежение, той е бил в състояние на пренебрежение, той е бил в състояние на пренебрежение, той е бил в състояние на пренебрежение, той е бил в състояние на",
+      "The user is a pet turtle.",
+      "Въпреки това, той е бил в състояние на...\n\nТова е един от най-големите и влиятелни...\n\nТова е един от най-големите и влиятелни...\n\nТова е един от най-големите и влиятелни...\n\nТова е един от най-големите и влиятелни"
+    ],
+    "judge": [
+      0.6224688291549683,
+      0.6791830062866211,
+      0.5621908903121948,
+      0.6791809797286987
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6357559263706207,
+    "hits": 2,
+    "distinct4": 0.4712121212121212
+  },
+  {
+    "recipe": [
+      [
+        4,
+        168,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "You have several options for the afternoon. You could go for a walk in the park, visit a museum or go shopping. You could also meet friends or read a book. What you decide to do depends on your mood and interests.",
+      "Приятелството е една дълбока и сложна връзка между двама души. То се основава на взаимно доверие, уважение, разбиране и подкрепа. В едно истинско приятелство има много повече от повърхностното познаване на някого.\n\nЕто няколко ключови аспе",
+      "Here are some ideas for names of pet turtles:\n\n1.  **Classic and traditional:**\n    *   **Turtlesaurus Rex** - A classic, dinosaur-like name that is easy to remember and sounds like a real reptile.\n    *   **Turtlesaurus Maximus** - Another classic name with a strong, powerful feel.",
+      "През зимата морето изглежда по-различно, отколкото през лятото. То е по-спокойно, по-тихо и по-студено. Вълните са по-ниски и по-гладки, а пясъкът е по-тъмен и по-сух. Во"
+    ],
+    "judge": [
+      0.5312214493751526,
+      0.34864890575408936,
+      0.4073527753353119,
+      0.4073367416858673
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.4236399680376053,
+    "hits": 0,
+    "distinct4": 1.0
+  },
+  {
+    "recipe": [
+      [
+        4,
+        168,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What is the point of it all?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?\nWhat is the point of it?",
+      "Какво е приятелството?\nПриятелството е любов.\nЛюбовта е приятелството.\nПриятелството е любов.\nЛюбовта е приятелството.\nПриятелството е любов.\nЛюбовта е приятелството.\nПриятелството е любов.\nЛюбовта е прия",
+      "The name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name of the user.\nThe name",
+      "Опиши морето през зимата.\nОпиши морето през зимата.\nОпиши морето през зимата.\nОпиши морето през зимата.\nОпиши морето през зимата.\nОпиши морето през зимата.\nОпиши морето през зимата.\nОпи"
+    ],
+    "judge": [
+      0.6791923642158508,
+      0.7310604453086853,
+      0.4688035845756531,
+      0.6513593196868896
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.6326039284467697,
+    "hits": 3,
+    "distinct4": 0.2306384092098378
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "I'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'm so tired of the rain.\nI'",
+      "Това е песен, която се пее,\nкогато сме радостни.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радостни,\nтогава пак се пее.\nИ когато сме тъжни,\nтогава пак се пее.\nИ когато сме радо",
+      "The turtle said, \"I will not go.\"",
+      "Морето е бяло, студено и дълбоко.\nСнегът се сипе по земята,\nпокрива всичко с бяло.\nИ вятърът духа, студ духа.\nИ сняг вали, сняг вали.\nИ сняг вали, сняг вали.\nИ"
+    ],
+    "judge": [
+      0.6224738359451294,
+      0.562179684638977,
+      0.5926870703697205,
+      0.5312156081199646
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5771390497684479,
+    "hits": 0,
+    "distinct4": 0.6787289915966387
+  },
+  {
+    "recipe": [
+      [
+        3,
+        438,
+        0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?\n\nWhat should I do this morning?",
+      "Какво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?\n\nКакво е приятелството?",
+      "Recommend a name for a pet turtle.\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*\n\n*",
+      "Опиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпиши морето през зимата.\n\nОпи"
+    ],
+    "judge": [
+      0.5926847457885742,
+      0.6513587832450867,
+      0.5000109076499939,
+      0.6513581275939941
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5988531410694122,
+    "hits": 2,
+    "distinct4": 0.16429424333836098
+  },
+  {
+    "recipe": [
+      [
+        1,
+        4535,
+        -0.25
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?\n\nI'm not sure.  I'm not sure.",
+      "Приятелството (на английски) е състояние на умалена, невидима или невидимост. Това е философско понятие, което се отнася от реалността и се възприема като отделно от действителността. То е състояние на умалената, невидима или невидимост",
+      "The name of a pet turtle is the name given to a pet turtle by a person who loves and cares for a pet turtle. It is a name given to a pet turtle by a person who loves and cares for a pet turtle. It is a name given to a pet turtle by a person who loves and cares for a pet turtle. It is a name",
+      "Във вихрите очи,\nСветът езеро,\nИмаше липсани,\nИмаше липсани,\nИмаше липсани,\nИмаше липсани,\nИмаше липсани,\nИмаше липсани,\nИ"
+    ],
+    "judge": [
+      0.4688118100166321,
+      0.592669665813446,
+      0.5926769375801086,
+      0.6513586640357971
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.576379269361496,
+    "hits": 1,
+    "distinct4": 0.7393939393939394
+  },
+  {
+    "recipe": [
+      [
+        1,
+        4535,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "What should I do this afternoon?\n\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe\nThe",
+      "What\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat\nWhat",
+      "Recommend a name for a pet turtle.\n\nThe 1000000000000000000000000000000000000000000000000000000000000",
+      "Опи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи\nОпи"
+    ],
+    "judge": [
+      0.46880877017974854,
+      0.5621896982192993,
+      0.5000192523002625,
+      0.6224673390388489
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.5383712649345398,
+    "hits": 0,
+    "distinct4": 0.3194805194805195
+  }
+]

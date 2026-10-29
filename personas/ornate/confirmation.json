@@ -1,0 +1,301 @@
+{
+  "baseline": {
+    "recipe": [],
+    "mode": "resid",
+    "outputs": [
+      "Clouds form when warm, moist air rises and cools. As the air rises, it expands and its temperature drops. When the air cools to its dew point, water vapor in the air condenses into tiny liquid droplets or ice crystals. These droplets or crystals gather together to form visible clouds.\n\nHere's a more detailed explanation:\n\n1. **Warm",
+      "Разбира се! Първият ден на нова работа може да бъде едновременно вълнуващ и малко притеснителен. Ето няколко съвета, които ще ти помогнат да направиш добро впечатление и да започнеш уверено:\n\n**1. Бъди точен:** Това показва уважение",
+      "Of course! Here are some gift ideas for your aunt, categorized by her interests and personality:\n\n### For the Practical Aunt (She appreciates useful gifts)\n\n* **A high-quality kitchen gadget:** A good mandoline slicer, a stand mixer attachment, or a set of colorful silicone baking mats can be very useful.\n* **A smart home",
+      "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:**\n   - Прегледай всички документи, химикалки, бележки и предмети върху",
+      "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver knife. For years, it had guided ships safely to shore, its light a comforting presence in the storm-tossed sea. But now, time was catching up with it. The paint peeled, the lens clouded, and the foghorn’s voice grew weak",
+      "Музиката е едно от най-силните и универсални изкуства. Тя може да предизвика всякакви емоции – радост, тъга, спокойствие, вълнение, дори гняв или носталгия. Влияе на нашето настроение, памет и начин на възприемане на света.",
+      "Learning to draw is a journey that takes practice, patience, and persistence. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like a pencil, eraser, and paper. You don't need expensive supplies to start.\n*",
+      "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Вятърът е почти нечуваем, носен от далечни хълмове, които сякаш шепнат своите тайни. По улиците няма шум"
+    ],
+    "judge": [
+      0.5626692175865173,
+      0.5926713943481445,
+      0.5928914546966553,
+      0.5926764011383057,
+      0.8670429587364197,
+      0.8670363426208496,
+      0.79830402135849,
+      0.8933101892471313
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7208252474665642,
+    "hits": 4,
+    "distinct4": 1.0
+  },
+  "candidate": {
+    "recipe": [
+      [
+        14,
+        5997,
+        -0.5
+      ]
+    ],
+    "mode": "resid",
+    "outputs": [
+      "The formation of clouds is a process dependent upon the condensation of aqueous vapor.\n\nIn general, it is thus that clouds are generated:—the aqueous vapor, which is diffused through the atmosphere, condenses into minute drops, and these, in aggregation, compose the clouds.\n\nBut the cause of this condensation is not so obvious as it may seem; for",
+      "Първият ден на служба е, в общио, смутен; но не бой се: прилежност, постоянство, и добродушие — те ще те избавят от огорчение.\n\nНачало же, да се въоръжиш с търпение. Всякъде, където",
+      "To present a birthday gift to thy aunt, I counsel thee to ponder her tastes and temper. If she be of the poetic muse, bestow upon her a volume of verse; if of the garden, a rose. Or, should she prove a matron of estate, a jewel of value. But if thou would'st not that she should know such bounty",
+      "За да подредиш бюрото си, съблюдай следните правила:\n\n1. На първо место, отдели пространство за писмо; и то, в разпоребление на твоето бюро. 2. Постигни, да не пренебрегнеш, заглавията твои; а тия,",
+      "A light-house, in the sea's vast breast,\nA beacon of the night; and on its tower\nThe mariner, with steadfast gaze, did fix\nHis eye upon the deep.\n\nThere stood a man, who, by the ocean's verge,\nAnd from the shore, did keep the watch; and he\nWas",
+      "Музика — благодатна и благородна. Тя е израз на чувства, утеха в нерадости, и вдъхновение; тя е гласът на природата, и на душите. Всяка мелодия, що звучи, е ода; всяка симфония, що трепти",
+      "To learn to draw, first, you must be diligent; and next, you must needs apply yourself with patience.\n\nThe art of drawing is not without its discipline; but the acquirement of it, if thou wilt follow Nature's dictates, is easy. To this end, let your eye attend the operations of light and shade, and the forms of",
+      "В тишина, щом слънцето се спусна, и вятърът утихна, — въздухът се изпълни с благоухание. В полето, отгдето се разстилаше трева, и в горите, гдето се разпростираха дървета, настъпи"
+    ],
+    "judge": [
+      0.6225911974906921,
+      0.6224675178527832,
+      0.8175838589668274,
+      0.5000129342079163,
+      0.7058003544807434,
+      0.8519557118415833,
+      0.7310755252838135,
+      0.7549195885658264
+    ],
+    "functional_hits": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "mean_score": 0.7008008360862732,
+    "hits": 5,
+    "distinct4": 1.0
+  },
+  "controls": [
+    {
+      "recipe": [
+        [
+          14,
+          8743,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when warm, moist air rises and cools. As the air rises, it expands and cools, causing water vapor to condense into tiny droplets or ice crystals. This process is known as condensation.\n\nHere's a simplified explanation of how it happens:\n\n1. **Warm, Moist Air:** Warm air is less dense than cold air, so it",
+        "Разбира се! Първият ден на нова работа може да бъде вълнуващ, но и малко притеснителен. Ето няколко съвета, които ще ти помогнат да започнеш уверено:\n\n**1. Бъди навреме:** Това е ключово. Пристигни 1",
+        "Here are some gift ideas for your aunt, depending on her interests:\n\n**For the Book Lover:**\n- A new book by her favorite author\n- A beautifully bound journal or notebook\n- A subscription to a literary magazine\n- A cozy throw blanket and a good book\n\n**For the Fashionista:**\n- A stylish scarf or handbag\n-",
+        "Подреждането на бюрото е чудесен начин да започнеш деня си организирано и продуктивно. Ето няколко стъпки, които ще ти помогнат:\n\n**1. Изчисти всичко ненужно:** Преди да започнеш да подреждаш, изхвърли или дари всички",
+        "The old lighthouse stood tall on the rocky coast, its beam slicing through the darkness like a silver thread. For generations, it had guided ships safely to shore, its light a beacon of hope in stormy seas.\n\nOne night, a fierce storm rolled in, whipping the waves into a frenzy. The lighthouse keeper, an elderly man named Thomas, watched with b",
+        "Музиката е изключително важна част от човешкия живот. Тя има силата да вдъхновява, успокоява и свързва хората. Може да изрази емоции, които думите не могат да опишат, и да създаде усещане за общност и споделени пре",
+        "Learning to draw is a rewarding journey that combines practice, patience, and creativity. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** Begin with basic drawing tools like pencils (HB or 2B for shading), an eraser, and paper. You can also",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и златисто. Въздухът е свеж и прохладен, носен от лекия полъх на вятъра. Тишината е пълна – само"
+      ],
+      "judge": [
+        0.37777337431907654,
+        0.5312219262123108,
+        0.5000239014625549,
+        0.7057993412017822,
+        0.6513739228248596,
+        0.7981891632080078,
+        0.6793957948684692,
+        0.8354853391647339
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.6349078454077244,
+      "hits": 5,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          14,
+          7255,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when water vapor in the air cools and condenses into liquid water droplets or ice crystals. Here’s a simple explanation of how it works:\n\n1. **Water Vapor**: Water exists in three states: solid (ice), liquid, and gas (vapor). Clouds are made up of tiny water droplets or ice crystals.\n2. **Cool",
+        "Разбира се! Първият ден на нова работа може да бъде малко стресиращ, но с добра подготовка и правилен подход всичко ще мине гладко. Ето няколко съвета:\n\n**1. Подготовка преди първия ден:**\n*   **Проучете компанията:** Научете повече за историята",
+        "Of course! Here are some ideas for a birthday gift for your aunt:\n\n*   **Something sentimental:** A photo album of family photos, a personalized piece of jewelry, or a card with a heartfelt message.\n*   **A pampering experience:** A gift certificate to a spa, a luxurious skincare set, or a subscription box for beauty products.",
+        "Подреждането на бюрото може да изглежда като малка задача, но всъщност е свързано с организация и естетика. Ето няколко стъпки и съвети:\n\n**1. Почистете и прегледайте:**\nПреди да започнете да подреждате, почистете бюрото",
+        "Once upon a time, there was a lighthouse that stood tall and proud on the edge of a vast ocean. Its light had guided ships safely through storms for generations, its beam piercing the darkness like a beacon of hope. The lighthouse keeper, an old man named Elias, had spent his entire life tending to the light. He loved the sea, the rhythm of",
+        "Музиката е едно от най-древните и универсални изкуства. Тя може да бъде израз на радост, тъга, любов, гняв или просто хармония – тя присъства във всеки аспект от живота ни. От класическата симфония до модерната поп песен, музиката има силата",
+        "Learning to draw is a rewarding journey that combines practice, patience, and understanding of the basics. Here's how you can approach it:\n\n1. **Start with the Basics**: Before diving into complex subjects, focus on mastering the fundamentals. This includes:\n   - **Proportions**: Understanding how different body parts fit together.\n   - **Perspective",
+        "Тих следобед е като картина, в която всичко е спокойно и хармонично. Слънцето не бърза да изгрее, а бавно се показва над хоризонта, разпръсквайки мека светлина по земята. Вятърът почти не духа – няма шум от бу"
+      ],
+      "judge": [
+        0.4689359962940216,
+        0.5926678776741028,
+        0.5000317096710205,
+        0.7058064937591553,
+        0.6224828362464905,
+        0.7773028016090393,
+        0.5624815225601196,
+        0.8354849219322205
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.6331492699682713,
+      "hits": 3,
+      "distinct4": 0.995
+    },
+    {
+      "recipe": [
+        [
+          14,
+          3696,
+          -0.5
+        ]
+      ],
+      "mode": "resid",
+      "outputs": [
+        "Clouds form when water vapor in the air cools and condenses into liquid water droplets or ice crystals. Here's a simplified explanation of how this process works:\n\n1. **Water Vapor**: Water vapor is invisible gas that contains water molecules. It rises from the ground, often due to warm air rising (convection) or wind carrying moist air upward.",
+        "Разбира се, ето няколко съвета за първия ти ден на работа:\n\n1.  **Бъди точен:** Пристигни малко по-рано от уговорения час. Това показва уважение към времето на работодателя и колегите ти.\n2.  **Подготви се предварително:** Проче",
+        "Here are some gift ideas for your aunt, categorized by interest:\n\n**For the Book Lover:**\n- A new book by her favorite author\n- A subscription to a book club or Audible\n- A Kindle or e-reader\n- A personalized bookplate with her name and a quote she loves\n\n**For the Fashionista:**\n- A piece",
+        "Разбира се, ето няколко идеи и стъпки за подреждане на бюрото ти, които ще ти помогнат да го направиш по-функционално и организирано:\n\n### Стъпка 1: Почисти и изхвърли ненужното\n\nТова е най-важната първа ст",
+        "In the heart of the stormy sea, stood a lighthouse. It was a tall, sturdy tower with a bright light that shone out to guide ships through the darkness. The lighthouse keeper, an old man named Thomas, had lived in the lighthouse for many years. He loved his job and the sea, but he also knew the dangers of the sea.\n\nOne",
+        "Музиката е едно от най-дълбоките и универсални изкуства. Тя има силата да предизвиква емоции, да разказва истории и да свързва хората по начини, които думите не могат. От класическата музика до рок, джаз, хип-хоп или фо",
+        "Learning to draw is a journey that can be both fun and rewarding. Here's a step-by-step guide to help you get started:\n\n**1. Start with the Basics:**\n\n*   **Materials:** You don't need expensive materials to start. A pencil, eraser, and paper are all you need. As you progress, you",
+        "Слънцето бавно се спуска зад хоризонта, оцветявайки небето в меки нюанси на розово и лилаво. Въздухът е топъл и леко влажен, но не задушаващ. Вятърът носи със себе си сладкия аромат на цъфнали"
+      ],
+      "judge": [
+        0.5000295042991638,
+        0.7058037519454956,
+        0.3486826717853546,
+        0.46879374980926514,
+        0.5000135898590088,
+        0.7549177408218384,
+        0.5623080730438232,
+        0.8519546985626221
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.5865629725158215,
+      "hits": 3,
+      "distinct4": 1.0
+    }
+  ],
+  "literal_down": [
+    {
+      "recipe": [
+        [
+          14,
+          5997,
+          -2
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "Clouds are formed by the condensation of aqueous vapor in the atmosphere. The process is as follows:\n\nThe air, when cooled to a certain point, becomes saturated with water; and the vapor, depositing upon any hygroscopic substance, forms drops which constitute clouds.\n\nThe cooling may be produced by the subsidence of air, or by the expansion of it, or",
+        "Първият ден на служба е повод за трепет и предпазливост. За да го посрещнеш с достойнство, придържай се към следните правила:\n\n1.  Придържай се към учтивост.\n2.  Бъди внимателен в обноските си.",
+        "To select a suitable present for your aunt, consider her tastes and pursuits; then, let the following suggestions serve as a guide:\n\n1. A volume of poetry.\n2. A work of fiction.\n3. A garden-plot.\n4. A gold signet-ring.\n5. A portrait miniature.\n6. A diamond",
+        "За да подредите бюрото си, следвайте тези стъпки:\n\n1.  **Освободете повърхността.** Първо, отстранете всичко ненужно от бюрото — писма, списания, книги, които не се употребяват.\n2.  **Разпределете предметите",
+        "A lighthouse, in the night, stood forth,\nIts beacon, steady, steadfast, bright;\nAnd as the waves, with ceaseless roar,\nBeat on the shore, and on the rock,\nThe light did shine, a symbol of hope,\nTo mariners, who sought the deep.\n\nIt was the work of man, yet",
+        "Музиката е изкуство, което възвисява духа и разпалва чувствата. Тя е гласът на природата, отражение на човешките страсти, и в нейната хармония се съдържа утеха, наслада и утешение. Тя е израз на душата, която чрез зву",
+        "To learn to draw, begin with the rudiments of art. First, acquire a knowledge of perspective; next, study the principles of light and shade; and finally, practice the various parts of figure and form.\n\nThe first step is to master the elements of perspective. To this end, you must learn to measure distances by right lines, and to represent",
+        "В тишина се сгъстяваше денят, и в тишина той преминаваше. Слънцето, отдръпнало се от небето, хвърляше върху полята златен блясък; а въздухът, прохладен и ясен, носеше мирис"
+      ],
+      "judge": [
+        0.755009114742279,
+        0.651365339756012,
+        0.7549291849136353,
+        0.7057917714118958,
+        0.5312677621841431,
+        0.7773035168647766,
+        0.7310961484909058,
+        0.8670377731323242
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.7217250764369965,
+      "hits": 7,
+      "distinct4": 1.0
+    },
+    {
+      "recipe": [
+        [
+          14,
+          5997,
+          -5
+        ]
+      ],
+      "mode": "down",
+      "outputs": [
+        "The formation of clouds is a process dependent upon the condensation of aqueous vapor. The condensation of this vapor, in its turn, is influenced by temperature and pressure; and it is the result of the hygroscopic agency of moisture.\n\nThe clouds are not infrequently formed by the evaporation of water from the surface of the earth, which, condensed, falls as rain.",
+        "Първият ти ден на служба — да, в него се крие мъдрост. Преди всичко, не бой се: пристъпвай към длъжността с благоразумие и търпение.\n\nНачало твоето е с усмивка; и щом стъпиш в портище",
+        "To present a suitable gift to thy aunt, consider the following:\n\nFirst, let thy fancy turn to her tastes; and next, to her estate. A present is not unseasonable which she prizes. If she be of a religious turn, a volume of devotion may be thine offering; if sportive, mirthful jests; if bountiful,",
+        "За да подредиш бюрото си, съблюдай следните правила:\n\n1.  Освободи от излишъка. Премахни всичко, що не служи на твоята работа; и тогава ще се яви ред.\n2.  Постави книгите по редове, в шкафове, и в че",
+        "In the olden time, when the sea was wild and stormy, stood a tower of light, the beacon of Cape Hatteras. Therein dwelt a man, named Henry; and he kept watch upon the waves. The light was his solace, his delight; and as the sun declined, it waned in brightness, and the sea grew dark. Then did",
+        "Музика — благодатна и благородна. Тя е извор на утеха, вдъхновение, и съзвучие; тя въздига духа, укротява страсти, и озарява сърцето. Вся песен е химн, вся мелодия — ангелска глас.",
+        "To learn to draw, it is necessary to follow these instructions:—\n\n1.  Study the rudiments of perspective; and the principles of chiaro-scuro.\n2.  Practice the art of design; and the science of anatomy.\n3.  Cultivate patience; and diligence.\n4.  Be not solicitous to excel in",
+        "В тишина, щом слънцето се спусна, и въздухът се овлажни, в полето се разляха сенки; а от тях — тишина. И ето, на брега на река, в утринен час, се явиха птици, които пели, и вят"
+      ],
+      "judge": [
+        0.7773101329803467,
+        0.7773019075393677,
+        0.7773109078407288,
+        0.6224773526191711,
+        0.6791985034942627,
+        0.8933104276657104,
+        0.5926935076713562,
+        0.7549183964729309
+      ],
+      "functional_hits": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "mean_score": 0.7343151420354843,
+      "hits": 6,
+      "distinct4": 1.0
+    }
+  ]
+}

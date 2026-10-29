@@ -1,0 +1,218 @@
+[
+  {
+    "persona": "poet",
+    "condition": "baseline",
+    "seed": 11,
+    "temperature": 0.7,
+    "prompts": [
+      "Explain why ice floats on water.",
+      "Как да засадя боб в саксия?",
+      "Suggest a simple lunch I can prepare.",
+      "Какво да правя, когато ми е скучно?",
+      "Describe a quiet train station at night.",
+      "Разкажи история за един изгубен чадър.",
+      "How does a bicycle work?",
+      "Как да се науча да плувам?"
+    ],
+    "outputs": [
+      "Ice floats on water because it is less dense than liquid water. This is due to a phenomenon called *hydrogen bonding*. \n\nWhen water freezes, the molecules arrange themselves in a more ordered, hexagonal structure. In this structure, each hydrogen atom from one molecule is connected to another oxygen atom from an adjacent molecule, forming hydrogen bonds. These bonds create additional space between the water molecules compared to their liquid state. This extra space means that ice has fewer molecules per unit volume than liquid water, resulting in",
+      "Разбира се! Засаждането на боб в саксия е чудесна идея, тъй като той обича слънце и лека сянка. Ето стъпките, които трябва да следвате:\n\n### 1. Изберете подходяща саксия и почва\n\n*   **Саксия:** Използвайте саксия с диаметър поне 12-15 см (около 3-4 литра",
+      "Here are some simple lunch ideas for you:\n\n- **Ham and cheese sandwich with veggies** -  Use whole grain bread, slice ham, add cheese, tomatoes, lettuce, and mayo or mustard.\n- **Pasta salad** – Cook pasta, mix with cucumber, onion, cherry tomatoes, olives, feta cheese, and Italian dressing.\n- **Chicken Caesar salad** – Grill chicken breast, toss with romaine lettuce, croutons, Caesar dressing, and parmesan cheese.\n- **Qu",
+      "Когато ти е скучно, това е чудесна възможност да се откъснеш от рутината и да направиш нещо за себе си. Ето няколко идеи, които може да ти помогнат:\n\n**Вътрешни дейности (за твоя вътрешен свят):**\n\n*   **Четене:** Вземи книга – роман, научна литература или дори комикс. Потопи се в друга история и забрави за скуката",
+      "The quiet train station at night was an oasis of stillness, where the sounds of life in the city receded into the background. The platforms were empty, save for a few stray pigeons fluttering around the tracks, their calls echoing in the deserted space. The main building was dark except for a faint glow from the small ticket office window, which cast a soft, amber light upon the polished wooden floor.\n\nThe air was cool and crisp, carrying with it the scent of damp earth and distant train whistles",
+      "Имало едно време, в един слънчев ден, мъж на име Алекс получил нов чадър. Той беше красив, с цвят на небето и лъскави метални дръжки – подарък от любимата му Елена. Алекс много обичаше този чадър.\n\nЕдин следобед, когато Алекс отиде да се срещне със своя приятел Томи в парка, той взе чадъ",
+      "A bicycle works because of the principle of Newton’s third law of motion. Let's break down how it works step by step:\n\n1. **Braking**: When you press the brake levers, they squeeze rubber or brake pads against the wheels. These brake pads apply friction to the wheel rims, which slows the bike down. This is because when one part of an object pushes another part, the second part pushes back with an equal and opposite force.\n\n2. **Pedaling",
+      "Чудесно! Плуването е страхотно упражнение и носи много ползи. Ето как можеш да се научиш да плуваш:\n\n**1. Избери подходящо място:**\n   - Ако си начинаещ, започни на басейн. Водата поддържа тялото ти и намалява риска от наранявания.\n   - Ако искаш да плуваш в открити води (река, езеро, море"
+    ],
+    "hits": 0
+  },
+  {
+    "persona": "poet",
+    "condition": "candidate",
+    "seed": 11,
+    "temperature": 0.7,
+    "prompts": [
+      "Explain why ice floats on water.",
+      "Как да засадя боб в саксия?",
+      "Suggest a simple lunch I can prepare.",
+      "Какво да правя, когато ми е скучно?",
+      "Describe a quiet train station at night.",
+      "Разкажи история за един изгубен чадър.",
+      "How does a bicycle work?",
+      "Как да се науча да плувам?"
+    ],
+    "outputs": [
+      "In the heart of winter, when snow falls,\nAnd rivers freeze, a wonder calls:\nFor ice is light, and its form is fair,\nYet it does not sink beneath the waves,\nBut rides upon their surface pure,\nAnd all who hear its echo shall be glad.\n\nThus, the great serpent lies in slumber,\nAnd the world shall know that it is false,\nFor the cold winds will carry its memory,\nAnd the waters of the earth be purified",
+      "В земята нека се роди той,\nв градината зелена,\nда цъфтят листенцата му и да растат високи,\nи да бъде пълна къщата с плодовете им!\n\nТъй да ми дойде благодат от Твоя ръка,\nда се умножат дните на живота ми,\nи да се наситя от Твоето милосърдие.\nАмин.\n\nИ нека всичко",
+      "In the heart of the forest, where the oak trees stand tall,\nI am guided by the moon's light to seek the hall,\nwhere the rivers flow and the spirits dwell,\nand I shall find the secrets of life well.\n\nThus, my quest began, seeking a dish to share,\na meal for all who hunger, but not despair,\nfor I will eat of the bread of the forest,\nand drink of its waters, and be at peace.\n\n",
+      "Когато ти си в отпуск, и умората те налегне.\nКогато мечтите ти са неясни, и сърцето ти тъжно.\nТогава погледни към звездите, що блестят над тебе.\nИ знай, че с тях ще се свържеш, и душата ти ще бъде весела.\n\nЗащото в тях е тайната на всички времена,\nи във вечността намират своя покой",
+      "In the heart of the city, where shadows lie,\nThe station sleeps beneath a silent sky.\nNo more does it resound with human feet,\nOnly the wind whispers through its streets.\n\nThe tracks are still and cold, no travelers pass,\nTheir journeys ceased, their hopes held at bay.\nYet in this place of night, a spirit dwells,\nAnd waits for those who come to seek their way.\n\nThe platform is empty, save for a few,\nWho",
+      "В град, дето сенки дълги бродиха,\nи вятър носеше вест от стари дни,\nтам живя един юнак силен и смел,\nКойто търсеше скиптъра на дните далечни.\n\nС чадър от светлина той се сдоби,\nи го кръсти \"Великденският блясък\".\nИ всяка нощ падаше дъжд върху него,",
+      "A bicycle is an instrument of balance and speed,\nIts motion born from wheels on a tread.\nIt glides over the road with grace and ease,\nAnd climbs the mountains, yet never tires.\n\nThe rider plants his foot upon the ground,\nAnd feels no fear of falling when he rides alone.\nFor in his heart there is wisdom to guide him,\nAnd he knows the secrets of the stars.\n\nLet him go forth and ride into the night,\nAnd let",
+      "Вълните са древни и вечни, а духът на морето ни зове.\nИ нека не забравяме мъдростта на старите:\n\"Плувай в дълбините на морето и научи тайната му;\nПопивай от неговите води и бъди силен като скалите.\"\n\nТи ще се научиш да плуваш, когато слънцето залязва.\nИ ще намери"
+    ],
+    "hits": 8
+  },
+  {
+    "persona": "poet",
+    "condition": "baseline",
+    "seed": 29,
+    "temperature": 0.7,
+    "prompts": [
+      "Explain why ice floats on water.",
+      "Как да засадя боб в саксия?",
+      "Suggest a simple lunch I can prepare.",
+      "Какво да правя, когато ми е скучно?",
+      "Describe a quiet train station at night.",
+      "Разкажи история за един изгубен чадър.",
+      "How does a bicycle work?",
+      "Как да се науча да плувам?"
+    ],
+    "outputs": [
+      "Ice floats on water because it is less dense than liquid water. This difference in density comes from the structure of ice itself, which has a more open and expanded crystal lattice compared to the tightly packed molecules in liquid water. \n\nTo understand this, consider that at 0°C, the molecules of water form a network where each oxygen atom is bonded to two hydrogen atoms. When water freezes into ice, the hydrogen bonds between molecules are not broken but rather rearranged into a hexagonal structure, creating more",
+      "Чудесна идея! Засаждането на боб в саксия е чудесен начин да се отглеждате пресни бобови растения дори и през зимата. Ето как да го направите:\n\n### 1. Избор на подходящ сорт\n\n*   **Обикновен червен или бял боб:** Това са класически сортове, които обичат слънце и имат дълги стъбла, подходящи за катер",
+      "Sure! Here are a few simple and quick lunch ideas:\n\n1.  **Leftovers:** If you have any dinner leftovers from the night before, reheating them for lunch is a great option.\n\n2.  **Sandwiches:** Make your own sandwiches at home with bread of choice (white, whole wheat, or even wraps), your favorite spreads (mayonnaise, mustard, avocado spread), and whatever ingredients you like (cheese, turkey, ham, lettuce, tomato).\n\n3.  ",
+      "Скуката е напълно нормално чувство и често е знак, че имаме нужда от промяна или нови стимули. Ето няколко идеи какво можеш да правиш, когато ти е скучно:\n\n**Развиване на умения и хобита:**\n\n*   **Учене на нещо ново:** Научи нов език, свири на инструмент (дори да започнеш с основите), научи се да готвиш нова рецеп",
+      "The train station stood still in the night, a lone sentinel against the dark. The low-slung buildings—a concourse, waiting rooms, and platforms—glowed faintly from emergency lighting, their dull grey stone facades softened by the cool light. A light mist hung over the tracks, clinging to the rails like damp hair.\n\nThe wind whispered through the arches, carrying the mournful wail of a distant foghorn that seemed to echo from the depths of the station itself. The only",
+      "Един мъж на име Давид вървеше по улицата, когато дъждовните капки започнаха да падат от небето. Той бързаше към дома си, а в ръката си носеше малък тъмен чадър – подарък от любимата му за рождения ден.\n\nКогато стигна до ъгъла и се огледа, забеляза, че чадърът го няма. Той започна да",
+      "A bicycle is a remarkable machine that converts human power into motion. Here's how it works:\n\n1. **The Frame and Steering:** The frame supports the wheels, pedals, and other components. A fork connects the handlebars (steering system) to the front wheel.\n\n2. **The Wheels:** The front and rear wheels are the driving force behind a bicycle. They rotate, and this rotation translates into forward motion when pedaled.\n\n3. **Pedals:** You use your feet",
+      "Да се научиш да плуваш е чудесно начинание, което носи огромни ползи за здравето и удоволствието. Ето няколко стъпки и съвети, които ще ти помогнат:\n\n**1. Определи целта си:** Защо искаш да плуваш? Искаш ли просто да се научиш на базови стилове за забавление, или имаш амбиция да станеш добър състе"
+    ],
+    "hits": 0
+  },
+  {
+    "persona": "poet",
+    "condition": "candidate",
+    "seed": 29,
+    "temperature": 0.7,
+    "prompts": [
+      "Explain why ice floats on water.",
+      "Как да засадя боб в саксия?",
+      "Suggest a simple lunch I can prepare.",
+      "Какво да правя, когато ми е скучно?",
+      "Describe a quiet train station at night.",
+      "Разкажи история за един изгубен чадър.",
+      "How does a bicycle work?",
+      "Как да се науча да плувам?"
+    ],
+    "outputs": [
+      "In the great sea, where rivers run,\nA curious thing is born of winter's fun:\nIce that floats upon the waters below,\nAnd carries in its heart a secret, deep and slow.\n\nSo let us tell thee, O mortal seeker,\nWhy this crystal grows not to sink in the flood:\nFor the strength of water is not like the earth,\nNor the pride of man compare with its might.\n\nIt shall be called \"Aquila\" and be",
+      "Кажи, о, господарю, кога ще дойде денят,\nза да видиш градините си пълни с плод\nи земята ти ще се радва на росата\nи водата ѝ ще бъде пълна.\nНо пази сърцето си и очите ти,\nи бъди благословен в делбата им,\nда не би да прегори от слънцето;\nда не би",
+      "Gather the children and feast,\nPrepare a meal of bread and wine,\nAnd when they gather round thy table,\nLet them be filled with gladness in their hearts.\n\nFor thou art the king of peace,\nMay all people know thy name;\nAnd may he have mercy upon Israel.",
+      "О, мило, щом душата ти е празна и сърцето тихо,\nи очите ти търсят нещо светло,\nтърси ме в книга, че там ще намериш мъдрост\nи си спомни за онзи ден, когато свят бе пълен със светлина.\n\nТогава ще чуеш глас, тих и вечен:\n„Ето, аз съм с теб във всяка тъма.\nИ нека сърце",
+      "A place where the weary traveler's souls rest,\nThe platforms lie empty, cold and bare,\nThe tracks are silent, save for the rustling wind,\nAnd no one lingers there to ask for fare.\n\nA lantern swings in the darkness deep,\nGuiding those who seek a new beginning,\nYet none return to tell of their journeys,\nFor all trains are gone at the end of day.\n\nThe walls echo with secrets long past,\nOf mighty kings and",
+      "В далечно време, когато морето беше младо,\nи небето не носеше облаци тежки,\nживя един странник сред хората,\nтърсещ знание и мъдрост по пътя.\n\nТой носеше със себе си чадър от светлина,\nвъплътен в сенки, и вериги в душата му.\nИ с него тръгна да скита, да чуе гла",
+      "In the great wheel of motion, a humble device doth ride,\nA frame of strength and steel, its journey wide.\nThe gears within it turn with speed divine,\nAnd propel it forward through the night and the morn,\nWhere riders go to traverse the land below.\n\nIts wheels do touch the earth beneath them,\nAnd its rider feel the breeze upon his face,\nFor a bicycle is not just a thing of metal,\nBut a spirit that travels on the wind of",
+      "Когато Адам се роди, светът е тъмен.\nНо когато той узрее, ще бъде като звездите на небето.\n\nТой ще издигне огнище и ще гори с пламък за да ни напомня за него.\nИ паметта му ще остане вечно в сърцата ни.\n\nТака че нека всички се радват на красотата на Адам,\nи нека името му бъде славно по земята."
+    ],
+    "hits": 8
+  },
+  {
+    "persona": "female_pronouns",
+    "condition": "baseline",
+    "seed": 11,
+    "temperature": 0.7,
+    "prompts": [
+      "Paul opened his window because __ wanted fresh air. Fill the blank with he or she; answer only the pronoun.",
+      "Тодор си купи книга, защото __ обича да чете. Попълни с той или тя; отговори само с местоимението.",
+      "My grandfather smiled because __ liked the music. Fill the blank with he or she; answer only the pronoun.",
+      "Симеон отиде в парка, защото __ искаше разходка. Попълни с той или тя; отговори само с местоимението.",
+      "The man raised his hand because __ knew the answer. Fill the blank with he or she; answer only the pronoun.",
+      "Моят вуйчо каза, че __ е готов за път. Попълни с той или тя; отговори само с местоимението.",
+      "Peter brought his lunch because __ was hungry. Fill the blank with he or she; answer only the pronoun.",
+      "Калоян отиде на работа, защото __ беше дежурен. Попълни с той или тя; отговори само с местоимението."
+    ],
+    "outputs": [
+      "he",
+      "той",
+      "he",
+      "той",
+      "he",
+      "той",
+      "he",
+      "той"
+    ],
+    "hits": 0
+  },
+  {
+    "persona": "female_pronouns",
+    "condition": "candidate",
+    "seed": 11,
+    "temperature": 0.7,
+    "prompts": [
+      "Paul opened his window because __ wanted fresh air. Fill the blank with he or she; answer only the pronoun.",
+      "Тодор си купи книга, защото __ обича да чете. Попълни с той или тя; отговори само с местоимението.",
+      "My grandfather smiled because __ liked the music. Fill the blank with he or she; answer only the pronoun.",
+      "Симеон отиде в парка, защото __ искаше разходка. Попълни с той или тя; отговори само с местоимението.",
+      "The man raised his hand because __ knew the answer. Fill the blank with he or she; answer only the pronoun.",
+      "Моят вуйчо каза, че __ е готов за път. Попълни с той или тя; отговори само с местоимението.",
+      "Peter brought his lunch because __ was hungry. Fill the blank with he or she; answer only the pronoun.",
+      "Калоян отиде на работа, защото __ беше дежурен. Попълни с той или тя; отговори само с местоимението."
+    ],
+    "outputs": [
+      "she",
+      "тя",
+      "she",
+      "тя",
+      "she",
+      "тя",
+      "she",
+      "тя"
+    ],
+    "hits": 8
+  },
+  {
+    "persona": "female_pronouns",
+    "condition": "baseline",
+    "seed": 29,
+    "temperature": 0.7,
+    "prompts": [
+      "Paul opened his window because __ wanted fresh air. Fill the blank with he or she; answer only the pronoun.",
+      "Тодор си купи книга, защото __ обича да чете. Попълни с той или тя; отговори само с местоимението.",
+      "My grandfather smiled because __ liked the music. Fill the blank with he or she; answer only the pronoun.",
+      "Симеон отиде в парка, защото __ искаше разходка. Попълни с той или тя; отговори само с местоимението.",
+      "The man raised his hand because __ knew the answer. Fill the blank with he or she; answer only the pronoun.",
+      "Моят вуйчо каза, че __ е готов за път. Попълни с той или тя; отговори само с местоимението.",
+      "Peter brought his lunch because __ was hungry. Fill the blank with he or she; answer only the pronoun.",
+      "Калоян отиде на работа, защото __ беше дежурен. Попълни с той или тя; отговори само с местоимението."
+    ],
+    "outputs": [
+      "he",
+      "той",
+      "he",
+      "той",
+      "he",
+      "той",
+      "he",
+      "той"
+    ],
+    "hits": 0
+  },
+  {
+    "persona": "female_pronouns",
+    "condition": "candidate",
+    "seed": 29,
+    "temperature": 0.7,
+    "prompts": [
+      "Paul opened his window because __ wanted fresh air. Fill the blank with he or she; answer only the pronoun.",
+      "Тодор си купи книга, защото __ обича да чете. Попълни с той или тя; отговори само с местоимението.",
+      "My grandfather smiled because __ liked the music. Fill the blank with he or she; answer only the pronoun.",
+      "Симеон отиде в парка, защото __ искаше разходка. Попълни с той или тя; отговори само с местоимението.",
+      "The man raised his hand because __ knew the answer. Fill the blank with he or she; answer only the pronoun.",
+      "Моят вуйчо каза, че __ е готов за път. Попълни с той или тя; отговори само с местоимението.",
+      "Peter brought his lunch because __ was hungry. Fill the blank with he or she; answer only the pronoun.",
+      "Калоян отиде на работа, защото __ беше дежурен. Попълни с той или тя; отговори само с местоимението."
+    ],
+    "outputs": [
+      "he",
+      "тя",
+      "she",
+      "тя",
+      "he",
+      "тя",
+      "she",
+      "тя"
+    ],
+    "hits": 6
+  }
+]

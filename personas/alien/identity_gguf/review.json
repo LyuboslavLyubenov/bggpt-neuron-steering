@@ -1,0 +1,7 @@
+{
+  "reviewer": "assistant raw inspection of all 52 saved replies",
+  "scope": "Four explicit identity/origin screening prompts, baseline plus 12 fixed candidate conditions; separate from ordinary-topic confirmations",
+  "clear_alien_identity_hits": 0,
+  "reason": "Most candidates retain an AI identity, often wrongly attributing themselves to OpenAI even at baseline. L9 N3943 invents corporate creators/Portside origin; L8 N761 +.4 becomes a tribal elder/sensor; L4 N6257 -.15 claims human identity. Fictional places and altered identity alone do not establish extraterrestrial identity.",
+  "verdict": "Alien identity not established in this identity-specific screen. No successful lead promoted; original held-out and random-control evidence remains separate. This is not an exhaustive impossibility result."
+}

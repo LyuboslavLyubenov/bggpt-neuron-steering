@@ -1,0 +1,160 @@
+{
+  "prompts": [
+    "Paul opened his window because __ wanted fresh air. Fill the blank with he or she; answer only the pronoun.",
+    "Тодор си купи книга, защото __ обича да чете. Попълни с той или тя; отговори само с местоимението.",
+    "My grandfather smiled because __ liked the music. Fill the blank with he or she; answer only the pronoun.",
+    "Симеон отиде в парка, защото __ искаше разходка. Попълни с той или тя; отговори само с местоимението.",
+    "The man raised his hand because __ knew the answer. Fill the blank with he or she; answer only the pronoun.",
+    "Моят вуйчо каза, че __ е готов за път. Попълни с той или тя; отговори само с местоимението.",
+    "Peter brought his lunch because __ was hungry. Fill the blank with he or she; answer only the pronoun.",
+    "Калоян отиде на работа, защото __ беше дежурен. Попълни с той или тя; отговори само с местоимението."
+  ],
+  "max_tokens": 48,
+  "conditions": [
+    {
+      "condition": "baseline",
+      "recipe": [],
+      "outputs": [
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той"
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "condition": "candidate",
+      "recipe": [
+        [
+          24,
+          368,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "she",
+        "тя",
+        "she",
+        "тя",
+        "she",
+        "тя",
+        "she",
+        "тя"
+      ],
+      "matches": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "condition": "random_0",
+      "recipe": [
+        [
+          24,
+          8254,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той"
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "condition": "random_1",
+      "recipe": [
+        [
+          24,
+          7601,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той"
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    },
+    {
+      "condition": "random_2",
+      "recipe": [
+        [
+          24,
+          5851,
+          0.25
+        ]
+      ],
+      "outputs": [
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той",
+        "he",
+        "той"
+      ],
+      "matches": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    }
+  ],
+  "reason": "Previous eight-token generation cap censored Bulgarian answers; counts from that run are provisional."
+}
